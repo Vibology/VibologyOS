@@ -348,7 +348,9 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - The Fifth Way and conscious love
 - [[Mary Magdalene - Apostle and Beloved]] - Mary and Jesus as model of sacred partnership
@@ -366,31 +368,16 @@ Jung's **Syzygy** (the divine couple—animus/anima united) parallels the Bridal
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Gospel of Philip, Nag Hammadi Codex II,3, 3rd century CE — the Bridal Chamber identified as the "Holy of Holies," surpassing baptism and eucharist as the central sacrament
+
 [^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 97 — interpretation of "virginity" in the Gospel of Philip as ihidaya (singleness/inner integrity), not physical celibacy
+
 [^3]: Gospel of Thomas, Nag Hammadi Codex II,2, 1st-2nd century CE — Logion 22 on making "the two one" and integrating male and female as the condition for entering the Kingdom
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — citing John Donne's "A Valediction: Forbidding Mourning" as the source of the "Abler Soul" term
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — the Wedding Garment as "resurrection body" or "flesh within the flesh" built through kenotic love in partnership
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Ihidaya/Singleness: p. 97
-- Abler Soul (via John Donne): Ch. 12
-- Wedding Garment as "resurrection body": Ch. 12
-- Bridal Chamber qualification ("free men and virgins"): interpretation of Gospel of Philip
-- Bourgeault cites John Donne, "A Valediction: Forbidding Mourning" (Abler Soul term)
-
-Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
-- Bridal Chamber as "Holy of Holies"
-- Three chambers: Baptism, Redemption, Bridal Chamber
-- Qualification: "free men and virgins"
-- "If anyone becomes a son of the bridal chamber, he will receive the light"
-
-Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
-- Logion 22: "When you make the two one..."
 
 ---

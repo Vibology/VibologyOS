@@ -140,22 +140,8 @@ To identify your function hierarchy, ask:
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *Psychological Types* (CW 6) — especially §§556-671 (general description of types), §§958-987 (definitions)
-- Jung, C.G. *The Structure and Dynamics of the Psyche* (CW 8), §778 — midlife transition
-
-**Secondary Analysis:**
-- von Franz, M.-L. and Hillman, J. *Lectures on Jung's Typology* — definitive treatment of the inferior function
-- Beebe, J. *Energies and Patterns in Psychological Type* — eight-function model
-- Sharp, D. *Personality Types: Jung's Model of Typology* — accessible introduction
-
----
-
-*Created 2026-02-07. Part of the Jungian Archetypes collection within [[Personal Mythos]].*

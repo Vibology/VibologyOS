@@ -744,7 +744,9 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 **Now go. Live your myth. Become who you truly are.**
 
 ---
+
 ## Cross-References
+
 **Core Pillars:**
 - [[Human Design]] — Genetic blueprint, mechanical layer
 - [[Astrology]] — Cosmic timing, planetary functions
@@ -818,56 +820,8 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 
 ---
 
+## Notes
 
 [^1]: Primary sources listed in References section.
 
 ---
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 7: *Two Essays on Analytical Psychology* (Ego-Self relationship, first/second half of life)
-  - Vol. 9i: *The Archetypes and the Collective Unconscious* (Archetypal theory, collective unconscious)
-  - Vol. 9ii: *Aion: Researches into the Phenomenology of the Self* (Shadow, anima/animus, Self)
-  - Vol. 11: *Psychology and Religion: West and East*
-  - Vol. 12: *Psychology and Alchemy* (Alchemical stages as psychological process)
-  - Vol. 14: *Mysterium Coniunctionis* (Coniunctio, sacred marriage, opposites)
-  - Vol. 16: *The Practice of Psychotherapy*
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Ed. Aniela Jaffé. Trans. Richard and Clara Winston. Vintage Books. (Autobiographical material, personal myth development)
-
-**Hero's Journey & Mythology:**
-- Campbell, Joseph. *The Hero with a Thousand Faces* (1949). Pantheon Books. (Monomyth structure, twelve stages, universal journey patterns)
-- Campbell, Joseph. *The Power of Myth* (1988). With Bill Moyers. Doubleday. (Myth as living psychological reality)
-
-**Fairy Tales & Archetypal Psychology:**
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales* (1970). Shambhala. (Jungian methodology for fairy tale analysis)
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales* (1974). Spring Publications. (Shadow manifestations in folk narrative)
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales* (1976). Knopf. (Developmental psychology of fairy tales)
-- Estés, Clarissa Pinkola. *Women Who Run with the Wild Women: Myths and Stories of the Wild Woman Archetype* (1992). Ballantine Books. (Skeleton Woman, feminine archetypal patterns)
-- Grimm Brothers. *The Complete Fairy Tales*. (Source texts for Beauty and the Beast, Bluebeard, Hansel and Gretel, Cinderella, The Frog Prince, Rapunzel, Snow White)
-
-**Alchemical Psychology:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Seven operations, four color stages)
-- Jung, C.G. *Psychology and Alchemy* (CW 12). (Nigredo, Albedo, Rubedo, alchemical symbolism)
-- Jung, C.G. *Mysterium Coniunctionis* (CW 14). (Conjunction, sacred marriage, opposites)
-
-**Developmental Psychology:**
-- Erikson, Erik H. *Identity and the Life Cycle* (1959). International Universities Press. (Eight stages of psychosocial development, generativity vs. stagnation)
-
-**Contemporary Mythopoetic Work:**
-- Meade, Michael. *The Water of Life: Initiation and the Tempering of the Soul* (2006). Greenfire Press. (Mythological approach to personal development)
-
-**World Mythology Sources:**
-- Eliade, Mircea. *The Sacred and the Profane* (1957). Harcourt. (Universal mythological patterns)
-- Homer. *The Iliad* and *The Odyssey*. (Greek hero mythology)
-- Hesiod. *Theogony*. (Greek cosmology and divine genealogy)
-- Ovid. *Metamorphoses*. (Greek/Roman transformation myths)
-- *The Epic of Gilgamesh*. (Mesopotamian hero's journey)
-- *The Descent of Inanna*. (Sumerian underworld descent)
-- Egyptian *Book of the Dead*. (Egyptian underworld journey)
-- Norse *Poetic Edda* and *Prose Edda*. (Norse mythology, Odin's sacrifice)
-- *Nibelungenlied*. (Germanic hero saga)
-
-#### Vibology Synthesis Note
-The specific integration of Personal Mythos with Human Design, Astrology, Tarot, The Window, Angelology, and The Magdalene Path (Seven-Pillar framework) is original Vibology synthesis work, combining verified primary sources into a unified navigational system for personal psychological and spiritual development.

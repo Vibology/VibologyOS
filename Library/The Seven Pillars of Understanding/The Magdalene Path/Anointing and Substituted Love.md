@@ -334,7 +334,9 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - Anointing as central practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary as the anointer
@@ -351,35 +353,16 @@ Jung's **Transcendent Function** describes how two opposing forces (conscious/un
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 15 — anointing as the central sacrament of the Magdalene tradition
+
 [^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — Bourgeault cites Charles Williams's theology of "mystical substitution" and "bearing of burdens" from *Descent into Hell* and *All Hallows' Eve*
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — Magdalene holding Jesus's anguish during the three days between crucifixion and resurrection
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating three distinct anointing women into one figure
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 12 — Bourgeault cites John Donne's "A Valediction: Forbidding Mourning" as source of the "Abler Soul" term
-
----
-## Sources
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Substituted Love: Ch. 12 ("Substituted Love")
-  - Bourgeault cites Charles Williams's theology of "mystical substitution" and "bearing of burdens"
-  - Bourgeault cites Williams's novels *Descent into Hell* and *All Hallows' Eve* as illustrations
-- Abler Soul: Ch. 12
-  - Bourgeault cites John Donne's poem "A Valediction: Forbidding Mourning" as source of term
-- Anointing as Sacramental Seal: Ch. 15 ("Anointing and Anointed")
-- Mary holding Jesus's anguish during the three days: Ch. 12
-
-de Quillan, Jehanne. *The Gospel of the Beloved Companion: The Complete Gospel of Mary Magdalene*. CreateSpace, 2010.
-- Eight Boughs of Ascent framework: Ch. 42
-
-**Historical Source:**
-- Pope Gregory I, Homily 33 (594 CE): Conflation of three anointing women
-
-**Biblical References:**
-- Luke 7:36-50: The "sinful woman" anoints Jesus's feet
-- John 12:1-8: Mary of Bethany anoints with nard
-- Mark 16:1, John 19:39-42: Mary Magdalene comes to anoint at the tomb
-- John 19:25: Mary stands at the cross
 
 ---

@@ -142,32 +142,8 @@ The Set archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
-
-## Sources
-
-**Primary Egyptian Sources:**
-- *Pyramid Texts* (c. 2400 BCE) — Set's birth and the "Two Lords" formula
-- Chester Beatty Papyrus I (*The Contendings of Horus and Seth*)
-- *Book of the Dead* — Set's role in the solar barque
-- *Amduat* and *Book of Gates* — Set defending Ra against Apophis
-
-**Classical Sources:**
-- Plutarch, *De Iside et Osiride* (Set as Typhon)
-
-**Mythological Encyclopedias:**
-- Pinch, G. *Egyptian Mythology* (Set chapter)
-- te Velde, H. *Seth, God of Confusion* (definitive scholarly monograph)
-- Assmann, J. *The Search for God in Ancient Egypt* (Set in Egyptian theology)
-
-**Psychological and Archetypal Analysis:**
-- Jung, C.G. *Collected Works*, Vol. 11, §131 (the shadow)
-- Neumann, E. *The Origins and History of Consciousness* (the adversary archetype)
-- Edinger, E. *Ego and Archetype* (the ego-shadow dialectic)
-
----
-
-*Created 2026-02-07. Part of the Egyptian Mythology collection within [[Personal Mythos]].*

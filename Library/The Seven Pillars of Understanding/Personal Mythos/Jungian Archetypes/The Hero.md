@@ -878,7 +878,7 @@ The Hero interacts dynamically with other archetypal structures:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5, par. 259. Princeton University Press.
 
@@ -888,33 +888,4 @@ The Hero interacts dynamically with other archetypal structures:
 
 [^4]: Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Jung, C.G. *The Development of Personality*. Collected Works Vol. 17. Princeton University Press.
-- Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7. Princeton University Press.
-- Campbell, Joseph. *The Power of Myth*. Doubleday, 1988. (Interviews with Bill Moyers)
-- Campbell, Joseph. *Pathways to Bliss: Mythology and Personal Transformation*. New World Library, 2004.
-- Neumann, Erich. *The Origins and History of Consciousness*. Princeton University Press, 1954. (Hero's separation from the Mother, dragon-slaying motif)
-- Eliade, Mircea. *Rites and Symbols of Initiation: The Mysteries of Birth and Rebirth*. Spring Publications, 1958.
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1998. (Application of Campbell's monomyth to storytelling)
-- von Franz, Marie-Louise. *Puer Aeternus*. Sigo Press, 1970. (Eternal youth pathology, refusal of the heroic journey)
-- Hollis, James. *The Middle Passage: From Misery to Meaning in Midlife*. Inner City Books, 1993. (Hero's shift at midlife)
-- Edinger, Edward F. *Ego and Archetype*. Shambhala, 1972. (Ego-Self axis, hero's inflation and integration)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Separatio, Sol Invictus, alchemical heroism)
-- Henderson, Joseph L. *Thresholds of Initiation*. Chiron Publications, 1967.
-- Mythology & Epic sources:
-  - *The Epic of Gilgamesh* (Mesopotamian, trans. Andrew George)
-  - Egyptian: Pyramid Texts, *The Book of the Dead* (Osiris resurrection myths)
-  - Greek: Homer's *Iliad* and *Odyssey*, Hesiod's *Theogony*, Apollodorus' *Library*
-  - Norse: *Poetic Edda*, *Prose Edda* (Snorri Sturluson), *Volsunga Saga* (Sigurd)
-  - Hindu: *The Bhagavad Gita*, *Ramayana* (Rama), *Mahabharata* (Arjuna)
-  - Biblical: Exodus (Moses), 1 Samuel (David), New Testament Gospels (Christ)
-  - Arthurian: Chrétien de Troyes' *Perceval*, Wolfram von Eschenbach's *Parzival*, Malory's *Le Morte d'Arthur*
-  - Anglo-Saxon: *Beowulf*
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Jack and the Beanstalk, The Golden Bird, dragon-slayer motifs)
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974. (Hero confronting shadow/dragon)
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*. Vintage Books, 1976.
-- Pearson, Carol S. *The Hero Within: Six Archetypes We Live By*. HarperOne, 1986. (Contemporary application of hero archetypes)
-- Zweig, Connie and Jeremiah Abrams, eds. *Meeting the Shadow: The Hidden Power of the Dark Side of Human Nature*. Tarcher/Putnam, 1991.
+---

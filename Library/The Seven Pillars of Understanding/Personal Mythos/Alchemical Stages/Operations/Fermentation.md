@@ -644,40 +644,8 @@ Fermentation is dangerous. The unconscious, stirred, can overwhelm the ego (psyc
 
 ---
 
+## Notes
 
 [^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Fermentation as spiritual inspiration following putrefaction.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (Fermentation as putrefaction and spiritual rebirth)
-  - Vol. 14: *Mysterium Coniunctionis* (Fermentatio as death of first union, deeper transformation)
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. (Dark periods of incubation, waiting)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). (Putrefaction following Chemical Wedding; death precedes resurrection)
-- *Turba Philosophorum* (Assembly of the Philosophers). ("The matter must rot before it can be reborn")
-- *The Twelve Keys of Basil Valentine* (17th century). (Fermentation as death and spiritual vivification)
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Fermentation as fifth operation, death-rebirth, putrefaction-to-spirit)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fermentation symbolism: grave, rot, wine/bread transformation)
-
-**Death-Rebirth Mythology:**
-- Greek: Persephone's annual death-return, Dionysus torn and reborn, grain mysteries (Eleusis)
-- Egyptian: Osiris death-resurrection, corn mummy burials
-- Christian: Crucifixion-Resurrection, seed dying (John 12:24), tomb as womb
-- Norse: Odin's hanging (nine nights on Yggdrasil), death for wisdom
-- Hindu: Shiva's destruction-creation cycle
-
-**Dark Night Literature:**
-- St. John of the Cross. *Dark Night of the Soul* (16th century). (Spiritual dryness, divine absence as Fermentation)
-- St. Teresa of Avila. *Interior Castle* (1577). (Spiritual desolation, waiting in darkness)
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Pluto/Saturn transits, Hanged Man/Death Tarot, Gate 29/47 HD, various angelology) represent Vibology's integration of verified alchemical Fermentation patterns across seven-pillar framework.
 
 ---

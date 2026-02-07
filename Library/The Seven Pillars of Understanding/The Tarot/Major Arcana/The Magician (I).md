@@ -271,6 +271,7 @@ This is The Magician's **iterative mastery**—not one perfect act but continuou
 ---
 
 ## Cross-References
+
 - [[The Fool (0)]] - The breath that becomes the word
 - [[The High Priestess (II)]] - The complementary path on the Pillar of Form
 - **Human Design (Canonical):** [[Gate 62 - Preponderance of the Small]] (Preponderance of the Small) — See "Cross-System Synthesis: Human Design" above
@@ -283,22 +284,10 @@ This is The Magician's **iterative mastery**—not one perfect act but continuou
 
 ---
 
+## Notes
+
 [^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
 
 [^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
----
-
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

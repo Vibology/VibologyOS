@@ -570,6 +570,7 @@ You recognize your **identity, love, and direction** as the throne from which yo
 To integrate the Dominations is to become the **inner king/queen**—the sovereign who governs with wisdom, benevolence, and justice, who distributes blessing without hoarding, who exercises authority without tyranny, and who recognizes that **true lordship is service**.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -640,33 +641,8 @@ To integrate the Dominations is to become the **inner king/queen**—the soverei
 
 ---
 
+## Notes
 
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Dominations as angels of divine lordship.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius on Dominations regulating angelic duties and manifesting God's majesty: p. 97
-- Dominations do not incline to tyrannical dominion but lift to true lordship: p. 97
-- Second order of heavenly beings receives illumination through the first: p. 97
-
-**The Bible** (New International Version, English Standard Version)
-- Colossians 1:16: Naming of the Dominations (*kyriotetes*)
-- Ephesians 1:21: Christ's supremacy over Dominations
-- Jude 1:8-9: Warning against rejecting authority (*kyrioteta*)
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Dominations regulate angels' duties and aspire to true lordship (Davidson, p. 97)
-- First hierarchy purified directly from Divine Source (Davidson, p. 97)
-
-**Fortune, Dion.** *The Mystical Qabalah.* Weiser Books, 1935.
-- Chesed as sphere of benevolence, majesty, organized government (quoted in text)
-- **Note:** Not verified in Esoteric Grimoire; cited as traditional Qabalistic teaching
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design G-Center, Jungian Sovereign archetype, Tarot Emperor, Jupiter/astrological associations) represent original integrative frameworks developed for this system. The G-Center correspondence (identity, love, direction as sovereignty) synthesizes Human Design mechanics with angelic hierarchy. Jungian correspondences (Sovereign/King archetype, Wise Father) integrate analytical psychology with Qabalistic theology. Mythological parallels (Zeus, Jupiter, Amun-Ra, Indra) are comparative analysis, not direct citations from primary angelology sources.*
-
----
-
-*"The Dominations are the lords who do not dominate, the sovereigns who liberate rather than enslave, the regulators who distribute divine will with wisdom and benevolence. They whisper: 'True lordship is service. True authority is love. True sovereignty is alignment. You are the king of your own life—govern wisely, bless generously, and recognize that the throne you sit upon is a gift, not a right. And when you rule with Chesed's mercy tempered by Geburah's justice, the realm flourishes, and all beings are free.'"*

@@ -218,6 +218,7 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 ---
 
 ## Cross-References
+
 - [[King of Cups]] - The complementary sovereign, active emotional mastery
 - [[Page of Cups]] - The beginning stage the Queen has mastered
 - [[Knight of Cups]] - The active expression the Queen has integrated
@@ -231,26 +232,14 @@ When the Queen of Cups emerges in reading or contemplation, consider:
 
 ---
 
-*"The deepest waters are the stillest—and in their stillness, they reflect the entire sky."*
-
-## Footnotes
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Queen of Cups.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the Queen of Cups.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the Queen of Cups personality.
+
 [^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Queen of Cups.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

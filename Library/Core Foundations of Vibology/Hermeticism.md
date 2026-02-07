@@ -132,35 +132,18 @@ The belief that all truth derives from a single ancient source can produce a **h
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Copenhaver, B. *Hermetica* (Cambridge University Press, 1992) — the Corpus Hermeticum as Greek philosophical dialogues presenting a cosmological, psychological, and spiritual vision.
+
 [^2]: Copenhaver, B. *Hermetica* (Cambridge University Press, 1992) — the Poimandres (CH I): creation through Nous and Logos; the descent of Anthropos into matter.
+
 [^3]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — Cosimo de' Medici ordering Ficino to translate the Corpus Hermeticum before Plato.
+
 [^4]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — the Hermetic revival as a driving force behind the Renaissance, influencing science as well as mysticism.
+
 [^5]: Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — Casaubon's 1614 redating of the Corpus Hermeticum to the Hellenistic period.
+
 [^6]: *The Kybalion* (1908) — modern systematization of Hermetic philosophy into seven principles (Mentalism, Correspondence, Vibration, Polarity, Rhythm, Cause and Effect, Gender).
 
 ---
-
-## Sources
-
-**Primary Texts:**
-- *Corpus Hermeticum* (trans. Copenhaver, B. — *Hermetica*, Cambridge University Press, 1992)
-- *The Emerald Tablet* (various translations; Arabic original c. 6th-8th century CE)
-- *Asclepius* (Latin text, included in Copenhaver)
-- *The Kybalion* (1908) — modern systematization (useful but not ancient)
-
-**Historical Studies:**
-- Yates, F. *Giordano Bruno and the Hermetic Tradition* (1964) — landmark study of Renaissance Hermeticism
-- Fowden, G. *The Egyptian Hermes* (1986) — the historical context of Hermeticism
-- Faivre, A. *Access to Western Esotericism* (1994) — Hermeticism as foundational to Western esotericism
-- Hanegraaff, W. *Western Esotericism: A Guide for the Perplexed* — Hermeticism in modern context
-
-**Philosophical Context:**
-- Ficino, M. — translations and commentaries (15th century)
-- Agrippa, C. *Three Books of Occult Philosophy* (1533) — Renaissance Hermetic synthesis
-
----
-
-*Created 2026-02-07. Part of [[Core Foundations of Vibology]].*

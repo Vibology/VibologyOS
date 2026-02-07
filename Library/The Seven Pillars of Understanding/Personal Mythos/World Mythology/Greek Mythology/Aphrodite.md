@@ -435,49 +435,8 @@ Astrologically, Aphrodite corresponds to **[[Venus ♀]]**—planet of love, bea
 
 ---
 
+## Notes
 
 [^1]: Hesiod, *Theogony* and Homeric *Hymn to Aphrodite* — Aphrodite as goddess of love, beauty, and desire.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-
-- **Hesiod** — *Theogony* (lines 188-206) — Birth of Aphrodite from sea foam, most famous version
-- **Homeric Hymn to Aphrodite (5)** — Long hymn describing her seduction of Anchises, birth of Aeneas
-- **Homeric Hymn to Aphrodite (6)** — Short hymn celebrating her beauty and power
-- **Homer** — *Iliad* (Aphrodite in Trojan War, wounded by Diomedes, rescues Paris and Aeneas)
-- **Homer** — *Odyssey* (Book 8) — The affair with Ares, caught in Hephaestus's net
-- **Sappho** — Fragments (hymns and prayers to Aphrodite, lesbian eros, beauty as divine)
-- **Ovid** — *Metamorphoses* (Adonis, Pygmalion, Myrrha, various Aphrodite myths)
-- **Apuleius** — *The Golden Ass* (Books 4-6) — The myth of Cupid (Eros) and Psyche
-
-### Mythological Encyclopedias
-
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive Aphrodite entry, cult practices, epithets.
-- **Burkert, Walter** — *Greek Religion* (1985). Scholarly analysis of Aphrodite's cult, Near Eastern origins, sacred prostitution debates.
-
-### Psychological and Archetypal Analysis
-
-- **Jung, C.G.** — *Collected Works Vol. 9i: Archetypes and the Collective Unconscious* — The anima archetype (CW 9i, ¶ 57-83)
-- **Neumann, Erich** — *Amor and Psyche: The Psychic Development of the Feminine* (1956). Jungian analysis of Psyche myth as feminine individuation.
-- **Bolen, Jean Shinoda** — *Goddesses in Everywoman* (1984). Aphrodite as "alchemical goddess"—transformer, lover, creator of beauty.
-- **Downing, Christine** — *The Goddess: Mythological Images of the Feminine* (1981). Aphrodite as eros, anima, soul.
-- **Hillman, James** — *The Thought of the Heart and the Soul of the World* (1992). Beauty as revelation of soul, aesthetic response as primary.
-- **Paris, Ginette** — *Pagan Meditations: The Worlds of Aphrodite, Artemis, and Hestia* (1986). Comparative analysis of three goddess archetypes.
-
-### Philosophy and Eros
-
-- **Plato** — *Symposium* — Diotima's speech on eros, Aphrodite Urania vs. Aphrodite Pandemos, the ladder of love
-- **Plato** — *Phaedrus* — Divine madness, eros as pathway to transcendence
-- **Freud, Sigmund** — *Beyond the Pleasure Principle* (1920). Eros vs. Thanatos, life instinct vs. death instinct.
-
-### Sacred Sexuality and Cult Practices
-
-- **Frymer-Kensky, Tikva** — *In the Wake of the Goddesses* (1992). Sacred prostitution debates, Near Eastern goddess cults.
-- **Budin, Stephanie Lynn** — *The Myth of Sacred Prostitution in Antiquity* (2008). Challenges traditional interpretations of "temple prostitution."
-
----
-
-*Expanded 2026-02-06. Comprehensive archetypal analysis complete.*

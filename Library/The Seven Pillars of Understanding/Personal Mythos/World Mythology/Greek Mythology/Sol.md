@@ -329,42 +329,8 @@ Astrologically, Sol corresponds to the **[[Sun ☉]]**—the most important plac
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Homer** — *Odyssey* (Book XII: Helios's cattle, eaten by Odysseus's men, leading to their destruction)
-- **Ovid** — *Metamorphoses* (Book II: Phaethon's fatal chariot ride)
-- **Virgil** — *Georgics*, *Aeneid* (Solar imagery and invocations)
-- **Hymn to Helios** (Orphic Hymns) — Ancient devotional poetry to the sun god
-
-### Mythological Encyclopedias
-- **Guirand, Félix (ed.)** — *New Larousse Encyclopedia of Mythology* (1959). Comprehensive entry on Helios/Sol.
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Helios's genealogy, myths, and cult sites.
-
-### Historical and Religious Studies
-- **Frazer, James George** — *The Golden Bough* (1890-1915). Solar festivals, dying and rising gods, Sol Invictus.
-- **Cumont, Franz** — *The Mysteries of Mithra* (1903). Mithraism and Sol Invictus syncretism.
-- **Hijmans, Steven** — *Sol: The Sun in the Art and Religions of Rome* (2009). Comprehensive study of Roman solar cults.
-
-### Psychological and Archetypal Analysis
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation* (1912/1952). The sun as father-imago and symbol of consciousness (CW 5, ¶198).
-- **Jung, C.G.** — *Collected Works Vol. 14: Mysterium Coniunctionis* (1955-56). Alchemical symbolism of Sol and Luna, the coniunctio (CW 14, ¶165).
-- **Edinger, Edward F.** — *Ego and Archetype* (1972). The relationship between ego (Sol) and Self; individuation as the alchemical opus.
-- **von Franz, Marie-Louise** — *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Sol and Luna as alchemical polarities.
-
-### Solar Symbolism and Mythology
-- **Eliade, Mircea** — *Patterns in Comparative Religion* (1958). Solar deities across cultures, the sun as axis mundi.
-- **Campbell, Joseph** — *The Hero with a Thousand Faces* (1949). The hero's journey as solar myth.
-
-### Occult and Esoteric Traditions
-- **Agrippa, Heinrich Cornelius** — *Three Books of Occult Philosophy* (1533). Solar correspondences: animals (lion, cock, hawk), plants (laurel, heliotrope), metals (gold).
-- **Waite, Arthur Edward** — *The Pictorial Key to the Tarot* (1910). The Sun card (XIX) as innocence and vitality.
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (Guirand, Frazer, Jung, Agrippa). Comprehensive coverage of Helios mythology, solar chariot, Phaethon, Sol Invictus cult, December 25 birthday, solar consciousness, Hero archetype, Sol-Luna polarity, alchemical coniunctio, shadow dynamics, and practical applications established.*

@@ -694,7 +694,9 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 *Gabriel, Angel of the Annunciation, Messenger of the Most High, Guardian of the Threshold, I call upon thee. Teach me to listen when the Divine speaks. Open my inner eye that I may see the visions sent in the night. Unstop my ears that I may hear the still, small voice. Soften my heart that I may receive the word, even when it shatters all I have known. Grant me the courage to say "yes" to the sacred annunciation, to bear the message, to cross the threshold from the old life into the new. By the authority of Shaddai El Chai, the Almighty Living God, by the light of the Moon, by the waters of the deep, by the lily that blooms in darkness, let thy presence be known. May I stand at the threshold between waking and sleeping, conscious and unconscious, the known and the unknown, and trust that the threshold itself is holy ground. Ave Gabriel. Amen.*
 
 ---
+
 ## Cross-References
+
 - [[Yesod]] — Gabriel's Sephirah, the sphere of Foundation and the Astral Light
 - [[Archangels]] — The eighth angelic order, messengers to humanity
 - [[Angels|Kerubim]] — The angelic choir of Yesod
@@ -732,42 +734,8 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 
 ---
 
+## Notes
+
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Gabriel as 'Strength of God,' archangel of Annunciation, Mercy, and Revelation.
 
 ---
-
-## Sources
-### Primary Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
-- Pages 117-119: Gabriel entry with biblical references (Daniel 8:16, 9:21; Luke 1:19, 1:26).
-- Page 117: Gabriel identified as "Angel of Truth," "Prince of Change and Alteration," "Angel of Annunciation."
-- Page 117: Islamic tradition - Gabriel (Jibril) dictated the Qur'an to Muhammad.
-- Page 120: Zohar reference - Gabriel as "supervisor of dreams."
-
-**Matt, Daniel C.** (translator and commentary). *The Zohar.* Pritzker Edition. Vol. 1. Stanford: Stanford University Press, 2004.
-- 1:98b, Note 248: Gabriel associated with the Left side (North/Severity/Fire).
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
-- Page 109: Gabriel identified as Archangel of Yesod (Foundation, 9th Sephirah); planetary attribution to the Moon; angelic choir Kerubim (The Strong/Angels).
-- Page 109: Gabriel as "Prince of Change and Alteration" and "Angel of Annunciation."
-- Page 109: Moon sphere bestows "change, increase, and decrease."
-
-### Biblical Sources
-
-**New Revised Standard Version Bible.** Daniel 8:16, 9:21; Luke 1:19, 1:26, 1:28-31, 1:35.
-
-### Vibology Synthesis Notes
-
-The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
-- All quotes attributed to "Dion Fortune" about Yesod and Gabriel (not found in primary sources)
-- All quotes attributed to "Gareth Knight" (not in Grimoire)
-- All quotes attributed to "Rachel Pollack" about The High Priestess (not in Grimoire)
-- Islamic tradition quotes from Sahih Muslim (cited without source verification)
-- Qur'an quote (Surah 96:1-5) - cited without source verification
-- All Jungian interpretations and psychological parallels
-- Human Design (Sacral Center, Splenic Center), Gene Keys, chakra correspondences
-- Mythological parallels (Hermes, Thoth, Iris, Janus)
-- All meditation practices, visualization techniques, and ritual instructions
-- Cross-cultural annunciation analysis
-- "Hail Gabriel" invocation (composed for this text)

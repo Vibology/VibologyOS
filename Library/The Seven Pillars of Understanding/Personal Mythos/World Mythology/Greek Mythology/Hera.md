@@ -153,28 +153,8 @@ The Hera archetype is active when you:
 
 ---
 
-## Sources
-
-**Primary Texts:**
-- Homer, *Iliad* (especially Books 1, 4, 14-15; Hera's characterization and the *Dios Apatē*)
-- Homer, *Odyssey* (Hera as divine power)
-- Hesiod, *Theogony*, 453-506 (birth and swallowing by Kronos)
-- Pausanias, *Description of Greece* 2.38.2 (Kanathos spring renewal)
-- *Homeric Hymn to Hera* (12)
-- Apollodorus, *Bibliotheca* (Heracles myths)
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Hera sections)
-- Kerényi, K. *The Gods of the Greeks* (Hera chapter)
-- Burkert, W. *Greek Religion* (Hera cult and hieros gamos)
-
-**Psychological and Archetypal Analysis:**
-- Bolen, J.S. *Goddesses in Everywoman*, ch. 8 (Hera: Goddess of Marriage)
-- Jung, C.G. *Collected Works*, Vol. 16 (Psychology of the Transference — the coniunctio)
-- Downing, C. *The Goddess: Mythological Images of the Feminine* (Hera chapter)
+## Notes
 
 [^1]: Bolen, J.S. *Goddesses in Everywoman*, ch. 8 (Hera: Goddess of Marriage, Commitment Maker, Wife)
 
 ---
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

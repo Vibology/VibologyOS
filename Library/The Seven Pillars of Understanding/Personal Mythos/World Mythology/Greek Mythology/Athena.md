@@ -166,28 +166,8 @@ The Athena archetype is active when you:
 
 ---
 
-## Sources
-
-**Primary Texts:**
-- Hesiod, *Theogony*, 886-900 (birth of Athena)
-- Homer, *Iliad* and *Odyssey* (Athena as warrior patron and guide to Odysseus)
-- *Homeric Hymn to Athena* (11 and 28)
-- Ovid, *Metamorphoses* 6.1-145 (Arachne)
-- Pindar, *Olympian Ode* 7 (birth from Zeus's head)
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Athena sections)
-- Kerényi, K. *The Gods of the Greeks* (Athena chapter)
-- Burkert, W. *Greek Religion* (Athena cult and epithets)
-
-**Psychological and Archetypal Analysis:**
-- Bolen, J.S. *Goddesses in Everywoman* (Athena chapter)
-- Jung, C.G. *Collected Works*, Vol. 7, §336 (animus and objective thinking)
-- Hillman, J. *Re-Visioning Psychology* (Athena and the imaginal)
-- von Franz, M.-L. *The Feminine in Fairy Tales* (father's daughter pattern)
+## Notes
 
 [^1]: Bolen, J.S. *Goddesses in Everywoman*, ch. 5 (Athena: Goddess of Wisdom and Crafts)
 
 ---
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

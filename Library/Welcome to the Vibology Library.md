@@ -54,10 +54,10 @@ Before diving into any pillar, these five entries establish the framework:
 
 *"The Algorithm maps the territory. The Anima walks the path."*
 
+---
+
+## Notes
 
 [^1]: The Seven Pillars framework represents Vibology's synthesis architecture, integrating traditional wisdom systems (Angelology, Astrology, Tarot/Qabalah, I-Ching), contemporary systems (Human Design), spiritual paths (The Magdalene Path), and archetypal psychology (Personal Mythos/Jungian). See [[Core Foundations of Vibology]] for architectural overview.
 
 ---
-## Sources
-
-*This file serves as a navigation index and does not draw from primary sources.*

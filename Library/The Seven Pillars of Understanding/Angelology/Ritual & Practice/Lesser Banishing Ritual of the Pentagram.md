@@ -257,44 +257,36 @@ Ritual is not superstition—it is technology. The LBRP is the **on switch** for
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Hermetic Order of the Golden Dawn materials — LBRP as foundational ritual for purification, protection, and balancing within elemental/angelic forces
+
 [^2]: Golden Dawn, Regardie — Qabalistic Cross: touching forehead/breast/shoulders while vibrating Ateh/Malkuth/ve-Geburah/ve-Gedulah/le-Olahm, Amen; aligning practitioner with vertical (Kether-Malkuth) and horizontal (Geburah-Chesed) axes
+
 [^3]: Golden Dawn, Regardie — Formulation of pentagrams: banishing Earth pentagrams drawn at four quarters (East/South/West/North) with divine names IHVH/ADNI/AHIH/AGLA
+
 [^4]: Golden Dawn — East quarter: IHVH (יהוה, Tetragrammaton, "Yeh-ho-VAU")
+
 [^5]: Golden Dawn — South quarter: ADNI (אדני, Adonai, "Lord")
+
 [^6]: Golden Dawn — West quarter: AHIH (אהיה, Eheieh, "I Am")
+
 [^7]: Golden Dawn — North quarter: AGLA (אגלא, notariqon for "Ateh Gibor Le-olam Adonai" — "Thou art mighty forever, O Lord")
+
 [^8]: Golden Dawn, Regardie — Archangel invocation: "Before me Raphael, Behind me Gabriel, On my right hand Michael, On my left hand Uriel (Auriel); For about me flames the Pentagram, And in the column stands the six-rayed Star"
+
 [^9]: Golden Dawn — Distinction between banishing (starts lower left, moves to spirit top) and invoking (starts spirit top, moves to lower left) pentagrams
+
 [^10]: Jungian interpretation — LBRP as ego-Self alignment; Tiphareth as ego mediating Kether (superconsciousness) and Malkuth (body/world); four archangels as four psychological functions balanced around central Self
+
 [^11]: Psychoid interpretation — LBRP operates in psychoid layer where psyche and matter meet; constellates actual field effect, not merely psychological
+
 [^12]: Israel Regardie, *The Golden Dawn*; Aleister Crowley, *Liber O* — Standard Golden Dawn LBRP protocol and variations
 
 ---
-
-## See Also
-- [[The Four Archangels of the Quarters]] — Raphael, Michael, Gabriel, Uriel as guardians
-- [[The Four Quarters]] — Elemental directions and correspondences
-- [[Raphael]] — Archangel of Air/East, healing and guidance
-- [[Michael]] — Archangel of Fire/South, strength and protection
-- [[Gabriel]] — Archangel of Water/West, emotions and intuition
-- [[Uriel]] — Archangel of Earth/North, grounding and wisdom
-- [[Invocation]] — General invocation protocols (LBRP as specific application)
-- [[Discernment of Spirits]] — Testing what arises after creating sacred space
-- [[Active Imagination]] — Jungian method requiring protected space (LBRP as preparation)
-- [[Tiphareth]] — Sephira of beauty/balance, heart center in Qabalistic Cross
-- [[Malkuth]] — Sephira of kingdom/manifestation, grounding point in Qabalistic Cross
-- [[Kether]] — Sephira of crown/source, top point in Qabalistic Cross
-- [[The Hermetic Order of the Golden Dawn]] — Origin of the LBRP in late 19th century
-- [[Psychoid Archetype]] — Theoretical framework explaining how ritual affects reality
-
----
-
-## Sources
-
-- Regardie, Israel. *The Golden Dawn* (1937-40). Standard published LBRP protocol, Qabalistic Cross, pentagram formulations, and archangel invocation.
-- Crowley, Aleister. *Liber O vel Manus et Sagittae* (Liber O). Thelemic variation of the LBRP and pentagram rituals.
-- Hermetic Order of the Golden Dawn. Original ritual papers (Outer Order curriculum). Foundational source for the LBRP as daily practice.
-- Jung, C.G. On the four functions of consciousness and the mandala as symbol of wholeness. Psychological interpretation of the quaternary ritual structure.

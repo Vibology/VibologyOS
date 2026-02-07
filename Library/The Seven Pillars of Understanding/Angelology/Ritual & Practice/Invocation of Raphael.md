@@ -331,59 +331,28 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Golden Dawn materials, Heptameron — Raphael as archangel of healing, safe travel, scientific knowledge; regent of Tiphareth and Mercury/Hod
+
 [^2]: Golden Dawn Qabalistic correspondences — Raphael to Tiphareth (primary, solar) and Hod (secondary, mercurial); Sunday and Wednesday rulerships
+
 [^3]: Qabalistic angelology — Raphael's dual nature: solar (healing warmth, vitality) + mercurial (swift delivery, intellectual clarity, communication)
+
 [^4]: Book of Tobit (Deuterocanonical) — Raphael disguised as Azarias guides Tobias, teaches fish-organ remedies, drives away Asmodeus, heals Tobit's blindness; reveals identity as one of seven angels before God's throne
+
 [^5]: Golden Dawn ritual structure — Invocation protocol: Qabalistic Cross alignment, divine name (IHVH Eloah va-Daath), archangel conjuration by correspondences, visualization, petition, gratitude, license to depart
+
 [^6]: Jungian interpretation — Illness as symptom of splitting (ego vs. body, conscious vs. unconscious, persona vs. Shadow); Raphael's caduceus as union of opposites, Transcendent Function activation
+
 [^7]: Observatory interpretation — Raphael as clarifying intelligence; restores capacity to see (heals Tobit's blindness = removes perceptual obstruction); practitioners report sudden clarity, correct diagnosis, emotional release, synchronistic encounters
+
 [^8]: Hermetic/alchemical tradition — Raphael = Mercury (Hermes); caduceus as alchemical symbol of union of opposites necessary for Great Work; psychopomp function (guide of souls through transitions)
 
 ---
-
-## See Also
-
-### Within Angelology
-- [[Raphael]] — Complete archangel profile (planetary rulerships, Qabalistic position, mythology, functions)
-- [[The Four Archangels of the Quarters]] — Raphael's role in the elemental square (East/Air/Dawn)
-- [[The Four Quarters]] — Body-centered vs. compass-oriented invocation systems
-- [[Michael]] — Archangel of protection and strength (South/Fire)
-- [[Gabriel]] — Archangel of revelation and intuition (West/Water)
-- [[Uriel]] — Archangel of grounding and wisdom (North/Earth)
-- [[Virtues]] — Angelic order governed by Raphael; angels of miracles and grace
-- [[Lesser Banishing Ritual of the Pentagram]] — Full ceremonial protocol invoking Raphael in the East
-- [[Bedtime Shema]] — Jewish protective prayer invoking four archangels (Raphael behind)
-- [[Prayer for Healing]] — Petitionary prayer framework (complementary to direct invocation)
-
-### Within Astrology & Qabalah
-- [[Tiphareth]] — Sixth sephirah, Beauty, solar center, Raphael's primary station
-- [[Hod]] — Eighth sephirah, Glory, mercurial intellect, Raphael's secondary station
-- [[Sun ☉]] — Raphael's primary planetary rulership (vitality, healing, life force)
-- [[Mercury ☿]] — Raphael's secondary planetary rulership (communication, intellect, skill)
-
-### Within Personal Mythos (Jungian)
-- [[The Transcendent Function]] — Psyche's capacity to unite opposites; Raphael's caduceus as symbol
-- [[The Shadow]] — Illness as rejected/exiled psychic content demanding integration
-- [[Individuation Process]] — Healing as aspect of becoming whole (not merely symptom removal)
-- [[Synchronicity]] — Meaningful coincidences following invocations (divinely arranged encounters)
-
-### Within Human Design
-- [[Spleen]] — Intuitive knowing of health/safety; Raphael's influence on instinctual awareness
-- [[Throat]] — Communication of needs; Raphael as mercurial messenger enabling clear expression
-
-### Ritual Practices
-- [[Contemplative Prayer]] — Non-petitionary prayer (contrasted with invocation's direct address)
-- [[Active Imagination]] — Jungian technique; dialogue with Raphael as autonomous archetypal figure
-- [[Lesser Banishing Ritual of the Pentagram|Qabalistic Cross]] — Foundational alignment practice (vertical/horizontal axis establishment)
-
----
-
-## Sources
-
-- Book of Tobit (Deuterocanonical/Apocryphal). Raphael disguised as Azarias guides Tobias, heals Tobit's blindness, self-identifies as one of seven angels before God's throne (Tobit 12:15).
-- Regardie, Israel. *The Golden Dawn*. Qabalistic correspondences, invocation structure, and ritual protocol for archangelic work.
-- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval grimoire placing Raphael in planetary and directional correspondences.
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Planetary archangel attributions, Sephirotic correspondences.

@@ -836,6 +836,7 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 > *"I vow to use all knowledge in service of the Divine and the whole. I will not hoard wisdom for personal gain, nor wield insight as a weapon of domination. I will remain humble before the mystery, recognizing that all knowledge is gift. I will protect sacred teachings from profanation, and I will transmit wisdom freely to those who are ready. May I become a clear lens through which divine intelligence shines. May the wheels turn within me as they turn in heaven."*
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -905,43 +906,8 @@ For those who consciously align with Cherubic intelligence, a vow may be taken (
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) and Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Cherubim as guardians of divine wisdom.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Cherubim "excel in knowledge" and serve as bearers of God's throne: p. 69
-- Davidson cites Pseudo-Dionysius: Cherubim possess capacity to contemplate divine splendor and communicate wisdom: p. 69
-- Cherubim as personifications of divine wisdom: p. 69
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Red Wheel/Weiser, 1983.
-- Angelic choir of Chokmah: Auphanim ("Wheels" or "Whirling Ones")
-- Chokmah correspondences: Divine Name, Zodiac (Masloth), colors across Four Worlds
-
-**The Bible** (English Standard Version, New International Version)
-- Genesis 3:24: Cherubim with flaming sword guard the way to the Tree of Life
-- Exodus 25:18-22: Two golden Cherubim on the Ark of the Covenant, wings overshadowing the Mercy Seat
-- 1 Kings 6:23-28: Massive Cherubim in Solomon's Temple Holy of Holies
-- Psalm 18:10: "He rode on a cherub and flew"
-- Ezekiel 1:4-18: The Merkabah vision—four living creatures with four faces, wheels within wheels, eyes everywhere
-- Ezekiel 10:20: The living creatures identified explicitly as Cherubim
-- Ezekiel 28:14-17: The anointed cherub cast down (Lucifer)
-- Isaiah 27:1: Leviathan, the twisting serpent
-- Job 41: Leviathan described in detail
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Cherubim as second highest order in the First Triad (Davidson, p. 69)
-- Cherubim transmit divine wisdom downward through the hierarchical chain (Davidson, p. 69)
-
-**The Zohar** (Foundational text of Qabalah)
-- Chokmah (Wisdom) as primal yang principle, divine Father
-- Merkabah mysticism: chariot-throne imagery
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Ajna Center, Jungian archetypes, Tarot attributions, astrological correspondences) represent original integrative frameworks developed for this system. Human Design correspondences (Ajna Center, Gates 47/24/4/17/43/11/64) are based on Ra Uru Hu's system as interpreted through angelic hierarchy. Jungian correspondences (Wise Old Man, Self) synthesize analytical psychology with Qabalistic angelology.*
-
----
-
-*"The Cherubim do not merely know—they overflow with knowing. They are the wheels upon which divine wisdom descends, the eyes that perceive all patterns, the guardians of sacred thresholds. To invoke them is not to seek intellectual mastery but to become a vessel for wisdom's transmission. They teach that knowledge is not power—it is service. And in that service, the soul participates in the eternal Mind of God."*

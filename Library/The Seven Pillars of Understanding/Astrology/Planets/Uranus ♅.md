@@ -224,13 +224,16 @@ Uranus teaches that evolution is not gradual. It is **punctuated equilibrium**�
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Modern esoteric astrology (Grimoire): Uranus discovered 1781; modern ruler of Aquarius (co-ruler with Saturn); associated with Promethean spirit, breaking crystallized attitudes, collective change; exalted in Scorpio
+
 [^2]: Greek mythology (Grimoire): Ouranos (Uranus) the starry sky, born of Gaea (Earth); fathered Titans, Cyclopes, Hecatoncheires but imprisoned them in Tartarus for their ugliness
+
 [^3]: Greek mythology (Grimoire): Cronus castrated Uranus with a sickle at Gaea's urging; blood birthed Erinyes and Giants; severed genitals cast into sea birthed Aphrodite from the foam
+
 [^4]: Greek mythology (Grimoire): Prometheus as Uranian archetype—defies Zeus, steals fire for humanity, chained to rock; represents the Promethean urge for differentiation and technology
+
 [^5]: Human Design (Grimoire): Discovery of Uranus in 1781 marks shift from 7-centered humanity (Saturnian) to 9-centered humanity (Uranian); governs "unusualness," chaos and order, mid-life Uranus Opposition (ages 38-44)
 
 ---
-
-*"Uranus is the side track that becomes the main road. What was heresy becomes orthodoxy—but only after the heretic has been exiled."*

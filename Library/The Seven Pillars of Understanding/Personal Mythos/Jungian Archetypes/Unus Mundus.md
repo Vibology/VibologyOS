@@ -129,31 +129,8 @@ The unus mundus becomes experientially accessible when you:
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *Mysterium Coniunctionis* (CW 14), §§654-789 — the three stages of coniunctio and the unus mundus
-- Jung, C.G. *The Structure and Dynamics of the Psyche* (CW 8) — "Synchronicity: An Acausal Connecting Principle"
-- Jung, C.G. *Psychology and Alchemy* (CW 12), §44 — the Self as center and circumference
-
-**The Pauli-Jung Correspondence:**
-- Meier, C.A. (ed.) *Atom and Archetype: The Pauli/Jung Letters 1932-1958*
-
-**Philosophical Context:**
-- Dorn, G. (Dorneus) — *Speculativae Philosophiae* (16th century alchemical source)
-- Nicholas of Cusa — *De Docta Ignorantia* (the coincidentia oppositorum)
-- Eckhart, Meister — sermons on the *Gelassenheit* and the ground of the soul
-
-**Secondary Analysis:**
-- von Franz, M.-L. *Psyche and Matter* — the psychoid archetype and the unus mundus
-- Aziz, R. *C.G. Jung's Psychology of Religion and Synchronicity* — unus mundus in context
-- Cambray, J. *Synchronicity: Nature and Psyche in an Interconnected Universe*
-
----
-
-*Created 2026-02-07. Part of the Jungian Archetypes collection within [[Personal Mythos]].*

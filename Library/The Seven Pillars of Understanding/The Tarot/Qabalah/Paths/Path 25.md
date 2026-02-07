@@ -148,22 +148,18 @@ The testing of this path is the temptation to *stay* in Yesod — to accumulate 
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Sefer Yetzirah — Path 25 as the "Intelligence of Probation" or "Tentative Intelligence" (*Sekhel Nisyoni*). The testing of the soul's readiness for solar consciousness.
+
 [^2]: Wang, *The Qabalistic Tarot* — Samekh as the only completely enclosed Hebrew letter; the circular form representing divine protection and the alchemical vessel.
+
 [^3]: Zohar; daily liturgy (*Ashrei*) — *Somekh noflim* ("He supports the falling"), invoking the root meaning of Samekh as divine support for those in transition.
+
 [^4]: Crowley, *The Book of Thoth* — Temperance as "Art" in the Thoth deck; the alchemical marriage of opposites, the pouring between vessels as the metallurgical tempering of the soul.
+
 [^5]: Jung, CW 9ii (*Aion*) — The ego-Self axis; the encounter with the Self as the decisive moment in individuation, requiring the ego to relinquish its claim to centrality.
+
 [^6]: Jung, CW 8 (*The Structure and Dynamics of the Psyche*) — The transcendent function as the mediating process between conscious and unconscious positions, producing a "third" that is neither.
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** — Path 25 as the "Intelligence of Probation" (*Sekhel Nisyoni*); the testing of the soul's readiness
-- **Robert Wang, *The Qabalistic Tarot*** — Samekh as the only enclosed Hebrew letter; the circular form as alchemical vessel and divine protection
-- **The Zohar** — *Somekh noflim* ("He supports the falling"); the root meaning of Samekh as divine support
-- **Aleister Crowley, *The Book of Thoth*** — Temperance as "Art" in the Thoth deck; the alchemical marriage of opposites
-- **Jung, CW 9ii (*Aion*)** — The ego-Self axis and the decisive encounter with the Self in individuation
-- **Jung, CW 8 (*The Structure and Dynamics of the Psyche*)** — The transcendent function as mediator between conscious and unconscious

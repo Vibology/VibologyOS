@@ -220,6 +220,7 @@ To engage the Second Triad is to **act with integrity, courage, and grace** in t
 To engage the Third Triad is to **listen to intuition, follow synchronicity, and trust the guidance** of your guardian angel.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -239,26 +240,8 @@ To engage the Third Triad is to **listen to intuition, follow synchronicity, and
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
-- Three Triads structure
-- Nine orders with Hebrew names
-- Functions of each order
-- Qabalistic correspondences
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
-- Sephirothic assignments
-- Golden Dawn correspondences
-
-**Scriptural References:**
-- Isaiah 6:1-7 (Seraphim vision)
-- Ezekiel 1, 10 (Cherubim vision)
-
-**Secondary Sources (Referenced via Primary Texts):**
-- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)

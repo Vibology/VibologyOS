@@ -349,27 +349,8 @@ A **functional Persona** that serves the Self's aims—a mask that can be worn w
 
 ---
 
+## Notes
 
 [^1]: Primary sources listed in References section.
 
 ---
-
-## Sources
-### Primary Texts (Jung)
-- **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Foundational analysis of the persona and its function.
-- **Jung, Carl Gustav.** *The Relations Between the Ego and the Unconscious* (CW 7). Persona development and differentiation from the unconscious.
-- **Jung, Carl Gustav.** *The Stages of Life* (CW 8). First half vs. second half of life and the persona's role.
-- **Jung, Carl Gustav.** *The Development of Personality* (CW 17). Persona formation in youth and necessary shedding in maturity.
-
-### Jungian Interpretation
-- **Jacobi, Jolande.** *The Psychology of C.G. Jung* (1942). Classic overview of persona, shadow, and individuation stages.
-- **Whitmont, Edward C.** *The Symbolic Quest* (1969). Persona as mask and adaptation.
-- **Sharp, Daryl.** *Personality Types: Jung's Model of Typology* (1987). Persona and its relationship to typology.
-
-### Developmental Psychology
-- **Erikson, Erik.** *Childhood and Society* (1950). Identity formation (adolescence) and generativity (adulthood).
-- **Levinson, Daniel.** *The Seasons of a Man's Life* (1978). Life structure and the midlife transition.
-
-### Comparative & Cultural
-- **Goffman, Erving.** *The Presentation of Self in Everyday Life* (1959). Sociological analysis of persona and role-playing.
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The hero's trials and social integration.

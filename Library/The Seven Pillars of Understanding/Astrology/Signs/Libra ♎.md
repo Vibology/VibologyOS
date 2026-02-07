@@ -211,15 +211,21 @@ The Scales teach that justice is not sameness. It is **right relationship**—an
 - [[G Center]] — Human Design love and identity in relationship
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Libra (Day House)
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Libra as Cardinal (equinoctial) Air (hot and moist, sanguine)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Saturn exalted in Libra at 21°
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Sun in fall at 19° Libra
+
 [^5]: Lilly, *Christian Astrology*, Book 1: Mars in detriment (opposite Aries)
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Libra cosignificator of 7th House (marriage, open enemies, lawsuits)
+
 [^7]: Lilly, *Christian Astrology*, Book 1: Libra governs kidneys, loins, back, buttocks, bladder; diseases include kidney stones, heat in loins, blood corruption
 
 ---
-
-*"Libra does not erase difference. It holds the tension between opposites until the third emerges—and that third is the Transcendent Function."*

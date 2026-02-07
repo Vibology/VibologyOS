@@ -132,25 +132,22 @@ The Qabalah is formally housed within the Tarot pillar because the two systems a
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: *Sefer Yetzirah* (3rd-6th century CE) — foundational text codifying the Sephiroth and Hebrew letter mysticism; dating range reflects scholarly uncertainty
+
 [^2]: *The Zohar* (13th century, attributed to Shimon bar Yochai) — the masterwork of Jewish mysticism in which Qabalistic cosmology flowers
+
 [^3]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Levi's 1856 mapping and the Golden Dawn's systematic Tarot-Tree correspondence
+
 [^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983); Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — the threefold spelling convention distinguishing Jewish, Christian, and Hermetic streams
+
 [^5]: Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — paraphrased aphorism on the Tree of Life as soul-map
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** (3rd-6th century CE) — Foundational text on the Sephiroth and Hebrew letter mysticism
-- **The Zohar** (13th century, attrib. Shimon bar Yochai) — The masterwork of Jewish mysticism
-- **Wang, Robert** (1983). *The Qabalistic Tarot* — Definitive treatment of Golden Dawn Qabalah-Tarot correspondences
-- **Fortune, Dion** (1935). *The Mystical Qabalah* — Accessible overview of Western esoteric Qabalah
-- **DuQuette, Lon Milo** (2003). *The Chicken Qabalah* — Introductory treatment with humor and clarity
-
----
-
-> *"The Tree of Life is not a map of the universe. It is a map of the soul encountering the universe."*
-> — Dion Fortune, *The Mystical Qabalah* (paraphrased) [^5]

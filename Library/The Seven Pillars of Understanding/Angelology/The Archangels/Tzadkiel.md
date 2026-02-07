@@ -956,7 +956,9 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 
 
 ---
+
 ## Cross-References
+
 ### Angelology
 - House of the Sea — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
@@ -1009,21 +1011,8 @@ Choose one person (including yourself) to **forgive this week**. Mercy is not we
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Tzadkiel as 'Righteousness of God,' archangel of Chesed.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Tzadkiel as "Righteousness of God," archangel of Chesed: p. 296
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Tzadkiel as archangel of Chesed
-- Chashmalim (Dominations) as angelic choir of Chesed
-- Jupiter/Chesed/Dominations correspondences
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design G-Center, Jupiter/astrology, Tarot Emperor/Fours, Jungian Sovereign/Wise Father) represent original integrative frameworks. The connection between Tzadkiel and Chesed/mercy is traditional Qabalah; mapping to HD G-Center (identity, love, direction) and Jungian archetypes is Vibology interpretation.*

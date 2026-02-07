@@ -105,21 +105,16 @@ Every audit is a Geburah operation. Every dead wikilink removed is Geburah at wo
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — Geburah as the "left arm" of the divine body, the arm that restricts, withdraws, and guards; complementary to Chesed's right arm.
+
 [^2]: Zohar — Geburah as the "root of all evil" when separated from Chesed; the Qlippothic shells born from the left side operating without the right.
+
 [^3]: Sefer Yetzirah — Geburah as the "Radical Intelligence" (*Sekhel Nishrash*), the power that cuts to the root and strips away surface appearances.
+
 [^4]: Dion Fortune, *The Mystical Qabalah* — Pachad ("Fear") as awe before the numinous rather than terror; the trembling that clarifies rather than paralyzes.
+
 [^5]: Jung, *The Red Book* (Liber Novus) — The "spirit of the depths" as the force that dismantles the ego's constructions; the destructive aspect of the Self in service of transformation.
 
 ---
-
-## Sources
-
-- **The Zohar** — Geburah as the "left arm" of the divine body; the root of all evil when separated from Chesed; the Qlippothic shells born from the unbalanced left side
-- **Sefer Yetzirah** — Geburah as the "Radical Intelligence" (*Sekhel Nishrash*), the power that cuts to the root
-- **Dion Fortune, *The Mystical Qabalah*** — Pachad ("Fear") as awe before the numinous; Geburah as necessary destructive force on the Tree
-- **Robert Wang, *The Qabalistic Tarot*** — The Fives as Geburah's Tarot expression; disruption as testing of form
-- **Rudolf Otto, *The Idea of the Holy*** — The *mysterium tremendum* as the quality of fear/awe Fortune attributes to Pachad
-- **Jung, *The Red Book* (Liber Novus)** — The "spirit of the depths" as the destructive-transformative aspect of the Self

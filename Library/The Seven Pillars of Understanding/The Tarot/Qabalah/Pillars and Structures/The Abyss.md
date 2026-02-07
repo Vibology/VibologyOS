@@ -111,23 +111,20 @@ In [[The Magdalene Path]], the practice of ***kenosis*** (self-emptying) is the 
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Wang, *The Qabalistic Tarot* — The Abyss as the divide between the Supernals (ideal/potential) and the lower Sephiroth (actual/manifested). The Supernals as "creators," the lower seven as "created."
+
 [^2]: Wang — Crossing the Abyss requires "the abandonment of the human personality and ego," described as a spiritual death and rebirth.
+
 [^3]: Aleister Crowley, *The Vision and the Voice* (Liber 418), 10th Aethyr (ZAX) — Crowley's account of his encounter with Choronzon in the Abyss. Choronzon as "the Demon of Dispersion" who fragments consciousness.
+
 [^4]: Crowley, *Liber B vel Magi* — The Oath of the Abyss: "I will interpret every phenomenon as a particular dealing of God with my soul."
+
 [^5]: Crowley — The "Black Brothers" as those who fail the Abyss crossing by retaining the ego; they build a "Tower of Isolation" (cf. The Tower XVI) in the Abyss rather than dissolving through it.
+
 [^6]: St. John of the Cross, *Dark Night of the Soul* (c. 1578-1585) — The two Dark Nights (Senses and Spirit) as progressive purgation of attachment.
+
 [^7]: Jung, CW 7 (*Two Essays on Analytical Psychology*) — Inflation as ego-identification with archetypal content, the "mana personality."
 
 ---
-
-## Sources
-
-- **Robert Wang, *The Qabalistic Tarot*** — The Abyss as the divide between Supernals and lower Sephiroth; crossing as spiritual death and rebirth
-- **The Zohar** — The Supernals as creators and the lower Sephiroth as created; the ontological discontinuity between ideal and actual
-- **Aleister Crowley, *The Vision and the Voice* (Liber 418)** — Choronzon as the Demon of Dispersion; the 10th Aethyr (ZAX) as the Abyss experience
-- **Aleister Crowley, *Liber B vel Magi*** — The Oath of the Abyss and its commitment to interpret every phenomenon as divine dealing
-- **St. John of the Cross, *Dark Night of the Soul*** — The two Dark Nights (Senses and Spirit) as progressive purgation paralleling the Abyss crossing
-- **Jung, CW 7 (*Two Essays on Analytical Psychology*)** — Inflation as ego-identification with archetypal content; the mana personality

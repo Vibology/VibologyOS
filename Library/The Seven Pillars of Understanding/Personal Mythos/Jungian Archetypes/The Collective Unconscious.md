@@ -203,48 +203,44 @@ The collective unconscious speaks in symbols, myths, and dreams. The practitione
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 9i, par. 3 — Collective unconscious as deepest psyche layer shared by all humans; archetypal patterns appear universally without cultural transmission
-[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 342 — "Collective unconscious contains whole spiritual heritage of mankind's evolution, born anew in brain structure of every individual"
-[^3]: Jung, C.G. *Collected Works* Vol. 7 — Three-layer model: consciousness (ego), personal unconscious, collective unconscious
-[^4]: Jung, C.G. *Collected Works* Vol. 9i, par. 5 — Archetypes as contents of collective unconscious; distinction between archetype *per se* and archetypal image
-[^5]: Jung, C.G. *Collected Works* Vol. 8, Vol. 9i — Empirical evidence: schizophrenic hallucinations, cross-cultural mythology, dreams with no personal source, spontaneous mandala production
-[^6]: Jung, C.G. *Collected Works* Vol. 9i, par. 105 — Patient hallucinated sun's phallus (wind origin) matching obscure Mithraic Liturgy text; evidence of archetypal layer access
-[^7]: Jung, C.G. & Joseph Campbell — Cross-cultural mythological parallels: flood myths, dying-rising gods, underworld descent, virgin births, dragon-slaying heroes; shared psychic substrate
-[^8]: Jung, C.G. *Collected Works* Vol. 8 — Dreams containing symbols with no personal source; arise from collective layer not personal memory
-[^9]: Jung, C.G. *Collected Works* Vol. 9i — Spontaneous mandala production during psychological crisis; symbol of Self emerges from collective unconscious
-[^10]: Jung, C.G. *Collected Works* Vol. 8, par. 398 — Archetypes as psychic counterpart to biological instincts; image-making side of same underlying structure
-[^11]: Jung, C.G. *Collected Works* Vol. 8, par. 398 — "The archetype is the image of the instinct"
-[^12]: Jung, C.G. *Collected Works* Vol. 9i — Similarity to Plato's Forms (*eidos*); universal patterns underlying manifestations; transpersonal, inherited/given
-[^13]: Jung, C.G. *Collected Works* Vol. 9i, par. 155 — Difference from Plato: archetypes dynamic, numinous, charged with energy (living forces) vs. static, intellectual, abstract Forms
-[^14]: Jung, C.G. — Myths as collective dream of humanity; express collective unconscious as individual dreams express personal unconscious
-[^15]: Contemporary psychology — Support from transpersonal psychology, anthropology, some neuroscience; critique from evolutionary psychology, cultural anthropology, cognitive science
-[^16]: Jung, C.G. — Response to storage critique: archetypes are inherited potentials (like language capacity), not stored content (like specific language)
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[Jungian Archetypes]] — The universal patterns residing in the collective unconscious
-- [[The Self]] — The central archetype, the God-image, totality of the psyche
-- [[The Shadow]] — The dark, repressed archetype every individual encounters
-- [[The Anima]] / [[The Animus]] — Contrasexual archetypes from the collective layer
-- [[The Great Mother]] — Primal feminine archetype (nurturing and devouring)
-- [[The Wise Old Man]] — Archetypal guide and teacher
-- [[The Hero]] — Universal protagonist archetype appearing in all cultures
-- [[Synchronicity]] — Emerges from the psychoid layer of the collective unconscious
-- [[Psychoid Archetype]] — The deepest layer where archetypes touch matter
-- [[Numinous Experience]] — The awe/terror evoked by contact with the collective unconscious
-- [[The Hero's Journey]] — Campbell's articulation of universal mythic pattern from collective layer
-- [[Individuation Process]] — Journey from ego-identification to relationship with collective/archetypal realm
-- [[Active Imagination]] — Method for consciously engaging the collective unconscious
-- [[Astrology]] — System revealing archetypal patterns from collective field through planetary positions
-- [[The Tarot]] — Visual representation of archetypal sequence (Major Arcana as individuation map)
-- [[Human Design]] — 64 Gates as archetypal themes imprinted from collective unconscious at birth
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 9i, par. 3 — Collective unconscious as deepest psyche layer shared by all humans; archetypal patterns appear universally without cultural transmission
 
-- Jung, C.G. *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* — Three-layer model of the psyche (consciousness, personal unconscious, collective unconscious)
-- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Archetypes as psychic counterpart to biological instincts; "the archetype is the image of the instinct"; inherited potentials vs. stored content
-- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Primary source for collective unconscious theory; archetype *per se* vs. archetypal image; Mithraic Liturgy case; spontaneous mandala production; relationship to Plato's Forms
-- Campbell, Joseph. *The Hero with a Thousand Faces* — Cross-cultural mythological parallels as evidence of shared archetypal substrate (Hero's Journey)
+[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 342 — "Collective unconscious contains whole spiritual heritage of mankind's evolution, born anew in brain structure of every individual"
+
+[^3]: Jung, C.G. *Collected Works* Vol. 7 — Three-layer model: consciousness (ego), personal unconscious, collective unconscious
+
+[^4]: Jung, C.G. *Collected Works* Vol. 9i, par. 5 — Archetypes as contents of collective unconscious; distinction between archetype *per se* and archetypal image
+
+[^5]: Jung, C.G. *Collected Works* Vol. 8, Vol. 9i — Empirical evidence: schizophrenic hallucinations, cross-cultural mythology, dreams with no personal source, spontaneous mandala production
+
+[^6]: Jung, C.G. *Collected Works* Vol. 9i, par. 105 — Patient hallucinated sun's phallus (wind origin) matching obscure Mithraic Liturgy text; evidence of archetypal layer access
+
+[^7]: Jung, C.G. & Joseph Campbell — Cross-cultural mythological parallels: flood myths, dying-rising gods, underworld descent, virgin births, dragon-slaying heroes; shared psychic substrate
+
+[^8]: Jung, C.G. *Collected Works* Vol. 8 — Dreams containing symbols with no personal source; arise from collective layer not personal memory
+
+[^9]: Jung, C.G. *Collected Works* Vol. 9i — Spontaneous mandala production during psychological crisis; symbol of Self emerges from collective unconscious
+
+[^10]: Jung, C.G. *Collected Works* Vol. 8, par. 398 — Archetypes as psychic counterpart to biological instincts; image-making side of same underlying structure
+
+[^11]: Jung, C.G. *Collected Works* Vol. 8, par. 398 — "The archetype is the image of the instinct"
+
+[^12]: Jung, C.G. *Collected Works* Vol. 9i — Similarity to Plato's Forms (*eidos*); universal patterns underlying manifestations; transpersonal, inherited/given
+
+[^13]: Jung, C.G. *Collected Works* Vol. 9i, par. 155 — Difference from Plato: archetypes dynamic, numinous, charged with energy (living forces) vs. static, intellectual, abstract Forms
+
+[^14]: Jung, C.G. — Myths as collective dream of humanity; express collective unconscious as individual dreams express personal unconscious
+
+[^15]: Contemporary psychology — Support from transpersonal psychology, anthropology, some neuroscience; critique from evolutionary psychology, cultural anthropology, cognitive science
+
+[^16]: Jung, C.G. — Response to storage critique: archetypes are inherited potentials (like language capacity), not stored content (like specific language)
+
+---

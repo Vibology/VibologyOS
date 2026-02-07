@@ -677,27 +677,8 @@ The treasure is **what you are missing**—the value, the meaning, the piece of 
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Quest-centered tales: "The Golden Bird," "The Water of Life," "The Queen Bee," "The Three Feathers."
-
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The quest object as projection of the Self.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Self as treasure and goal.
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The philosopher's stone as ultimate quest object.
-- **Neumann, Erich.** *The Origins and History of Consciousness* (1949). The hero's journey and the treasure hard to attain.
-
-### Comparative Mythology
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The ultimate boon and return with the elixir.
-- **Eliade, Mircea.** *The Quest: History and Meaning in Religion* (1969). The quest pattern across religious traditions.
-
-### Grail Literature
-- **Jung, Emma and Marie-Louise von Franz.** *The Grail Legend* (1970). Comprehensive Jungian analysis of the Grail as quest object and healing symbol.
-
-### Alchemical & Symbolic
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The lapis philosophorum as psychological goal.

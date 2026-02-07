@@ -665,7 +665,9 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 
 
 ---
+
 ## Cross-References
+
 ### Sephirotic Connections
 - [[Geburah]] — Kamael's Sephirah, Severity and Strength
 - [[Chesed]] — The balancing sphere of Mercy
@@ -733,23 +735,8 @@ If the act leaves you feeling *inflated* (powerful, superior, righteous in a gra
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Kamael as 'Severity of God,' archangel of Geburah.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Kamael as "He Who Sees God," archangel of Geburah: p. 157-158
-- Kamael as Severity of God, angel of strength and courage: p. 157-158
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Kamael as archangel of Geburah
-- Seraphim as angelic choir of Geburah (distinct from Seraphim of Kether)
-- Mars/Geburah/Powers correspondences
-- Seraphim of Geburah verified as correct (not Elohim)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Heart/Ego Center, Mars/astrology, Tarot Tower/Fives, Jungian Warrior/Sword archetype) represent original integrative frameworks. The connection between Kamael and Geburah/strength is traditional Qabalah; mapping to HD Heart Center (willpower, boundaries) and Jungian archetypes is Vibology interpretation.*

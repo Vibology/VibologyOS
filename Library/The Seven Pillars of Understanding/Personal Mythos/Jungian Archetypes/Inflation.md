@@ -185,39 +185,38 @@ Humility is not weakness—it is precision. The Observatory does not claim to be
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 7, par. 227 — Definition of inflation: ego identifies with archetypal forces, leading to grandiosity and hubris
-[^2]: Jung, C.G. *Collected Works* Vol. 9i, par. 227 — "Inflation occurs when ego usurps power of the Self"
-[^3]: Jung, C.G. *Collected Works* Vol. 7 — Contact with numinous content from collective unconscious (archetype, vision, mystical experience)
-[^4]: Jung, C.G. *Collected Works* Vol. 7 — Ego identification vs. relating to archetypal content; boundary collapse between ego and archetype
-[^5]: Jung, C.G. *Collected Works* Vol. 7, par. 230 — Inflation often compensated by feelings of inferiority; volatile swings between grandiosity and collapse
-[^6]: Marie-Louise von Franz, lectures on inflation — Extensive teachings on inflation in spiritual/psychological communities
-[^7]: Marie-Louise von Franz — "Silly inflation" example: woman identifies with Great Mother archetype, believes she controls life and death of others
-[^8]: Marie-Louise von Franz — Inflation particularly common in spiritual communities with direct contact with numinous material
-[^9]: Jung, C.G. & contemporary Jungian analysis — Distinction between clinical narcissism (developmental wound) and Jungian inflation (archetypal possession)
-[^10]: Jung, C.G. *Collected Works* Vol. 7 — Stages of inflation: encounter, identification, grandiosity, shadow compensation, collapse, potential integration
-[^11]: Jung, C.G. — Deflation/collapse as severe as preceding inflation; fall proportionate to height of grandiosity
-[^12]: Jung, C.G. *Collected Works* Vol. 9i — Remedy: humility, recognition of ego as satellite of Self (not center), mandala as image of proper relationship
-[^13]: Jung, C.G. — Tools of individuation (meditation, active imagination, psychedelics) necessary but dangerous; risk of inflation if ego boundaries dissolve prematurely
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Shadow]] — Compensates inflation with its opposite (inferiority, doubt, shame)
-- [[The Self]] — The true center of the psyche; ego inflates when it identifies as Self
-- [[Ego-Death]] — Temporary dissolution of ego boundaries (can trigger inflation during re-emergence if unintegrated)
-- [[Numinous Experience]] — Contact with the numinous often precedes inflation
-- [[The Persona]] — Inflation can also involve identification with persona (social mask) rather than archetype
-- [[The Hero]] — Common archetypal inflation: identifying as "the chosen one" on heroic journey
-- [[The Wise Old Man]] — Intellectual/spiritual inflation: believing oneself to possess ultimate wisdom
-- [[The Great Mother]] — Maternal inflation: believing oneself responsible for nurturing/controlling others' lives
-- [[Active Imagination]] — Method requiring careful boundaries to avoid inflation (practitioner is not the inner figures)
-- [[Lucifer]] — Archetypal image of inflation (angel who believed himself equal to God, leading to his fall)
-- [[The Tower (XVI)]] — Tarot card of sudden collapse following hubris and inflation
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 7, par. 227 — Definition of inflation: ego identifies with archetypal forces, leading to grandiosity and hubris
 
-- Jung, C.G. *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* — Primary treatment of psychic inflation; ego identification with archetypal forces; inflation-deflation cycle; compensatory inferiority
-- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Ego-Self boundary; mandala as image of proper ego-Self relationship; humility as remedy for inflation
-- von Franz, Marie-Louise. Lectures on inflation — "Silly inflation"; archetypal possession in spiritual communities; Great Mother identification example; boundary restoration as remedy
+[^2]: Jung, C.G. *Collected Works* Vol. 9i, par. 227 — "Inflation occurs when ego usurps power of the Self"
+
+[^3]: Jung, C.G. *Collected Works* Vol. 7 — Contact with numinous content from collective unconscious (archetype, vision, mystical experience)
+
+[^4]: Jung, C.G. *Collected Works* Vol. 7 — Ego identification vs. relating to archetypal content; boundary collapse between ego and archetype
+
+[^5]: Jung, C.G. *Collected Works* Vol. 7, par. 230 — Inflation often compensated by feelings of inferiority; volatile swings between grandiosity and collapse
+
+[^6]: Marie-Louise von Franz, lectures on inflation — Extensive teachings on inflation in spiritual/psychological communities
+
+[^7]: Marie-Louise von Franz — "Silly inflation" example: woman identifies with Great Mother archetype, believes she controls life and death of others
+
+[^8]: Marie-Louise von Franz — Inflation particularly common in spiritual communities with direct contact with numinous material
+
+[^9]: Jung, C.G. & contemporary Jungian analysis — Distinction between clinical narcissism (developmental wound) and Jungian inflation (archetypal possession)
+
+[^10]: Jung, C.G. *Collected Works* Vol. 7 — Stages of inflation: encounter, identification, grandiosity, shadow compensation, collapse, potential integration
+
+[^11]: Jung, C.G. — Deflation/collapse as severe as preceding inflation; fall proportionate to height of grandiosity
+
+[^12]: Jung, C.G. *Collected Works* Vol. 9i — Remedy: humility, recognition of ego as satellite of Self (not center), mandala as image of proper relationship
+
+[^13]: Jung, C.G. — Tools of individuation (meditation, active imagination, psychedelics) necessary but dangerous; risk of inflation if ego boundaries dissolve prematurely
+
+---

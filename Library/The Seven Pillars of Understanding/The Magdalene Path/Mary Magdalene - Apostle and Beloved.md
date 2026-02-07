@@ -343,7 +343,9 @@ Mary is the **model of the path**:
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - Complete introduction to the path
 - [[The Eight Boughs of Ascent]] - Mary's journey through the stages
@@ -362,41 +364,16 @@ Mary is the **model of the path**:
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating Mary Magdalene, the "sinful woman," and Mary of Bethany into a single "penitent prostitute" figure
+
 [^2]: King, *The Gospel of Mary of Magdala: Jesus and the First Woman Apostle* (2003); cited in Bourgeault — dating the Gospel of Mary to the first half of the 2nd century CE
+
 [^3]: Gospel of Philip, Nag Hammadi Codex II,3, 3rd century CE — Mary as koinonos and the Bridal Chamber as central sacrament surpassing baptism and eucharist
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 97 — interpretation of "make her male" (Gospel of Thomas, Logion 114) as ihidaya (singleness), not literal gender change
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — etymological connection of "Magdalene" to Magdala (tower) and the Hebrew magdal-eder ("watchtower")
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Mary as koinonos: p. 107
-- Ihidaya / "make her male" interpretation: p. 97
-- Pope Gregory I / Homily 33 (594 CE): cited throughout
-- Bourgeault cites Karen King on dating of Gospel of Mary
-
-Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
-- Mary calms the disciples (5:1-9)
-- Peter's challenge (9:3-10)
-- Vision of ascent through seven powers (10-17)
-
-Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
-- Mary as koinonos (63:30-64:10)
-- The "kiss" passage (transmission of pneuma)
-- Three chambers: Baptism, Redemption, Bridal Chamber (69:14-70:4)
-- Male and female becoming one (67:30-35)
-
-Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
-- Logion 114: "make her male"
-
-**Biblical References:**
-- Luke 8:1-3: Mary and the seven demons
-- Mark 15:40-41, John 19:25: Mary at the crucifixion
-- Mark 15:47, John 19:39-42: Mary at the burial
-- John 20:11-18: Mary as first witness to resurrection
 
 ---

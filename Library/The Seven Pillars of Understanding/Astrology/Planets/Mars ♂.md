@@ -223,13 +223,16 @@ Mars teaches that transformation is not gentle. It is the breaking of the old fo
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Lilly, *Christian Astrology*, Book 1: Mars rejoices in the 6th House, the house of sickness and servants
+
 [^3]: Greek mythology (Grimoire): Ares as the raging demon of blind brutal courage, the slayer of men hated even by Zeus for his love of strife; represents quarrels, sedition, violence, and tyranny
+
 [^4]: Greek mythology (Grimoire): Ares's illicit affair with Aphrodite (Venus), trapped in a net by Hephaestus; the dance between desire and aggression
+
 [^5]: Roman mythology (Grimoire): Mars originally a deity of vegetation and fertility (Mars Silvanus), protector of cattle, father of Romulus and Remus; represents the chthonic masculine force of the body
 
 ---
-
-*"Mars does not build. He clears the ground. And in the scorched earth, something new takes root."*

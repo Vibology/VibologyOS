@@ -982,7 +982,9 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - The Fifth Way and vertical axis
 - [[Mary Magdalene - Apostle and Beloved]] - The teacher of this vision
@@ -1007,37 +1009,16 @@ The fruit of the higher boughs **nourishes** those at the lower boughs. Your cla
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: de Quillan, *The Gospel of the Beloved Companion* (CreateSpace, 2010), Ch. 42 — the vision of the Great Tree with eight boughs, including all fruits, guardians, and the apophatic method of ascent
+
 [^2]: Gospel of Mary, Berlin Gnostic Codex (BG 8502,1), 2nd century CE; Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Nous teaching: spiritual perception occurs not through soul or spirit but through the nous "between the two"
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Seven Powers of Wrath as the "False Self System," the gravitational field of egoic attachment the soul must overcome
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — the Nous as "mystical intertidal zone," "homing beacon," and bridge between visible and invisible realms
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 5 — "not wavering" as the prerequisite for visionary seeing, requiring emotional steadiness undisturbed by psychic excitation
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- The Nous as "eye of the heart" and "mystical intertidal zone": Ch. 5
-- "Not wavering" as prerequisite for visionary seeing: Ch. 5
-- Seven Powers as "False Self System": Ch. 5
-
-de Quillan, Jehanne. *The Gospel of the Beloved Companion: The Complete Gospel of Mary Magdalene*. CreateSpace, 2010. ISBN: 9781452810720.
-- The Eight Boughs of Ascent: Chapter 42
-- The Great Tree structure (roots, trunk, crown): Chapter 42
-- All eight fruits and guardians: Chapter 42
-- Method of apophasis (denial): Chapter 42
-- "The Migdalah" title for Miryam: Chapter 42
-
-Gospel of Mary. Nag Hammadi Library. 2nd century CE.
-- The Four Great Powers: Darkness, Craving, Ignorance, Wrath
-- The Seven Forms of Wrath
-- Soul's dialogue with the Powers ("You mistook the cloak I was wearing...")
-- The Nous teaching ("He does not see through the soul nor through the spirit, but the mind [Nous] which is between the two")
-- "Blessed are you Mary, for you do not waver at the sight of me"
-
-Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
-- The Three Chambers: Baptism, Redemption, Bridal Chamber
 
 ---

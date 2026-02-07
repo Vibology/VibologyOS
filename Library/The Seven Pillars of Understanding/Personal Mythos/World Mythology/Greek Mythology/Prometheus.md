@@ -441,40 +441,8 @@ If you are **Epimethean** (extraverted, reactive, adaptive):
 
 ---
 
+## Notes
 
 [^1]: Hesiod, *Theogony* and Aeschylus, *Prometheus Bound* — Prometheus as fire-bringer and rebel consciousness.
 
 ---
-
-## Sources
-
-### Primary Ancient Sources
-- Hesiod, *Theogony* (lines 507-616) — fire theft and punishment
-- Hesiod, *Works and Days* (lines 42-105) — Pandora myth, Prometheus-Zeus conflict
-- Aeschylus, *Prometheus Bound* (c. 430 BCE) — definitive dramatic treatment
-- Apollodorus, *Bibliotheca* (1.7.1-2) — creation of humanity
-- Ovid, *Metamorphoses* (Book I) — creation from clay
-
-### Scholarly Analysis
-- Carl Kerényi, *Prometheus: Archetypal Image of Human Existence* (1963)
-- Olga Raggio, "The Myth of Prometheus: Its Survival and Metamorphoses up to the Eighteenth Century," *Journal of the Warburg and Courtauld Institutes* (1958)
-- James C. McLelland, *Prometheus Rebound: The Irony of Atheism* (1988)
-
-### Jungian and Archetypal
-- C.G. Jung, *Symbols of Transformation* (CW 5, par. 306, 450) — fire theft, cost of consciousness, Promethean guilt
-- C.G. Jung, *Psychological Types* (CW 6) — Prometheus/Epimetheus as introverted/extraverted polarity
-- C.G. Jung, *The Archetypes and the Collective Unconscious* (CW 9i) — daimon, individuation, rebellion
-- Edward F. Edinger, *Ego and Archetype* (1972) — Promethean separation from unconscious
-- James Hillman, *A Blue Fire* (1989) — Promethean consciousness and pathology
-
-### Literary Criticism
-- Earl R. Wasserman, *Shelley's Prometheus Unbound: A Critical Reading* (1965)
-- Harold Bloom, *The Visionary Company* (1961) — Romantic Prometheanism
-- Anne K. Mellor, *Mary Shelley: Her Life, Her Fiction, Her Monsters* (1988) — Frankenstein as Promethean critique
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Hesiod, Aeschylus primary sources). Archetypal analysis synthesized from Jungian cost-of-consciousness framework (CW 5 verified), Promethean guilt concept, and Prometheus/Epimetheus typology (CW 6). Rebellion-against-senex theme verified from individuation theory. Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

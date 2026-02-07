@@ -1132,7 +1132,9 @@ This is Raphael's initiatic question. Every wound, when met consciously, reveals
 ---
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 
 - [[Tiphareth]] (Primary Sephirah governed by Raphael)
@@ -1421,33 +1423,10 @@ Steiner also teaches that Archangels are involved in **individual human karma an
 
 *"Raphael does not heal you by removing the wound. He teaches you to transmute the wound into medicine. The fish that leapt at Tobias was meant to devour him—but Raphael said, 'Catch it. Open it. Use its organs to heal and to protect.' This is the alchemical teaching: the thing that attacks you, when rightly engaged, becomes the source of your restoration."*
 
-
 ---
+
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Raphael as 'God has healed,' archangel of Healing and Mercury.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Raphael as "God Heals," archangel of Tiphareth: p. 241-242
-- Raphael as regent of the Sun: p. 241-242
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Raphael as archangel of Tiphareth
-- Melechim (Virtues) as angelic choir of Tiphareth
-- Sun/Tiphareth/Virtues correspondences
-
-**Book of Tobit** (Apocryphal text)
-- Tobit 12:15: Raphael as one of seven angels standing before God
-- Tobits journey: healing blindness, casting out Asmodeus, fish organs as medicine
-
-**The Bible**
-- Genesis 18-19: Angels visiting Abraham and Lot (Raphael traditionally identified as one)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Solar Plexus Center, Sun/astrology, Tarot Sun/Temperance/Sixes, Jungian Transcendent Function/Healer) represent original integrative frameworks. The connection between Raphael and Tiphareth/healing is traditional angelology; mapping to HD Solar Plexus (emotional awareness, spirit) and Jungian archetypes is Vibology interpretation.*
-
-
----
-

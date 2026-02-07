@@ -147,35 +147,16 @@ The emphasis on ascent (*epistrophe*) can become a refusal of descent (*proodos*
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Plotinus, *Enneads* V.2.1 (trans. Armstrong, Loeb Classical Library) — the One as source of all things, beyond predication and being.
+
 [^2]: Proclus, *Elements of Theology* (trans. Dodds, E.R.) — the triad of remaining-procession-return (*mone-proodos-epistrophe*) as universal metaphysical pattern.
+
 [^3]: Iamblichus, *De Mysteriis* (trans. Clarke, Dillon, Hershbell) — theurgy as necessary for the soul's ascent because embodied souls require sensory and symbolic mediation.
+
 [^4]: Pseudo-Dionysius, *The Celestial Hierarchy* III.2 (trans. Luibheid) — the purpose of the angelic hierarchy as assimilation to and union with God.
+
 [^5]: Plotinus, *Enneads* IV.8.1 (trans. Armstrong, Loeb Classical Library) — Plotinus's first-person account of mystical union (henosis).
 
 ---
-
-## Sources
-
-**Primary Texts:**
-- Plotinus, *Enneads* (trans. Armstrong, A.H., Loeb Classical Library) — especially I.6, IV.8, V.1, V.2, V.9, VI.9
-- Proclus, *Elements of Theology* (trans. Dodds, E.R.)
-- Iamblichus, *De Mysteriis* (trans. Clarke, E.C., Dillon, J.M., Hershbell, J.P.)
-- Pseudo-Dionysius, *The Celestial Hierarchy* and *The Mystical Theology* (trans. Luibheid, C.)
-
-**Historical Studies:**
-- Wallis, R.T. *Neoplatonism* (1972) — comprehensive introduction
-- Hadot, P. *Plotinus or the Simplicity of Vision* — philosophical and contemplative approach
-- Dodds, E.R. *Pagan and Christian in an Age of Anxiety* — the cultural context
-- Shaw, G. *Theurgy and the Soul: The Neoplatonism of Iamblichus* — theurgy and embodiment
-
-**Esotericism and Neoplatonism:**
-- Yates, F. *Giordano Bruno and the Hermetic Tradition* — the Renaissance Neoplatonic-Hermetic synthesis
-- Faivre, A. *Access to Western Esotericism* — Neoplatonism as foundation of Western esotericism
-- Copleston, F. *A History of Philosophy*, Vol. 1, Part 2 — scholarly treatment of Neoplatonic philosophy
-
----
-
-*Created 2026-02-07. Part of [[Core Foundations of Vibology]].*

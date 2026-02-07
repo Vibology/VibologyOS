@@ -370,7 +370,9 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 ---
 
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
 - [[The Eight Boughs of Ascent]] - Mary's teaching of the Great Tree and soul ascent
@@ -397,43 +399,19 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 - [[Jungian Archetypes]] - Shadow work and individuation parallels
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 109 — identification of the Magdalene Path as a distinct "Fifth Way" beyond the four traditional paths
+
 [^2]: Gospel of Philip, Nag Hammadi Codex II,3; Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 107 — Mary identified as Jesus's koinonos (companion/partner)
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating Mary Magdalene, the "sinful woman," and Mary of Bethany
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114 — the formula Agape = Eros x Kenosis as the mechanics of divine love
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 97 — interpretation of Gospel of Thomas Logion 114 as singleness (ihidaya), not literal gender transformation
+
 [^6]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), pp. 109-114 — Bourgeault cites Boris Mouravieff's description of the Fifth Way as an "esoteric shortcut" within the Fourth Way tradition
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Fifth Way definition: p. 109
-- A = E × K formula (Agape = Eros × Kenosis): p. 114
-- Kenosis as "non-clinging": p. 114
-- Ihidaya/Singleness: p. 97
-- Mary as koinonos: p. 107
-- Bourgeault cites Boris Mouravieff on Fifth Way: pp. 109–114
-- Bourgeault cites Bernard of Clairvaux (86 sermons on Song of Songs)
-- Bourgeault cites Teresa of Ávila (spiritual ecstasy, arrow imagery)
-- Pope Gregory I / Homily 33 (594 CE): cited by Bourgeault
-
-de Quillan, Jehanne. *The Gospel of the Beloved Companion: The Complete Gospel of Mary Magdalene*. CreateSpace, 2010. ISBN: 9781452810720.
-- Eight Boughs of Ascent: Ch. 42 (42:2–42:13)
-
-Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
-- Nous teaching
-- Seven Powers of Wrath
-- Dating per Karen King (cited in Bourgeault): first half of 2nd century
-
-Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
-- Mary as koinonos
-- Bridal Chamber sacrament
-- "Kissing" passage (manuscript damaged)
-
-Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
-- Logion 114: "make her male"
 
 ---

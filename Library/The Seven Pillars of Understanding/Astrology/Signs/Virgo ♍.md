@@ -195,6 +195,7 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 - **Element Tradition:** Mutable Earth (Soil, adaptable foundation that nourishes growth)
 
 ---
+
 ## Cross-References
 
 - **Signs:** [[Leo ♌]] (celebration that Virgo refines), [[Pisces ♓]] (polarity—dissolution vs. discernment), [[Taurus ♉]] (earth as embodiment), [[Capricorn ♑]] (earth as structure)
@@ -213,15 +214,21 @@ The Virgo question is not "Am I good enough?" but "Am I willing to tend this wor
 The Maiden teaches that service is not sacrifice. It is the **joy of care**—and that joy does not require recognition.
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Virgo (Night House)
+
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury exalted in Virgo at 15° (unique case where ruler = exaltation)
+
 [^3]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Virgo as Mutable (Common/Double-bodied) Earth (cold and dry, melancholy)
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Jupiter in detriment (opposite Pisces)
+
 [^5]: Lilly, *Christian Astrology*, Book 1: Venus in fall at 27° Virgo
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Virgo cosignificator of 6th House (sickness, servants, small cattle)
+
 [^7]: Lilly, *Christian Astrology*, Book 1: Virgo governs belly, bowels, entrails, midriff; diseases include worms, colic, bowel obstructions
 
 ---
-
-*"Virgo does not seek perfection to escape imperfection. It refines because refinement is love made visible."*

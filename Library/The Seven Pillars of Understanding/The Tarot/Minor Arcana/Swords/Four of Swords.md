@@ -297,6 +297,7 @@ The rest is not the end. It is the preparation for what comes next.
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Three of Swords]] - The sorrow: the wound that precedes the rest
 - [[Five of Swords]] - The defeat: the conflict that may follow re-engagement
@@ -338,27 +339,16 @@ The rest is not the end. It is the preparation for what comes next.
 
 ---
 
-*"Rest is not retreat—it is the gathering of strength for the next ascent."*
-
-## Footnotes
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Four of Swords
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Rest from Strife" and Jupiter in Libra attribution
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Four of Swords
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chesed in Yetzirah Qabalistic placement and decan attribution
+
 [^5]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Rider-Waite image description: recumbent knight on stone slab in prayer position
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

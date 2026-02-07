@@ -964,7 +964,9 @@ Invoke Sandalphon when you need:
 
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[Angelology]] (Sandalphon's role in the celestial hierarchy)
 - [[The Three Triads]] (Sandalphon exists outside the standard structure)
@@ -986,41 +988,10 @@ Invoke Sandalphon when you need:
 
 *"Sandalphon does not dwell in the heights. He stands in the soil, his feet rooted in the earth, his head reaching toward heaven. He is the ladder upon which prayers ascend and blessings descend. He is the weaver who makes of our scattered longing a crown worthy of the Divine. To work with Sandalphon is to learn that there is no heaven without earth, no prayer without embodiment, no devotion without the willingness to make it real."*
 
-
 ---
+
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Sandalphon as twin of Metatron, archangel of Malkuth.
-
----
-
-## Sources
-### Primary Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
-- Page 257: Sandalphon entry - Etymology from Greek "syn-adelphos" (co-brother); twin brother of Metatron; weaves prayers into garlands; height description; guardian function; "left-hand feminine cherub of the ark."
-- Page 111: Elijah transformed into Sandalphon (II Kings 2:11).
-- Talmudic reference (Hagiga 13b): Sandalphon's height reaches the "living creatures" (Hayyoth); taller than Hadraniel by "500-year foot journey."
-
-**Matt, Daniel C.** (translator and commentary). *The Zohar.* Pritzker Edition. Vol. 1. Stanford: Stanford University Press, 2004.
-- Page 1245, Note 416: Sandalphon's height reference.
-- Page 1296, Note 1077: Sandalphon and Malkuth correspondences.
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
-- Page 115: Sandalphon as Archangel of Malkuth (10th Sephirah); "Prince of Prayer (feminine)"; Nephesch ha Messiah ("Soul of the Reconciler for Earth"); Divine Name Adonai ha-Aretz (Lord of the Earth).
-- Page 266: Angelic choir attribution - Ashim (Flames of Fire/Souls of Fire/Ishim).
-
-### Vibology Synthesis Notes
-
-The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
-- All quotes attributed to "Dion Fortune" about Malkuth (not found in primary sources)
-- Historical references to Golden Dawn, Fortune, Regardie as contextual background
-- All Jungian interpretations and psychological parallels
-- Human Design (Root Center, Sacral Center), Gene Keys, chakra correspondences
-- Mythological parallels (Demeter, Gaia, Pachamama, Prithvi, Cernunnos)
-- All meditation practices, visualization techniques, and ritual instructions
-- Detailed Qlippothic analysis (Nehemoth/Lilith)
-- Cross-cultural earth deity and embodiment analysis
-- Prayer to Sandalphon (composed for this text)
-- Final quote about Sandalphon (original synthesis)
 
 ---

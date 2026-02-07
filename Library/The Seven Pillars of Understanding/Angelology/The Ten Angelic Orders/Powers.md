@@ -590,6 +590,7 @@ You recognize anger as **energy in service of protection**. You feel it without 
 To integrate the Powers is to become the **sacred warrior**—the one who defends cosmic order, wields strength in service of truth, and says "No further" when chaos threatens what is holy.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -656,45 +657,8 @@ To integrate the Powers is to become the **sacred warrior**—the one who defend
 
 ---
 
+## Notes
 
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Powers as angels of cosmic order.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius on Powers characterized by "masculine and unflinching courage": referenced in text
-- Powers "stop the efforts of demons who would overthrow the world": cited in text
-- Francis Barrett's *The Magus* attributing name *Elohim* to Powers: p. 226 (via Davidson)
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Powers are "the Seraphim the Flaming Ones who are also called the Order of Powers": referenced in text
-- Geburah angelic choir name: Seraphim (distinct from Seraphim of Kether)
-
-**The Bible** (New International Version, English Standard Version)
-- Colossians 1:16: Naming of cosmic authorities (*exousiai*)
-- Ephesians 6:12: Spiritual warfare against cosmic powers (*kosmokratores*)
-- Revelation 12:7-9: War in heaven, Michael and his angels
-- Psalm 103:20-21: Angels as mighty ones (*gibborim*)
-- Genesis 3:24: Cherubim and flaming sword guarding Eden
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Powers characterized by unflinching courage in divine energies (referenced in text)
-- Powers stop demons who would overthrow the world (cited in text)
-- Second hierarchy purified and illuminated by first (cited in text)
-
-**Fortune, Dion.** *The Mystical Qabalah.* Weiser Books, 1935.
-- Geburah as sphere of fear and strength, the surgeon's scalpel (quoted in text)
-- **Note:** Not verified in Esoteric Grimoire; cited as traditional Qabalistic teaching
-
-**Jung, Carl Gustav.** Writings on psychological types and symbols
-- *Psychological Types*: Psyche requires differentiation and boundary (quoted in text)
-- *Symbols of Transformation*: Sword as hero's weapon for separation (quoted in text)
-- **Note:** Jungian concepts referenced but not direct citations from specific verified sources
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Heart/Ego Center, Mars/astrological associations, Tarot Tower/Fives, Jungian sword archetype) represent original integrative frameworks developed for this system. The Heart Center correspondence (willpower, boundaries, capacity to say "No") synthesizes Human Design mechanics with angelic hierarchy. Mythological parallels (Athena, Durga, Thor, Sekhmet) are comparative analysis, not direct citations from primary angelology sources. Demonological references (Asmodeus as fallen Power) included as traditional esoteric teaching.*
-
----
-
-*"The Powers are the warriors who stand at the threshold between cosmos and chaos. They do not seek battle, but they do not flee from it. They wield the sword of discrimination—cutting away what does not serve, burning away corruption, defending what is sacred with unwavering strength. They teach that some things are worth fighting for, that boundaries are sacred, that the capacity to say 'No' is as holy as the capacity to say 'Yes.' They are the Elohim, the Divine Ones, the strength that does not falter, the courage that does not compromise. And they whisper: 'Stand. Defend. Discriminate. Do not allow chaos to overthrow what is holy. You are the warrior. Wield your strength wisely. Wield it fiercely. Wield it without apology when cosmic order demands it.'"*

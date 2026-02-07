@@ -720,6 +720,7 @@ The Virtues teach the middle way:
 - **But aligned** (and therefore capable of miracles when divine will requires them)
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -802,50 +803,8 @@ The Virtues teach the middle way:
 
 ---
 
+## Notes
 
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Virtues as angels of miracles and manifestation.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius places Virtues as sixth order in hierarchy: p. 303
-- Virtues as "chief bestowers of grace and valor": p. 303
-
-**The Bible** (New International Version, English Standard Version, King James Version)
-- Luke 8:46 (KJV): "Virtue is gone out of me" (power, healing energy)
-- Exodus 14:21-22: Parting of the Red Sea
-- Exodus 16:4: Manna from heaven
-- Joshua 10:12-13: Sun standing still
-- 1 Kings 17:14: Widow's oil and flour
-- 2 Kings 6:6: Floating axe head
-- Daniel 3:25-27: Fourth figure in fiery furnace
-- Matthew 17:1-9: The Transfiguration
-- Matthew 17:2: "His face shone like the sun"
-- Matthew 17:5: Voice from the cloud
-- Mark 4:39: Jesus calming the storm
-- Mark 9:2-8: The Transfiguration
-- Luke 5:12-13: Jesus healing the leper
-- Luke 9:28-36: The Transfiguration
-- John 11:43-44: Raising of Lazarus
-- Acts 3:6-8: Peter healing the lame man
-- Acts 12:6-7: Angel freeing Peter from prison
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Virtues possess "powerful and unshakable virility" (spiritual fortitude) (referenced in text)
-
-**Book of Tobit** (Apocryphal text)
-- Tobit 12:15: Raphael as one of seven angels standing before God's throne
-
-**Steiner, Rudolf.** Anthroposophical teachings on spiritual hierarchies
-- **Note:** Referenced in text but not verified in Esoteric Grimoire; included as traditional esoteric teaching on Virtues as Dynamis/Mights working on etheric body
-
-**Jung, Carl Gustav.** Writings on alchemy and the Transcendent Function
-- **Note:** Jungian concepts (Transcendent Function, coniunctio) referenced but not direct citations
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Solar Plexus Center, Tarot Temperance/Sun, astrological Sun, Heart Chakra Anahata, Jungian Transcendent Function and coniunctio) represent original integrative frameworks developed for this system. The Solar Plexus correspondence (emotional awareness, spirit, wave, Gate 22 Grace) synthesizes Human Design mechanics with angelic hierarchy. Mythological parallels (Greek Charites, Hindu Shakti/Siddhis, Buddhist Paramitas, Norse Valkyries) are comparative analysis, not direct citations from primary angelology sources. Steiner's anthroposophical concepts included as traditional esoteric teaching but not verified in primary sources.*
-
----
-
-*"The Virtues do not break the laws of nature—they reveal that divine law is higher than natural law, and love is the fulfillment of all law. Where the ego strives and fails, grace flows and succeeds. Surrender, and let the miracle occur not by your strength, but by the strength that moves through you when you cease to obstruct it."*

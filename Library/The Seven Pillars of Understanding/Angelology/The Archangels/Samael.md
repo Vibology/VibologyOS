@@ -272,48 +272,36 @@ The Observatory does not ask: *"Is Samael evil?"* It asks: *"What does Samael's 
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jewish angelology — Samael as complex ambiguous figure (archangel of severity AND adversary); both/neither evil; necessary severity becomes destructive when unbalanced from mercy
-[^2]: Qabalistic tradition — Samael associated with Geburah (Severity, 5th Sephirah), executor of divine judgment; severity without mercy becomes Accuser/Destroyer/Prince of Demons
-[^3]: Etymology — *Sam* (poison/venom) + *El* (God) = "Poison of God"; toxic agent destroying corruption/decay; pharmakos (poison and medicine); Samael as necessary toxicity vs. uncontrolled disease
-[^4]: Kamael vs. Samael — Seven Planetary Archangels system: Kamael (holy Geburah/Mars/Tuesday) vs. Samael (unbalanced Geburah/Qlippothic); Kamael = balanced severity in service of justice, Samael = severity divorced from Chesed (mercy)
-[^5]: Talmud, Midrash — Samael as Angel of Death (*Malach HaMavet*); Bava Batra 16a (Satan/evil inclination/Angel of Death are one); Pirkei de-Rabbi Eliezer (Samael rode serpent in Eden); "kiss of death" (*mitah b'neshika*) for righteous
-[^6]: Zohar — Samael and Lilith as dark marriage (vs. God and Shekinah holy union); Sitra Achra (Other Side, Qlippothic realm); Samael as "chief of Seraphim" before fall (pride or envy of Adam)
-[^7]: Samael-Satan identification controversy — Talmud/Targum Jonathan/Zohar equate them; Christian angelology distinguishes (Lucifer vs. Samael); Satan as role (Adversary/prosecutor) vs. Samael as specific angel performing role
-[^8]: Mars correspondence — Kamael (holy Mars: surgeon who cuts to heal, warrior protecting) vs. Samael (demonic Mars: destroyer without purpose, tyrant, indiscriminate rage)
-[^9]: Qlippothic system — Samael sometimes ruler of Golachab (Geburah's Qlippah: Mars without wisdom, severity without mercy, auto-immune disorder); Asmodeus as archdemonic prince (Book of Tobit)
-[^10]: Jungian interpretation — Samael as archetypal Shadow (repressed rage, unenforced boundaries, denied severity); integration task: reclaim healthy aggression/boundaries, transform Samael into Kamael
-[^11]: Jung CW 9ii §422, CW 11 *Answer to Job* — Satan/Samael as necessary counterforce to light; Shadow contains both morally reprehensible AND good qualities (instincts, realistic insights, creative impulses)
-[^12]: Observatory interpretation — Samael as diagnostic shadow revealing ego denials (repressed rage, unenforced boundaries, death denial, false mercy); presence indicates imbalance requiring severity (what mercy alone cannot heal)
+*See related entries within this pillar.*
 
 ---
 
-## See Also
+## Notes
 
-### Within Angelology
-- [[Kamael]] — The holy expression of Geburah/Mars (balanced severity in service of justice)
-- [[Michael]] — Archangel of Sun/protection (sometimes contrasted with Samael's destructive severity)
-- [[Uriel]] — Archangel of Earth (another "dark" angel, but grounding not destructive)
-- [[Lilith]] — Samael's consort in Zoharic tradition, night demon, shadow feminine
-- [[The Seven Angels Who Stand Before the Throne]] — Kamael included, Samael excluded (or pre-fall inclusion)
-- [[The Seven Planetary Archangels]] — Kamael as standard Mars attribution (not Samael)
+[^1]: Jewish angelology — Samael as complex ambiguous figure (archangel of severity AND adversary); both/neither evil; necessary severity becomes destructive when unbalanced from mercy
 
-### Within Qabalah
-- [[Geburah]] — Fifth Sephirah (Severity, Strength); Kamael rules holy expression, Samael rules shadow
-- [[Golachab]] — Qlippah of Geburah (Mars without wisdom, auto-immune disorder); Asmodeus/Samael rulership
-- [[Chesed]] — Fourth Sephirah (Mercy, Loving-kindness); balances Geburah; Samael is Geburah divorced from Chesed
-- [[Qlippoth]] — Shadow side of Tree of Life; Samael and Lilith as king/queen of Sitra Achra
-- [[Shekinah]] — Divine feminine presence (holy counterpart to Lilith)
+[^2]: Qabalistic tradition — Samael associated with Geburah (Severity, 5th Sephirah), executor of divine judgment; severity without mercy becomes Accuser/Destroyer/Prince of Demons
 
-### Within Personal Mythos (Jungian)
-- [[The Shadow]] — Repressed/rejected psychic contents; Samael as archetypal Shadow (necessary severity denied)
-- [[Individuation Process]] — Requires Shadow integration (reclaiming healthy aggression/boundaries)
-- [[Inflation]] — Danger of invoking Samael without preparation (ego possession by archetype)
-- [[The Dark Night of the Soul]] — Death work, facing mortality (Samael as Angel of Death guide)
-- [[Active Imagination]] — Technique for dialoguing with Samael as autonomous figure
+[^3]: Etymology — *Sam* (poison/venom) + *El* (God) = "Poison of God"; toxic agent destroying corruption/decay; pharmakos (poison and medicine); Samael as necessary toxicity vs. uncontrolled disease
 
-### Ritual Practices
-- [[Lesser Banishing Ritual of the Pentagram]] — Essential protection before/after Samael work
-- [[Invocation]] — Advanced protocols for shadow work (invoke Kamael first, then Samael)
-- [[Discernment of Spirits]] — Testing whether Samael appearance is diagnostic vs. destructive
+[^4]: Kamael vs. Samael — Seven Planetary Archangels system: Kamael (holy Geburah/Mars/Tuesday) vs. Samael (unbalanced Geburah/Qlippothic); Kamael = balanced severity in service of justice, Samael = severity divorced from Chesed (mercy)
+
+[^5]: Talmud, Midrash — Samael as Angel of Death (*Malach HaMavet*); Bava Batra 16a (Satan/evil inclination/Angel of Death are one); Pirkei de-Rabbi Eliezer (Samael rode serpent in Eden); "kiss of death" (*mitah b'neshika*) for righteous
+
+[^6]: Zohar — Samael and Lilith as dark marriage (vs. God and Shekinah holy union); Sitra Achra (Other Side, Qlippothic realm); Samael as "chief of Seraphim" before fall (pride or envy of Adam)
+
+[^7]: Samael-Satan identification controversy — Talmud/Targum Jonathan/Zohar equate them; Christian angelology distinguishes (Lucifer vs. Samael); Satan as role (Adversary/prosecutor) vs. Samael as specific angel performing role
+
+[^8]: Mars correspondence — Kamael (holy Mars: surgeon who cuts to heal, warrior protecting) vs. Samael (demonic Mars: destroyer without purpose, tyrant, indiscriminate rage)
+
+[^9]: Qlippothic system — Samael sometimes ruler of Golachab (Geburah's Qlippah: Mars without wisdom, severity without mercy, auto-immune disorder); Asmodeus as archdemonic prince (Book of Tobit)
+
+[^10]: Jungian interpretation — Samael as archetypal Shadow (repressed rage, unenforced boundaries, denied severity); integration task: reclaim healthy aggression/boundaries, transform Samael into Kamael
+
+[^11]: Jung CW 9ii §422, CW 11 *Answer to Job* — Satan/Samael as necessary counterforce to light; Shadow contains both morally reprehensible AND good qualities (instincts, realistic insights, creative impulses)
+
+[^12]: Observatory interpretation — Samael as diagnostic shadow revealing ego denials (repressed rage, unenforced boundaries, death denial, false mercy); presence indicates imbalance requiring severity (what mercy alone cannot heal)
+
+---

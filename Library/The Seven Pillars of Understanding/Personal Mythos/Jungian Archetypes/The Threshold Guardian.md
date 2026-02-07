@@ -921,7 +921,7 @@ Passing this Guardian requires **courage to embody complexity**—to refuse fals
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i, par. 284. Princeton University Press.
 
@@ -943,34 +943,4 @@ Passing this Guardian requires **courage to embody complexity**—to refuse fals
 
 [^10]: Jung, C.G. *The Structure and Dynamics of the Psyche*. Collected Works Vol. 8. Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Jung, C.G. *The Development of Personality*. Collected Works Vol. 17. Princeton University Press.
-- Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii. Princeton University Press.
-- Eliade, Mircea. *Rites and Symbols of Initiation: The Mysteries of Birth and Rebirth*. Spring Publications, 1958. (Threshold crossing, initiation rites)
-- Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969. (Liminality, threshold states)
-- van Gennep, Arnold. *The Rites of Passage*. University of Chicago Press, 1960. (Classic study of threshold rituals)
-- Campbell, Joseph. *The Power of Myth*. Doubleday, 1988.
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1998. (Threshold Guardian in storytelling)
-- Bly, Robert. *Iron John: A Book About Men*. Addison-Wesley, 1990. (Male initiation, threshold crossing)
-- Hollis, James. *The Middle Passage: From Misery to Meaning in Midlife*. Inner City Books, 1993. (Midlife threshold)
-- Moore, Robert and Douglas Gillette. *King, Warrior, Magician, Lover*. HarperCollins, 1990. (Initiation and guardianship)
-- Edinger, Edward F. *Ego and Archetype*. Shambhala, 1972. (Ego-Self threshold)
-- Mythology sources:
-  - Greek: Homer's *Odyssey* (Scylla and Charybdis), Hesiod's *Theogony* (Cerberus), Sophocles' *Oedipus Rex* (Sphinx)
-  - Norse: *Poetic Edda* (Heimdall as guardian of Bifrost)
-  - Egyptian: *The Book of the Dead* (weighing of the heart, threshold guardians)
-  - Hindu: *Bhagavad Gita* (Krishna as threshold guide)
-  - Celtic: Irish mythology (Morrigan as threshold goddess)
-  - Japanese: Shinto traditions (torii gates, kami guardians)
-  - Arthurian: Malory's *Le Morte d'Arthur* (Green Knight, guardians of Grail castle)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Threshold guardian motifs)
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974.
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*. Vintage Books, 1976.
-- Bulfinch, Thomas. *Bulfinch's Mythology*. Modern Library, 1998. (Classical mythology guardian figures)
-- Dante Alighieri. *The Divine Comedy* (Inferno). Trans. various. (Charon, Minos, and other threshold guardians)
-- Milton, John. *Paradise Lost*. (Satan as threshold guardian at Eden's gate)
-- Blavatsky, H.P. *The Secret Doctrine*. Theosophical Publishing, 1888. (Dweller on the Threshold concept)
-- Steiner, Rudolf. *Knowledge of the Higher Worlds and Its Attainment*. Anthroposophic Press, 1947. (Threshold crossing in esoteric development)
+---

@@ -496,6 +496,7 @@ This is the **child's rehearsal** for the later Coniunctio—the Sacred Marriage
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Great Mother]] • [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • The Terrible Mother
 
@@ -528,31 +529,8 @@ Abandonment in the Forest • The Devouring Witch • The Gingerbread House • 
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Hänsel und Gretel" (Tale 15).
-
-### Jungian Analysis
-- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Comprehensive analysis of oral regression, sibling bond, and maturation through confronting the devouring mother.
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The witch as Great Mother archetype and the gingerbread house as regression temptation.
-- **Jung, Carl Gustav.** *Symbols of Transformation* (CW 5). The devouring mother and regression to oral phase.
-- **Neumann, Erich.** *The Great Mother: An Analysis of the Archetype* (1955). The Terrible Mother and infantile dependency.
-- **Neumann, Erich.** *The Child* (1973). Sibling relationship and joint individuation.
-
-### Feminist & Depth Psychology
-- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Analysis of the devouring feminine and separation from mother-world.
-
-### Comparative Mythology
-- **Murphy, G. Ronald.** *The Owl, the Raven, and the Dove: The Religious Meaning of the Grimms' Magic Fairy Tales* (2000). Christian symbolism and initiation themes in Grimm tales.
-
-### Developmental Psychology
-- **Mahler, Margaret, Fred Pine, and Anni Bergman.** *The Psychological Birth of the Human Infant* (1975). Separation-individuation process and symbiotic phase.
-
-### Alchemical & Symbolic
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The athanor (oven) as transformational vessel.
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Calcinatio (burning, purification) and nigredo.

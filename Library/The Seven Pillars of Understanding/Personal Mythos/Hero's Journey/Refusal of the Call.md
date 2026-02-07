@@ -609,20 +609,12 @@ The future of the Refusal archetype is **gender-integrative**—honoring that ev
 
 **Final Reflection**: The Refusal of the Call is not moral failure—it is the ego's **understandable terror** when confronted with transformation. The question is never *"Did you refuse?"* but *"How long will you remain in refusal, and what will it cost?"* The psyche is patient but relentless. The Call will return, again and again, until answered—or until the unlived life calcifies into bitterness and the hero becomes the cautionary tale, not the legend.
 
+---
 
-
-## Footnotes
+## Notes
 
 [^1]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, Refusal as Stage 3, conversion of adventure into its negative, escalation when Call is denied
+
 [^2]: Jung, C.G. *The Collected Works of C.G. Jung*, Vols. 5 (*Symbols of Transformation*), 9i (*The Archetypes and the Collective Unconscious*), 12 (*Psychology and Alchemy*) — Refusal as neurosis, Persona rigidity, ego-Self tension, Shadow as unlived life, calcination as psychological destruction of ego attachments, archetypal resonance of Hermes/Dionysus
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

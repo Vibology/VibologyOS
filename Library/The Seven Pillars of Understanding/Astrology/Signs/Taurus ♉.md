@@ -198,6 +198,7 @@ In esoteric anatomy, Taurus governs the **throat** (manifestation, the voice tha
 - **Element Tradition:** Fixed Earth (Mountain, enduring foundation)
 
 ---
+
 ## Cross-References
 
 - **Signs:** [[Aries ♈]] (initiates what Taurus sustains), [[Scorpio ♏]] (polarity—transformation vs. consolidation), [[Virgo ♍]] (earth as refinement), [[Capricorn ♑]] (earth as ambition)
@@ -216,15 +217,21 @@ The Taurus question is not "Do I have enough?" but "Am I savoring what I have, o
 The Bull teaches that the body is not the enemy of the soul. It is the **instrument** through which the soul tastes the world.
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Venus rules Taurus (Night House)
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Moon exalted in Taurus at 3°
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Mars in detriment (opposite Scorpio)
+
 [^4]: Lilly, *Christian Astrology*, Book 1: No traditional planet has its fall in Taurus
+
 [^5]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Taurus as Fixed Earth (cold and dry)
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Taurus cosignificator of 2nd House (substance and wealth)
+
 [^7]: Lilly, *Christian Astrology*, Book 1: Taurus governs neck, throat, voice, windpipe; diseases include sore throats, scrofula, quinsies
 
 ---
-
-*"Taurus builds not to escape time, but to inhabit it fully. The garden is temporary—but the rose is eternal in the moment it blooms."*

@@ -273,29 +273,32 @@ Yet his writings remain invaluable precisely because they do not soften the orde
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: DuQuette, *Enochian Vision Magick*, on Crowley's systematic scrying methodology.
+
 [^2]: Crowley, *The Vision and the Voice* (Liber 418), introduction and methodology.
+
 [^3]: DuQuette's analysis mapping Aethyrs to Sephiroth and A∴A∴ grades.
+
 [^4]: The 10th Aethyr (ZAX) as crossing of the Abyss; encounter with Choronzon.
+
 [^5]: Crowley, *The Vision and the Voice*, description of Choronzon.
+
 [^6]: The 12th Aethyr (LOE); Babalon as Great Mother receiving adepts' blood.
+
 [^7]: Crowley's poetic description of Babalon's sacred harlotry.
+
 [^8]: Crowley, *The Book of the Law* (Liber AL vel Legis), received Cairo 1904.
+
 [^9]: Crowley's three-Aeon schema: Isis (matriarchy), Osiris (patriarchy), Horus (individual sovereignty).
+
 [^10]: The A∴A∴ founded 1907; solitary initiatory system transmitting Thelema.
+
 [^11]: Crowley's 1898 initiation into Golden Dawn; rapid advancement and conflict.
+
 [^12]: British tabloid designation "Wickedest Man in the World" (1920s).
+
 [^13]: Crowley's enduring influence on Thelema, Tarot (Thoth deck), Chaos Magic, counterculture.
 
 ---
-
-## Sources
-
-- Crowley, Aleister. *The Vision and the Voice* (Liber 418). Record of the 30 Aethyrs scried in Algeria, 1909.
-- Crowley, Aleister. *The Book of the Law* (Liber AL vel Legis). Founding text of Thelema, received Cairo 1904.
-- Crowley, Aleister. *Magick in Theory and Practice* (1929). Thelemic magical philosophy and A∴A∴ system.
-- DuQuette, Lon Milo. *Enochian Vision Magick*. Analysis of Crowley's Aethyr methodology and Tree of Life mapping.
-- Regardie, Israel. *The Golden Dawn*. Source for Golden Dawn grade structure and curriculum Crowley trained under.
-- Jung, C.G. "The Relations Between the Ego and the Unconscious" (1928), CW 7. Ego-archetype identification and inflation.

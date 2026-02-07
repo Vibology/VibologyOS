@@ -545,6 +545,7 @@ You recognize your **voice and action** as the Throne function embodied—the po
 To integrate the Thrones is to become the **sacred container**—the womb, the throne, the foundation—through which the infinite takes finite form.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -606,32 +607,8 @@ To integrate the Thrones is to become the **sacred container**—the womb, the t
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) and Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Thrones as bearers of divine justice.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Davidson cites Pseudo-Dionysius: Thrones are third order of First Triad, established in the Most High
-- Quote: "Through the Thrones, God brings his justice to bear upon us" (Pseudo-Dionysius, cited via Davidson)
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Red Wheel/Weiser, 1983.
-- Angelic choir of Binah: Aralim ("Mighty Ones")
-- Binah correspondences: Divine Name YHVH Elohim, Saturn, colors across Four Worlds
-- Archangel of Binah: Tzaphkiel
-
-**The Bible** (English Standard Version, New International Version)
-- Ezekiel 1:15-21: The vision of the wheels within wheels (Ophanim)
-- Colossians 1:16: "Whether thrones or dominions or rulers or authorities"
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Thrones as third order bringing divine justice to bear (Davidson)
-- First Triad structure: direct contemplation of God (Davidson)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Throat Center, Jungian Great Mother archetype, Tarot attributions, astrological Saturn correspondences) represent original integrative frameworks developed for this system. Human Design correspondences (Throat Center, Manifestor/Generator types, Authority) are based on Ra Uru Hu's system as interpreted through angelic hierarchy. Mythological parallels (Themis, Ma'at, Brahma, The Norns) are comparative frameworks, not sourced claims.*
-
----
-
-*"The Thrones are the seats upon which divine will rests. They are the foundation that does not move, the justice that does not waver, the form that contains the infinite. To know the Thrones is to accept limitation as liberation, to honor boundaries as the condition of creation, to embody the sacred responsibility of giving form to divine will. They are the Great Mother's womb, the cosmic law, the unwavering presence that whispers: 'From formlessness, I give you form. From chaos, I give you structure. From potential, I give you manifestation. And I do not falter.'"*

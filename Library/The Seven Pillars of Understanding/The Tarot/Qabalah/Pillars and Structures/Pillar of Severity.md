@@ -115,19 +115,16 @@ When this pillar dominates without the Pillar of Mercy's counterbalance, the res
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Wang, *The Qabalistic Tarot* — The Pillar of Severity as the Pillar of Form, representing catabolism (breaking down) and restrictive energy.
+
 [^2]: Zohar — Isaac as the patriarch of the left pillar, associated with Din (strict judgment), red, and fire. Genesis 22 (the Binding of Isaac / Aqedah) as the archetype of submission to divine severity.
+
 [^3]: Zohar — Binah as the Supernal Mother (*Imma*) whose formative power is inherently limiting: "She is the Great Sea that receives all waters" and gives them specific form.
+
 [^4]: 1 Kings 7:21 — Boaz and Jachin as the pillars of Solomon's Temple. Boaz = "In him is strength" (left pillar, severity, testing).
+
 [^5]: Jung, CW 14 (*Mysterium Coniunctionis*) — The destructive aspect of the inner critic as shadow-identification, where severity toward the self becomes a closed system of self-punishment.
 
 ---
-
-## Sources
-
-- **The Zohar** — Isaac as patriarch of the left pillar, associated with Din (strict judgment), red, and fire; Binah as the Supernal Mother whose formative power is inherently limiting
-- **Robert Wang, *The Qabalistic Tarot*** — The Pillar of Severity as the Pillar of Form, representing catabolism and restrictive energy
-- **1 Kings 7:21** — Boaz ("In him is strength") as the left-hand pillar of Solomon's Temple
-- **Jung, CW 14 (*Mysterium Coniunctionis*)** — The destructive inner critic as shadow-identification; severity toward the self as closed system

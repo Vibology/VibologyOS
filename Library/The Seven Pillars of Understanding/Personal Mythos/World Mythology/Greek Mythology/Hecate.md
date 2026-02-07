@@ -155,31 +155,8 @@ The Hecate archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources
-
-**Primary Texts:**
-- Hesiod, *Theogony*, 411-452 (Hecate's cosmic honors)
-- *Homeric Hymn to Demeter* (Hecate as witness and companion)
-- *Chaldean Oracles* (Hecate as World Soul — Neoplatonic tradition)
-- Apollonius of Rhodes, *Argonautica* 3 (Hecate and Medea)
-- PGM (Greek Magical Papyri) — Hecate invocations
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Hecate sections)
-- Kerényi, K. *The Gods of the Greeks* (Hecate)
-- Burkert, W. *Greek Religion* (Hecate cult, crossroads ritual)
-
-**Psychological and Archetypal Analysis:**
-- Jung, C.G. *Collected Works*, Vol. 9i, §158 (dark mother archetype)
-- von Franz, M.-L. *Shadow and Evil in Fairy Tales* (the dark feminine)
-- Turner, V. *The Ritual Process* (liminality and threshold)
-- Johnston, S.I. *Hekate Soteira* (scholarly reconstruction of Hecate's cult)
-
----
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

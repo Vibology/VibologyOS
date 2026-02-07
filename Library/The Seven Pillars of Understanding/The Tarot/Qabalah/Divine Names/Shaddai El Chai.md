@@ -110,19 +110,16 @@ The "Enough!" of Shaddai parallels the ego's necessary function of **containing*
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — Shaddai derived from *she-dai* ("who said 'Enough!'"), the divine power that limits the spread of chaos (*Tohu*) and imposes necessary boundaries on creation.
+
 [^2]: Zohar — *El Chai* ("Living God") as the "Vitality of the Worlds," the generative principle channeling life-force into Malkuth through Yesod.
+
 [^3]: Zohar, commentary on Proverbs 10:25 — "The righteous one (*Tzaddik*) is the foundation (*Yesod*) of the world." The Tzaddik as the cosmic channel of divine blessing.
+
 [^4]: Genesis 17:1 — "I am El Shaddai; walk before me and be blameless." Zohar's interpretation of the patriarchal name as appropriate to the Yesodic (Foundation) stage of divine revelation.
+
 [^5]: Jung, CW 8 (*The Structure and Dynamics of the Psyche*) — The autonomous creative activity of the unconscious; the psyche as a self-regulating system that produces symbols with independent intelligence.
 
 ---
-
-## Sources
-
-- **The Zohar** — Shaddai as *she-dai* ("who said 'Enough!'"); *El Chai* as the Vitality of the Worlds; the Tzaddik as cosmic channel of divine blessing
-- **Genesis 17:1** — El Shaddai as the patriarchal divine name; Zoharic interpretation of the Yesodic stage of revelation
-- **Jung, CW 8 (*The Structure and Dynamics of the Psyche*)** — The autonomous creative agency of the unconscious as parallel to Yesod's living imaginal function
-- **Israel Regardie, *The Middle Pillar*** — Shaddai El Chai as the fourth station in the Middle Pillar Exercise

@@ -110,20 +110,18 @@ The danger is mistaking the container for the content — worshipping the system
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Sefer Yetzirah — Binah as the "Sanctifying Intelligence" (*Sekhel Mekudash*), the foundation of primordial wisdom, and the "depth of ending."
+
 [^2]: Zohar — The two aspects of Binah: *Ama* (אמא, "dark Mother," unreceived) and *Aima* (אימא, "bright Mother," fertile and form-giving).
+
 [^3]: Zohar — Binah as the "Great Sea" (*Marah*), the ocean that receives and contains the rivers flowing from Eden (Chokmah).
+
 [^4]: Wang, *The Qabalistic Tarot* — The Three of Swords (Saturn in Libra) as Binah's characteristic card: understanding through sorrow, form through limitation.
+
 [^5]: Wang, *The Qabalistic Tarot* — Saturn as the principle of form itself, the time-keeper whose gift is duration and whose price is mortality.
+
 [^6]: Jung, CW 9i (*The Archetypes and the Collective Unconscious*) — The Great Mother archetype as the feminine principle encompassing birth, nourishment, death, and the underworld; the womb and the grave as one.
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** — Binah as the "Sanctifying Intelligence" (*Sekhel Mekudash*); the "depth of ending" complementing Chokmah's "depth of beginning"
-- **The Zohar** — Binah as *Imma* (Mother), the two aspects *Ama* (dark) and *Aima* (bright); Binah as the Great Sea (*Marah*)
-- **Robert Wang, *The Qabalistic Tarot*** — Saturn as the principle of form itself; the Three of Swords as Binah's characteristic Tarot expression
-- **Jung, CW 9i (*The Archetypes and the Collective Unconscious*)** — The Great Mother archetype encompassing birth, nourishment, death, and dissolution

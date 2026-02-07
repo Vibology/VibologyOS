@@ -111,21 +111,16 @@ The inclusion of *Daath* in the name also parallels Jung's insistence that genui
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — Tiphareth as *Qudsha Brikh Hu* ("Blessed Holy One"), the most frequently referenced aspect of divinity in Zoharic literature, symbolized by YHVH.
+
 [^2]: Wang, *The Qabalistic Tarot* — YHVH Eloah va-Daath as "ruling over the Light of the Universe," the central realization of the Divine Mind.
+
 [^3]: The Christ-Tiphareth correspondence is a development of Christian Qabalah (Pico della Mirandola, Reuchlin) and the Golden Dawn. Traditional Jewish Kabbalah does not make this identification.
+
 [^4]: Jung, CW 9ii (*Aion*) — The Self as the archetype of wholeness, experienced through individuation as the center "that is also the circumference."
+
 [^5]: Jung, CW 14 (*Mysterium Coniunctionis*) — The *coniunctio* as the union of opposites, symbolized alchemically by Sol (gold/consciousness) and Luna (silver/unconscious).
 
 ---
-
-## Sources
-
-- **The Zohar** — Tiphareth as *Qudsha Brikh Hu* ("Blessed Holy One"); the Voice (*Qol*) sounding between Mercy and Severity
-- **Robert Wang, *The Qabalistic Tarot*** — YHVH Eloah va-Daath as "ruling over the Light of the Universe"; the Daath connection and the central realization of the Divine Mind
-- **Christian Qabalah (Pico della Mirandola, Reuchlin)** — The Christ-Tiphareth correspondence developed in Renaissance esotericism
-- **Jung, CW 9ii (*Aion*)** — The Self as archetype of wholeness encountered through individuation
-- **Jung, CW 14 (*Mysterium Coniunctionis*)** — The *coniunctio oppositorum* as the alchemical marriage paralleling Tiphareth's harmonizing function
-- **Israel Regardie, *The Middle Pillar*** — YHVH Eloah va-Daath as the heart center (third station) in the Middle Pillar Exercise

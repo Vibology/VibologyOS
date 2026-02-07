@@ -328,28 +328,8 @@ A **coherent Ego** capable of observing the world without being overwhelmed by i
 
 ---
 
+## Notes
 
 [^1]: Primary sources listed in References section.
 
 ---
-
-## Sources
-### Primary Texts (Jung)
-- **Jung, Carl Gustav.** *The Development of Personality* (CW 17). Comprehensive analysis of childhood, ego formation, and parental influence.
-- **Jung, Carl Gustav.** *The Structure and Dynamics of the Psyche* (CW 8). The ego, consciousness, and the unconscious.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Divine Child archetype and early development.
-- **Jung, Carl Gustav.** *Symbols of Transformation* (CW 5). The mother archetype and separation from the uroboros.
-
-### Jungian Development
-- **Neumann, Erich.** *The Child* (1973). Stages of psychological birth and ego emergence.
-- **Neumann, Erich.** *The Origins and History of Consciousness* (1949). The evolution of consciousness from uroboric unity to ego formation.
-- **Fordham, Michael.** *Children as Individuals* (1969). Jungian child psychology and the Self in infancy.
-
-### Developmental Psychology
-- **Mahler, Margaret, Fred Pine, and Anni Bergman.** *The Psychological Birth of the Human Infant* (1975). Separation-individuation process (0-3 years).
-- **Winnicott, D.W.** *The Maturational Processes and the Facilitating Environment* (1965). Good-enough mothering and the true/false self.
-- **Erikson, Erik.** *Childhood and Society* (1950). Psychosocial stages of development (trust, autonomy, initiative).
-- **Piaget, Jean.** *The Construction of Reality in the Child* (1954). Cognitive development and object permanence.
-
-### Attachment Theory
-- **Bowlby, John.** *Attachment and Loss* (3 volumes, 1969-1980). Foundational attachment theory.

@@ -168,34 +168,16 @@ The Dark Night may be occurring when:
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: St. John of the Cross, *The Dark Night* (*Noche Oscura*) — the definitive text describing the two nights (senses and spirit) as purgative phases of the contemplative path
+
 [^2]: Teresa of Avila, *The Interior Castle* (1577) — the sixth and seventh mansions describe the soul's suffering and final union (spiritual marriage) that parallels the Dark Night
+
 [^3]: *The Cloud of Unknowing* (14th century) — anonymous English mystic's via negativa teaching that God is met through unknowing, not through intellectual comprehension
+
 [^4]: Jung, *Collected Works*, Vol. 14, paragraph 778 — the confrontation with the unconscious as a "standstill" that is the necessary condition for the growth of the Self
+
 [^5]: Underhill, *Mysticism* (1911) — comprehensive scholarly treatment of the Dark Night as it appears across the Christian mystical tradition
 
 ---
-## Sources
-
-**Primary Mystical Sources:**
-- St. John of the Cross, *The Dark Night* (*Noche Oscura*) — the definitive text, both poem and commentary
-- St. John of the Cross, *The Ascent of Mount Carmel* — the active purgation that precedes the passive Night
-- Teresa of Avila, *The Interior Castle* — the sixth and seventh mansions
-- *The Cloud of Unknowing* (14th century) — the via negativa
-- Meister Eckhart, Sermons — *Gelassenheit* and the ground of the soul
-
-**Cross-Tradition:**
-- Underhill, E. *Mysticism* (1911)[^5] — comprehensive treatment of the Dark Night across traditions
-- McGinn, B. *The Foundations of Mysticism* — scholarly history of Christian mysticism
-- Kornfield, J. *After the Ecstasy, the Laundry* — Buddhist parallels to the Dark Night
-
-**Psychological Analysis:**
-- Jung, C.G. *Collected Works*, Vol. 14, §778 (the standstill of the process)
-- May, G. *The Dark Night of the Soul* — integration of John of the Cross with psychology
-- Moore, T. *Dark Nights of the Soul* — archetypal approach
-
----
-
-*Created 2026-02-07. Part of [[The Magdalene Path]] within the Seven Pillars of Understanding.*

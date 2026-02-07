@@ -327,7 +327,9 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - Kenosis as foundational practice
 - [[Mary Magdalene - Apostle and Beloved]] - Mary's release of the seven demons
@@ -344,46 +346,16 @@ The **[[Seraphim]]** (Burning Ones) represent the fire that **consumes**—kenos
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114, Ch. 9 — kenosis defined as "nonclinging" or "letting be," not ascetic renunciation
+
 [^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 9 — distinction between Buddhist emptiness (nonattachment) and Jesus's vision of kenosis leading to fullness (pleroma)
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), Ch. 9 — Philippians 2:5-8 identified as the "touchstone" of Jesus's kenotic path
+
 [^4]: Huxley, *The Perennial Philosophy* (Harper & Brothers, 1945) — St. John of the Cross on the "dark night" and the "prayer of simple regard"; see also Bourgeault, Ch. 12
+
 [^5]: Gospel of Mary, Berlin Gnostic Codex (BG 8502,1), 2nd century CE — the Seven Powers of Wrath as the False Self System that the ascending soul must confront
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Kenosis as "nonclinging" / "letting be": p. 114, Ch. 9
-- A = E × K formula (Agape = Eros × Kenosis): p. 114
-- Philippians 2:5-8 as "touchstone" of Jesus's path: Ch. 9
-- Emptiness → fullness (pleroma) distinction from Buddhism: Ch. 9
-- "Dark night of the spirit" terminology: Ch. 12
-- "Bardo" (intermediate state) terminology: Ch. 12
-- Bourgeault cites Boris Mouravieff (Fifth Way, Mount Athos tradition)
-- Bourgeault cites Jean-Yves Leloup (Orthodox theologian)
-- Bourgeault cites *The Cloud of Unknowing* (medieval mysticism)
-
-Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
-- Seven Powers of Wrath (False Self System)
-
-Estés, Clarissa Pinkola. *Women Who Run With the Wolves*. New York: Ballantine, 1992.
-- Dark Night of the Soul connection to the unconscious
-
-Huxley, Aldous. *The Perennial Philosophy*. New York: Harper & Brothers, 1945.
-- St. John of the Cross on "dark night" and "prayer of simple regard"
-- Lao Tzu on "subtracting day by day" (wu wei)
-
-Rudd, Richard. *The Gene Keys*. London: Watkins Publishing, 2009.
-- Arhat vs. bodhisattva paradox
-- Lao Tzu / Tao Te Ching on virtue
-
-Wang, Robert. *The Qabalistic Tarot*. York Beach: Samuel Weiser, 1983.
-- Dark Night of the Soul and the Tarot path of Temperance
-
-Wilhelm, Richard, trans. *The Complete I Ching*. Princeton: Princeton University Press, 1967.
-- Taoist "doing nothing" (wu wei concept)
 
 ---

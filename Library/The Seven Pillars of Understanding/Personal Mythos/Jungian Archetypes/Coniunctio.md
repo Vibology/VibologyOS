@@ -127,24 +127,8 @@ The coniunctio is active when you:
 
 ---
 
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *Mysterium Coniunctionis* (CW 14) — the definitive work, especially §§104, 654-789
-- Jung, C.G. *Psychology of the Transference* (CW 16) — the Rosarium Philosophorum analysis
-- Jung, C.G. *Aion* (CW 9ii), §74 — the Self as union of opposites
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th century) — the woodcut series illustrating the coniunctio stages
-- *Aurora Consurgens* (attributed to Thomas Aquinas) — the sacred marriage in alchemical-mystical terms
-
-**Secondary Analysis:**
-- Edinger, E. *The Mysterium Lectures* — commentary on CW 14
-- von Franz, M.-L. *Alchemical Active Imagination* — practical work with coniunctio symbolism
-- Schwartz-Salant, N. *The Mystery of Human Relationship* — the coniunctio in clinical practice
+## Notes
 
 [^1]: Jung, C.G. *Mysterium Coniunctionis* (CW 14), §104
 
 ---
-
-*Created 2026-02-07. Part of the Jungian Archetypes collection within [[Personal Mythos]].*

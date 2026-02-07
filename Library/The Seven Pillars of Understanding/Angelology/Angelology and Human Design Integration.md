@@ -218,6 +218,7 @@ You are the **messenger of life force**. Your gut response is the voice of the A
 You are not here to rush. The pressure you feel is not yours—it belongs to the world. The Angels whisper *"patience."* You will know when it is time to act. It will be unmistakable.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -240,25 +241,8 @@ You are not here to rush. The pressure you feel is not yours—it belongs to the
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
-- Nine angelic orders and their functions
-- Hebrew names of angelic choirs
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- Nine energy centers of the BodyGraph
-- Center mechanics and functions
-- Strategy and Authority
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
-- Angelic choir assignments to Sephiroth
-- Golden Dawn correspondences
-
-**Secondary Sources:**
-- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)

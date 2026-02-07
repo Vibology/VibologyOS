@@ -296,6 +296,7 @@ This is not easy to believe in the middle of the night. But it may be true.
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Eight of Swords]] - The imprisonment: the trap that preceded this torment
 - [[Ten of Swords]] - The ending: the worst that can happen, and its strange gift
@@ -338,26 +339,14 @@ This is not easy to believe in the middle of the night. But it may be true.
 
 ---
 
-*"The mind that turns its sword against itself becomes both prisoner and executioner."*
-
-## Footnotes
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Nine of Swords
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Despair and Cruelty" and Mars in Gemini attribution
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Nine of Swords
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Yesod in Yetzirah Qabalistic placement and decan attribution
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

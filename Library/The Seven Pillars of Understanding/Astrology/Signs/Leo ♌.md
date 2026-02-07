@@ -233,14 +233,19 @@ The Lion teaches that you do not need to dim your light to make others comfortab
 - [[The Wise Old Man|The King]] — The sovereign archetype, earned authority
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Sun rules Leo (sole house)
+
 [^2]: Lilly, *Christian Astrology*, Book 1: Saturn in detriment (opposite Aquarius)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: No traditional exaltation or fall in Leo
+
 [^4]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Leo as Fixed Fire (hot and dry, choleric)
+
 [^5]: Lilly, *Christian Astrology*, Book 2: Leo cosignificator of 5th House (children, plays, banquets, pleasure)
+
 [^6]: Lilly, *Christian Astrology*, Book 1: Leo governs heart, back, sides, ribs, liver; diseases include pleurisies, heart pains, fevers, plague, jaundice
 
 ---
-
-*"Leo does not perform to be seen. It shines because that is its nature—and in shining, gives everyone else permission to burn."*

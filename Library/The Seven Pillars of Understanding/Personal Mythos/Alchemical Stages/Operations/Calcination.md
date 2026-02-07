@@ -581,40 +581,8 @@ Calcination is the fire that makes the darkness conscious. It is disagreeable. I
 
 ---
 
+## Notes
 
 [^1]: Edward F. Edinger, *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (Open Court, 1985) — Calcination as burning away ego structures through fire.
 
 ---
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (par. 334: "The heat of the fire has a spiritualizing effect...the hidden fire that transforms")
-  - Vol. 14: *Mysterium Coniunctionis* (Fire as transformative agent, ignis noster)
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. ("Fiery magma" passage, Calcination as ego crucible)
-
-**Traditional Alchemical Texts:**
-- Agrippa, Heinrich Cornelius. *De Occulta Philosophia* (Three Books of Occult Philosophy). ("Calcination is the burning of a thing in a crucible...reduced to lime or powder")
-- *Rosarium Philosophorum* (15th Century). ("The body must be destroyed, that the spirit may be liberated")
-- *Turba Philosophorum* (Assembly of the Philosophers). ("Burn the body until it becomes ash, for in the ash lies the secret")
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Calcination as first operation, ego-death, phoenix symbolism)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fire symbolism: athanor furnace, salamander, red lion)
-
-**Mythological Fire Sources:**
-- Greek: Phoenix (death-rebirth through fire), Prometheus (fire theft and punishment), Hephaestus (divine smith, forge transformation)
-- Hindu: Agni (Vedic fire god), Shiva's Tandava (cosmic destruction dance), Tapas (ascetic heat), Kali (destructive transformation)
-- Egyptian: Lake of Fire (*Book of the Dead*), Bennu Bird (Egyptian phoenix), solar purification
-- Norse: Ragnarök (Surtr's flames consuming world), Loki's punishment (venom as fire)
-- Christian: Purgatory (cleansing fire), Pentecost (Holy Spirit fire), St. John of the Cross *Dark Night of the Soul*
-
-**Life Crisis as Calcination:**
-- Campbell, Joseph. *The Hero with a Thousand Faces* (1949). Pantheon Books. (Ordeal, fire trials, crucifixion motifs)
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Mars/Pluto astrology, Tower/Death Tarot, Gate 51 HD, Seraphim/Michael angelology) represent Vibology's integration of verified alchemical Calcination patterns across seven-pillar framework.
-
----
-

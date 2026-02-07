@@ -973,21 +973,10 @@ Jung: *"Odin is the god of poets, the dead, and the hanged—those who have pass
 
 — Paraphrase of Jungian understanding of Odinic consciousness
 
-
-[^1]: Primary sources listed in References section.
-
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. "Wotan." In *Civilization in Transition* (CW 10). Princeton University Press, 1964.
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
+## Notes
 
-**Primary Norse Sources:**
-Core mythological narratives (cosmology, pantheon, Ragnarök, runes, and hero cycles) are drawn from canonical Old Norse sources including the *Poetic Edda*, *Prose Edda* (Snorri Sturluson), *Völuspá*, *Hávamál*, and Icelandic sagas. These medieval texts preserve pre-Christian Germanic and Scandinavian mythology and inform the archetypal framework.
-
-#### Vibology Synthesis
-All Jungian archetypal analysis (interpreting Norse myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Norse understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Norse narrative patterns. Rune correspondences to psychological functions are modern interpretive additions.
+[^1]: Primary sources listed in References section.
 
 ---

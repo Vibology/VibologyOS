@@ -231,14 +231,19 @@ The Scorpion teaches that there is **light within the darkness**—but you canno
 - [[Moon ☽]] — Fall in Scorpio, emotion overwhelmed by intensity
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Scorpio (Night House); Scorpio is also the Joy of Mars
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Scorpio as Fixed Water (cold, phlegmatic)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Moon in fall at 3° Scorpio
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Venus in detriment (opposite Taurus)
+
 [^5]: Lilly, *Christian Astrology*, Book 2: Scorpio cosignificator of 8th House (death, wills, legacies)
+
 [^6]: Lilly, *Christian Astrology*, Book 1: Scorpio governs secret parts (genitals), bladder, arse, matrix (womb); diseases include stones, fistulas, piles, gonorrhea
 
 ---
-
-*"Scorpio does not promise resurrection. It promises that if you die fully, you will discover what was buried beneath the lie."*

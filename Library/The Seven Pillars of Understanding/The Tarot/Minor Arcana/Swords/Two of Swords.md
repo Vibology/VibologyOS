@@ -303,6 +303,7 @@ The Two of Swords is not the answer. It is the space in which the answer might b
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Ace of Swords]] - The root: pure discriminating potential before choice
 - [[Three of Swords]] - The consequence: when the choice is made and it wounds
@@ -344,27 +345,16 @@ The Two of Swords is not the answer. It is the space in which the answer might b
 
 ---
 
-*"The truce that preserves both swords may also preserve the war."*
-
-## Footnotes
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Two of Swords
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Peace Restored" and Chokmah in Yetzirah attribution
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Two of Swords
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chokmah in Yetzirah Qabalistic placement and Moon in Libra planetary attribution
+
 [^5]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Rider-Waite image description: blindfolded woman with crossed swords
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

@@ -259,47 +259,8 @@ When someone you love is "dismembered" by life (addiction, trauma, fragmentation
 
 ---
 
+## Notes
 
 [^1]: Plutarch, *Isis and Osiris* (c. 100 CE) — Isis as great mother goddess and magician.
 
 ---
-
-## Sources
-
-### Primary Egyptian Sources
-- Plutarch, *De Iside et Osiride* (*Isis and Osiris*), c. 100 CE — foundational Greco-Roman account
-- *The Contendings of Horus and Set* (Papyrus Chester Beatty I) — trial for succession
-- Pyramid Texts, Coffin Texts — early funerary spells invoking Isis
-- Temple inscriptions at Philae (Isis's primary temple, last pagan temple closed 550 CE)
-
-### Hellenistic Mystery Religion
-- Apuleius, *Metamorphoses* (*The Golden Ass*), Book XI — initiation into Isis mysteries
-- Aretalogy inscriptions — Isis's self-proclamations of power and universal dominion
-
-### Scholarly Analysis
-- R.E. Witt, *Isis in the Ancient World* (1971) — comprehensive study of cult spread
-- Sharon Kelly Heyob, *The Cult of Isis Among Women in the Graeco-Roman World* (1975)
-- Joscelyn Godwin, *Mystery Religions in the Ancient World* (1981)
-
-### Jungian and Archetypal
-- C.G. Jung, *Symbols of Transformation* (CW 5) — mother archetype and libido theory
-- C.G. Jung, *The Archetypes and the Collective Unconscious* (CW 9i, par. 158) — mother archetype definition
-- Erich Neumann, *The Great Mother: An Analysis of the Archetype* (1955) — definitive study of feminine archetype
-- Marie-Louise von Franz, *The Feminine in Fairy Tales* (1972) — archetypal mother patterns
-- Sylvia Brinton Perera, *Descent to the Goddess: A Way of Initiation for Women* (1981) — Inanna-Ereshkigal as parallel to Isis-Nephthys
-
-### Esoteric and Hermetic
-- Manly P. Hall, *The Secret Teachings of All Ages* (1928) — Isis in esoteric tradition
-- Dion Fortune, *The Sea Priestess* (1938) — fictional invocation of Isis archetype
-- Gareth Knight, *The Rose Cross and the Goddess* (1985) — Isis-Sophia-Mary lineage
-
-### Qabalistic Tarot
-- Paul Foster Case, *The Tarot: A Key to the Wisdom of the Ages* (1947) — High Priestess as Isis
-- Israel Regardie, *The Golden Dawn* (1937-40) — Isis in ceremonial magic tradition
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Egyptian sources compilation). Archetypal analysis synthesized from Jungian Great Mother framework (verified CW 5, CW 9i) and Qabalistic High Priestess correspondence (Binah, path of Gimel). Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

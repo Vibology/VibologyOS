@@ -401,40 +401,10 @@ Following your design is **submission to the numinous** (the Self's intelligence
 
 ---
 
-## Sources
-
-### Primary Sources
-
-**Rudolf Otto:**
-- Otto, Rudolf. *The Idea of the Holy: An Inquiry into the Non-Rational Factor in the Idea of the Divine and Its Relation to the Rational*. Translated by John W. Harvey. Oxford: Oxford University Press, 1917 (English translation 1923). (Mysterium tremendum et fascinans, numinous vs. moral, empirical theology)
-
-**Carl Jung:**
-- Jung, Carl Gustav. *Collected Works*, Vol. 11: *Psychology and Religion: West and East*. Princeton: Princeton University Press, 1958.
-  - Par. 6: Definition of numinosum as psychic quality
-  - Par. 141-142: Inflation through identification with archetypes
-  - Par. 391: Self's sovereign authority over ego
-  - Par. 745-758: Numinous encounter with the Self; God-image; refusal to make metaphysical claims
-
-### Secondary Sources
-
-**William James:**
-- James, William. *The Varieties of Religious Experience*. New York: Longmans, Green, and Co., 1902. (Empirical study of mystical states; influenced Otto)
-
-**Mystical Literature:**
-- St. Teresa of Ávila. *The Interior Castle*. (Mystical union, ecstatic visions)
-- St. John of the Cross. *Dark Night of the Soul*. (Dark numinosity, divine absence)
-- Meister Eckhart. *Sermons*. (German mysticism, ego-Self union)
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[The Tarot]], [[The Magdalene Path]], [[Human Design]], and [[Angelology]] represent original Vibology correspondences, grounded in shared archetypal patterns (encounter with the wholly Other, submission to sacred authority, integration of numinous insight).
-
-**Psychological vs. Theological Framing:**
-This entry honors **both** Otto's theological claim (the numinous is God) and Jung's psychological claim (the numinous is the Self's manifestation). Vibrology holds the tension without collapsing into reductionism.
-
----
+## Notes
 
 [^1]: Otto, Rudolf. *The Idea of the Holy* (1917/1923). The mysterium tremendum et fascinans—terror, majesty, and fascination as characteristics of the holy; distinction between the numinous (sacred) and the moral (good).
 
 [^2]: Jung, Carl Gustav. *Collected Works*, Vol. 11, par. 6 (Psychology and Religion). Jung's appropriation of Otto's term for psychological purposes—the numinous as encounter with the Self, archetypes, and collective unconscious.
+
+---

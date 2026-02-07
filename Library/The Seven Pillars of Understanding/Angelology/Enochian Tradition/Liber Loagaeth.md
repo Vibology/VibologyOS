@@ -280,25 +280,26 @@ Liber Loagaeth is the **collective unconscious made tangible**—a transmission 
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Dee's Latin title "Liber Loagaeth" and angelic designation "Book of the Speech from God."
+
 [^2]: 49 tables × 49×49 grids = ~120,000 characters; one table withheld (48 received).
+
 [^3]: Angels forbade translation; called it "language Adam learned in Paradise" (Dee diaries).
+
 [^4]: The 49th table explicitly withheld; parallel to sealed knowledge motif.
+
 [^5]: Revealed 1582-1583 during Krakow and Prague sessions; patronage of Laski and Rudolf II.
+
 [^6]: Laycock, *Complete Enochian Dictionary*—Loagaeth lacks grammatical structure of the 48 Keys.
+
 [^7]: Theory: Loagaeth encodes deep phonetic/mystical structure not evident in Keys.
+
 [^8]: Angelic statement "Then Commeth the End" re: Loagaeth's apocalyptic function.
+
 [^9]: Angelic claim Loagaeth is the Adamic language spoken before the Fall.
+
 [^10]: British Library Sloane MS 3189 and Cotton Appendix XLVI (fire-damaged).
 
 ---
-
-## Sources
-
-- Dee, John. Original manuscripts: British Library Sloane MS 3189 and Cotton Appendix XLVI. Primary source for the 49 tables.
-- Peterson, Joseph. *John Dee's Five Books of Mystery* (2003). Scholarly edition of Dee's diaries with Loagaeth tables.
-- Laycock, Donald. *The Complete Enochian Dictionary* (1978, revised 2001). Linguistic analysis of Enochian; treats Loagaeth as largely incomprehensible.
-- James, Geoffrey. *The Enochian Evocation of Dr. John Dee* (1984). Includes partial Loagaeth tables.
-- DuQuette, Lon Milo. *Enochian Vision Magick*. Contextual analysis of Loagaeth within the broader Enochian system.

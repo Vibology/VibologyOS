@@ -912,7 +912,7 @@ For those who do not identify within the gender binary, the Divine Child may man
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12, par. 73. Princeton University Press.
 
@@ -944,31 +944,4 @@ For those who do not identify within the gender binary, the Divine Child may man
 
 [^15]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7 (on the Self as life's goal).
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Jung, C.G. *The Development of Personality*. Collected Works Vol. 17. Princeton University Press.
-- Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5. Princeton University Press.
-- von Franz, Marie-Louise. *The Problem of the Puer Aeternus*. Spring Publications, 2000.
-- Erikson, Erik H. *Childhood and Society*. W.W. Norton, 1950. (Psychosocial development stages)
-- Edinger, Edward F. *Ego and Archetype*. Shambhala, 1972. (Ego-Self axis, individuation)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Alchemical stages, coniunctio, hermaphrodite)
-- Neumann, Erich. *The Origins and History of Consciousness*. Princeton University Press, 1954. (Mother-Child separation, hero's journey)
-- Neumann, Erich. *The Child*. Shambhala, 1990. (Structure and dynamics of the nascent personality)
-- Campbell, Joseph. *The Inner Reaches of Outer Space*. New World Library, 1986.
-- Winnicott, D.W. *Playing and Reality*. Routledge, 1971. (Transitional objects, play as sacred)
-- Hollis, James. *The Middle Passage: From Misery to Meaning in Midlife*. Inner City Books, 1993. (Midlife rebirth of the Divine Child)
-- Mythology & Folklore sources:
-  - Egyptian: *The Book of the Dead*, Pyramid Texts (Horus and Isis myths)
-  - Hindu: *Bhagavata Purana* (Krishna birth and childhood), *Ganesha Purana*
-  - Greek: Homeric Hymns (Hermes, Dionysus), Hesiod's *Theogony*, Euripides' *The Bacchae*
-  - Christian: New Testament Gospels (Nativity narratives, Massacre of the Innocents)
-  - Gnostic: Nag Hammadi Library (Christ child as divine light in matter)
-  - Taoist: Lao Tzu, *Tao Te Ching* (the uncarved block, *p'u*)
-  - Buddhist: *Lalitavistara Sutra* (Buddha's miraculous birth)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Hansel and Gretel, Rapunzel, Sleeping Beauty, Tom Thumb, The Frog King)
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- von Franz, Marie-Louise. *The Feminine in Fairy Tales*. Spring Publications, 1972.
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*. Vintage Books, 1976.
-- Watts, Alan. *The Wisdom of Insecurity*. Vintage Books, 1951. (Beginner's mind, wonder)
-- Suzuki, Shunryu. *Zen Mind, Beginner's Mind*. Shambhala, 1970. (*Shoshin* practice)
+---

@@ -237,14 +237,18 @@ Jupiter teaches that faith is not blind. It is the willingness to act *as if* th
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Jupiter is exalted in Cancer because he excites fruitful breezes from the north and becomes most northerly in this sign"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter rejoices in the 11th House, the house of friends, hopes, and trust
+
 [^4]: Greek mythology (Grimoire): Zeus saved from Cronus by Rhea, hidden in a cave on Mount Ida, suckled by the goat Amaltheia; overthrows the Titans and establishes the Olympian order
+
 [^5]: Greek mythology (Grimoire): Zeus's name derives from roots meaning "bright sky"; lord of thunderbolt, rain, and atmospheric phenomena; worshipped on mountain tops
+
 [^6]: Greek mythology (Grimoire): Zeus's countless unions (Europa, Leda, Semele) reflect endless fertility, boundless creativity, and the drive to proliferate and disseminate
 
 ---
-
-*"Jupiter does not promise safety. He promises that the journey is worth the risk."*

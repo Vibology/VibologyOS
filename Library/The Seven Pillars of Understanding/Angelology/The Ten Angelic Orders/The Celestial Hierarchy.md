@@ -266,30 +266,8 @@ Both systems agree on the **structure**: divine light emanates downward through 
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-### Primary Texts
-- **Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (*De Coelesti Hierarchia*). Late 5th/early 6th century. (Foundational nine-order structure)
-- **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967. (Historical context, Dionysian system, Jewish variants)
-- **Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Marcus Aurelius Press, 1983. (Qabalistic mapping, Golden Dawn extension to ten orders)
-- **Aquinas, Thomas.** *Summa Theologica*, Part I, Questions 108-113. 13th century. (Scholastic standardization)
-- **Dante Alighieri.** *Paradiso*, Cantos 28-29. 14th century. (Poetic cosmology)
-
-### Supporting Context
-- **Huxley, Aldous.** *The Perennial Philosophy.* 1945. (Neoplatonic synthesis, universal mysticism)
-- **Proclus.** *Elements of Theology.* 5th century. (Neoplatonic metaphysical foundation)
-- **Maimonides, Moses.** *Mishneh Torah: Yesodei ha-Torah* 2:7. 12th century. (Jewish ten-fold hierarchy)
-
-### Verification
-- **Source:** Esoteric Grimoire (NotebookLM)
-- **Date:** 2026-02-06
-- **Notes:** Davidson, Wang, Aquinas, Dante citations verified; Proclus/Neoplatonic influences confirmed; Qabalistic ten-fold extension documented
-
----
-
-*Last updated: 2026-02-06 | Expansion complete: stub → comprehensive overview entry*

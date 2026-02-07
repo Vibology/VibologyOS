@@ -402,37 +402,8 @@ Astrologically, Poseidon corresponds to **[[Neptune ♆]]**, though this identif
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Homer** — *Iliad*, *Odyssey*. Poseidon's role in the Trojan War, his aid to Greek heroes, his wrath against Odysseus.
-- **Hesiod** — *Theogony*. Poseidon's birth, role in Titanomachy, division of the cosmos.
-- **Homeric Hymns** — *Hymn to Poseidon*. Brief devotional hymn to the Earth-Shaker.
-- **Apollodorus** — *Bibliotheca*. Comprehensive catalogue of Poseidon's myths, consorts, and offspring.
-
-### Mythological Encyclopedias
-- **Guirand, Félix (ed.)** — *New Larousse Encyclopedia of Mythology* (1959). Detailed entry on Poseidon's attributes, animals, and cult sites.
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Myths of Poseidon's contests, unions, and punishments.
-
-### Psychological and Archetypal Analysis
-- **Greene, Liz** — *The Astrology of Fate* (1984). Poseidon as the god of affects, instinctual force, and the masculine depths (distinct from oceanic feminine).
-- **Jung, C.G.** — *Collected Works Vol. 7: Two Essays on Analytical Psychology*. The encounter with the unconscious as crisis and opportunity (CW 7, ¶389).
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation*. The horse as symbol of libido, instinctual drive, and creative power.
-- **López-Pedraza, Rafael** — *Cultural Anxiety* (1990). Poseidon and the suppression of instinctual consciousness in modern civilization.
-
-### Comparative Mythology
-- **Frazer, James George** — *The Golden Bough*. Bulls, horses, and sacrifice in ancient Mediterranean religions.
-- **Eliade, Mircea** — *Patterns in Comparative Religion* (1958). Water deities, chaos dragons, and the sacred marriage of sky and sea.
-
-### Trauma and Somatic Psychology
-- **van der Kolk, Bessel** — *The Body Keeps the Score* (2014). Trauma as earthquake—the overwhelming of consciousness by repressed experience.
-- **Levine, Peter** — *Waking the Tiger* (1997). Working with instinctual/somatic responses to trauma (the "earthquake" in the body).
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (Guirand, Frazer, Greene). Comprehensive coverage of Earth-Shaker aspect, trident symbolism, sacred animals (horse/bull/dolphin), contest with Athena, Medusa-Pegasus myth, Demeter violation, Amphitrite marriage, Minotaur connection, Jungian analysis (affects, terrible father), shadow dynamics (emotional flooding, violation, refusal to sacrifice), and practical applications established.*

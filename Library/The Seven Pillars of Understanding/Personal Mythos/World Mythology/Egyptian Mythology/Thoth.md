@@ -328,49 +328,8 @@ When facing a deadlock between two positions (inner or outer conflict):
 
 ---
 
+## Notes
 
 [^1]: Egyptian sources and *Hermetica* — Thoth as god of wisdom, writing, and magic.
 
 ---
-
-## Sources
-
-### Primary Egyptian Sources
-- *Book of the Dead* (New Kingdom) — judgment scene (Spell 125: Weighing of the Heart)
-- Pyramid Texts — Thoth as lunar god and divine mediator
-- Hermopolitan cosmogony — Thoth as creator through speech
-- Temple inscriptions at Hermopolis Magna (Thoth's primary cult center)
-- *The Contendings of Horus and Set* (Papyrus Chester Beatty I) — Thoth's mediation
-
-### Hellenistic and Hermetic Sources
-- *Corpus Hermeticum* (2nd-3rd century CE) — philosophical dialogues attributed to Hermes Trismegistus
-- *Emerald Tablet* (*Tabula Smaragdina*) — foundational Hermetic axioms
-- *Asclepius* (Hermetic dialogue)
-- Clement of Alexandria, *Stromata* — references to 42 Books of Thoth
-- Iamblichus, *De Mysteriis* — Hermetic-Egyptian synthesis
-
-### Scholarly Analysis
-- Erik Iversen, *Egyptian and Hermetic Doctrine* (1984)
-- Garth Fowden, *The Egyptian Hermes: A Historical Approach to the Late Pagan Mind* (1986)
-- Patrick Boylan, *Thoth, the Hermes of Egypt* (1922)
-- R.T. Rundle Clark, *Myth and Symbol in Ancient Egypt* (1959)
-
-### Jungian and Archetypal
-- C.G. Jung, *The Transcendent Function* (CW 8, par. 131-193) — mediating function between opposites
-- C.G. Jung, *Psychology and Alchemy* (CW 12) — Mercurius as trickster-transformer
-- C.G. Jung, *Archetypes and the Collective Unconscious* (CW 9i) — psychopomp, trickster
-- Marie-Louise von Franz, *The Problem of the Puer Aeternus* (1970) — Mercurial consciousness
-- James Hillman, *Alchemical Psychology* (2004) — Mercury's soul-making function
-
-### Tarot and Western Esotericism
-- Antoine Court de Gébelin, *Le Monde Primitif* (1781) — first claim of Egyptian Tarot origin
-- Éliphas Lévi, *Transcendental Magic* (1855) — Thoth-Hermes-Tarot connection
-- Aleister Crowley, *The Book of Thoth* (1944) — Tarot as "Book of Thoth"
-- Paul Foster Case, *The Tarot* (1947) — Magician as Mercurial principle
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Egyptian and Hermetic sources). Archetypal analysis synthesized from Jungian transcendent function (verified CW 8) and Mercurial trickster-sage (CW 12). Weighing of the heart verified from Book of the Dead Spell 125. Hermetic tradition verified from Corpus Hermeticum and scholarly sources on Hermes Trismegistus. Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

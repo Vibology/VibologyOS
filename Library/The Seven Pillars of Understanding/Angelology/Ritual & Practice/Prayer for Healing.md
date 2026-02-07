@@ -368,73 +368,44 @@ For those seeking a non-denominational, accessible daily practice:
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Cross-cultural healing prayer traditions — Christian anointing of sick, Jewish Mi Shebeirach, Islamic Ruqyah, Hindu puja for health, Buddhist healing mantras; universal practice across traditions
+
 [^2]: Three elements of effective healing prayer — Faith (trust in divine power), surrender (releasing attachment to outcomes, "Thy will be done"), action (seeking appropriate medical/therapeutic care)
+
 [^3]: James 5:14-16 — Call elders to pray over sick, anoint with oil in Lord's name; prayer offered in faith will make sick person well
+
 [^4]: Angelic healing invocations — Raphael (primary healing angel), Michael (protection from spiritual attack), Virtues order (miracles and grace); direct address to intelligence vs. petition to God
+
 [^5]: Jewish Mi Shebeirach prayer — Traditional synagogue blessing for sick; invokes patriarchs/matriarchs, asks for complete recovery (healing of soul and body)
+
 [^6]: Catholic Sacrament of Anointing the Sick — Priest anoints forehead and hands with consecrated oil (chrism), prays for grace of Holy Spirit, asks Lord to free from sin and raise up
+
 [^7]: Islamic Ruqyah (spiritual healing) — Quranic recitation, supplication (du'a), physical remedies (honey, black seed oil); Verse of Healing (Al-Isra 17:82) affirms Quran as healing/mercy
+
 [^8]: Raphael as primary healing angel — Functions: physical restoration, mental clarity, emotional healing, safe passage; invoke Sundays (solar) or Wednesdays (mercurial), at dawn
+
 [^9]: 72 Angels of Shem HaMephorash — Mumiah (72, health/longevity), Rehael (12, vitality restoration), Hahaiah (12, protection/spiritual dreams)
+
 [^10]: Byrd Study (1988) — 393 coronary care patients; prayer group had fewer complications, less medication, shorter stays; single study, not widely replicated
+
 [^11]: STEP Study (2006) — 1,802 cardiac bypass patients; distant intercessory prayer (prayed for by strangers) had no measurable effect; those who knew they were being prayed for had slightly worse outcomes (performance anxiety)
+
 [^12]: Observatory synthesis of prayer research — Psychological benefits (stress reduction, meaning-making, social support) well-established; synchronistic effects (meaningful encounters) possible; consent/knowledge matters; prayer not substitute for treatment
+
 [^13]: Jung on illness as symbol — Neurosis as psyche stopping person from destructive path; symptom as messenger (not problem itself); chronic pain as unprocessed grief, autoimmune as self-attack, heart disease as emotional closure
+
 [^14]: Threefold healing model — Physical (doctors/medicine/surgery), Psychological (therapy/analysis/trauma work), Spiritual (prayer/ritual/grace); all three necessary; God works through human hands
+
 [^15]: Navaho Night Chant (Tl'eejí) — Nine-night healing ceremony; yei (Holy People/angels) invoked; sand paintings, chanting, ritual bathing; patient sits on mandala; "In beauty I walk" prayer; restoration of hózhǫ́ (balance/beauty)
+
 [^16]: Observatory interpretation — Prayer as signal amplification (aligning with divine healing intelligence, broadcasting receptivity); not creating new but aligning with present; synchronicity arranges meaningful coincidences; restoration of flow where blockage existed
 
 ---
-
-## See Also
-
-### Within Angelology
-- [[Invocation of Raphael]] — Specific protocol for calling the healing archangel (complementary to general prayer)
-- [[Raphael]] — Complete archangel profile (planetary rulerships, Qabalistic position, healing functions)
-- [[Michael]] — Archangel of protection; invoke for spiritual healing (curse removal, entity clearing)
-- [[Virtues]] — Angelic order governing miracles and grace; invoked for "impossible" healings
-- [[The Four Archangels of the Quarters]] — Raphael in East/Air (breath, life force, healing)
-- [[Lesser Banishing Ritual of the Pentagram]] — Ceremonial protection creating sacred space for healing work
-- [[Contemplative Prayer]] — Non-petitionary prayer (holding in divine light vs. asking for specific outcome)
-
-### Within Personal Mythos (Jungian)
-- [[Individuation Process]] — Illness as call to integrate rejected psychic contents
-- [[The Shadow]] — Rejected aspects manifesting as somatic symptoms
-- [[Active Imagination]] — Dialogue with "illness-maker" complex to understand symptom's purpose
-- [[The Self]] — Divine center; healing as ego-Self alignment (surrender to totality's will)
-- [[Synchronicity]] — Meaningful coincidences following prayer (arranged encounters, spontaneous remissions)
-- [[Inflation]] — Danger of "faith alone" (ego identifying with divine power, refusing medical care)
-
-### Within Astrology & Qabalah
-- [[Tiphareth]] — Sixth sephirah (Beauty, solar center); Raphael's primary station; heart-centered healing
-- [[Hod]] — Eighth sephirah (Glory, mercurial intellect); Raphael's secondary station; medical knowledge
-- [[Sun ☉]] — Solar vitality, life force; invoke on Sundays for strength and regeneration
-- [[Mercury ☿]] — Communication, precision; invoke on Wednesdays for mental clarity, correct diagnosis
-- [[6th House]] — Astrological house of health, daily routines, service; shows health vulnerabilities and remedies
-
-### Within Human Design
-- [[Spleen]] — Intuitive knowing of health/danger; trust instincts about when to seek care
-- [[Solar Plexus]] — Emotional wave affects physical health; healing requires emotional clarity
-- [[Sacral]] — Life force energy; defined Sacral has sustainable vitality, undefined needs rest
-
-### Ritual Practices & Scriptures
-- [[Bedtime Shema]] — Jewish protective prayer invoking angelic guardianship (Raphael behind practitioner)
-- Psalms — Psalms 6, 41, 67, 102, 103 traditionally used in healing prayers
-- [[Anointing and Substituted Love]] — Sacramental use of oil as vehicle for grace (James 5:14-15 protocol)
-
----
-
-## Sources
-
-- James 5:14-16. Foundational New Testament text for Christian healing prayer and anointing of the sick.
-- Psalms 6, 41, 67, 102, 103. Hebrew Bible psalms traditionally used in healing liturgy.
-- Book of Tobit (Deuterocanonical). Raphael as primary healing angel; teaches remedies, guides Tobias, heals Tobit's blindness.
-- Jewish liturgical tradition. *Mi Shebeirach* healing prayer; invocation of patriarchs and matriarchs for recovery.
-- Quran, Al-Isra 17:82. Verse of Healing in Islamic *Ruqyah* tradition.
-- Byrd, Randolph C. "Positive Therapeutic Effects of Intercessory Prayer in a Coronary Care Unit Population" (1988). Early intercessory prayer study.
-- Benson, Herbert et al. "Study of the Therapeutic Effects of Intercessory Prayer (STEP)" (2006). Largest intercessory prayer trial.
-- Regardie, Israel. *The Golden Dawn*. Qabalistic correspondences for Raphael and angelic healing invocation.
-- Jung, C.G. Collected Works, vol. 11 (*Psychology and Religion*). On illness as symbol, ego-Self alignment, and the unconscious as source of healing.

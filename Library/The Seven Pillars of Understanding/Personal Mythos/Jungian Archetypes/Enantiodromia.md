@@ -131,25 +131,8 @@ Enantiodromia may be occurring when you:
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* (Bollingen Series XX, Princeton University Press) — Jungian archetypal psychology.
 
 ---
-
-## Sources
-
-**Primary Sources:**
-- Heraclitus, Fragments 60, 126 (the original cosmological principle)
-- Jung, C.G. *Psychological Types* (CW 6), §709 — definition and introduction of the term
-- Jung, C.G. *Two Essays on Analytical Psychology* (CW 7), §111 — enantiodromia and individuation
-- Jung, C.G. *The Structure and Dynamics of the Psyche* (CW 8), §784 — the midlife reversal
-- Jung, C.G. *Aion* (CW 9ii) — enantiodromia in cultural/historical context
-
-**Secondary Analysis:**
-- von Franz, M.-L. *C.G. Jung: His Myth in Our Time* — enantiodromia as life-pattern
-- Edinger, E. *Ego and Archetype* — the inflation/deflation cycle as enantiodromia
-- Hollis, J. *The Middle Passage* — midlife enantiodromia as developmental necessity
-
----
-
-*Created 2026-02-07. Part of the Jungian Archetypes collection within [[Personal Mythos]].*

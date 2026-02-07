@@ -470,7 +470,9 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and historical figure
@@ -489,48 +491,16 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — citing Karen King's argument that "Gnosticism" was a category created by early heresy-hunters, not a monolithic religion
+
 [^2]: King, *The Gospel of Mary of Magdala: Jesus and the First Woman Apostle* (2003); cited in Bourgeault — dating the Gospel of Mary to the first half of the 2nd century CE
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) conflating Mary Magdalene, the "sinful woman" of Luke 7, and Mary of Bethany
+
 [^4]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — citing Bernard of Clairvaux's 86 sermons on the Song of Songs and his "school of love" teaching that eros is the touchstone of spiritual transformation
+
 [^5]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114 — kenosis as "nonclinging" or "letting be," derived from Philippians 2:5-8
-
----
-## Sources
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala, 2010.
-- Primary source for Magdalene Path recovery
-- Mary as koinonos: p. 107
-- Ihidaya/Singleness: p. 97
-- Fifth Way: p. 109
-- Kenosis: p. 114
-- Pope Gregory I / Homily 33 (594 CE): cited throughout
-- Bourgeault cites Karen King, Bernard of Clairvaux, Teresa of Ávila, St. John of the Cross, Boris Mouravieff, Charles Williams
-
-Gospel of Mary. Berlin Gnostic Codex (BG 8502,1). 2nd century CE.
-- Mary's private teaching from Jesus
-- Ascent through seven powers
-- Peter's challenge to Mary's authority
-
-Gospel of Philip. Nag Hammadi Codex II,3. 3rd century CE (Syria).
-- Mary as koinonos (companion)
-- The Bridal Chamber sacrament
-- "Kissing" passage (pneumatic transmission)
-
-Gospel of Thomas. Nag Hammadi Codex II,2. 1st–2nd century CE.
-- Logion 114: "make her male"
-
-Estés, Clarissa Pinkola. *Women Who Run With the Wolves*. New York: Ballantine, 1992.
-- Dark Night of the Soul connection to the unconscious
-
-Huxley, Aldous. *The Perennial Philosophy*. New York: Harper & Brothers, 1945.
-- St. John of the Cross citations
-
-Wang, Robert. *The Qabalistic Tarot*. York Beach: Samuel Weiser, 1983.
-- Dark Night and the path of Temperance
-
-**Note:** Some contemporary teachers (Richard Rohr, Mirabai Starr, Tau Malachi, Anaiya Sophia) are listed as contextual references. Verify if their works are in the Esoteric Grimoire before citing directly.
 
 ---

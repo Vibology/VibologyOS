@@ -159,6 +159,7 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Knight of Pentacles]] - Sustained effort manifests as nurturing abundance
 - [[King of Pentacles]] - Nurturing care matures into mastery and authority
@@ -201,25 +202,18 @@ The teaching: Hoarding creates scarcity. Generosity creates abundance. When you 
 ---
 *"The Queen who sits in the garden does not count her coins—she watches what grows, and shares the harvest."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Queen of Pentacles.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn Water of Earth elemental formula for the Queen of Pentacles.
+
 [^3]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Queen of Pentacles as contemplating her symbol.
+
 [^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Queen of Pentacles.
+
 [^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Queen of Pentacles.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

@@ -177,19 +177,14 @@ The critical insight: the Sephiroth are not *things* but **processes** — modes
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: The triple root of ספר (*saphar*): "to count" (*mispar* = number), "to tell/narrate" (*sippur* = story), "to shine" (*sappir* = sapphire, brilliance). The Sephiroth are simultaneously number, narrative, and light.
+
 [^2]: Sefer Yetzirah 1:4 — "Ten is the number of the ineffable Sephiroth — ten and not nine, ten and not eleven. Understand with wisdom, be wise with understanding."
+
 [^3]: Wang, *The Qabalistic Tarot* — The Lightning Flash as the path of emanation, the Flaming Sword as its image; the zigzag descent from Kether to Malkuth.
+
 [^4]: Jung, CW 9i, 14 — The Self as central archetype around which the psyche organizes; individuation as the progressive integration of complementary opposites.
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** — The foundational assertion of ten Sephiroth ("ten and not nine, ten and not eleven"); the triple root of *saphar*
-- **The Zohar** — The Sephirothic drama of emanation, cosmic marriage, exile, and return; the Sitra Achra as the shadow of the Tree
-- **Robert Wang, *The Qabalistic Tarot*** — The Lightning Flash, the Serpent of Wisdom, and Tarot correspondences to the Sephiroth
-- **Dion Fortune, *The Mystical Qabalah*** — The Sephiroth as functional processes rather than static locations; the Qlippothic shadows
-- **Jung, CW 9i, 14** — The Self as central archetype; individuation as progressive integration of opposites

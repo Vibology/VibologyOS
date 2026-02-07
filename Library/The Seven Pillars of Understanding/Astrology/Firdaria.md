@@ -181,7 +181,7 @@ In Jungian terms, the firdaria lord is the **dominant complex** of the period â€
 
 ---
 
-## Sources
+## Notes
 
 [^1]: The term *firdaria* (or *firdar*) derives from the Persian adaptation of the Greek *periodos* ("period") and entered Western astrology through Arabic transmission. The system assigns time-lord rulership to successive planets across the lifespan.
 
@@ -190,3 +190,5 @@ In Jungian terms, the firdaria lord is the **dominant complex** of the period â€
 [^3]: Lilly, *Christian Astrology* (1647), Book III, Chapter CLXVI: "Lords of the Septenniall yeers" (Alfridary). Equal 7-year periods, Chaldean order, sect-dependent starting planet. Lilly refers readers to Schoner, Junctinus, Ranzovius, and Origanus for detailed delineation.
 
 [^4]: The standard variable-year firdaria system is attributed to the Arabic-Persian tradition, particularly Abu Ma'shar (*The Great Introduction*, 9th century CE) and Al-Biruni. The period lengths derive from the planetary years. This is the more widely used version in contemporary traditional astrology practice.
+
+---

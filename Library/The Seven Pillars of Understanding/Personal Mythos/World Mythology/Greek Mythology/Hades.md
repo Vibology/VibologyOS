@@ -434,39 +434,8 @@ Astrologically, Hades corresponds to **[[Pluto ♇]]**, the planet of death, tra
 
 ---
 
+## Notes
 
 [^1]: Homer, *Iliad* and *Odyssey*, and classical sources — Hades as god of the underworld and lord of the dead.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Homer** — *Odyssey* (Book XI: Odysseus's descent to consult the dead)
-- **Virgil** — *Aeneid* (Book VI: Aeneas's katabasis guided by the Sibyl)
-- **Homeric Hymn to Demeter** (7th century BCE) — The definitive account of Persephone's abduction and the Eleusinian Mysteries
-- **Ovid** — *Metamorphoses* (Orpheus-Eurydice myth, Sisyphus, Tantalus)
-- **Plato** — *Republic* (Book X: Myth of Er, vision of the afterlife)
-
-### Mythological Encyclopedias
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive entry on Hades, underworld geography, katabasis traditions.
-- **Kerenyi, Karl** — *Eleusis: Archetypal Image of Mother and Daughter* (1967). In-depth analysis of the Demeter-Persephone myth and the Eleusinian Mysteries.
-
-### Psychological and Archetypal Analysis
-- **Jung, C.G.** — *Collected Works Vol. 9i: The Archetypes and the Collective Unconscious*. The shadow as buried treasure (CW 9i, ¶423).
-- **Jung, C.G.** — *Collected Works Vol. 7: Two Essays on Analytical Psychology*. Ego-death as crisis and transformation (CW 7, ¶389).
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation*. The descent to the underworld as individuation motif.
-- **Hillman, James** — *The Dream and the Underworld* (1979). Revisioning the underworld as the archetypal realm where dreams originate.
-- **Downing, Christine** — *The Goddess: Mythological Images of the Feminine* (1981). Persephone-Hades as death-maiden/shadow-king pairing.
-
-### Katabasis and Initiatory Traditions
-- **Eliade, Mircea** — *Shamanism: Archaic Techniques of Ecstasy* (1951). The shamanic descent to the underworld as universal initiatory pattern.
-- **Campbell, Joseph** — *The Hero with a Thousand Faces* (1949). The belly of the whale, the descent, and the return.
-
-### Existential and Philosophical Readings
-- **Camus, Albert** — *The Myth of Sisyphus* (1942). Absurdism and the question of meaning in the face of futility.
-- **Heidegger, Martin** — *Being and Time* (1927). Being-toward-death as authentic human existence.
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (classical sources). Comprehensive coverage of Helm of Darkness, Persephone abduction, underworld geography (rivers, Charon, Cerberus, judges), Orpheus-Eurydice, Sisyphus/Tantalus/Ixion punishments, Heracles' katabasis, Jungian analysis (shadow realm, death-rebirth, hidden wealth, invisible laws, rape as initiation), shadow dynamics (denial of descent, unburied dead, inflation), and practical applications established.*

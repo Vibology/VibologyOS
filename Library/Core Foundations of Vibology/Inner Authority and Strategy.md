@@ -484,6 +484,7 @@ The third shadow: **fear of what Authority reveals**:
 **The Antidote:** Trust. Authority knows. It may not know *why*, but it knows *what* is correct.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -509,30 +510,17 @@ The third shadow: **fear of what Authority reveals**:
 *"The mind is a magnificent servant but a terrible master. Inner Authority returns sovereignty to the body—the only intelligence that knows, without thought, what is correct for you."*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — "The mind is not a trustworthy personal guidance system"; "See the body as the solution, not as the problem."
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Mind as Outer Authority (information-gatherer) vs. Body as Inner Authority (decision-maker).
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Emotional Authority: "No truth in the now"; wait for clarity over the biochemical wave.
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the Experiment of Strategy and Authority; "If you live by your personal Strategy and Authority there is nothing to do."
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Splenic Authority as the oldest awareness; speaks once and never repeats.
 
 ---
-
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
-- Authority hierarchy: Emotional (strongest), Sacral, Splenic, Ego, Self-Projected, Environmental, Lunar
-- Emotional Authority: "No truth in the now" / "wait for clarity"
-- Sacral Authority: Guttural sounds (uh-huh/uhn-un), present moment response
-- Splenic Authority: Speaks once, never repeats, survival instinct
-- Ego Authority: "Listen to what you say" / "What do I want?"
-- Self-Projected Authority: Sounding boards for hearing identity speak
-- Environmental Authority: "Is this environment correct for me?"
-- Lunar Authority: 28-day cycle, sampling different perspectives
-- "The mind is not a trustworthy personal guidance system"
-- "See the body as the solution, not as the problem"
-- "If you live by your personal Strategy and Authority there is nothing to do"
-- "The moment your mind stops making decisions you actually get a life"
-- Mind = Outer Authority (information); Body = Inner Authority (decisions)
-

@@ -690,44 +690,8 @@ The Albedo is the stage of objective cognition. Without it, the final union (Rub
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Albedo as whitening, purification stage following Nigredo.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 14: *Mysterium Coniunctionis* (Anima/animus as bridge to collective unconscious, objective cognition enabling coniunctio)
-  - Vol. 12: *Psychology and Alchemy* (Albedo as reflection, insight, objectivity; soul separated from body for purification)
-  - Vol. 9ii: *Aion* (Anima/animus integration during Albedo phase)
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Ed. Aniela Jaffé. Trans. Richard and Clara Winston. Vintage Books. ("Only through objective cognition is the real coniunctio possible")
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). ("After the blackness comes the whiteness"; soul (dove) ascending from corpse after Nigredo death)
-- *Turba Philosophorum* (Assembly of the Philosophers). ("The whiteness follows the blackness as day follows night. The impurities are removed, and what remains is pure.")
-- *The Emerald Tablet* (Hermes Trismegistus). ("Separate the earth from the fire, the subtle from the gross, gently and with great ingenuity" - Albedo as Air phase)
-- Ripley, George. *The Compound of Alchemy* (1471). ("After the blackness, whiteness will appear. This is called the Albedo, the white stage, where the soul is purified.")
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Albedo operations: Separation, Distillation; psychological differentiation)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Albedo symbolism: white dove, swan, Moon, silver, washing/baptism)
-
-**Mythological Sources:**
-- Classical mythology: Persephone's return, Psyche's tasks, Orpheus ascending from underworld (emergence from darkness)
-- Egyptian sources: Isis gathering Osiris fragments, Weighing of the Heart (Ma'at balance, clarity)
-- Christian mysticism: Baptism, Resurrection, Mary Magdalene's recognition of Christ
-- Hindu sources: Ganga purification, Shiva's stillness after Tandava
-
-**Fairy Tales (Awakening Motifs):**
-- Snow White awakened from death-sleep
-- Sleeping Beauty's awakening
-- Cinderella's recognition (slipper fitting, soul-signature revealed)
-- Rapunzel's exile and healing tears
-- Frog Prince transformation
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Moon/Venus astrology, 7th House, Libra/Pisces, Sacral/Splenic HD centers, Temperance/Star Tarot, Gates 59/6, Tzadkiel/Gabriel/Raphael angelology) represent Vibology's integration of verified alchemical Albedo patterns across seven-pillar framework.
 
 ---

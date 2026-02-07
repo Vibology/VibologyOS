@@ -616,43 +616,12 @@ Jung: "He said things which I had not consciously thought. I observed clearly th
 
 ---
 
-## Sources
-
-### Primary Sources
-
-**Jung's Collected Works:**
-- Jung, Carl Gustav. *Collected Works* (CW). Edited by Herbert Read, Michael Fordham, Gerhard Adler. Translated by R.F.C. Hull. Princeton: Princeton University Press, 1953-1979.
-  - **CW 8:** *The Structure and Dynamics of the Psyche* (par. 131-193: The Transcendent Function)
-  - **CW 13:** *Alchemical Studies* (par. 20-22: Active imagination as alchemical work)
-  - **CW 14:** *Mysterium Coniunctionis* (par. 753: Dangers of active imagination)
-
-**Jung's Autobiographical Works:**
-- Jung, Carl Gustav. *Memories, Dreams, Reflections*. Edited by Aniela Jaffé. Translated by Richard and Clara Winston. New York: Vintage Books, 1961. (Philemon encounter, p. 183)
-
-**The Red Book:**
-- Jung, Carl Gustav. *The Red Book: Liber Novus*. Edited by Sonu Shamdasani. New York: W.W. Norton, 2009. (Jung's personal active imagination from 1913-1916; primary documentation of method development)
-
-### Secondary Sources
-
-**Marie-Louise von Franz:**
-- von Franz, Marie-Louise. *Lectures on Active Imagination* (unpublished; referenced via Jungian training institutes and secondary literature)
-- von Franz, Marie-Louise. *Psychotherapy*. Boston: Shambhala, 1993. (Discusses active imagination in clinical context)
-
-**Robert A. Johnson:**
-- Johnson, Robert A. *Inner Work: Using Dreams and Active Imagination for Personal Growth*. San Francisco: HarperSanFrancisco, 1986. (Accessible practical guide)
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[Pathworking]], [[Contemplative Prayer]], [[Divination]], and [[Human Design]] represent original Vibology correspondences, grounded in shared patterns (autonomous encounter, symbolic engagement, ethical embodiment).
-
-**Practice Warnings:**
-Psychological safety protocols synthesized from Jung CW warnings, von Franz clinical guidance, and contemporary Jungian training standards.
-
----
+## Notes
 
 [^1]: Jung, C.G. *Collected Works*, Vol. 8, par. 167-193 (The Transcendent Function). Active imagination described as the method for conscious-unconscious dialogue.
 
 [^2]: von Franz, M.L. *Psychotherapy* (1993). Emphasis on the autonomy of unconscious figures—they are not "made up" by the ego but encountered as genuinely Other.
 
 [^3]: Jung, C.G. *The Red Book: Liber Novus* (2009), edited by Sonu Shamdasani. Jung's personal documentation of active imagination 1913-1916; encounter with Philemon, Elijah, Salome, and other autonomous figures.
+
+---

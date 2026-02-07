@@ -101,6 +101,7 @@ The shadow is perfectionism (work without completion) or workaholism (craft as e
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Seven of Pentacles]] - Assessment complete; work resumes with renewed focus
 - [[Nine of Pentacles]] - Mastery yields solitary abundance and self-sufficiency
@@ -139,27 +140,17 @@ The shadow is perfectionism (work without completion) or workaholism (craft as e
 - Perfectionism - Shadow: detail obsession preventing completion
 
 ---
-*"The master is not the one who knows the most—it is the one who practices longest."*
 
-## Footnotes
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Eight of Pentacles.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Prudence" for the Eight of Pentacles.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Sun in Virgo decan attribution for the Eight of Pentacles.
+
 [^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Eight of Pentacles.
+
 [^5]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn reversal interpretation for the Eight of Pentacles.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

@@ -241,38 +241,26 @@ Ritual is not superstition. The Four Quarters are the **grid lines** on the map 
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Western ceremonial magic traditions — Four Quarters as cardinal directions (E/S/W/N) with four elements (Air/Fire/Water/Earth), four archangels (Raphael/Michael/Gabriel/Uriel), structural foundation for ritual work
+
 [^2]: Natural observation — Quarter-element correspondences derived from sun's daily journey: East/sunrise/Air (fresh dawn), South/zenith/Fire (noon heat), West/sunset/Water (twilight/ocean), North/nadir/Earth (midnight/solid darkness)
+
 [^3]: Golden Dawn, general angelology — Four archangels of quarters: Raphael (East/Air/healing), Michael (South/Fire/strength), Gabriel (West/Water/revelation), Uriel (North/Earth/wisdom)
+
 [^4]: Variant systems — Golden Dawn (Raphael East, Michael South, Gabriel West, Uriel North) vs. Heptameron (Michael East, Raphael West, Gabriel North, Uriel South) vs. Hebraic (body-centered: Michael right, Gabriel left, Uriel front, Raphael back)
+
 [^5]: Heptameron (c. 1496, attributed to Peter de Abano) — Medieval grimoire placing Michael in East (solar prince at rising sun), rearranging others
+
 [^6]: Hebraic amulet tradition, Bedtime Shema — Body-centered system (relative to practitioner's body, not compass), Shekinah above
+
 [^7]: Jungian interpretation — Four Quarters as four functions of consciousness (Thinking/Intuition/Feeling/Sensation) or four stages of individuation; quaternity as symbol of wholeness
 
 ---
-
-## See Also
-- [[The Four Archangels of the Quarters]] — Individual entries for Raphael, Michael, Gabriel, Uriel
-- [[Raphael]] — Archangel of East/Air, healing and guidance
-- [[Michael]] — Archangel of South/Fire, protection and strength
-- [[Gabriel]] — Archangel of West/Water, revelation and intuition
-- [[Uriel]] — Archangel of North/Earth, grounding and wisdom
-- [[Lesser Banishing Ritual of the Pentagram]] — Elaborate form incorporating Four Quarters
-- [[Bedtime Shema]] — Jewish protective prayer invoking Four Quarters (body-centered variant)
-- [[The Four Watchtowers]] — Enochian expansion of Four Quarters system
-- [[Invocation]] — General invocation protocols (Four Quarters as specific application)
-- [[Active Imagination]] — Requires protected space (Four Quarters provide containment)
-- [[The Self]] — Jungian wholeness symbol; quaternity as mandala/completeness
-- [[Individuation Process]] — Four Quarters as map of psychological development stages
-
----
-
-## Sources
-
-- Regardie, Israel. *The Golden Dawn*. Standard quarter-element-archangel attributions (Raphael East/Air, Michael South/Fire, Gabriel West/Water, Uriel North/Earth) and LBRP ritual structure.
-- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval grimoire with variant directional attributions (Michael East, Raphael West).
-- Jewish liturgical tradition (*Bedtime Shema*). Body-centered archangelic invocation (right/left/front/back) from Hebraic amulet tradition.
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Elemental correspondences and directional magic.
-- Jung, C.G. On the quaternity as symbol of wholeness and the four functions of consciousness (Thinking, Intuition, Feeling, Sensation).

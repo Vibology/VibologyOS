@@ -169,7 +169,7 @@ The Chaldean sequence's independence from sign rulership is itself psychological
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 8: The face (*prosōpon*) as the fifth and weakest essential dignity. "Quasi-dignity" that prevents peregrination. Only the five non-luminary planets rule faces in the Chaldean system.
 
@@ -186,3 +186,5 @@ The Chaldean sequence's independence from sign rulership is itself psychological
 [^7]: Lilly, *Christian Astrology* (1647): The peregrine planet as one that "wanders" without purpose — holding no essential dignity at its degree. The face is the last threshold before this condition.
 
 [^8]: Hephaestio of Thebes, *Apotelesmatics* (c. 415 CE): Preserves detailed physical descriptions (*morphē*) for each of the thirty-six decans as they rise on the Ascendant. Cited by Brennan, Ch 8.
+
+---

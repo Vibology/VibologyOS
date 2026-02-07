@@ -524,6 +524,7 @@ The answer is yes—**if used wisely**.
 **Invitation:** **Ship > perfect**. Commit the insight, close Obsidian, go outside, live your design.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -551,22 +552,15 @@ The answer is yes—**if used wisely**.
 *"Technology is the externalization of human intelligence. When we use it to map consciousness, we create mirrors that reflect patterns we couldn't see alone. But the mirror is not the face. The map is not the territory. The synthesis is not the gnosis. At a certain point, you must close the laptop, step away from the screen, and stand naked before the Mystery—knowing that no algorithm, however brilliant, can substitute for direct encounter with the Divine."*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — coinage of "Techgnosis" as spiritual knowledge achieved through technological means.
+
 [^2]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Spirit vs. Soul distinction; Sam Webster on ritual as "principal technology for programming the human organism."
+
 [^3]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Llull's Ars Magna as the first mechanical reasoning device for theological combination.
+
 [^4]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — technology as inherently gnostic, promising liberation from matter and access to hidden knowledge.
-
----
-
-## Sources
-
-Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.
-- Spirit vs. Soul distinction (digital/abstract vs. analog/embodied)
-- Davis cites Sam Webster: ritual as "principal technology for programming the human organism"
-- Technology as inherently gnostic
-
-**Vibology Application:** The technology stack, synthesis workflows, and practical integration sections are Vibology Synthesis—original integrations of Davis's Techgnosis concept with the Seven Pillars framework.
 
 ---

@@ -595,19 +595,12 @@ The mature psyche requires **integration of both**:
 
 **Final Reflection**: The Road Back is the **commitment to embodiment**. The hero has died and been reborn in the Ordeal, has seized the boon in the Reward—but none of this matters if the transformation is abandoned on the return journey. The Road Back tests whether the hero will **defend what was earned, accept the help required, and carry the burden of service**. Some refuse, preferring transcendence to the messy work of integration. Some are overwhelmed, collapsing under pursuit. But those who navigate The Road Back successfully arrive at the final threshold—ready for the Resurrection, ready to prove the transformation is permanent, ready to return the Elixir to the world that needs it.
 
+---
 
-## Footnotes
+## Notes
 
 [^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Road Back as Stage 10, including the Magic Flight, Refusal of the Return, and Rescue from Without.
+
 [^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (Shadow pursuit, Self's insistence on embodiment, Trickster archetype), Vol. 14 *Mysterium Coniunctionis* (Citrinitas, integration of unconscious contents), and *Memories, Dreams, Reflections* (Jung's own return from the confrontation with the unconscious) — Jungian archetypal framework linking the Road Back to integration anxiety and the conscious assimilation of unconscious contents.
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

@@ -582,45 +582,12 @@ The monomyth is **lived myth**—your life is the story. Journaling, therapy, ar
 
 ---
 
-## Sources
-
-### Primary Sources
-
-**Joseph Campbell:**
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton: Princeton University Press, 1949. (17-stage monomyth, Jungian foundations, comparative mythology)
-- Campbell, Joseph, with Bill Moyers. *The Power of Myth*. New York: Doubleday, 1988. (Accessible introduction to Campbell's work)
-
-**Carl Jung:**
-- Jung, Carl Gustav. *Collected Works*. (Psychological foundations for the Hero archetype)
-  - **CW 9i:** *The Archetypes and the Collective Unconscious* (The Hero archetype)
-  - **CW 8:** *The Structure and Dynamics of the Psyche* (Transcendent function, transformation)
-
-### Secondary Sources
-
-**Jungian Applications:**
-- Hollis, James. *The Middle Passage: From Misery to Meaning in Midlife*. Toronto: Inner City Books, 1993. (Midlife as heroic journey)
-- Johnson, Robert A. *He: Understanding Masculine Psychology*. New York: Harper & Row, 1974. (Parsifal as hero's journey)
-- Johnson, Robert A. *She: Understanding Feminine Psychology*. New York: Harper & Row, 1976. (Psyche and Eros as heroine's journey)
-
-**Heroine's Journey:**
-- Murdock, Maureen. *The Heroine's Journey: Woman's Quest for Wholeness*. Boston: Shambhala, 1990. (Feminist revision of monomyth)
-- Estés, Clarissa Pinkola. *Women Who Run with the Wolves*. New York: Ballantine Books, 1992. (Wild Woman archetype, reclaiming the feminine)
-
-**Storytelling Applications:**
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Studio City, CA: Michael Wiese Productions, 1992. (12-stage simplified monomyth for screenwriting)
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[The Fool's Journey]], [[The 30 Aethyrs]], [[Deconditioning]], and astrological transits represent original Vibology correspondences, grounded in shared archetypal patterns (departure/initiation/return).
-
-**Heroine's Journey:**
-Maureen Murdock's 10-stage framework integrated to honor feminine transformation paths alongside Campbell's patriarchal structure.
-
----
+## Notes
 
 [^1]: Campbell, Joseph. *The Hero with a Thousand Faces* (1949). The 17-stage monomyth systematized from cross-cultural comparative mythology.
 
 [^2]: Jung, Carl Gustav. *Collected Works*, Vol. 9i (*The Archetypes and the Collective Unconscious*). The Hero archetype as universal pattern; psychological foundation for Campbell's mythological work.
 
 [^3]: Murdock, Maureen. *The Heroine's Journey* (1990). Feminist revision emphasizing reclamation of the feminine, healing mother-wound, and integration of masculine/feminine polarities.
+
+---

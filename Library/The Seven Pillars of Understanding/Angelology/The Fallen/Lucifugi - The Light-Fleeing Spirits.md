@@ -222,7 +222,13 @@ The Lucifugi classification endures because the phenomena endure. Light-fleeing 
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Heywood, Thomas. *The Hierarchie of the Blessed Angells* (1635), Book 9, "The Angell" (Gabriel). Text Creation Partnership XML, lines 22856-22882.
 
@@ -257,13 +263,3 @@ The Lucifugi classification endures because the phenomena endure. Light-fleeing 
 [^16]: Heywood, *Hierarchie*, Book 9, lines 23783-23786, quoting 1 John 4:1.
 
 ---
-
-## Sources
-
-- Heywood, Thomas. *The Hierarchie of the Blessed Angells* (1635), Book 9 ("The Angell" — Gabriel). Primary source for the Lucifugi classification, Cobali mine spirits, treasure-guarding spirits, domestic spirits, and the Buttry-Sprite parable.
-- Isaiah 13:21 and 34:11-14. Biblical foundation for desolate-place spirits (*Zijm*, *Ijim*, *Okim*); Geneva Bible marginal notes on hobgoblins and fairies.
-- 1 John 4:1. "Test the spirits" — discernment criteria for distinguishing good angels from evil spirits.
-- 2 Corinthians 11:14. Satan as angel of light; the false-light deception pattern.
-- Olaus Magnus and Munsterus. Renaissance accounts of mining disasters attributed to subterranean spirits, cited by Heywood.
-- Psellius, Michael. On treasure-guarding demons and divine prohibition of freely distributing hidden wealth.
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Referenced by Heywood regarding magical pursuit of hidden treasure.

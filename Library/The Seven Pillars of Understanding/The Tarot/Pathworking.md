@@ -791,41 +791,18 @@ In the Western esoteric tradition, the ultimate goal is **union with the divine*
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 34; DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 27 — pathworking as active encounter within Qabalistic framework, distinct from passive visualization
+
 [^2]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 27 — Golden Dawn origin of pathworking as grade-specific initiatory practice
+
 [^3]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983); Fortune, Dion, *The Mystical Qabalah* (Williams & Norgate, 1935) — Dion Fortune's refinement and popularization of pathworking beyond ceremonial lodge settings
+
 [^4]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008) — the Lesser Banishing Ritual of the Pentagram as standard Golden Dawn protective practice
+
 [^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 34 — paths as experiential transformational journeys between Sephirotic states
+
 [^6]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008) — astral pathworking as valid initiation in ceremonial magic tradition
 
 ---
-
-## Sources
-
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**Qabalah and Tarot:**
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. (Path correspondences, Golden Dawn system, p. 34 discusses pathworking)
-- DuQuette, Lon Milo. *Enochian Vision Magick*. San Francisco: Weiser Books, 2008. (Ch. 27: Golden Dawn pathworking practices, integration with ceremonial magic)
-
-### Secondary Sources (Referenced via Primary)
-
-**Golden Dawn and Dion Fortune:**
-- Fortune, Dion. *The Mystical Qabalah*. London: Williams & Norgate, 1935. — Referenced via Wang 1983 and contemporary pathworking literature
-- Regardie, Israel. *The Golden Dawn*. St. Paul, MN: Llewellyn, 1971. — Referenced via DuQuette 2008 (ritual protocols)
-
-**Jungian Psychology:**
-- Jung, Carl Gustav. *Collected Works* (Active Imagination methodology). — Referenced via archetypal pathworking literature
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[Human Design]], [[The Magdalene Path]], and other pillars represent original Vibrology correspondences, grounded in archetypal resonance.
-
-**Safety Protocols:**
-Psychological safety warnings synthesized from Jungian therapeutic ethics, contemporary pathworking guides, and Dion Fortune's cautionary teachings.
-
-**Path Descriptions:**
-Individual path protocols integrate Wang 1983 (Qabalistic correspondences), DuQuette 2008 (Golden Dawn practice), and archetypal synthesis from Tarot pillar entries.

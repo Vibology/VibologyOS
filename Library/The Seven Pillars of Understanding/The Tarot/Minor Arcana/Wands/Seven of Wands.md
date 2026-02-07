@@ -425,6 +425,7 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Six of Wands]] - The public victory that the Seven must now defend
 - [[Eight of Wands]] - The swift acceleration that follows successful defense
@@ -488,24 +489,16 @@ The Seven of Wands teaches: **Sometimes the greatest victory is simply not yield
 
 *"Courage is not the absence of doubt, but the willingness to stand firm when doubt whispers retreat."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Seven of Wands
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Valour" and Netzach in Atziluth attribution for the Seven of Wands
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Seven of Wands
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Mars in Leo for the Seven of Wands
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

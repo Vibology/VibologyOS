@@ -526,7 +526,9 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 ---
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[Kether]] (Sephirah governed by Metatron)
 - [[Seraphim|Chaioth ha-Qadesh]] (Seraphim, the angelic choir of Kether)
@@ -543,38 +545,8 @@ Metatron is the guide of the greatest threshold—the passage from human to divi
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Metatron as 'Lesser YHVH,' scribe and Kether archangel.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Metatron as "Prince of Countenances," highest angel, Chancellor of Heaven: p. 192-194
-- Metatron identified with Enoch (Genesis 5:24): p. 192
-- Etymology theories for Metatron's name: p. 192-193
-- Metatron's 72/76 names tradition: p. 193
-
-**3 Enoch** (*Sefer Hekhalot*)
-- Enoch's transformation into Metatron
-- Gematria 71 = "Lesser YAH" (verified per 3 Enoch)
-- **Note:** Gematria 314 = Shaddai cited in some sources but unverified in Esoteric Grimoire
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Metatron associated with Kether (verified)
-- Tarot correspondences for Kether (Four Aces)
-
-**The Bible**
-- Genesis 5:24: "Enoch walked with God, and he was not, for God took him"
-
-**The Zohar** (Foundational text of Qabalah)
-- Metatron references in Kabbalistic tradition (referenced in text)
-
-**Modern Sources:**
-- **Note:** "Metatron's Cube" (sacred geometry) is a modern concept, not found in classical angelology sources. Marked as Vibology Synthesis.
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Head Center, Tarot Aces, Jungian Self/Apotheosis) represent original integrative frameworks developed for this system. Metatron's Cube as sacred geometry is modern esoteric teaching, not classical angelology. The connection between Metatron and human apotheosis (Enoch's transformation) is verified in 3 Enoch but represents Vibology interpretation when mapped to Human Design and Jungian individuation.*
-

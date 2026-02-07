@@ -788,7 +788,7 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5, par. 612. Princeton University Press.
 
@@ -796,25 +796,4 @@ The Great Mother interacts dynamically with other archetypal structures:
 
 [^3]: Neumann, Erich. *The Great Mother: An Analysis of the Archetype*. Princeton University Press, 1955.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Neumann, Erich. *The Origins and History of Consciousness*. Princeton University Press, 1954. (Dragon as Mother, hero's separation from uroboros)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Belly of the Whale, Meeting with the Goddess, mother separation themes)
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959. (Earth Mother as womb and tomb)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Vessel, Prima Materia, Solutio, Mortificatio, Coniunctio)
-- Winnicott, D.W. *The Maturational Processes and the Facilitating Environment*. International Universities Press, 1965. (Good enough mother concept)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Hansel and Gretel, Rapunzel, Snow White, Cinderella, The Juniper Tree, Mother Holle)
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974. (Wicked witch, devouring mother motifs)
-- von Franz, Marie-Louise. *The Feminine in Fairy Tales*. Spring Publications, 1972. (Mother archetypes in folklore)
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*. Vintage Books, 1976.
-- Mythology sources:
-  - Greek: Homeric Hymns (Demeter), Hesiod's *Theogony* (Gaia), Eleusinian Mysteries literature
-  - Egyptian: *The Book of the Dead*, Pyramid Texts (Isis, Nut resurrection mysteries)
-  - Hindu: Devi Mahatmya (Durga), Tantric texts (Kali, Shakti), Puranas (Parvati)
-  - Sumerian/Babylonian: *Descent of Inanna* (Inanna and Ereshkigal), *Enuma Elish* (Tiamat)
-  - Celtic: Irish mythology (The Morrigan), Welsh *Mabinogion* (Brigid)
-  - Indigenous: Hopi/Navajo traditions (Spider Woman), Inuit oral traditions (Sedna)
-  - Slavic: Russian folklore (Baba Yaga collections)
-  - Mesoamerican: Aztec codices (Coatlicue, Tlazolteotl)
-  - Christian/Gnostic: New Testament (Virgin Mary), Nag Hammadi Library (Sophia)
+---

@@ -675,19 +675,12 @@ The future of the Approach archetype is **gender-integrative**—honoring both t
 
 **Final Reflection**: The Approach to the Inmost Cave is the moment when heroism becomes conscious. It is no longer accident, fate, or naiveté that drives the journey—it is **choice**. The hero stands at the threshold, hand on the latch, knowing what waits inside may destroy them. And they open the door anyway. This is the sacred act—not the survival, but the **willingness** to risk annihilation for truth, for love, for wholeness. The Approach is where the hero earns the title—not through victory, but through courage.
 
+---
 
-## Footnotes
+## Notes
 
 [^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Approach to the Inmost Cave as Stage 7.
+
 [^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9ii *Aion* (shadow confrontation), Vol. 9i *The Archetypes and the Collective Unconscious* (Shadow, Self, threshold dynamics), and Vol. 12 *Psychology and Alchemy* (descent symbolism) — Jungian archetypal framework linking the Hero's Journey to the individuation process.
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

@@ -582,19 +582,12 @@ The future of the Reward archetype is **gender-integrative**—honoring both con
 
 **Final Reflection**: The Reward is not the journey's end—it is the **first evidence that the journey was worth it**. The hero has died and returned changed. The boon claimed in the underworld is proof: transformation is real, suffering is not meaningless, and wholeness is possible. But the work is not complete. The Reward must be defended (The Road Back), tested again ([[The Resurrection]]), and ultimately refined into medicine for the world ([[Return with the Elixir]]). The Reward is the promise; the Elixir is the fulfillment.
 
+---
 
-## Footnotes
+## Notes
 
 [^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Reward as Stage 9, Seizing the Sword, and the boon bestowed.
+
 [^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 12 *Psychology and Alchemy* (Albedo, purification, first light after Nigredo), Vol. 9i *The Archetypes and the Collective Unconscious* (the Treasure Hard to Attain, Divine Child, Self as benevolent wholeness, Anima/Animus integration), and Vol. 14 *Mysterium Coniunctionis* (sacred marriage, ego-Self axis restoration) — Jungian archetypal framework linking the Reward to the first conscious glimpse of the individuated Self.
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

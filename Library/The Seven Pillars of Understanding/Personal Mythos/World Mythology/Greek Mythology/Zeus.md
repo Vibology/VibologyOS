@@ -425,39 +425,8 @@ Astrologically, Zeus corresponds to **[[Jupiter ♃]]**, the Greater Benefic:
 
 ---
 
+## Notes
 
 [^1]: Hesiod, *Theogony* (c. 700 BCE) and Homer, *Iliad* and *Odyssey* — Classical sources for Zeus as sky-father and king of gods.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Hesiod** — *Theogony* (700 BCE). The definitive account of Zeus's birth, the Titanomachy, and the succession of divine generations.
-- **Homer** — *Iliad*, *Odyssey*. Zeus as arbiter of fate, protector of hospitality, and sovereign of gods and mortals.
-- **Homeric Hymns** — *Hymn to Zeus*. Devotional poetry celebrating Zeus's attributes and power.
-- **Aeschylus** — *Prometheus Bound*. The conflict between Zeus (tyrannical authority) and Prometheus (rebel consciousness).
-- **Orphic Hymns** — *Hymn to Zeus*. Zeus as cosmic totality and demiurge.
-
-### Mythological Encyclopedias
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive entries on Zeus's myths, consorts, and offspring.
-- **Kerenyi, Karl** — *The Gods of the Greeks* (1951). In-depth analysis of Zeus's archetypal nature and cultic practices.
-
-### Psychological and Archetypal Analysis
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation* (1912/1952). Zeus as father archetype and patriarchal principle (CW 5, ¶396).
-- **Jung, C.G.** — *Collected Works Vol. 14: Mysterium Coniunctionis* (1955-56). The hieros gamos of Zeus and Hera as coniunctio oppositorum (CW 14, ¶179).
-- **Jung, C.G.** — *Collected Works Vol. 9i: The Archetypes and the Collective Unconscious*. The Senex archetype and father complex.
-- **Hillman, James** — *Senex and Puer* (1967). The polarity between Zeus (established authority) and the rebellious puer spirit.
-- **López-Pedraza, Rafael** — *Hermes and His Children* (1977). Zeus as the ordering principle that the trickster (Hermes/Prometheus) challenges.
-
-### Comparative Mythology and Indo-European Studies
-- **Dumézil, Georges** — *Gods of the Ancient Northmen* (1973). The tripartite structure of Indo-European divine hierarchies (sovereignty, force, fertility)—Zeus as the sovereign function.
-- **West, M.L.** — *Indo-European Poetry and Myth* (2007). Comparative analysis of sky-father deities across Indo-European cultures.
-
-### Feminist and Critical Readings
-- **Downing, Christine** — *The Goddess: Mythological Images of the Feminine* (1981). Zeus's serial unions and the suppression of goddess-centered religion.
-- **Dexter, Miriam Robbins** — *Whence the Goddesses* (1990). The transition from matriarchal to patriarchal mythology, Zeus's overthrow of the Titans.
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (classical sources). Comprehensive coverage of birth/childhood, Titanomachy, swallowing of Metis, sacred marriages (Hera, Europa, Leda, Danae, Semele, Ganymede), Orphic tradition, Jungian analysis (patriarchal principle, Senex-Puer, hieros gamos, thunderbolt), shadow dynamics (tyrannical authority, serial infidelity, devouring father), and practical applications established.*

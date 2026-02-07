@@ -347,6 +347,7 @@ When the Anima operates without Algorithm:
 **The Invitation:** Honor the map. The structure is not the enemy of freedom—it is the **scaffold** for transformation.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -367,38 +368,19 @@ When the Anima operates without Algorithm:
 *"The map is not the territory, but without a map, you wander lost. The compass is not the destination, but without a compass, you circle endlessly. Anima et Algorithm: the marriage of soul and system, the union that creates the pilgrim who knows both where they are going and how to verify they have arrived."*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Huxley, Aldous. *The Perennial Philosophy* (Harper & Brothers, 1945) — "knowledge is a function of being"; theology vs. mysticism distinction.
+
 [^2]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — Techgnosis as spiritual knowledge accelerated through technology.
+
 [^3]: Jung, C.G. *Memories, Dreams, Reflections* (Pantheon Books, 1963) — critique of "compartment psychology"; intellectual insight must convert to "ethical obligation."
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Mind as Outer Authority, Body as Inner Authority; the Experiment of Strategy and Authority.
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — "The mind is not a trustworthy personal guidance system"; "See the body as the solution, not as the problem."
+
 [^6]: Davis, Erik. *TechGnosis* (Harmony Books, 1998) — Spirit vs. Soul distinction; Sam Webster on ritual as "principal technology for programming the human organism."
-
----
-
-## Sources
-
-Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.
-- Spirit vs. Soul distinction (digital/abstract vs. analog/embodied)
-- Davis cites Sam Webster: ritual as "principal technology for programming the human organism"
-
-Huxley, Aldous. *The Perennial Philosophy*. Harper & Brothers, 1945.
-- "Knowledge is a function of being"
-- Theology (words about facts) vs. mysticism (immediate apprehension)
-- Approach Ultimate from within (experiential) and without (structural)
-
-Jung, C.G. *Memories, Dreams, Reflections*. Pantheon Books, 1963.
-- Critique of "compartment psychology"
-- Intellectual insight must convert to "ethical obligation" (lived action)
-- "Negative effects of the unconscious" when insight divorced from experience
-
-Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
-- Inner Authority hierarchy: Emotional, Sacral, Splenic, Ego, Self-Projected, Environmental, Lunar
-- "The mind is not a trustworthy personal guidance system"
-- "See the body as the solution, not as the problem"
-- Strategy and Authority as the Experiment
-- Outer Authority (Mind) vs. Inner Authority (Body)
 
 ---

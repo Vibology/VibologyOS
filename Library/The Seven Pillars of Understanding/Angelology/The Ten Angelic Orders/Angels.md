@@ -707,6 +707,7 @@ There is a presence—gentle, patient, wise, loving—that walks beside you, whi
 Listen.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -765,36 +766,8 @@ Listen.
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius on Angels as closest to humanity in hierarchy: referenced in text
-- Angels as personal guardians and message bearers: p. 15-18
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Yesod angelic choir: Kerubim (distinct from Cherubim of Chokmah)
-- Moon/Yesod correspondence for Angels
-
-**The Bible** (New International Version, English Standard Version)
-- Hebrews 1:14: Angels as ministering spirits sent to serve
-- Psalm 91:11-12: God commands angels to guard you
-- Matthew 18:10: Little ones have angels who see the Father's face
-- Acts 12:15: Peter's angel (guardian angel concept)
-- Genesis 16:7-13: Angel of the LORD appears to Hagar
-- Genesis 22:11-18: Angel stops Abraham's sacrifice
-- Exodus 23:20-23: Angel to guard and guide
-- Numbers 22:22-35: Angel blocks Balaam's path
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Angels as closest to humanity, intermediaries between divine and material (referenced in text)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Root Center, Moon/Yesod associations, Tarot Moon/Nines, Jungian embodied consciousness) represent original integrative frameworks developed for this system. The Root Center correspondence (adrenaline, pressure to act, embodied survival) synthesizes Human Design mechanics with angelic hierarchy.*
-
----
-
-*"The Angels are not distant. They are here. They walk beside you, unseen but present. They whisper to you in dreams. They nudge you at crossroads. They hold you when you grieve. They celebrate when you awaken. You are not alone. You have never been alone. You will never be alone. Listen."*

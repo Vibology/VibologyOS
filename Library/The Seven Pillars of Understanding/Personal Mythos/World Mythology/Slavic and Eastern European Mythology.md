@@ -868,21 +868,10 @@ Wait like Ilya when:
 - [[Gate 39 - Obstruction]] — Koschei as provocation, breaking the complex
 - [[Gate 59 - Dispersion]] — Rusalki as intimacy/breakthrough, dispersing projection
 
-
-[^1]: Primary sources listed in References section.
-
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
+## Notes
 
-**Primary Slavic/Eastern European Sources:**
-Core mythological narratives (cosmology, pantheon, and folk tales) are drawn from Slavic and Eastern European folklore including Russian fairy tales (Vasilisa, Firebird), Polish legends, Baltic mythology (Latvian, Lithuanian), and Carpathian traditions. Primary collections include Afanasyev's *Russian Fairy Tales* and regional folklore compendiums. These oral traditions preserve pre-Christian Slavic mythology and inform the archetypal framework.
-
-#### Vibology Synthesis
-All Jungian archetypal analysis (interpreting Slavic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than traditional Slavic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Slavic tradition. The alchemical correlations (Baba Yaga's trials as Nigredo, Firebird as Rubedo) apply Western hermetic symbolism to Slavic narrative patterns.
+[^1]: Primary sources listed in References section.
 
 ---

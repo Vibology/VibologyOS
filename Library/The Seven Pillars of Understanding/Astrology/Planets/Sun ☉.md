@@ -187,14 +187,19 @@ The Sun does not perform. It simply *is*—and in that being, the world organize
 - [[9th House]] — The Sun's traditional joy, quest for meaning
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "The Sun's heating nature increases and the day lengthens upon entering Aries"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: The Sun rejoices in the 9th House
+
 [^4]: Greek mythology (Grimoire): Apollo slays the Python and seizes the Delphic oracle; represents the light of consciousness
+
 [^5]: Egyptian mythology (Grimoire): Ra travels the solar barque through twelve provinces, battling Apep (serpent of chaos)
+
 [^6]: Greek mythology (Grimoire): Helios drives the golden chariot across the sky; the all-seeing eye who detects hidden secrets
 
 ---
-
-*"The gold is in the shadow, and the light is in the wound."*

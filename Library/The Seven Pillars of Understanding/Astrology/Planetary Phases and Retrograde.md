@@ -223,7 +223,7 @@ Planetary phase belongs within the [[Planetary Condition]] assessment — specif
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 7: The synodic cycle as primary planetary condition. Relationship between planet and Sun determines visibility, phase, and mode of operation.
 
@@ -244,3 +244,5 @@ Planetary phase belongs within the [[Planetary Condition]] assessment — specif
 [^9]: Valens on the second station (stationing direct): Restoration of "activity, profits, and enterprise" after retrograde delay. Brennan, Ch 7.
 
 [^10]: Brennan, Ch 7: Paulus calls retrograde planets *adranes* (impotent), *apraktos* (ineffectual). Valens calls them *asthenes* (weakened), associated with *fantasias* (appearances) and *elpidas* (hopes) that may not materialize.
+
+---

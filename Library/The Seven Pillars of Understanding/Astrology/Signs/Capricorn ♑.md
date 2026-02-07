@@ -197,6 +197,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 - **Element Tradition:** Cardinal Earth (Mountain, the initiating foundation upon which civilization stands)
 
 ---
+
 ## Cross-References
 
 - **Signs:** [[Sagittarius ♐]] (vision that Capricorn applies), [[Cancer ♋]] (polarity—nurturance vs. structure), [[Taurus ♉]] (earth as embodiment), [[Virgo ♍]] (earth as refinement)
@@ -215,15 +216,21 @@ The Capricorn question is not "Am I successful?" but "Am I building something th
 The Goat-Fish teaches that the climb is sacred—but the peak is not the destination. The work is to **return** and teach what was learned in the ascent.
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Saturn rules Capricorn (Night House)
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Capricorn as Cardinal Earth (cold and dry, melancholy)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Mars exalted in Capricorn at 28°
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Moon in detriment (opposite Cancer)
+
 [^5]: Lilly, *Christian Astrology*, Book 1: Jupiter in fall in Capricorn
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Capricorn cosignificator of 10th House (honour, government)
+
 [^7]: Lilly, *Christian Astrology*, Book 1: Capricorn governs knees and hams
 
 ---
-
-*"Capricorn does not build to escape time. It builds knowing that all structures fall—and builds anyway, because the act of building is the soul's true vocation."*

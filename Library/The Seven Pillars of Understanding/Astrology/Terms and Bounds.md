@@ -184,7 +184,7 @@ The bounds also mirror the Jungian insight that the psyche is not governed by a 
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 8: The Sun and Moon never rule bounds — only the five non-luminary planets (Jupiter, Venus, Mercury, Mars, Saturn) are assigned terms in all systems (Egyptian, Chaldean, Ptolemaic).
 
@@ -205,3 +205,5 @@ The bounds also mirror the Jungian insight that the psyche is not governed by a 
 [^9]: Firmicus Maternus, *Mathesis* (4th century CE): Used the bound lord of the luminary to determine the Master of the Nativity (*oikodespotēs*), the overall ruler of the chart. Brennan, Ch 8.
 
 [^10]: Ptolemy, *Tetrabiblos* III; Valens, *Anthology*: The bound lord as Alcocoden ("Giver of Years") in length-of-life calculations. The planet ruling the bounds of the *hylēg* (significator of life) determines the specific time allotment. Brennan, Ch 8.
+
+---

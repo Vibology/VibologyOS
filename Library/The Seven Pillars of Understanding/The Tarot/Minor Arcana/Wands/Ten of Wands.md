@@ -381,6 +381,7 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Nine of Wands]] - The wounded vigilance that warns of the Ten's oppression
 - [[Ace of Wands]] (new cycle) - The return to pure spark after the burden is released
@@ -444,24 +445,16 @@ The teaching: **Completion is not the goal. Liberation is.** If you complete the
 
 *"The destination is near. You can see the settlement. But you will not arrive whole unless you choose, now, to release what was never yours to carry in the first place."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Ten of Wands
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Oppression" and Malkuth in Atziluth attribution for the Ten of Wands
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Ten of Wands
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — planetary attribution of Saturn in Sagittarius for the Ten of Wands
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

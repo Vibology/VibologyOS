@@ -515,7 +515,7 @@ The Imago Dei is that **infinite something**—the numinous center that gives li
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Psychology and Religion: West and East*. Collected Works Vol. 11, par. 142. Princeton University Press.
 
@@ -543,18 +543,4 @@ The Imago Dei is that **infinite something**—the numinous center that gives li
 
 [^13]: Jung, C.G. *Psychology and Religion: West and East*. Collected Works Vol. 11, par. 101. Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii. Princeton University Press. (Christ as Self-symbol, quaternit vs. trinity)
-- Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14. Princeton University Press. (God-image in alchemical symbolism)
-- Otto, Rudolf. *The Idea of the Holy: An Inquiry into the Non-Rational Factor in the Idea of the Divine*. Oxford University Press, 1923. (Mysterium tremendum et fascinans, numinous experience)
-- Edinger, Edward F. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1972. (Ego-Self axis, religious function of individuation)
-- Edinger, Edward F. *The Creation of Consciousness: Jung's Myth for Modern Man*. Inner City Books, 1984. (God's need for human consciousness)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (The monomyth as encounter with the divine)
-- Religious texts:
-  - *The Bible* (Old and New Testaments) — Yahweh, Christ, Job
-  - *The Upanishads* — Brahman, Atman, "Tat tvam asi"
-  - *The Bhagavad Gita* — Krishna as divine consciousness
-  - *Tao Te Ching*, Lao Tzu — The ineffable Tao
-  - *The Qur'an* — Allah, the 99 Names
-  - Gnostic texts (*Nag Hammadi Library*) — Abraxas, Sophia, Pleroma
+---

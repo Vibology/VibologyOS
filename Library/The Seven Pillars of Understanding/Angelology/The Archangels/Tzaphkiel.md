@@ -914,7 +914,9 @@ Trust the answer will come when the time is right.
 
 
 ---
+
 ## Cross-References
+
 ### Angelology
 - House of the Sea — Introduction to the angelic hierarchies
 - [[The Three Triads]] — The ninefold structure of angelic orders
@@ -961,43 +963,8 @@ Trust the answer will come when the time is right.
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Tzaphkiel as 'Contemplation of God,' archangel of Binah.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Tzaphkiel as "Contemplation of God," archangel of Binah: p. 298
-- Prince of Spiritual Strife Against Evil: p. 298
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Tzaphkiel as archangel of Binah
-- Aralim (Thrones) as angelic choir of Binah
-- Binah/Saturn/Thrones correspondences
-- All Threes and Queens as Binah cards
-- The Empress (III) described conceptually as Binah/Great Mother
-
-**The Zohar** (Foundational text of Qabalah)
-- Binah as Divine Mother, Great Sea, Supernal Understanding
-- Palace of the King, womb where souls are held before incarnation (referenced in text)
-
-**The Bible**
-- Proverbs 9:1: Wisdom builds her house with seven pillars
-- Job 28:12-28: The hiddenness of wisdom/understanding
-
-**Sepher Yetzirah** (*Book of Formation*)
-- Three Mother Letters (Aleph, Mem, Shin)
-- Mem (Water) as letter of Binah (referenced in text)
-
-**Hermetic Qabalah** (Regardie, Fortune, Knight)
-- Binah pathworkings referenced but specific texts not verified in Esoteric Grimoire
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Throat Center, Saturn/astrology, Tarot Empress/Threes/Queens, Jungian Great Mother) represent original integrative frameworks. The connection between Tzaphkiel and Binah/form-giving is traditional Qabalah; mapping to HD Throat (manifestation) and Jungian archetypes is Vibology interpretation. Mythological parallels (Themis, Ananke, Nut, Neith, Kali, Urd) are comparative analysis.*
-
----
-
-*"I am Tzaphkiel, the Beholder of God. I stand in the Great Sea of infinite potential, unwavering, unmoving, unsleeping. I witness all that is, all that was, all that shall be. Through my contemplation, forms emerge from formlessness. Through my presence, cosmic law is upheld. I do not judge—I reflect. I do not punish—I witness. I do not force—I hold the space. And in that space, what is ready to be born shall be born. I am the womb, the threshold, the foundation. I am limitation as liberation, form as freedom, law as love. Enter my presence, if you dare. For I shall show you yourself—fully, completely, without mercy and without cruelty. And if you can bear what you see, I shall give you the gift of form. So be it."*

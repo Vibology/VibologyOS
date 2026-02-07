@@ -164,7 +164,7 @@ In Jungian terms, exchange mirrors the process of integrating the [[The Shadow]]
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 14 & Glossary: *Hypodochē* (reception) as guest-host relationship. Aspect requirement for effective reception — planets must be configured (not in aversion) for the host to "see" and receive the guest.
 
@@ -177,3 +177,5 @@ In Jungian terms, exchange mirrors the process of integrating the [[The Shadow]]
 [^5]: Valens on eminence: When the ruler of the Ascendant and the lord of the Lot of Fortune are in mutual reception, it indicates "great men, leaders, and dictators." Brennan, Ch 14.
 
 [^6]: Dorotheus of Sidon, *Carmen Astrologicum*: Reception applied to Time Lords — a poorly situated Time Lord can be "saved" if received by a benefic or supported planet. Brennan, Ch 14.
+
+---

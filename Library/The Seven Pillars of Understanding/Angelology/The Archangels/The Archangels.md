@@ -238,7 +238,9 @@ For comprehensive treatment of each archangel, see their individual entries:
 \* Traditional attribution is Tiphareth; see Michael's entry for detailed analysis.
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[Archangels]] — The eighth order of angels (as a class)
 - [[Seraphim]] | [[Cherubim]] | [[Thrones]] — First Triad
@@ -266,23 +268,8 @@ For comprehensive treatment of each archangel, see their individual entries:
 
 ---
 
+## Notes
+
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Archangels as divine messengers.
 
 ---
-
-## Sources
-
-Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
-- Individual archangel names, functions, and attributes
-- Hebrew names and etymologies
-- Scriptural and apocryphal appearances
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
-- Archangelic assignments to Sephiroth
-- Golden Dawn system
-
-**Scriptural References:**
-- Daniel 10-12, Jude 1:9, Revelation 12:7-9 (Michael)
-- Daniel 8-9, Luke 1:11-38 (Gabriel - Annunciation)
-- Book of Tobit, Book of Enoch (Raphael)
-- 2 Esdras, Book of Enoch (Uriel)

@@ -191,7 +191,7 @@ Profections layer with other timing systems to create temporal convergence:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 17: Annual profections as the most widespread Hellenistic Time-Lord technique. Used by Dorotheus, Valens, Ptolemy, Firmicus, Paulus, Hephaestio. Valens devotes Anthology Books IV-VI to profection-based methods.
 
@@ -210,3 +210,5 @@ Profections layer with other timing systems to create temporal convergence:
 [^8]: Brennan, Ch 17: Profections from the Lot of Fortune (material fortune rhythm) and Lot of Spirit (career/action rhythm).
 
 [^9]: Brennan, Ch 17: Monthly profections (one sign per month from annual profected sign) and daily profections (~one sign per 2.5 days). Sub-annual timing layers.
+
+---

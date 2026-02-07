@@ -498,7 +498,7 @@ Hillman[^12]:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: von Franz, Marie-Louise. *Puer Aeternus: A Psychological Study of the Adult Struggle with the Paradise of Childhood*. Sigo Press, 1970.
 
@@ -524,20 +524,4 @@ Hillman[^12]:
 
 [^12]: Hillman, James. *Puer Papers*. Spring Publications, 1979.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii. Princeton University Press.
-- Kiley, Dan. *The Peter Pan Syndrome: Men Who Have Never Grown Up*. Dodd, Mead & Company, 1983.
-- Woodman, Marion. *The Ravaged Bridegroom: Masculinity in Women*. Inner City Books, 1990. (Puella and Animus possession)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Youth and the call to adventure)
-- Moore, Robert, and Douglas Gillette. *King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine*. HarperOne, 1990. (Mature masculine vs. Puer shadow)
-- Maslow, Abraham. *Religions, Values, and Peak Experiences*. Viking Press, 1964. (Peak experiences and transcendence)
-- Classical mythology:
-  - Ovid, *Metamorphoses* (Icarus, Adonis, Hyacinthus)
-  - Homer, *Iliad* (Achilles as heroic Puer)
-  - Plato, *Symposium* (Eros as divine youth and longing)
-- Literary sources:
-  - Barrie, J.M. *Peter Pan* (1904)
-  - Kerouac, Jack. *On the Road* (1957) — Puer as Beat wanderer
-  - Salinger, J.D. *The Catcher in the Rye* (1951) — Holden Caulfield as shadow Puer
+---

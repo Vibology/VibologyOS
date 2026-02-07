@@ -530,6 +530,7 @@ The **psychoid archetype** exists at the threshold between psyche and cosmos—i
 The zodiacal angels are **not you**—they are **forces working through you**, and your task is to become conscious of them, to honor them, and to integrate their gifts without being possessed by their shadows.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -547,33 +548,35 @@ The zodiacal angels are **not you**—they are **forces working through you**, a
 - **Mythology:** Twelve Labors of Hercules (each labor = zodiacal initiation) | Twelve Olympians | Twelve Tribes of Israel | Twelve Apostles
 
 ---
-## Sources
+
+## Notes
 
 [^1]: Heywood, Thomas. *The Hierarchie of the Blessed Angells*. London: Adam Islip, 1635. Book 5, lines 10036-10042 (Introduction to zodiacal angel system, citing "Rabbins and Cabalists").
+
 [^2]: Heywood, *Hierarchie*, Book 5, lines 10035-10036.
+
 [^3]: Heywood, *Hierarchie*, Book 5, lines 10044-10046 (Aries = Chaoz/Malthidielis).
+
 [^4]: Heywood, *Hierarchie*, Book 5, lines 10049-10051 (Leo = Corona/Varchiel).
+
 [^5]: Heywood, *Hierarchie*, Book 5, lines 10054-10055 (Sagittarius = Hermaus/Adnachiel).
+
 [^6]: Heywood, *Hierarchie*, Book 5, lines 10058-10061 (Taurus = Panthaeon/Asmodes).
+
 [^7]: Heywood, *Hierarchie*, Book 5, lines 10065 (Virgo = Haim/Hamabiel).
+
 [^8]: Heywood, *Hierarchie*, Book 5, lines 10066-10067 (Capricorn = Hannuel).
+
 [^9]: Heywood, *Hierarchie*, Book 5, lines 10070-10071 (Cancer = Bethzan/Manuel).
+
 [^10]: Heywood, *Hierarchie*, Book 5, lines 10072-10074 (Scorpio = Zonocharel/Barchiel).
+
 [^11]: Heywood, *Hierarchie*, Book 5, lines 10076-10077 (Pisces = Elisan/Varchiel).
+
 [^12]: Heywood, *Hierarchie*, Book 5, lines 10079-10081 (Gemini = Gelphor/Ambriel).
+
 [^13]: Heywood, *Hierarchie*, Book 5, lines 10082-10084 (Libra = Bleor/Zaniel).
+
 [^14]: Heywood, *Hierarchie*, Book 5, lines 10086-10087 (Aquarius = Caphet/Cabriel).
 
-### Vibology Synthesis Notes
-
-The following content represents original synthesis and interpretation not found in primary sources:
-- All astrological correspondences beyond Heywood (exaltations, body parts, Tarot, Human Design gates, tribes of Israel beyond what Heywood mentions)
-- Jungian psychological interpretations (psychological types, psychoid archetypes, integration vs. identification)
-- Modern astrological practice (birth chart as angelic map, transit invocations, seasonal attunement)
-- All shadow aspects and integration practices
-- Philosophical analysis of multiplicity within unity
-- Cross-system correspondences (Qabalah, Tarot, Human Design, mythology)
-
 ---
-
-*"The twelve zodiacal angels are not fortune-tellers' phantoms—they are the twelve fundamental modes through which divine intelligence manifests in time, space, and personality. To know your birth chart is to know which angels were constellated at your soul's entry into form—and to honor them is to live in alignment with the cosmic pattern that chose you."*

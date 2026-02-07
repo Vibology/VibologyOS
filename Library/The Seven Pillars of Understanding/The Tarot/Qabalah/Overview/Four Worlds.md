@@ -141,22 +141,20 @@ Individuation is the ascent through these worlds: from Assiah's unconscious iden
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar; Golden Dawn tradition — The Tetragrammaton (YHVH) as encoding the four stages of emanation: Yod = Atziluth (Fire), Heh = Briah (Water), Vav = Yetzirah (Air), Heh final = Assiah (Earth).
+
 [^2]: Wang, *The Qabalistic Tarot* — Atziluth as the Archetypal World, where the Sephiroth exist as Divine Names in their purest form.
+
 [^3]: Wang — Briah as the Creative World, the realm of archangels who enact the divine archetypes as creative intelligences.
+
 [^4]: Wang — Yetzirah as the Formative World, the astral realm where patterns take shape before physical manifestation. The world of angelic hosts and dream imagery.
+
 [^5]: Wang — Assiah as the Material World, where patterns manifest as physical reality. The planets as Sephirothic energy in its densest expression.
+
 [^6]: Golden Dawn — The four color scales (King, Queen, Prince, Princess) assigned to the four worlds, providing diagnostic indication of the level of reality being worked with.
+
 [^7]: Jung, CW 9i, 9ii, 14 — The structured psyche: Self (unknowable center), archetypes (transpersonal patterns), personal unconscious (dream imagery), consciousness (ego and body). Individuation as ascent and return through these levels.
 
 ---
-
-## Sources
-
-- **The Zohar** — The Tetragrammaton (YHVH) as encoding the four stages of emanation; the Four Worlds as progressive levels of divine self-manifestation
-- **Robert Wang, *The Qabalistic Tarot*** — Systematic treatment of Atziluth, Briah, Yetzirah, and Assiah; the four color scales and their diagnostic function
-- **Dion Fortune, *The Mystical Qabalah*** — The Four Worlds as experiential and psychological levels; the Jacob's Ladder connecting them
-- **Golden Dawn tradition** — The four color scales (King, Queen, Prince, Princess) assigned to the four worlds
-- **Jung, CW 9i, 9ii, 14** — The structured psyche as parallel to the four levels: Self, archetypes, personal unconscious, consciousness

@@ -397,7 +397,9 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 
 ---
 ---
+
 ## Cross-References
+
 ### Core Magdalene Path Entries
 - [[The Magdalene Path]] - Overview of the Fifth Way
 - [[Mary Magdalene - Apostle and Beloved]] - The archetype and model
@@ -416,29 +418,14 @@ Jung's practice of **Active Imagination** (dialoguing with the unconscious) para
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the Moon as "Driving Force" of the design with keynote "The Focus" in the Vertical Keys
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — Reflector authority requires a full 28-day lunar cycle for decision-making due to absence of fixed definition
+
 [^3]: Ra Uru Hu, HD teachings — Ra's personal experiment tracking the Moon's transit through gates using a lunar ephemeris to distinguish personal nature from planetary conditioning
+
 [^4]: Estés, *Women Who Run With the Wolves* (Ballantine, 1992) — "interactive trancing" proximate to Jung's active imagination, producing "stones" (insights) from psychic journey work
-
----
-## Sources
-
-Ra Uru Hu. *The Definitive Book of Human Design*. Carlsbad: HDC Publishing, 2011.
-- Moon as "Driving Force" of the design
-- Moon keynote: "The Focus" (Vertical Keys)
-- Reflector authority: 28-day lunar cycle
-- Ra's lunar ephemeris experiment (undefined Solar Plexus)
-
-*The Blueprint* (Human Design source text).
-- Undefined Head/Ajna and the 28-day lunar "bridge"
-
-Estés, Clarissa Pinkola. *Women Who Run With the Wolves*. New York: Ballantine, 1992.
-- "Interactive trancing" proximate to Jung's Active Imagination
-- Producing "stones" (insights) from psychic journey work
-
-**Note:** The correlations between lunar phases and Magdalene Path stages, daily practices structure, and stage-specific practices are *Vibology Synthesis*—original integrations drawing on multiple sources in the Grimoire.
 
 ---

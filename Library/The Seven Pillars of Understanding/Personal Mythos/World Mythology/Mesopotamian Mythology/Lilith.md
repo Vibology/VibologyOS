@@ -133,31 +133,8 @@ The Lilith archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Mesopotamian mythological texts (Sumerian, Akkadian, Babylonian).
 
 ---
-
-## Sources
-
-**Primary Texts:**
-- *Alphabet of Ben Sira* (c. 8th-10th century CE) — the Adam's first wife narrative
-- *The Zohar* (13th century) — Qabalistic Lilith, consort of Samael
-- Babylonian Talmud, *Niddah* 24b, *Shabbat* 151b — Lilith references
-- Isaiah 34:14 (the only Hebrew Bible reference: *lilit* in the desolation of Edom)
-- *Epic of Gilgamesh* (Sumerian prologue) — *ki-sikil-lil-la-ke*
-
-**Mythological and Historical Studies:**
-- Patai, R. *The Hebrew Goddess* — comprehensive treatment of Lilith in Jewish tradition
-- Hurwitz, S. *Lilith — The First Eve* — Jungian analysis of Lilith mythology
-- Schwartz, H. *Lilith's Cave: Jewish Tales of the Supernatural* — folk tradition
-- Scholem, G. *On the Kabbalah and Its Symbolism* — Lilith in Qabalistic context
-
-**Psychological and Archetypal Analysis:**
-- von Franz, M.-L. *Shadow and Evil in Fairy Tales* — the demonized feminine
-- Perera, S.B. *Descent to the Goddess* — the dark feminine and the underworld
-- Koltuv, B.B. *The Book of Lilith* — Jungian analysis
-
----
-
-*Created 2026-02-07. Part of the Mesopotamian Mythology collection within [[Personal Mythos]], with cross-pillar connections to Qabalah, Astrology, and the Magdalene Path.*

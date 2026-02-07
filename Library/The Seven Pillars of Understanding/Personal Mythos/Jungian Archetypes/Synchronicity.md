@@ -152,36 +152,36 @@ When working with charts (astrological, Human Design, Tarot), synchronicity is t
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 8, par. 849 — Definition of synchronicity as "acausal connecting principle" distinguished from synchronism (mere simultaneity)
-[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 858 — Synchronicity as parallelism of time and meaning between psychic and psychophysical events
-[^3]: Jung, C.G. *Collected Works* Vol. 8 — Synchronicity as fourth principle completing quaternion of space, time, causality, and acausal orderedness
-[^4]: *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli collaboration exploring parallels between quantum physics and depth psychology
-[^5]: Jung, C.G. & Pauli, W. — Psychoid archetype as unobservable structure manifesting as both psychic image and physical event; parallels to quantum mechanics' unobservable entities
-[^6]: Jung, C.G. *Collected Works* Vol. 8 — Unus mundus (One World) as underlying unity of psyche and matter; synchronicity as breakthrough into time
-[^7]: Jung, C.G. Foreword to *I-Ching* (Wilhelm translation) — Chinese mind focuses on "accidental aspect" of events vs. Western causality
-[^8]: Jung, C.G. — Summer 1920 I-Ching experiments; hexagrams corresponded meaningfully to psychological states without causal link
-[^9]: Jung, C.G. *Collected Works* Vol. 8 — Divination systems tap psychoid layer where inner/outer worlds continuous; meaningful coincidence observed not created
-[^10]: Jung, C.G. — Astrological marriage experiment with 483 couples; traditional aspects within probability but coincided meaningfully with relationship dynamics
-[^11]: Jung, C.G. *Collected Works* Vol. 8 — Synchronicity intensifies during emotional crisis, individuation transitions, numinous encounters, collective archetypal activation
-[^12]: Jung, C.G. *Collected Works* Vol. 8 — Warning: obsession with synchronicity leads to paranoia, ideas of reference (seen in schizophrenia), loss of causality
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Collective Unconscious]] — The archetypal layer from which synchronicities emerge
-- [[Psychoid Archetype]] — The dimension where psyche and matter meet, enabling synchronicity
-- [[Numinous Experience]] — The emotional charge often accompanying synchronistic events
-- [[The Self]] — The ordering principle of the psyche that orchestrates synchronistic patterns
-- [[Active Imagination]] — Method for engaging the unconscious, often triggering synchronicities
-- [[Wheel of Fortune (X)]] — Tarot card embodying the sudden reversals and meaningful coincidences of synchronicity
-- [[Astrology]] — Divination system operating on synchronistic correspondence between celestial and terrestrial
-- [[The Astrolabe]] — I-Ching/Gene Keys system demonstrating synchronicity in practice
-- [[Human Design]] — Birth chart as synchronistic snapshot of archetypal field at moment of imprinting
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 8, par. 849 — Definition of synchronicity as "acausal connecting principle" distinguished from synchronism (mere simultaneity)
 
-- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary treatment of synchronicity as acausal connecting principle; the quaternion (space, time, causality, synchronicity); psychoid layer; astrological marriage experiment; pathology of over-reading
-- Jung, C.G. Foreword to the *I-Ching* (Wilhelm/Baynes translation) — Chinese thought as synchronistic framework; the I-Ching as demonstration of meaningful coincidence
-- Meier, C.A. (ed.). *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli dialogue on quantum parallels, the *unus mundus*, and the complementarity of psyche and matter
+[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 858 — Synchronicity as parallelism of time and meaning between psychic and psychophysical events
+
+[^3]: Jung, C.G. *Collected Works* Vol. 8 — Synchronicity as fourth principle completing quaternion of space, time, causality, and acausal orderedness
+
+[^4]: *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli collaboration exploring parallels between quantum physics and depth psychology
+
+[^5]: Jung, C.G. & Pauli, W. — Psychoid archetype as unobservable structure manifesting as both psychic image and physical event; parallels to quantum mechanics' unobservable entities
+
+[^6]: Jung, C.G. *Collected Works* Vol. 8 — Unus mundus (One World) as underlying unity of psyche and matter; synchronicity as breakthrough into time
+
+[^7]: Jung, C.G. Foreword to *I-Ching* (Wilhelm translation) — Chinese mind focuses on "accidental aspect" of events vs. Western causality
+
+[^8]: Jung, C.G. — Summer 1920 I-Ching experiments; hexagrams corresponded meaningfully to psychological states without causal link
+
+[^9]: Jung, C.G. *Collected Works* Vol. 8 — Divination systems tap psychoid layer where inner/outer worlds continuous; meaningful coincidence observed not created
+
+[^10]: Jung, C.G. — Astrological marriage experiment with 483 couples; traditional aspects within probability but coincided meaningfully with relationship dynamics
+
+[^11]: Jung, C.G. *Collected Works* Vol. 8 — Synchronicity intensifies during emotional crisis, individuation transitions, numinous encounters, collective archetypal activation
+
+[^12]: Jung, C.G. *Collected Works* Vol. 8 — Warning: obsession with synchronicity leads to paranoia, ideas of reference (seen in schizophrenia), loss of causality
+
+---

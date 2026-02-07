@@ -858,6 +858,7 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 ---
 
 ## Cross-References
+
 ### Jungian Archetypes
 - [[The Shadow]]
 - [[The Idol]]
@@ -931,31 +932,10 @@ This is the mark of mature consciousness—living not in denial or naivety, but 
 - Jung, C.G. *Two Essays on Analytical Psychology* (CW 7)
 - Jung, C.G. *Answer to Job* (CW 11)
 
-
-[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
-
 ---
 
-## Sources
-### Primary Texts
-- **Perrault, Charles.** *Histoires ou contes du temps passé* (1697). "La Barbe Bleue" (Bluebeard).
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Fitcher's Bird" (Tale 46), "The Robber Bridegroom" (Tale 40).
-- **Jacobs, Joseph.** *English Fairy Tales* (1890). "Mr. Fox."
+## Notes
 
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). The forbidden chamber as threshold to consciousness.
-- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Curiosity and feminine initiation.
-- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). Predatory masculine and the chamber as shadow revelation.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The shadow and forbidden knowledge.
-
-### Feminist & Depth Psychology
-- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Chapter 2: "Stalking the Intruder" - comprehensive Bluebeard analysis.
-- **Tatar, Maria.** *Secrets Beyond the Door: The Story of Bluebeard and His Wives* (2004). Cultural and psychological analysis.
-
-### Comparative Mythology
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). Threshold guardians and forbidden knowledge.
-
-### Alchemical & Symbolic
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The chamber as alchemical vessel and mortificatio.
+[^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---

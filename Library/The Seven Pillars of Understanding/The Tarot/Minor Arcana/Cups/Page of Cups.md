@@ -207,6 +207,7 @@ When the Page of Cups emerges in reading or contemplation, consider:
 ---
 
 ## Cross-References
+
 - [[Ace of Cups]] - The divine overflow that the Page receives and stabilizes
 - [[Knight of Cups]] - The romantic quester the Page may become
 - [[Queen of Cups]] - The emotional mastery the Page may eventually achieve
@@ -222,24 +223,16 @@ When the Page of Cups emerges in reading or contemplation, consider:
 
 *"Every great work of art begins with a Page who was willing to look at the fish and wonder what it meant."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — description of the Page of Cups image and upright meaning.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title for the Page of Cups.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn characterization of the Page of Cups personality.
+
 [^4]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Page of Cups.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

@@ -402,47 +402,8 @@ Astrologically, Ares corresponds to **[[Mars ♂]]**—planet of aggression, ass
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-
-- **Homer** — *Iliad* (Book 5: Ares wounded by Diomedes, Zeus's rebuke; multiple battle scenes with Ares)
-- **Homer** — *Odyssey* (Book 8: Affair with Aphrodite, caught in Hephaestus's net)
-- **Hesiod** — *Theogony* (Birth, genealogy, role among Olympians)
-- **Apollodorus** — *Library* (Comprehensive Ares myths: Aloadae, Areopagus, various offspring)
-- **Pausanias** — *Description of Greece* (Cult sites, Areopagus trial, warrior traditions)
-
-### Mythological Encyclopedias
-
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive Ares entry.
-- **Kerenyi, Karl** — *The Gods of the Greeks* (1951). Ares as necessary but unloved god of war.
-
-### Psychological and Archetypal Analysis
-
-- **Jung, C.G.** — *Collected Works Vol. 9ii: Aion* — Shadow, aggression, the violent instinct as shadow material (CW 9ii, ¶13-14)
-- **Jung, C.G.** — *Collected Works Vol. 10: Civilization in Transition* — Aggression as natural instinct, morally neutral, essential for individuation (CW 10, ¶853)
-- **Moore, Robert and Gillette, Douglas** — *King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine* (1990). The Warrior archetype: mature vs. shadow forms.
-- **Bly, Robert** — *Iron John: A Book About Men* (1990). Warrior initiation, reclaiming healthy masculine aggression.
-- **Hillman, James** — *A Terrible Love of War* (2004). Ares, war, violence, and the soul's relationship to conflict.
-- **von Franz, Marie-Louise** — *The Feminine in Fairy Tales* (1972). Amazon archetype, feminine aggression, warrior women.
-
-### Warrior Traditions and Initiation
-
-- **Eliade, Mircea** — *Rites and Symbols of Initiation* (1958). Cross-cultural warrior initiation rites.
-- **Mahdi, Louise Carus, et al.** — *Betwixt and Between: Patterns of Masculine and Feminine Initiation* (1987). Warrior initiations as threshold between adolescent rage and mature warrior.
-
-### Mars-Venus Dynamics
-
-- **Gray, John** — *Men Are from Mars, Women Are from Venus* (1992). Popularization of Mars-Venus polarity (though psychologically simplistic).
-- **Perera, Sylvia Brinton** — *Descent to the Goddess* (1981). Feminine relationship to aggression, power, and assertion.
-
----
-
-*Expanded 2026-02-06. Comprehensive archetypal analysis complete.*
-
-**16-Deity Expansion: COMPLETE (100%)**

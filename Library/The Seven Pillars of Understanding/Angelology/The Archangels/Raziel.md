@@ -690,7 +690,9 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 
 
 ---
+
 ## Cross-References
+
 - [[Chokmah]] — Raziel's Sephirah, the Supernal Father
 - [[Metatron]] — Archangel of Kether, the Crown
 - [[Tzaphkiel]] — Archangel of Binah, the Supernal Mother
@@ -713,28 +715,8 @@ The danger of invoking Raziel is **spiritual inflation**—the ego's tendency to
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Raziel as 'Secret of God,' archangel of Chokmah and mysteries.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Raziel as "Secret of God," angel of mysteries: p. 245-246
-- *Sepher Raziel* tradition: p. 245-246
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Raziel associated with Chokmah
-- Aralim (Thrones) as angelic choir of Chokmah
-
-**The Zohar** (Foundational text of Qabalah)
-- Raziel and Chokmah correspondences (referenced in text)
-
-**Medieval Grimoires:**
-- *Sepher Raziel HaMalakh* (Book of Raziel the Angel)
-- **Note:** Specific attributions referenced but not directly verified in Esoteric Grimoire
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Ajna Center, Tarot High Priestess, Uranus/Neptune, Jungian Wise Old Man) represent original integrative frameworks. The connection between Raziel and wisdom/mysteries is traditional angelology; mapping to HD Ajna and Jungian archetypes is Vibology interpretation.*

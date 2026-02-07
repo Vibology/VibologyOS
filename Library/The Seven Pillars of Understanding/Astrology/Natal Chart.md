@@ -240,7 +240,7 @@ To read a chart psychologically is to ask: *Given this arrangement of archetypal
 
 ---
 
-## Sources
+## Notes
 
 [^1]: On the natal chart as the "algorithm" of astrological practice: the fixed structure from which all interpretation proceeds, analogous to the HD bodygraph as a mechanical blueprint. The Hellenistic concept of *katarchē* (beginning, inception) — the chart cast for the moment of origin.
 
@@ -249,3 +249,5 @@ To read a chart psychologically is to ask: *Given this arrangement of archetypal
 [^3]: Brennan, Ch 7: Sect (*hairesis*) as the foundational division of the chart. Determines benefic/malefic potency, planetary teams, and the sect light.
 
 [^4]: Jung, *Memories, Dreams, Reflections* (1961); Greene, *The Astrology of Fate* (1984). The natal chart as a map of the objective psyche — the archetypal field into which the ego is born.
+
+---

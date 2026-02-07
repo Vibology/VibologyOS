@@ -264,37 +264,8 @@ Those with prominent Cancer, Sagittarius, Aries, or Scorpio placements may find 
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Frazer, James George** — *The Golden Bough: A Study in Magic and Religion* (1890-1915). The foundational anthropological study of the Rex Nemorensis and the Nemi cult.
-- **Ovid** — *Metamorphoses*, *Fasti*. Roman myths of Diana's Greek equivalent (Artemis) and her cult practices.
-- **Virgil** — *Aeneid* (Book VI). Aeneas's use of the Golden Bough to descend into the underworld.
-- **Agrippa, Heinrich Cornelius** — *Three Books of Occult Philosophy* (1533). Diana's role in Renaissance occultism.
-
-### Mythological Encyclopedias
-- **Guirand, Félix (ed.)** — *New Larousse Encyclopedia of Mythology* (1959). Comprehensive survey of Diana's attributes and cult sites.
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Detailed entries on Diana, Virbius, and the Nemi sanctuary.
-
-### Psychological and Archetypal Analysis
-- **Downing, Christine** — *The Goddess: Mythological Images of the Feminine* (1981). Jungian analysis of goddess archetypes, including Diana/Artemis as the Autonomous Feminine.
-- **Bolen, Jean Shinoda** — *Goddesses in Everywoman* (1984). Diana as the "virgin goddess" archetype: autonomous, goal-oriented, self-sufficient.
-- **Whitmont, Edward C.** — *Return of the Goddess* (1982). The reemergence of the autonomous feminine in contemporary psychology.
-
-### Lunar and Feminine Symbolism
-- **Harding, M. Esther** — *Woman's Mysteries: Ancient and Modern* (1971). The moon as symbol of the feminine psyche, Diana's role in lunar initiation.
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation* (1912/1952). The moon as symbol of the unconscious (CW 5, ¶198).
-- **Neumann, Erich** — *The Great Mother: An Analysis of the Archetype* (1955). Diana within the spectrum of feminine archetypes.
-
-### Comparative Mythology
-- **Kerenyi, Karl** — *The Gods of the Greeks* (1951). Diana/Artemis in the context of Greek and Roman divine hierarchies.
-- **Gimbutas, Marija** — *The Language of the Goddess* (1989). Prehistoric roots of the lunar/hunting goddess archetype.
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (Frazer, Guirand, Agrippa). Comprehensive coverage of Nemi cult, Rex Nemorensis succession rite, triple goddess aspects, lunar symbolism, archetypal analysis, and shadow dynamics established.*

@@ -144,27 +144,8 @@ The Hestia archetype is active when you:
 
 ---
 
-## Sources
-
-**Primary Texts:**
-- *Homeric Hymn to Hestia* (24 and 29)
-- Hesiod, *Theogony*, 453-506 (birth order — first swallowed, last disgorged)
-- Pausanias, *Description of Greece* (Hestia cult references)
-- Ovid, *Fasti* 6 (Vesta and the Vestals — Roman tradition)
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Hestia sections)
-- Kerényi, K. *The Gods of the Greeks* (Hestia)
-- Burkert, W. *Greek Religion* (Hestia cult and the prytaneum)
-- Vernant, J.-P. *Myth and Thought Among the Greeks* ("Hestia-Hermes" essay)
-
-**Psychological and Archetypal Analysis:**
-- Bolen, J.S. *Goddesses in Everywoman*, ch. 6 (Hestia: Goddess of the Hearth and Temple)
-- Jung, C.G. *Collected Works*, Vol. 12, §44 (The Self as center)
-- Sardello, R. *Facing the World with Soul* (the soul of the home, Hestia's domain)
+## Notes
 
 [^1]: Bolen, J.S. *Goddesses in Everywoman*, ch. 6 (Hestia: Goddess of the Hearth and Temple, Wise Woman and Maiden Aunt)
 
 ---
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

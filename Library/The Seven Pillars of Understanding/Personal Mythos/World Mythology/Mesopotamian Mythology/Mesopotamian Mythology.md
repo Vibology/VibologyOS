@@ -824,20 +824,10 @@ Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboro
 
 — Adaptation of Enuma Elish, Tablet IV
 
-
-[^1]: Mesopotamian mythological texts (Sumerian, Akkadian, Babylonian).
-
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
+## Notes
 
-**Primary Mesopotamian Sources:**
-Core mythological narratives (cosmology, pantheon, and hero cycles) are drawn from canonical ancient Near Eastern sources including *Enuma Elish* (Babylonian creation epic), *Epic of Gilgamesh*, *Descent of Inanna*, Sumerian hymns, and Akkadian/Babylonian mythological texts. These cuneiform sources are among humanity's oldest written mythologies and inform the archetypal framework.
-
-#### Vibology Synthesis
-All Jungian archetypal analysis (interpreting Mesopotamian myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original Mesopotamian tradition. The alchemical correlations (Inanna's descent as Nigredo, Marduk's victory as Separatio) apply Renaissance hermetic symbolism to Mesopotamian narrative patterns. Mesopotamian cosmology and astrology deeply influenced Western esoteric traditions, but the explicit connections drawn here are modern interpretive additions.
+[^1]: Mesopotamian mythological texts (Sumerian, Akkadian, Babylonian).
 
 ---

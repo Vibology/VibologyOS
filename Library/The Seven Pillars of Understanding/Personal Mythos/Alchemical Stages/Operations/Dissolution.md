@@ -645,38 +645,8 @@ Dissolution *is* making the darkness conscious. The waters are dark, cold, terri
 
 ---
 
+## Notes
 
 [^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Dissolution as softening rigid structures through water.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (Dissolution as flooding, liquefaction, return to prima materia)
-  - Vol. 14: *Mysterium Coniunctionis* (Water as dissolving agent, regression to chaos)
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Vintage Books. (Unconscious flooding experiences)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). (Dissolution as washing, liquefaction, return to water state)
-- *Turba Philosophorum* (Assembly of the Philosophers). (Water dissolves the calcinated ash)
-- *The Emerald Tablet* (Hermes Trismegistus). ("The wind carried it in its belly, the Earth is its nurse" - dissolution phase)
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Dissolution as second operation, emotional flooding, boundary collapse)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Water symbolism: tears, ocean, drowning, liquefaction)
-
-**Mythological Water Sources:**
-- Greek: Flood myths, Dionysus dismemberment, Ocean/Okeanos (primordial waters)
-- Biblical: Noah's Flood (dissolution of world), baptism (death by drowning, rebirth), Jonah and whale (swallowed by water-chaos)
-- Mesopotamian: *Epic of Gilgamesh* flood, Tiamat (primordial chaos-water)
-- Hindu: Vishnu's cosmic ocean, dissolution at end of kalpa, tears of Shiva
-
-**Grief and Loss Literature:**
-- Kübler-Ross, Elisabeth. *On Death and Dying* (1969). Scribner. (Stages of grief as Dissolution process)
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Moon/Neptune astrology, Hanged Man/Moon Tarot, Gate 55 HD, Gabriel angelology) represent Vibology's integration of verified alchemical Dissolution patterns across seven-pillar framework.
 
 ---

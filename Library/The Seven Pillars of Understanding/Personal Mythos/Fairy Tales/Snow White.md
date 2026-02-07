@@ -466,6 +466,7 @@ Psychologically, this is the **ego's death when it refuses transformation**: the
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
@@ -495,26 +496,8 @@ Persephone and Demeter • Inanna's Descent • Aphrodite and Psyche • Sleepin
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Sneewittchen" (Tale 53).
-
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Chapter on "The Hungry Mother" and vegetative dormancy.
-- **Von Franz, Marie-Louise.** *Shadow and Evil in Fairy Tales* (1974). Analysis of the Evil Queen as senescent consciousness.
-- **Neumann, Erich.** *The Great Mother: An Analysis of the Archetype* (1955). The dual nature of the Mother archetype.
-- **Jung, Carl Gustav.** *Symbols of Transformation* (CW 5). The mother-daughter separation and the symbols of rebirth.
-
-### Feminist & Depth Psychology
-- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Chapter on the glass coffin and dissociation.
-- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Developmental reading of Snow White and puberty.
-- **Tatar, Maria.** *The Hard Facts of the Grimms' Fairy Tales* (1987). Historical and psychological analysis of violence in Grimm tales.
-
-### Alchemical & Symbolic
-- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The alchemical marriage and the integration of opposites.
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The stages of alchemical transformation in psychological work.

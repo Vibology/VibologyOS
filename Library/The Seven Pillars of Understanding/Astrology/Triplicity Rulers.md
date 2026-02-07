@@ -178,7 +178,7 @@ The triplicity ruler assessment provides the *aerial view* — the overall arc o
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 8: Triplicity as the third level of essential dignity. The most sect-sensitive dignity: day and night rulers determined entirely by the diurnal-nocturnal distinction.
 
@@ -195,3 +195,5 @@ The triplicity ruler assessment provides the *aerial view* — the overall arc o
 [^7]: Dorotheus via Hephaestio: Three-fold life division confirmed. The Arabic translation appears to divide life into two parts, but the Greek summary preserves the original three-fold system. Brennan, Ch 15.
 
 [^8]: The cooperating ruler governs the final third in both day and night charts — the only ruler whose assignment does not change with sect. Its condition speaks to legacy, later life quality, and manner of ending. Brennan, Ch 15.
+
+---

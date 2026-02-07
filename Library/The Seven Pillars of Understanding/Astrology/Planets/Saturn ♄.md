@@ -229,14 +229,18 @@ Saturn teaches that limitation is not punishment. It is **initiation**—the ord
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Saturn is exalted in Libra to preserve his station opposite the Sun (exalted in Aries), opposing heat with cold"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Saturn rejoices in the 12th House, the house of sorrow, imprisonment, and self-undoing, because he is naturally the "author of mischief"
+
 [^4]: Greek mythology (Grimoire): Kronos castrated his father Uranus with a sickle, separating Sky from Earth; this act symbolizes the creation of boundaries and linear time
+
 [^5]: Greek mythology (Grimoire): Kronos ruled during the Golden Age, a time of agricultural abundance and peace before his fall
+
 [^6]: Greek mythology (Grimoire): Kronos devoured his children (the future Olympians) immediately after birth; Rhea saved Zeus by feeding Kronos a stone wrapped in swaddling clothes; establishes Saturn as the Terrible Father who resists change
 
 ---
-
-*"Saturn does not destroy. He harvests what has ripened and composts what has not. In the soil of failure, the next cycle begins."*

@@ -797,7 +797,7 @@ The Persona interacts dynamically with other archetypal structures:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7, par. 305. Princeton University Press.
 
@@ -805,20 +805,4 @@ The Persona interacts dynamically with other archetypal structures:
 
 [^3]: Jung, C.G. *Psychological Types*. Collected Works Vol. 6, par. 801. Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Ordinary World, Refusal of the Call, Threshold Crossing, Return)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Solutio, Separatio operations)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Cinderella, The Goose Girl)
-- Andersen, Hans Christian. *Fairy Tales*. (The Emperor's New Clothes, The Little Mermaid)
-- Chrétien de Troyes. *Perceval, the Story of the Grail*. (Arthurian Parsifal legend)
-- Beaumont, Jeanne-Marie Leprince de. *Beauty and the Beast*. 1756.
-- Mythology sources:
-  - Greek: Homer, Hesiod, Ovid's *Metamorphoses* (theatrical masks, shapeshifting)
-  - Egyptian: *The Book of the Dead*, Pyramid Texts (death masks, animal-headed deities)
-  - Norse: *Prose Edda*, *Poetic Edda* (Odin's disguises, berserker traditions)
-  - Hindu: *Bhagavad Gita* (dharma, kshatriya role), Vedas and Puranas (avatars of Vishnu)
-  - Buddhist: Pali Canon (anatta/no-self teachings)
-  - Japanese: Noh theater tradition, Bushido texts
-  - Indigenous: Navaho ceremonial literature, West African masquerade traditions
+---

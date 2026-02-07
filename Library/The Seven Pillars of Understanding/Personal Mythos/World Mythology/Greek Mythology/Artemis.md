@@ -421,52 +421,8 @@ Astrologically, Artemis corresponds to the **[[Moon ☽]]**—especially the moo
 
 ---
 
+## Notes
 
 [^1]: Homeric *Hymn to Artemis* and classical sources — Artemis as virgin goddess of hunt, wilderness, and moon.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-
-- **Homeric Hymn to Artemis (27)** — Short hymn celebrating her as huntress and mistress of wild things
-- **Homeric Hymn to Apollo (3)** — Includes the birth of Artemis and Apollo on Delos
-- **Callimachus** — *Hymn to Artemis (3)* (Hellenistic hymn, describes her childhood request for gifts from Zeus)
-- **Ovid** — *Metamorphoses* (Actaeon, Callisto, Niobe—major Artemis myths)
-- **Euripides** — *Iphigenia in Aulis* and *Iphigenia in Tauris* (the sacrifice and its aftermath)
-- **Apollodorus** — *Library* (comprehensive summary of Artemis myths, including Orion, Callisto, Actaeon)
-
-### Mythological Encyclopedias
-
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive entry on Artemis's myths, epithets, and cult sites.
-- **Kerenyi, Karl** — *The Gods of the Greeks* (1951). Extensive analysis of Artemis as virgin goddess, protector, and huntress.
-- **Burkert, Walter** — *Greek Religion* (1985). Scholarly examination of Artemis's cult, rituals, and regional variations (Ephesian Artemis, Brauron bear cult).
-
-### Psychological and Archetypal Analysis
-
-- **Estés, Clarissa Pinkola** — *Women Who Run With the Wolves: Myths and Stories of the Wild Woman Archetype* (1992). Artemis as primary expression of the Wild Woman, instinctual feminine, fierce autonomy.
-- **Jung, C.G.** — *Collected Works Vol. 9i: Archetypes and the Collective Unconscious*. The virgin goddess as animus-free feminine, psychic autonomy (CW 9i, ¶311).
-- **Bolen, Jean Shinoda** — *Goddesses in Everywoman: A New Psychology of Women* (1984). Artemis as one of the "virgin goddesses" (along with Athena and Hestia)—autonomous, goal-directed, not defined by relationship to men.
-- **Downing, Christine** — *The Goddess: Mythological Images of the Feminine* (1981). Artemis as sister, as companion, as the autonomous feminine in community (the nymphs).
-- **Paris, Ginette** — *Pagan Meditations: The Worlds of Aphrodite, Artemis, and Hestia* (1986). Deep exploration of Artemis as wilderness goddess, her relationship to patriarchy, and her role in women's psychology.
-
-### The Bear Cult and Brauron
-
-- **Sale, William** — "The Temple-Legends of the Arkteia," *Rheinisches Museum für Philologie* (1975). Scholarly analysis of the Brauron bear rituals for young girls.
-- **Osborne, Robin** — "The Arkteia: A Rite of Passage or Initiation?" (1985). Analysis of the "bear dance" as transition from wildness to civilized womanhood.
-
-### Virgin-Mother Paradox and Childbirth
-
-- **Demand, Nancy** — *Birth, Death, and Motherhood in Classical Greece* (1994). Artemis's role in childbirth, the contradiction of virgin midwife.
-- **Lefkowitz, Mary R.** — *Women in Greek Myth* (2007). Analysis of Artemis's protection of women at vulnerable thresholds (menarche, childbirth).
-
-### Feminist and Modern Interpretations
-
-- **Stone, Merlin** — *When God Was a Woman* (1976). Artemis as survival of matriarchal goddess traditions, pre-patriarchal feminine power.
-- **Griffin, Susan** — *Woman and Nature: The Roaring Inside Her* (1978). Artemis as symbol of women's connection to wildness, instinct, and the natural world (ecofeminist reading).
-- **Spretnak, Charlene** — *Lost Goddesses of Early Greece* (1981). Reimagining of Artemis myths from pre-patriarchal perspective.
-
----
-
-*Expanded 2026-02-06. Comprehensive archetypal analysis complete.*

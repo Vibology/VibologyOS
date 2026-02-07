@@ -569,6 +569,8 @@ Use them well. Use them privately. Let the quality of your synthesis reveal thei
 
 ---
 
+## Notes
+
 [^1]: Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Book II, Chapter 7: "Of the seven Planets, their names, powers, and what things are under them." The seven planetary angels are named and their correspondences detailed. This text became foundational for Renaissance and later Western esoteric angelology.
 
 [^2]: The Ptolemaic geocentric cosmos remained the dominant cosmological model from antiquity (Ptolemy, 2nd century CE) through the Renaissance. While heliocentrism (Copernicus, 1543) replaced it astronomically, the geocentric model persists in **traditional astrology and angelology** as a *symbolic* rather than *literal* system—describing consciousness and emanation rather than physical mechanics.
@@ -576,12 +578,3 @@ Use them well. Use them privately. Let the quality of your synthesis reveal thei
 [^3]: Planetary hours are calculated by dividing the time from **sunrise to sunset** into 12 equal parts (daylight hours) and **sunset to sunrise** into 12 equal parts (night hours). Because day/night lengths vary by season and latitude, planetary hours are of unequal length compared to clock hours. See Agrippa, *Occult Philosophy* Book II, Chapter 32: "Of the observation of Celestials necessary in every magical work." Online planetary hour calculators: lunarium.co.uk, astrology.com.tr, etc.
 
 ---
-
-## Sources
-
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Book II, Chapters 7 and 32. Primary source for planetary archangel attributions, correspondences, and planetary hours.
-- Regardie, Israel. *The Golden Dawn*. Golden Dawn system of planetary archangels mapped to Sephiroth (Michael/Tiphareth, Gabriel/Yesod, Raphael/Hod, Haniel/Netzach, Kamael/Geburah, Tzadkiel/Chesed, Tzaphkiel/Binah).
-- Davidson, Gustav. *A Dictionary of Angels* (1967). Comprehensive catalog of archangelic names, variant spellings, and office attributions across traditions.
-- Heywood, Thomas. *The Hierarchie of the Blessed Angells* (1635). Renaissance angelological synthesis validating planetary-archangel correspondences.
-- Pseudo-Dionysius the Areopagite. *The Celestial Hierarchy* (5th-6th c.). Hierarchical framework underlying the archangelic order system.
-- Ptolemy. *Almagest* (2nd c. CE). Geocentric planetary sphere model underlying the descent/ascent of the soul through seven planetary archangels.

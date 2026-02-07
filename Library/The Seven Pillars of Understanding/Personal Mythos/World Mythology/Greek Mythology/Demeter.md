@@ -161,32 +161,8 @@ The Demeter archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Classical Greek sources (Hesiod, Homer, Homeric Hymns) and mythological encyclopedias.
 
 ---
-
-## Sources
-
-**Primary Texts:**
-- *Homeric Hymn to Demeter* (the fullest ancient account of the Persephone myth)
-- Ovid, *Metamorphoses* 5.341-571 (Rape of Proserpina)
-- Pausanias, *Description of Greece* 8.25.4-7 (Demeter Erinys/Black Demeter)
-- Claudian, *De Raptu Proserpinae*
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Demeter sections)
-- Kerényi, K. *Eleusis: Archetypal Image of Mother and Daughter*
-- Burkert, W. *Greek Religion* (Demeter cult, Thesmophoria, Eleusinian Mysteries)
-- Burkert, W. *Ancient Mystery Cults* (Eleusis chapter)
-
-**Psychological and Archetypal Analysis:**
-- Jung, C.G. and Kerényi, K. *Essays on a Science of Mythology* (1941/1949) — The Kore/Demeter archetype
-- Jung, C.G. *Collected Works*, Vol. 9i, §148-198 (The Mother Archetype), §316 (Demeter-Kore)
-- Bolen, J.S. *Goddesses in Everywoman*, ch. 9 (Demeter: Goddess of Grain, Nurturer and Mother)
-- Downing, C. *The Long Journey Home: Re-Visioning the Myth of Demeter and Persephone*
-- Berry, P. *Echo's Subtle Body* (the mother-daughter mystery)
-
----
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

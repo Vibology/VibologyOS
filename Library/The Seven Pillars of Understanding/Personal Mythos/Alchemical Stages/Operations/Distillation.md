@@ -633,39 +633,8 @@ When the psyche embraces the work of circulation—when insights are patiently b
 
 ---
 
+## Notes
 
 [^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Distillation as purification through repeated heating and cooling.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (Distillation as repeated circulation, purification through return)
-  - Vol. 14: *Mysterium Coniunctionis* (Sublimation, repeated refinement, circulation)
-  - Vol. 16: *The Practice of Psychotherapy* (Repetition in analysis, working through)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). (Repeated distillation, circulation of elements, alembic imagery)
-- *The Emerald Tablet* (Hermes Trismegistus). ("It rises from earth to heaven and descends again to earth" - circulation as Distillation)
-- *The Twelve Keys of Basil Valentine* (17th century). (Distillation apparatus, repeated sublimation)
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Distillation as sixth operation, repeated purification, essence extraction)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Alembic symbolism, circulation, sublimation)
-
-**Spiritual Practice Literature:**
-- *The Cloud of Unknowing* (14th century). Anonymous. (Repeated contemplative practice, refinement through return)
-- Ignatius of Loyola. *Spiritual Exercises* (1548). (Daily examination, repeated discernment)
-- Buddhist meditation texts (Repeated practice, mindfulness cultivation, purification through repetition)
-
-**Mythological Repetition Patterns:**
-- Greek: Sisyphus (forced repetition), Persephone's annual cycle (voluntary return)
-- Hindu: Karma yoga (action as repeated refinement), daily puja (ritual circulation)
-- Christian: Daily Office (liturgical hours), rosary (repetitive prayer)
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Mercury/Virgo astrology, repeated transits, Hermit Tarot, disciplined HD practice) represent Vibology's integration of verified alchemical Distillation patterns across seven-pillar framework.
 
 ---

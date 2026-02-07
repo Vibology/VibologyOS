@@ -149,32 +149,8 @@ The Horus archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
-
-## Sources
-
-**Primary Egyptian Sources:**
-- *Pyramid Texts* (c. 2400 BCE) — Horus-Osiris identification
-- *Coffin Texts* (c. 2000 BCE) — Contendings narrative elements
-- Chester Beatty Papyrus I (*The Contendings of Horus and Seth*) — the fullest narrative
-- Temple of Edfu inscriptions — Horus as winged sun disk
-
-**Classical Sources:**
-- Plutarch, *De Iside et Osiride* (Greek synthesis of the Osiris-Horus cycle)
-
-**Mythological Encyclopedias:**
-- Pinch, G. *Egyptian Mythology* (Horus chapter)
-- Assmann, J. *The Search for God in Ancient Egypt* (Horus-kingship theology)
-- Griffiths, J.G. *The Conflict of Horus and Seth* (definitive scholarly study)
-
-**Psychological and Archetypal Analysis:**
-- Neumann, E. *The Origins and History of Consciousness* (the hero myth)
-- Jung, C.G. *Collected Works*, Vol. 5 (Symbols of Transformation — hero mythology)
-- Rundle Clark, R.T. *Myth and Symbol in Ancient Egypt* (Horus sections)
-
----
-
-*Created 2026-02-07. Part of the Egyptian Mythology collection within [[Personal Mythos]].*

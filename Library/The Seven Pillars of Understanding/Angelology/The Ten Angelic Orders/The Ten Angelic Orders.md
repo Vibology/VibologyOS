@@ -381,7 +381,9 @@ For comprehensive treatment of each order, see their individual entries:
 - [[Ishim]] — Souls of Fire (stub, expansion pending)
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[The Archangels]] — Overview of the eleven named Archangels
 - [[The Three Triads]] — Organizational structure
@@ -407,25 +409,8 @@ For comprehensive treatment of each order, see their individual entries:
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
-- Hebrew names for angelic orders (Maimonides ten-order system)
-- Three Triads structure
-- Pseudo-Dionysian framework (nine orders)
-- Variant traditions documented
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
-- Sephirothic correspondences
-- Golden Dawn system
-
-**Scriptural References:**
-- Isaiah 6:3 (Seraphim: "Holy, Holy, Holy")
-
-**Secondary Sources:**
-- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)

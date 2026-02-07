@@ -552,6 +552,7 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 **Invitation:** The Blueprint shows predisposition, not prison. Free will operates within structure. Experiment.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -577,38 +578,17 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 *"The Blueprint is not destiny—it is design. You are not the 64-fold structure; you are the consciousness experiencing it. The gates do not define you; they describe the vehicle through which you navigate existence. Know your design, honor your mechanics, but never forget: you are the one who chose this particular configuration before incarnation. The Blueprint is your gift to yourself—the precise instrument needed for the work you came to do."*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Huang, Alfred. *The Complete I Ching: The Definitive Translation* (Inner Traditions, 2010) — the I-Ching as binary oracle: 2 lines, 4 bigrams, 8 trigrams, 64 hexagrams.
+
 [^2]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — hexagrams mapped onto the BodyGraph as gates; direct alignment between hexagrams and the genetic code.
+
 [^3]: Rudd, Richard. *The Gene Keys* (Watkins Publishing, 2013) — Gene Keys as "codebook of consciousness"; DNA as "fluid software that responds to your attitude and consciousness."
+
 [^4]: Rudd, Richard. *The Gene Keys* (Watkins Publishing, 2013) — the Shadow-Gift-Siddhi spectrum: "The Shadow is the seed, the Gift is the flower and the Siddhi is the fruit."
+
 [^5]: Schonberger, Martin. *The I Ching and the Genetic Code: The Hidden Key to Life* (1973) — first published demonstration of DNA codon / I-Ching hexagram structural correspondence.
-
----
-
-## Sources
-
-Huang, Alfred. *The Complete I Ching: The Definitive Translation*. Rochester, VT: Inner Traditions, 2010.
-- I-Ching structure, hexagram translations, Wilhelm comparisons
-
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
-- 64 gates = 64 hexagrams: "The Hexagrams around the wheel have an association directly aligned with our genetic code, the codon"
-- Each gate = 5° 37' 30" arc
-- 384 line variations (64 gates × 6 lines)
-
-Ra Uru Hu. *The Complete Rave I'Ching*. Carlsbad, CA: HDC Publishing.
-- Gate mechanics and hexagram correspondences
-
-Rudd, Richard. *The Gene Keys: Unlocking the Higher Purpose Hidden in Your DNA*. London: Watkins Publishing, 2013.
-- "Codebook of consciousness"
-- DNA as "fluid software that responds to your attitude and consciousness"
-- Shadow-Gift-Siddhi spectrum: "The Shadow is the seed, the Gift is the flower and the Siddhi is the fruit"
-- Contemplation as methodology
-
-**Historical Reference (not in Grimoire):**
-
-Schonberger, Martin. *The I Ching and the Genetic Code: The Hidden Key to Life*. 1973.
-- First published demonstration of DNA codon / I-Ching hexagram structural correspondence
 
 ---

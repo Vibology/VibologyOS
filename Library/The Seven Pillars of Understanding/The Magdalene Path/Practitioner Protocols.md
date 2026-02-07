@@ -591,21 +591,23 @@ Clients never see:
 **The Magdalene Path is YOUR vertical axis.** Walk it honestly. Track it rigorously. Let the fruit speak for itself.
 
 ---
-## Footnotes
+
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: *The Gospel of Mary*, Berlin Gnostic Codex (BG 8502,1), 2nd century CE — the soul's apophatic confrontation with the Guardians (Powers of Wrath) at each stage of ascent
+
 [^2]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 114 — the formula Agape = Eros x Kenosis as the mechanics of divine love
+
 [^3]: Bourgeault, *The Meaning of Mary Magdalene* (Shambhala, 2010) — Pope Gregory I's Homily 33 (594 CE) creating the "penitent prostitute" myth by conflating three distinct women
+
 [^4]: John of the Cross, *Dark Night of the Soul* (1578-1579) — purgative stages of the Dark Night distinguished from ordinary emotional fluctuation
+
 [^5]: Ra Uru Hu & Bunnell, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the 4/6 Profile three-part life: experimentation (0-30), observation on the roof (30-50), modeling (50+)
 
 ---
-## Sources
-
-- Cynthia Bourgeault, *The Meaning of Mary Magdalene* (2010) — Kenosis framework, singleness (ihidaya), Fifth Way (conscious love), Bridal Chamber, Abler Soul, A = E x K formula
-- *The Gospel of Mary* — Eight Boughs of Ascent, Guardians (wrath, ignorance, arrogance, the Deceiver), apophatic practice at each stage
-- *The Gospel of Philip* — Bridal Chamber sacrament, sacred union, "children of the light"
-- Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Generator mechanics, Emotional Authority, 4/6 Profile three-part life, open center conditioning
-- Lynda Bunnell, *Living Your Design Student Manual* — Not-Self conditioning patterns for the five undefined centers (Head, Ajna, Throat, Heart, Root)
-- Teresa of Avila, *The Interior Castle* (1577) — Stages of prayer as parallel to Bough progression
-- John of the Cross, *Dark Night of the Soul* (1578-1579) — Purgative stages, distinction from emotional wave

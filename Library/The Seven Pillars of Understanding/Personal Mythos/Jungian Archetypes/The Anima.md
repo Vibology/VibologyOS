@@ -934,7 +934,7 @@ The Anima interacts dynamically with other archetypal structures:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *The Development of Personality*. Collected Works Vol. 17, par. 338. Princeton University Press.
 
@@ -954,13 +954,4 @@ The Anima interacts dynamically with other archetypal structures:
 
 [^9]: Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14, par. 384. Princeton University Press.
 
-**Additional References:**
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Meeting with the Goddess, Woman as Temptress stages)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Albedo, Solutio, Coniunctio)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Sleeping Beauty, Rapunzel, Cinderella, Snow White)
-- Andersen, Hans Christian. *Fairy Tales*. (The Little Mermaid)
-- Perrault, Charles. *The Complete Fairy Tales*. (Beauty and the Beast)
-- Bettelheim, Bruno. *The Uses of Enchantment: The Meaning and Importance of Fairy Tales*. Vintage Books, 1976.
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974.
-- Mythology and folklore sources: Greek (Hesiod, Homeric Hymns), Gnostic texts (Nag Hammadi Library), Hindu scriptures (Vedas, Puranas), Egyptian texts, Celtic folklore collections
+---

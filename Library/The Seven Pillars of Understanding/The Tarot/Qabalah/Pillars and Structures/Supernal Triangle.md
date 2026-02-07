@@ -114,25 +114,24 @@ The Abyss below the Supernals corresponds to the threshold between the ***person
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — Chokmah as the "Primordial Point" (*nekudah rishonah*), the first emergence of *something* from the Nothingness of Kether.
+
 [^2]: Zohar — Binah as the "Palace" (*heikhal*) that receives the point of Chokmah, the womb giving form to the seed.
+
 [^3]: Zohar, commentary on Genesis 2:10 — "A river flows out of Eden to water the garden," with Eden = Chokmah and the river = Binah's channeling of divine energy to the lower Sephiroth.
+
 [^4]: Zohar — Chokmah as *Abba* (Father) and Binah as *Imma* (Mother), the Supernal parents whose union produces the seven lower Sephiroth.
+
 [^5]: Zohar — Binah "gives birth" to the lower Tree. The seven Sephiroth from Chesed to Malkuth are sometimes called the "Seven Days of Creation."
+
 [^6]: Zohar — Kether as *Attiqa Qaddisha* (Holy Ancient One) and *Reisha de-Lo Ityada* (the Head That Is Not Known).
+
 [^7]: Wang, *The Qabalistic Tarot* — Daath as the interface between Macrocosm and Microcosm, the "child" of Chokmah and Binah that is not counted among the ten.
+
 [^8]: Jung, CW 9ii (*Aion*) — The Self as "the archetype of wholeness and the regulating center of the psyche."
+
 [^9]: Jung, CW 12 (*Psychology and Alchemy*) — Warnings about the ego's encounter with numinous archetypal content, the risk of inflation and dissolution.
 
 ---
-
-## Sources
-
-- **The Zohar** — Chokmah as the Primordial Point (*nekudah rishonah*); Binah as the Palace (*heikhal*); the river from Eden; Supernal Father (*Abba*) and Mother (*Imma*); Kether as *Attiqa Qaddisha*
-- **Sefer Yetzirah** — The foundational numerical framework of the ten Sephiroth; the Supernal Triad as the first three emanations
-- **Sefer ha-Bahir** — Early Kabbalistic imagery contributing to the Supernal dynamics
-- **Robert Wang, *The Qabalistic Tarot*** — Daath as interface between Macrocosm and Microcosm; the "child" of Chokmah and Binah
-- **Jung, CW 9ii (*Aion*)** — The Self as archetype of wholeness; Logos and Eros as complementary principles
-- **Jung, CW 12 (*Psychology and Alchemy*)** — The dangers of premature encounter with numinous archetypal content

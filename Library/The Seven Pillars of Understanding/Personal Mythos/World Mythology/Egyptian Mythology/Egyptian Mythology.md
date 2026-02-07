@@ -1105,21 +1105,10 @@ Death is transformation, not annihilation. The Self (Ra, Osiris, Akh) is indestr
 
 — C.G. Jung, *Symbols of Transformation*
 
-
-[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
-
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1953.
+## Notes
 
-**Primary Egyptian Sources:**
-Core mythological narratives (cosmology, pantheon, Osirian cycle, Ra's journey, and funerary practices) are drawn from canonical ancient Egyptian sources including the *Pyramid Texts*, *Coffin Texts*, *Book of the Dead* (Book of Coming Forth by Day), *Amduat* (Book of What Is in the Underworld), and *Book of Gates*. These texts span millennia of Egyptian religious tradition and inform the archetypal framework.
-
-#### Vibology Synthesis
-All Jungian archetypal analysis (interpreting Egyptian myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than ancient Egyptian understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo, mummification as alchemical process) apply Renaissance hermetic symbolism to Egyptian narrative patterns. Egyptian cosmology deeply influenced Western alchemy, but the explicit connections drawn here are modern interpretive additions.
+[^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---

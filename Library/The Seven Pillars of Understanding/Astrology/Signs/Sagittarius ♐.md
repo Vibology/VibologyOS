@@ -230,15 +230,21 @@ The Archer teaches that the arrow cannot return to the bow. Once released, you a
 - [[Temperance (XIV)|Temperance]] — Key XIV, alchemical synthesis
 - [[The Hero]] — The archetype of the journey, the quest
 - [[The Wise Old Man|The Sage]] — The wisdom archetype, earned truth
+
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Jupiter rules Sagittarius (Day House); Sagittarius is also the Joy of Jupiter
+
 [^2]: Lilly, *Christian Astrology*, Book 1: Mercury in detriment (opposite Gemini)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: No traditional planetary exaltation or fall; South Node (Dragon's Tail) exalted at 3° Sagittarius
+
 [^4]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sagittarius as Mutable (Common/Bicorporeal) Fire (hot and dry, choleric)
+
 [^5]: Lilly, *Christian Astrology*, Book 2: Sagittarius cosignificator of 9th House (long journeys, religion, dreams, learning)
+
 [^6]: Lilly, *Christian Astrology*, Book 1: Sagittarius governs thighs, hips, buttocks, fundament, groins; diseases include sciatica, fistulas, falls from horses
 
 ---
-
-*"Sagittarius does not promise answers. It promises that if you aim high enough, you will discover the question was always more interesting than the answer."*

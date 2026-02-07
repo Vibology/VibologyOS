@@ -668,37 +668,8 @@ The Nigredo is the making of the darkness conscious. It is painful. It is unavoi
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press, par. 334) — Nigredo as blackening, decomposition of prima materia, psychological death preceding transformation.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (par. 334: Nigredo as massa confusa, decomposition of prima materia)
-  - Vol. 14: *Mysterium Coniunctionis* (Nigredo as essential death preceding transformation)
-  - Vol. 9ii: *Aion* (p. 266: Shadow's positive qualities, good instincts in darkness)
-- Jung, C.G. *Memories, Dreams, Reflections* (1963). Ed. Aniela Jaffé. Trans. Richard and Clara Winston. Vintage Books. ("Fiery magma" passage, unconscious as Nigredo experience)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). ("The body must be destroyed, that the spirit may be liberated"; King and Queen death-dissolution)
-- *Turba Philosophorum* (Assembly of the Philosophers). ("The blackness is the first sign of putrefaction. Without putrefaction, there can be no regeneration.")
-- *The Emerald Tablet* (Hermes Trismegistus). ("Its father is the Sun, its mother the Moon...The Earth is its nurse" - Nigredo as Earth phase)
-- Ripley, George. *The Compound of Alchemy* (1471). ("First, blackness will appear...This is the sign that corruption has begun.")
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Nigredo operations: Calcination, Dissolution; psychological equivalents)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Nigredo symbolism: raven, corpse, Saturn, lead)
-
-**Mythological Sources:**
-- Classical mythology: Persephone's abduction, Inanna's descent, Dionysus dismemberment, Osiris death (underworld descent patterns)
-- Egyptian *Book of the Dead*. (Duat journey, weighing of the heart, death-rebirth)
-- Norse *Poetic Edda*. (Odin's sacrifice on Yggdrasil, Ragnarök destruction)
-- Hindu sources: Kali's destruction, Shiva's Tandava dance
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Saturn/Pluto astrology, 8th/12th Houses, Scorpio, Root/Solar Plexus HD centers, Tower/Death/Devil/Moon Tarot, Gates 47/29, Tzaphkiel/Samael angelology) represent Vibology's integration of verified alchemical Nigredo patterns across seven-pillar framework.
 
 ---

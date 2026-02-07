@@ -207,6 +207,7 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 ---
 
 ## Cross-References
+
 - [[Jupiter ♃]] - The great benefic, ruler of the Nine of Cups through Pisces
 - [[Pisces ♓]] - The mutable water sign, Jupiter's ancient domicile
 - [[Yesod]] - The ninth Sephirah, Foundation, Moon's sphere
@@ -221,25 +222,18 @@ When the Nine of Cups emerges in reading or contemplation, consider:
 
 *"The wish fulfilled is not the end of the journey—it is the reward for having journeyed well. Now rest. Tomorrow, you may wish again."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Nine of Cups.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Material Happiness" for the Nine of Cups.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Jupiter in Pisces decan attribution for the Nine of Cups.
+
 [^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Yesod in Briah Sephirotic placement for the Nine of Cups.
+
 [^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Nine of Cups.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

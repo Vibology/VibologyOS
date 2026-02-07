@@ -283,6 +283,7 @@ The truly wise know that some swords should be dropped. Some arguments should be
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Four of Swords]] - The rest: what should have preceded this conflict
 - [[Six of Swords]] - The journey away: what follows when you leave the battlefield
@@ -324,26 +325,14 @@ The truly wise know that some swords should be dropped. Some arguments should be
 
 ---
 
-*"The victor who stands alone on a field of corpses has not won—he has merely outlasted."*
-
-## Footnotes
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Five of Swords
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Defeat" and Venus in Aquarius attribution
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Five of Swords
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Geburah in Yetzirah Qabalistic placement and decan attribution
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

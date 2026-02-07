@@ -751,7 +751,9 @@ Uriel does not announce himself with visions of light or celestial music (that i
 ---
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[Malkuth]] (Sephirah governed by Uriel)
 - [[Daath]] (Hidden Sephirah—Uriel's secondary attribution)
@@ -774,51 +776,8 @@ Uriel does not announce himself with visions of light or celestial music (that i
 
 ---
 
-
----
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Uriel as 'Fire of God,' archangel of Earth and Wisdom.
 
 ---
-
-## Sources
-### Primary Sources
-
-**Agrippa, Heinrich Cornelius.** *The Occult Philosophy or Magic.* Edited by Willis F. Whitehead. Chicago: Hahn & Whitehead, 1898.
-- Page 100: Uriel assigned to the South (and Wind) in medieval attributions.
-
-**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
-- Pages 17, 30: Uriel etymology - "Fire of God," "Light of God," or "God is my Light."
-- Page 17: Titles - Regent of the Sun, Angel of the Presence, Archangel of Salvation, Presider over Tartarus.
-- Pages 17, 153: Apocryphal references - 1 Enoch (guide of luminaries, secrets of sun/moon/stars, "watches over thunder and terror"), 2 Esdras (sent to Ezra to interpret visions).
-- Page 153: "The spirit who stood at the gate of the lost Eden with the fiery sword" (Davidson citing tradition).
-- Page 153: Milton's description - "sharpest sighted spirit of all in Heaven."
-- Pages 25, 117, 135: Not named in canonical Bible; associations with Sun or Venus; identified as "watcher."
-
-**DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* San Francisco: Weiser Books, 2008.
-- Page 861: LBRP positioning - "On my left hand, Auriel" (North quarter, Earth element).
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
-- Page 192: Golden Dawn spelling "Auriel"; association with Earth element and North quarter.
-
-**Book of Enoch** (R.H. Charles translation, standard).
-- Chapter 72-82 (Astronomical Book): Uriel as guide of the luminaries.
-
-### Vibology Synthesis Notes
-
-The following content represents cross-system synthesis, interpretive material, and/or unverified quotes:
-- All quotes attributed to "Dion Fortune" about Uriel and Malkuth (not found in primary sources)
-- All quotes attributed to "Gareth Knight" (not in Grimoire)
-- The association of Uriel with Daath (non-canonical attribution)
-- The "Fire of God within Earth" interpretation as chthonic fire
-- All Jungian interpretations and psychological parallels
-- Human Design (Root Center), Gene Keys, chakra correspondences
-- Mythological parallels (Prometheus, Hades, Persephone, Hecate, Anubis)
-- All meditation practices, visualization techniques, and ritual instructions
-- Qlippothic analysis (Nehemoth/Lilith as shadow of Malkuth)
-- Prayer to Uriel (composed for this text)
-- Final quote about Uriel (original synthesis)
-
----
-
-*"Uriel is not the angel who lifts you out of the earth—he is the angel who teaches you that the earth is already holy, that the body is already a temple, that the descent is the path. He does not promise transcendence. He promises presence. And in presence, the fire of God is revealed—not in the sky, but in the soil."*

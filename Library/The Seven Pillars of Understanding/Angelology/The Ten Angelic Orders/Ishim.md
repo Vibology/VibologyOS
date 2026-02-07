@@ -173,28 +173,8 @@ Heywood's work emphasizes the **gradation of illumination** flowing downward thr
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Ishim as 'Souls of Fire,' angelic order of Malkuth.
 
 ---
-
-## Sources
-
-### Primary Texts
-- **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967. (pp. 156, entries on Ishim/Ashim)
-- **Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Marcus Aurelius Press, 1983. (pp. 115, 266)
-- **Maimonides, Moses.** *Mishneh Torah: Yesodei ha-Torah* 2:7. 12th century. (Ishim as prophetic mediators)
-
-### Supporting Context
-- **Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy.* 5th/6th century. (Nine-fold Christian system)
-- **Heywood, Thomas.** *The Hierarchie of the Blessed Angels.* 1635. (Traditional English angelology)
-- **Hebrew Bible:** Psalm 104:4 (Angels as flames), Hebrews 12:22-23 (Spirits of the righteous made perfect)
-
-### Verification
-- **Source:** Esoteric Grimoire (NotebookLM)
-- **Date:** 2026-02-06
-- **Notes:** Davidson and Wang citations verified; Maimonides sourced; Qabalistic tenth-order doctrine confirmed
-
----
-
-*Last updated: 2026-02-06 | Expansion complete: stub → comprehensive entry*

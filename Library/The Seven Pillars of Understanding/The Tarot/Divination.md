@@ -779,37 +779,20 @@ The reader's task is not to command or pronounce but to **hold space for truth t
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910), Part II — Tarot as probability assessment and psychological mirroring rather than fixed-future prediction
+
 [^2]: Jung, Carl Gustav, *Synchronicity: An Acausal Connecting Principle* (1952) — definition of synchronicity as acausal connecting principle; referenced via De Angeles 2006
+
 [^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910), Part II — the Celtic Cross spread and its ten positional meanings
+
 [^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Court de Gebelin's 1781 false claim of Egyptian origins
+
 [^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Levi's 1854-1856 mapping of 22 Major Arcana to 22 Hebrew letters
+
 [^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 19 — RWS as first deck to illustrate all 78 cards with scenic imagery
+
 [^7]: De Angeles, Ly, *Tarot Theory & Practice* (Llewellyn Worldwide, 2006) — Jungian reframing of Tarot as individuation cartography
 
 ---
-
-## Sources
-
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**Tarot Theory and Practice:**
-- De Angeles, Ly. *Tarot Theory & Practice*. St. Paul, MN: Llewellyn Worldwide, 2006. (Jungian-archetypal approach, synchronicity theory, reading ethics)
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. (Part II: "The Oracles and Inner Symbolism"; Celtic Cross spread, reading methodology)
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. (Qabalistic spreads, elemental dignities, Golden Dawn techniques)
-
-**Jungian Foundations:**
-- Jung, Carl Gustav. *Synchronicity: An Acausal Connecting Principle* (1952). — Referenced via De Angeles 2006 and archetypal Tarot literature
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[Human Design]], [[The Astrolabe|I-Ching]], and [[Angelology]] represent original Vibology correspondences, not found in primary Tarot sources.
-
-**Ethics Framework:**
-Professional ethics code synthesized from De Angeles 2006 (reader responsibilities), contemporary Tarot professional standards, and Jungian analytical ethics (therapeutic boundaries, do no harm).
-
-**Historical Narrative:**
-Development phases integrate Wang 1983 (Qabalistic turn, Golden Dawn), Waite 1910 (RWS deck), and De Angeles 2006 (psychological Tarot, contemporary diversification).

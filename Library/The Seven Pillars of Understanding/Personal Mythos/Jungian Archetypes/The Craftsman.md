@@ -206,47 +206,42 @@ The Craftsman does not seek to *be* something (inflation)—they seek to *do* so
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Gene Keys 16th Gift — Mastery through identification and repetition; excellence emerges from sustained, deliberate practice over time
-[^2]: Erik Davis, *Techgnosis* — Hephaestus/Vulcan as archetypal technician; wounded craftsman creates magical objects; technology as extension/amputation
-[^3]: Marie-Louise von Franz — Smiths and dwarfs in fairy tales as creative impulses in unconscious; "ferreters" mining psyche for precious ideas
-[^4]: Marie-Louise von Franz — Creative energy without craft outlet creates mischief; cure is providing "inner dwarf" a workshop
-[^5]: Mythological sources — Daedalus as master architect of Labyrinth; craft as both creation and trap; genius creating problems it cannot solve
-[^6]: Egyptian Memphite Theology — Ptah creates through thought (heart) + word (tongue) → form (matter); logos principle
-[^7]: Gene Keys 16th Gift — Seven-year cellular cycle for full skill absorption; body not just mind learns the craft
-[^8]: Gene Keys 16th Gift — Transcending technique: shift from skill (vertical focus) to versatility (horizontal application/holistic integration)
-[^9]: Jung, C.G. — Individuation as craft-like process requiring patience, repetition, discipline, surrender to the work
-[^10]: Aldous Huxley, *The Perennial Philosophy* — Ch'ing the Woodcarver story (Taoist parable); seven-day fast, self-naughting, seeing stand in the wood
-[^11]: Aldous Huxley, *The Perennial Philosophy* — "Life is also an art"; same procedure on all planes of being as carpentry
-[^12]: Jung, C.G. *Collected Works* Vol. 12 — *Opus contra naturam* (work against nature); artificial acceleration of natural processes through discipline
-[^13]: Jung, C.G. *Collected Works* Vol. 12 — Alchemy as projection of individuation onto matter; Philosopher's Stone = the Self; furnace = disciplined engagement with unconscious
-[^14]: Jungian analysis — Shadow Craftsman: perfectionism that paralyzes, work as relational escape, rigidity refusing adaptation, ego identification with output
-[^15]: Human Design — Generator/MG alignment with Craftsman: defined Sacral (sustainable work energy), Wait to Respond (craft chooses practitioner), Satisfaction as Signature
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Senex]] — Related elder wisdom through discipline and time
-- [[The Hero]] — Journey archetype; Craftsman provides the tools/weapons
-- [[The Shadow]] — Hephaestus as wounded craftsman; turning wound into gift
-- [[The Self]] — Alchemical Philosopher's Stone as goal of the opus
-- [[6th House]] — Astrological house of daily work, service, skill refinement
-- [[Virgo ♍]] — Sign of precision, perfection through practice, service
-- [[Mercury ☿]] — Planet of skill, dexterity, technical intelligence
-- [[Saturn ♄]] — Planet of discipline, mastery through time, limitation as teacher
-- [[Generator]] — HD Type with sustainable work energy, designed for mastery through repetition
-- [[The Magician (I)]] — Tarot card of skill, focus, "As above, so below"
-- [[The Hermit (IX)]] — Tarot card of solitary mastery, inner work, refinement
-- [[Active Imagination]] — Psychological craft requiring discipline and repetition
-- [[Individuation Process]] — The lifelong opus of psychic transformation
-- [[Nigredo]] — Alchemical blackening; Craftsman's material in raw, unrefined state
-- [[Coniunctio]] — Alchemical union; Craftsman and material unified (Ch'ing and the wood)
+## Notes
 
-## Sources
+[^1]: Gene Keys 16th Gift — Mastery through identification and repetition; excellence emerges from sustained, deliberate practice over time
 
-- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Alchemy as projection of individuation onto matter; *opus contra naturam*; Philosopher's Stone as the Self
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales* and related lectures — Smiths and dwarfs as creative impulses in the unconscious; "inner dwarf" requiring a workshop
-- Huxley, Aldous. *The Perennial Philosophy* (1945) — Ch'ing the Woodcarver parable; self-naughting (*kenosis*) as prerequisite for sacred work
-- Davis, Erik. *Techgnosis: Myth, Magic, and Mysticism in the Age of Information* — Hephaestus/Vulcan as archetypal technician; technology as extension and amputation
-- Rudd, Richard. *Gene Keys* — 16th Gift (Versatility): mastery through identification and repetition; seven-year cellular cycle; transcendence of technique into versatility
+[^2]: Erik Davis, *Techgnosis* — Hephaestus/Vulcan as archetypal technician; wounded craftsman creates magical objects; technology as extension/amputation
+
+[^3]: Marie-Louise von Franz — Smiths and dwarfs in fairy tales as creative impulses in unconscious; "ferreters" mining psyche for precious ideas
+
+[^4]: Marie-Louise von Franz — Creative energy without craft outlet creates mischief; cure is providing "inner dwarf" a workshop
+
+[^5]: Mythological sources — Daedalus as master architect of Labyrinth; craft as both creation and trap; genius creating problems it cannot solve
+
+[^6]: Egyptian Memphite Theology — Ptah creates through thought (heart) + word (tongue) → form (matter); logos principle
+
+[^7]: Gene Keys 16th Gift — Seven-year cellular cycle for full skill absorption; body not just mind learns the craft
+
+[^8]: Gene Keys 16th Gift — Transcending technique: shift from skill (vertical focus) to versatility (horizontal application/holistic integration)
+
+[^9]: Jung, C.G. — Individuation as craft-like process requiring patience, repetition, discipline, surrender to the work
+
+[^10]: Aldous Huxley, *The Perennial Philosophy* — Ch'ing the Woodcarver story (Taoist parable); seven-day fast, self-naughting, seeing stand in the wood
+
+[^11]: Aldous Huxley, *The Perennial Philosophy* — "Life is also an art"; same procedure on all planes of being as carpentry
+
+[^12]: Jung, C.G. *Collected Works* Vol. 12 — *Opus contra naturam* (work against nature); artificial acceleration of natural processes through discipline
+
+[^13]: Jung, C.G. *Collected Works* Vol. 12 — Alchemy as projection of individuation onto matter; Philosopher's Stone = the Self; furnace = disciplined engagement with unconscious
+
+[^14]: Jungian analysis — Shadow Craftsman: perfectionism that paralyzes, work as relational escape, rigidity refusing adaptation, ego identification with output
+
+[^15]: Human Design — Generator/MG alignment with Craftsman: defined Sacral (sustainable work energy), Wait to Respond (craft chooses practitioner), Satisfaction as Signature
+
+---

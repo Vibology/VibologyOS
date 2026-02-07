@@ -631,7 +631,9 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 *Haniel, Angel of Grace, Ruler of the Garden, Prince of Love and Harmony, I call upon thee. Soften my heart where it has hardened. Restore my eyes to the beauty I have ceased to see. Teach me to love wisely and deeply—to give without losing myself, to receive without grasping. Let me honor the body as temple, pleasure as sacrament, beauty as the visible face of God. By the authority of YHVH Tzabaoth, the Lord of Hosts, by the power of Venus, the Evening Star, let thy grace descend upon me. May I walk in emerald light, rooted in fertile earth, flowing as the waters of life, crowned with roses. Let all that I create be beautiful. Let all that I love be sacred. Amen.*
 
 ---
+
 ## Cross-References
+
 - [[Netzach]] — Haniel's Sephirah, the sphere of Victory and the Life Force
 - [[Principalities]] — Angelic order governed by Haniel
 - [[Venus ♀]] — Planetary sphere of love, beauty, harmony
@@ -658,44 +660,8 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 
 ---
 
+## Notes
+
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967) — Haniel as 'Grace of God,' archangel of Netzach.
-
----
-
-## Sources
-### Primary Sources
-
-**Agrippa, Heinrich Cornelius.** *The Occult Philosophy or Magic.* Edited by Willis F. Whitehead. Chicago: Hahn & Whitehead, 1898.
-- Page 274: "The eighth is Adonai, whose influence is received by the angel Haniel, and communicated through the sphere of Venus, giving zeal, fervency, and righteousness of heart."
-
-**Davidson, Gustav.** *A Dictionary of Angels, Including the Fallen Angels.* New York: The Free Press, 1967 (Paperback Edition 1971).
-- Page 136: Haniel identified as "chief of the order of principalities."
-
-**Jung, Carl Gustav.** *Memories, Dreams, Reflections.* Edited by Aniela Jaffé. Translated by Richard and Clara Winston. New York: Vintage Books, 1989.
-- Pages 186-187: Discussion of the Anima as "a feminine aspect of the male psyche," the inner "soul" figure.
-- Page 353: "Eros is a kosmogonos, a creator and father-mother of all higher consciousness."
-
-**Peterson, Joseph H.** (Editor). *John Dee's Five Books of Mystery: Original Sourcebook of Enochian Magic.* Boston: Weiser Books, 2003.
-- Pages 56, 64: Annael appears to Dee, claiming to be "Governor of the planet Venus."
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* York Beach, Maine: Samuel Weiser, Inc., 1983.
-- Page 98: Haniel identified as "the Prince of Love and Harmony"; governs the Sevens of the Tarot; Netzach as sphere of instincts and emotions.
-- Page 100: Cites Dion Fortune's *The Mystical Qabalah* (p. 299) on Netzach representing instincts, emotions, and the "Group Mind."
-- Page 228: "The perfectly developed female type is THE EMPRESS," representing the Anima archetype.
-
-### Secondary Sources (Cited via Primary Sources)
-
-**Fortune, Dion.** *The Mystical Qabalah.* Cited via Wang, pp. 100, 228.
-
-### Vibology Synthesis Notes
-
-The following content represents cross-system synthesis and is not sourced from the Esoteric Grimoire:
-- The association of Haniel with the Spleen Center (Human Design) and the 57th Gene Key
-- The correspondence with the Heart Chakra (Anahata)
-- Detailed Qlippothic analysis (A'arab Zaraq)
-- Mythological parallels (Aphrodite, Hathor, Freyja, Lakshmi, Sophia)
-- Practical meditation and ritual practices
-- The characterization of Netzach as "where the divine becomes felt"
-- Specific shadow manifestations and integration practices
 
 ---

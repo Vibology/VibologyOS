@@ -349,32 +349,38 @@ The Golden Dawn is the **institutionalization of individuation**—a structured 
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: The Hermetic Order of the Golden Dawn (1888-1903) as foundational to modern Western esotericism.
+
 [^2]: Westcott's account of the Cipher Manuscripts discovery and founding via Fräulein Sprengel.
+
 [^3]: Controversy re: Cipher Manuscripts authenticity; Crowley/Yeats suspicions of forgery.
+
 [^4]: Golden Dawn grade system: 10 grades corresponding to the 10 Sephiroth.
+
 [^5]: The Inner Order (R.R. et A.C.) as operative magical practice (vs. Outer Order study).
+
 [^6]: The Third Order (Secret Chiefs, grades 8=3 to 10=1) never formally constituted; Mathers' claims.
+
 [^7]: Golden Dawn's systematization of Dee/Kelley's Enochian manuscripts into working system.
+
 [^8]: Color correspondences for the Four Watchtowers (elemental tablets).
+
 [^9]: Enochian Chess as divinatory game using Watchtower boards.
+
 [^10]: Golden Dawn ritual structures: Opening by Watchtower, Supreme Invoking Ritual, pathworking.
+
 [^11]: Pronunciation standards: Hebrew vowel insertion, vibration method.
+
 [^12]: Enochian magic restricted to Inner Order (Adeptus Minor 5=6 and above).
+
 [^13]: Notable members: Yeats, Crowley, Machen, Florence Farr, Dion Fortune, Waite, Pamela Colman Smith.
+
 [^14]: The 1900-1903 schism: Crowley affair, Mathers vs. London, Westcott scandal.
+
 [^15]: Golden Dawn influence on Wicca, Tarot, ceremonial magic, psychological occultism.
+
 [^16]: Rider-Waite Tarot (1909) as Golden Dawn-derived mass-market deck.
 
 ---
-
-## Sources
-
-- Regardie, Israel. *The Golden Dawn* (1937-40). Complete published rituals of the Hermetic Order, including LBRP, grade ceremonies, and Enochian material.
-- Howe, Ellic. *The Magicians of the Golden Dawn* (1972). Historical account of the order's founding, members, and schism.
-- Gilbert, R.A. *The Golden Dawn: Twilight of the Magicians* (1983). Scholarly history of the order and its successor organizations.
-- King, Francis. *Ritual Magic in England* (1970). Contextualizes the Golden Dawn within English occult tradition.
-- Fortune, Dion. *The Mystical Qabalah* (1935). Key Golden Dawn-derived work on Qabalistic theory and psychological occultism.
-- DuQuette, Lon Milo. *Enochian Vision Magick*. Analysis of Golden Dawn systematization of Dee's Enochian materials.

@@ -317,6 +317,7 @@ This is the stance of Vibology: **see clearly, report honestly, test everything*
 **Vibology:** Multi-system triangulation. No single tradition owns truth. Each system reveals a facet; synthesis produces depth perception impossible from a single viewpoint.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -341,31 +342,17 @@ This is the stance of Vibology: **see clearly, report honestly, test everything*
 - **PROTOCOL - Library Maintenance & Audit** — Quarterly audit checklist
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Huxley, Aldous. *The Perennial Philosophy* (Harper & Brothers, 1945) — definition of the Perennial Philosophy as concern with "the one, divine Reality substantial to the manifold world."
+
 [^2]: Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information* (Harmony Books, 1998) — spiritual knowledge accelerated through technology as operating principle.
+
 [^3]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the seven types of Inner Authority (Emotional, Sacral, Splenic, Ego, Self-Projected, Environmental, Lunar).
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the mind as Outer Authority (information-gatherer) vs. the body as Inner Authority (decision-maker).
+
 [^5]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — the 64 I-Ching hexagrams mapped onto the BodyGraph as gates.
 
 ---
-## Sources
-
-Huxley, Aldous. *The Perennial Philosophy*. Harper & Brothers, 1945.
-- "The Perennial Philosophy is primarily concerned with the one, divine Reality substantial to the manifold world of things and lives and minds"
-- Recognition of shared core across mystical traditions
-
-Davis, Erik. *TechGnosis: Myth, Magic, and Mysticism in the Age of Information*. Harmony Books, 1998.
-- Spiritual knowledge accelerated through technology
-- Computational processing as extension of Algorithm
-
-Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
-- Inner Authority vs. Outer Authority
-- The mind as information-gatherer, not decision-maker
-
-**Vibology Framework:** Original synthesis integrating Seven Pillars structure, triangulated gnosis methodology, and Anima et Algorithm paradigm.
-
----
-
-*"Vibology is not a new religion. It is a meta-system—a framework for seeing clearly across multiple lenses, testing insights through the body, and honoring both the map and the territory. No single tradition owns truth; truth emerges through convergence. The instruments are calibrated. The logbook is open. Look for yourself and see what reveals itself."*

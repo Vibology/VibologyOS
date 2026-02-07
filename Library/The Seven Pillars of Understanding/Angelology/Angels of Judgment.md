@@ -281,29 +281,8 @@ This is **Kamael in service to Chesed**—the loving parent who sets boundaries,
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-### Primary Texts
-- **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967. (Michael as psychopomp, Kamael as Geburah's archangel, Samael entries, Powers order function)
-- **Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Marcus Aurelius Press, 1983. (Geburah-Chesed balance, evil as unbalanced force, Judgment card correspondence)
-- **The Zohar.** (Samael as "End of All Flesh," Sitra Achra king, Left Side/Gevurah doctrine, fire of wrath/Gehinnom)
-
-### Supporting Context
-- **Bible:** Revelation 12:7-9 (Michael casting down dragon), Jude 1:9 (Michael disputes over Moses' body)
-- **Talmud:** Bava Batra 16a (Satan/evil inclination/Angel of Death unified), Shabbat 119b
-- **Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy.* 5th/6th century. (Powers as cosmic law enforcement, Second Triad)
-- **Pirkei de-Rabbi Eliezer.** Medieval Midrash. (Samael riding serpent in Eden)
-
-### Verification
-- **Source:** Esoteric Grimoire (NotebookLM)
-- **Date:** 2026-02-06
-- **Notes:** Davidson, Wang, and Zohar citations verified; Christian iconography of Michael with scales standard; Geburah-Chesed axis central to Qabalistic angelology
-
----
-
-*Last updated: 2026-02-06 | Expansion complete: stub → comprehensive entry*

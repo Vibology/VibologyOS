@@ -632,7 +632,9 @@ At its highest expression, Tarot offers:
 Tarot does not predict a fixed future—it **illuminates the present** with such clarity that the future becomes navigable. The cards are not external authorities but **mirrors**, reflecting what the soul already knows but has forgotten. To read Tarot is to remember: the Fool's journey is your journey, the Paths are your paths, and the World's completion awaits at the end of conscious, courageous living.
 
 ---
+
 ## Cross-References
+
 ### Major Arcana (22 Cards)
 - [[The Fool (0)]] | [[The Magician (I)]] | [[The High Priestess (II)]] | [[The Empress (III)]]
 - [[The Emperor (IV)]] | [[The Hierophant (V)]] | [[The Lovers (VI)]] | [[The Chariot (VII)]]
@@ -675,40 +677,20 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Court de Gebelin's 1781 claim of Egyptian origins in *Le Monde Primitif*
+
 [^2]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), pp. 11-15 — Etteilla's 1791 creation of the first divination-specific Tarot deck
+
 [^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — Levi's 1854-1856 mapping of the 22 Major Arcana to the 22 Hebrew letters
+
 [^4]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 19 — RWS as first deck to illustrate all 78 cards with scenic imagery
+
 [^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 20 — Waite's sanitization of certain Qabalistic elements in the RWS deck
+
 [^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 85 — Golden Dawn swap of Strength (VIII) and Justice (XI) to align with zodiacal order
+
 [^7]: DuQuette, Lon Milo, *Enochian Vision Magick* (Weiser Books, 2008), Ch. 26 — Court Card correspondence to the 16 sub-angles of the Enochian Watchtowers
 
 ---
-
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**Tarot Systems and Interpretation:**
-- De Angeles, Ly. *Tarot Theory & Practice*. St. Paul, MN: Llewellyn Worldwide, 2006.
-- DuQuette, Lon Milo. *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley*. San Francisco: Weiser Books, 2008. (See Book V, Chapters 26–27 for Golden Dawn Tarot correspondences and Enochian-Tarot integration)
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-**Historical and Ceremonial Tarot:**
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-- Case, Paul Foster. *The Tarot: A Key to the Wisdom of the Ages*. New York: Macoy Publishing, 1947. — Referenced via Wang 1983
-- Case, Paul Foster. *The Book of Tokens*. Los Angeles: Builders of the Adytum, 1934. — Referenced via Wang 1983
-- DuQuette, Lon Milo. *Tarot of Ceremonial Magick*. York Beach, ME: Weiser Books, 1995. — Referenced via DuQuette 2008
-- Lévi, Éliphas. *Dogme et Rituel de la Haute Magie*. Paris, 1854–1856. — Referenced via Waite 1910
-
-### Vibology Synthesis Notes
-
-**Cross-System Correspondences:**
-All cross-pillar integrations (Tarot ↔ Human Design, Tarot ↔ I-Ching hexagrams, Tarot ↔ Jungian archetypes, Tarot ↔ Angelology) represent original Vibology Synthesis work. These correspondences are anchored to verified sources where applicable (e.g., Crowley's I-Ching integration via Wang's discussion of Thoth deck; Jungian parallels via archetypal foundations in De Angeles).
-
-**Golden Dawn System:**
-The Qabalistic Tree of Life attributions, Hebrew letter correspondences, and Path assignments derive from the Golden Dawn tradition as systematized by S.L. MacGregor Mathers and transmitted through Wang (1983) and DuQuette (2008). Wang provides comparative analysis of Golden Dawn, Crowley Thoth, Waite RWS, and Marseille systems.

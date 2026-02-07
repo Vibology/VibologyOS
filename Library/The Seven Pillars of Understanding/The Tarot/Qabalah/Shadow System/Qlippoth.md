@@ -140,21 +140,18 @@ This is shadow work in its most technical form — not the vague injunction to "
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Isaac Luria (1534-1572), via Chaim Vital, *Etz Chaim* — The doctrine of Shevirat HaKelim (Shattering of the Vessels): the seven lower vessels broke under the intensity of divine light, their shards becoming the Qlippoth. Evil as holy energy in the wrong configuration.
+
 [^2]: Luria — Tikkun (Repair) as the gathering of holy sparks (nitzotzot) from within the Qlippothic shells. Every conscious act contributes to the restoration of the shattered vessels.
+
 [^3]: Wang, *The Qabalistic Tarot* — Thaumiel ("Twins of God") as the dual-headed shadow of Kether's unity. Two contending wills where there should be one crown.
+
 [^4]: Zohar — The Sitra Achra ("Other Side") as the reverse of the holy Tree, parasitic on trapped divine sparks, collapsing when all sparks are retrieved.
+
 [^5]: Jung, CW 9ii (*Aion*) — The Shadow as structured darkness that mirrors the organized psyche; archetypal Shadow as distinct from personal shadow.
+
 [^6]: Jung, CW 9i (*The Archetypes and the Collective Unconscious*) — The danger of identification with Shadow contents during the integration process.
 
 ---
-
-## Sources
-
-- **Isaac Luria, via Chaim Vital, *Etz Chaim*** — Shevirat HaKelim (Shattering of the Vessels) and Tikkun (Repair) as the origin and redemption of the Qlippoth
-- **The Zohar** — The Sitra Achra ("Other Side") as the reverse of the holy Tree; parasitic on trapped divine sparks
-- **Robert Wang, *The Qabalistic Tarot*** — Thaumiel as dual-headed shadow of Kether's unity; systematic treatment of the Qlippothic correspondences
-- **Dion Fortune, *The Mystical Qabalah*** — The Chesed-Geburah axis and its pathologies; the practical dangers of Qlippothic imbalance
-- **Jung, CW 9i, 9ii** — The Shadow as structured darkness mirroring the organized psyche; the danger of identification with Shadow contents during integration

@@ -718,6 +718,8 @@ Use your instruments. Test what you see. Trust the process, not your ego. And wh
 
 ---
 
+## Notes
+
 [^1]: The Incarnation (God becoming human in Christ) is the central test in Christian angelology because it represents the ultimate act of divine humility—God descending to creation. Lucifer's fall is rooted in refusal to honor the Incarnation (envy that God would take human, not angelic, form). See [[Lucifer]] for full theological analysis. Angels who bow to the Incarnate Christ are authentic; spirits who refuse or twist this confession are demonic.
 
 [^2]: Ignatius of Loyola. *The Spiritual Exercises of St. Ignatius* (1548). "Rules for Discernment of Spirits" appear in two sets: First Week (Rules 1-14, for beginners) and Second Week (Rules 1-8, for those advancing in prayer). Standard edition: Louis J. Puhl, SJ translation (1951). The rules synthesize Ignatius's own experience of spiritual combat during his conversion and formation.
@@ -727,13 +729,3 @@ Use your instruments. Test what you see. Trust the process, not your ego. And wh
 [^4]: John of the Cross. *Dark Night of the Soul* (1578-1579) and *Ascent of Mount Carmel* (1578-1583). John maps the purgative journey with precision: Dark Night of the Senses (beginners), Dark Night of the Spirit (proficients approaching union). His psychology of spiritual purification remains unmatched in Christian mysticism. Modern readers often conflate "dark night" with depression; John's framework is specifically about **purification through divine withdrawal of consolations**, not mental illness (though they can co-occur).
 
 ---
-
-## Sources
-
-- Ignatius of Loyola. *The Spiritual Exercises of St. Ignatius* (1548). Rules for Discernment of Spirits (First Week and Second Week). Standard edition: Louis J. Puhl, SJ translation (1951).
-- Teresa of Avila. *The Interior Castle* (1577), Sixth Dwelling Places. Also *The Life of Teresa of Jesus* (1565), chapters 25-29 on testing visions.
-- John of the Cross. *Dark Night of the Soul* (1578-1579) and *Ascent of Mount Carmel* (1578-1583). Purgative journey and distinction between divine withdrawal and demonic desolation.
-- 1 Corinthians 12:10. Discernment of spirits as one of the nine gifts of the Holy Spirit.
-- 1 John 4:1-3. The command to test the spirits; the Incarnation test.
-- 2 Corinthians 11:14-15. Satan as angel of light; the false-light deception pattern.
-- Matthew 7:16-20. "By their fruits ye shall know them" — the fruit test for discernment.

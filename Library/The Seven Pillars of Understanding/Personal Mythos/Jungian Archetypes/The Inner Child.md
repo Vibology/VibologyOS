@@ -527,7 +527,7 @@ Bessel van der Kolk's research demonstrates that **trauma is stored in the body*
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Bradshaw, John. *Homecoming: Reclaiming and Healing Your Inner Child*. Bantam Books, 1990.
 
@@ -547,15 +547,4 @@ Bessel van der Kolk's research demonstrates that **trauma is stored in the body*
 
 [^9]: van der Kolk, Bessel. *The Body Keeps the Score: Brain, Mind, and Body in the Healing of Trauma*. Viking, 2014.
 
-**Additional References:**
-
-- Winnicott, Donald. *The Maturational Processes and the Facilitating Environment*. International Universities Press, 1965. (True Self/False Self, Good Enough Mother)
-- Bowlby, John. *Attachment and Loss* (3 volumes). Basic Books, 1969-1980. (Attachment theory)
-- Ainsworth, Mary. *Patterns of Attachment: A Psychological Study of the Strange Situation*. Lawrence Erlbaum, 1978.
-- Schore, Allan. *Affect Regulation and the Origin of the Self*. Lawrence Erlbaum, 1994. (Neurobiology of attachment)
-- Levine, Peter. *Waking the Tiger: Healing Trauma*. North Atlantic Books, 1997. (Somatic Experiencing)
-- Berceli, David. *The Revolutionary Trauma Release Process*. Namaste Publishing, 2008. (TRE—Trauma Release Exercises)
-- Shapiro, Francine. *EMDR: The Breakthrough Therapy for Overcoming Anxiety, Stress, and Trauma*. Basic Books, 1997.
-- Pesso, Albert. *Moving Psychotherapy*. Brookline Books, 1991. (Pesso Boyden System Psychomotor, somatic healing)
-- Bly, Robert. *A Little Book on the Human Shadow*. Harper San Francisco, 1988. (Jungian shadow work and the Inner Child)
-- Capacchione, Lucia. *Recovery of Your Inner Child*. Simon & Schuster, 1991. (Inner Child exercises, non-dominant hand writing)
+---

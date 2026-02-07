@@ -456,45 +456,8 @@ If you recognize Inanna's pattern of consuming partners:
 
 ---
 
+## Notes
 
 [^1]: *The Descent of Inanna* (Sumerian myth, c. 1900-1600 BCE) — Inanna's descent to the underworld and return.
 
 ---
-
-## Sources
-
-### Primary Sumerian/Akkadian Sources
-- *Inanna's Descent to the Netherworld* (c. 2000 BCE) — Sumerian cuneiform tablets
-- *The Descent of Ishtar* (c. 1200 BCE) — Akkadian version
-- *Sacred Marriage Hymns* (Sumerian) — erotic liturgy
-- *The Epic of Gilgamesh* (c. 1800 BCE) — Ishtar's rejection and rage
-- *Enheduanna's Hymns to Inanna* (c. 2300 BCE) — oldest authored poems in history (by high priestess of Ur)
-
-### Modern Translations
-- Diane Wolkstein & Samuel Noah Kramer, *Inanna: Queen of Heaven and Earth* (1983) — definitive translation and commentary
-- Betty De Shong Meador, *Inanna, Lady of Largest Heart* (2000) — Enheduanna's hymns translated
-- Rivkah Schärf Kluger, *The Archetypal Significance of Gilgamesh* (1991)
-
-### Jungian and Archetypal Analysis
-- **Sylvia Brinton Perera, *Descent to the Goddess: A Way of Initiation for Women* (1981)** — foundational Jungian analysis of Inanna-Ereshkigal as shadow integration
-- C.G. Jung, *Archetypes and the Collective Unconscious* (CW 9i) — shadow archetype
-- Marion Woodman, *Addiction to Perfection* (1982) — descent and anorexia/bulimia as split from Ereshkigal
-- Clarissa Pinkola Estés, *Women Who Run with the Wolves* (1992) — includes Inanna interpretation
-- Betty De Shong Meador, *Uncursing the Dark* (1992) — Ereshkigal and feminine shadow
-
-### Archetypal Astrology
-- Richard Tarnas, *Cosmos and Psyche* (2006) — Venus-Pluto archetype, p. 398-405
-- Liz Greene, *The Astrology of Fate* (1984) — Pluto and underworld initiation
-- Demetra George, *Mysteries of the Dark Moon* (1992) — dark goddess cycle, Venus retrograde as descent
-
-### Scholarly Historical
-- Tikva Frymer-Kensky, *In the Wake of the Goddesses* (1992) — Mesopotamian goddess worship
-- Gwendolyn Leick, *Sex and Eroticism in Mesopotamian Literature* (1994)
-- Jeremy Black & Anthony Green, *Gods, Demons and Symbols of Ancient Mesopotamia* (1992)
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Sumerian sources and Wolkstein/Kramer translation). Archetypal analysis synthesized from Sylvia Perera's *Descent to the Goddess* (Jungian shadow integration) and Venus-Pluto archetypal astrology. Seven gates symbolism and Ereshkigal-empathy theme verified from primary cuneiform sources. Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

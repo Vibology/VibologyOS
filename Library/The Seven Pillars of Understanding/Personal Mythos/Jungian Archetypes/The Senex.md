@@ -521,7 +521,7 @@ Hillman[^9]:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Greene, Liz. *Saturn: A New Look at an Old Devil*. Samuel Weiser, 1976. — Saturn as archetypal ruler of the Senex; limitation, time, authority, and earned wisdom.
 
@@ -541,20 +541,4 @@ Hillman[^9]:
 
 [^9]: Hillman, James. *Puer Papers*. Spring Publications, 1979. — Form as vessel holding spirit; the Senex as crucible enabling transformation.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989.
-- Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5. Princeton University Press.
-- von Franz, Marie-Louise. *Puer Aeternus: A Psychological Study of the Adult Struggle with the Paradise of Childhood*. Sigo Press, 1970. (Puer-Senex polarity)
-- Moore, Robert, and Douglas Gillette. *King, Warrior, Magician, Lover: Rediscovering the Archetypes of the Mature Masculine*. HarperOne, 1990. (King archetype as positive Senex)
-- Edinger, Edward F. *Ego and Archetype: Individuation and the Religious Function of the Psyche*. Shambhala, 1972. (Father archetype, ego-Self axis)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Atonement with the Father, Meeting the Mentor)
-- Erikson, Erik. *Childhood and Society*. Norton, 1950. (Generativity vs. Stagnation—the Senex's task)
-- Classical mythology:
-  - Hesiod, *Theogony* (Chronos, the Titans)
-  - Homer, *Iliad* (Nestor as wise elder)
-  - Ovid, *Metamorphoses* (Saturn, transformations of time)
-  - *Poetic Edda* (Odin, the Allfather)
-- Arthurian legends:
-  - *Perceval, the Story of the Grail* (The Fisher King)
-  - Malory, *Le Morte d'Arthur* (Merlin as mentor)
+---

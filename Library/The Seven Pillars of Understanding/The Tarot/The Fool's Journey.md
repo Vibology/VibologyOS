@@ -745,39 +745,20 @@ Reaching the World, the soul becomes the Fool again—ready to leap into the nex
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: De Angeles, Ly, *Tarot Theory & Practice* (Llewellyn Worldwide, 2006) — the Fool's Journey as map rather than prescription; lives do not unfold in numbered order
+
 [^2]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — First Septenary as ego formation paralleling childhood through early adulthood
+
 [^3]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — the Magician's four elemental tools and infinity symbol as mastery of material manifestation
+
 [^4]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910); Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — the Lovers as alchemical marriage in esoteric tradition
+
 [^5]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 85 — Golden Dawn swap of Strength/Justice numbering to align with zodiacal order
+
 [^6]: Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Temperance as alchemical operation integrating opposites; Thoth names it "Art"
+
 [^7]: Waite, Arthur Edward, *The Pictorial Key to the Tarot* (William Rider & Son, 1910); Wang, Robert, *The Qabalistic Tarot* (Samuel Weiser, 1983) — the World as completion, four Ezekiel creatures corresponding to fixed zodiacal signs
 
 ---
-
-## Sources
-
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-**Tarot Systems:**
-- De Angeles, Ly. *Tarot Theory & Practice*. St. Paul, MN: Llewellyn Worldwide, 2006. (Jungian interpretation, Fool's Journey as individuation)
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot*. London: William Rider & Son, Ltd., 1910. (RWS deck, Major Arcana symbolism)
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. (Qabalistic paths, Thoth/Marseille/RWS comparisons, Hebrew letter correspondences)
-
-### Secondary Sources (Referenced via Primary)
-
-**Jungian Psychology:**
-- Jung, Carl Gustav. *Collected Works* (various volumes on individuation, archetypes, Self). — Referenced via De Angeles 2006
-
-**Comparative Mythology:**
-- Campbell, Joseph. *The Hero with a Thousand Faces*. — Referenced via De Angeles 2006 (monomyth parallel)
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[Human Design]], [[The Astrolabe|I-Ching]], and other pillars represent original Vibrology correspondences, grounded in archetypal resonance rather than primary source claims.
-
-**The Three Septenaries:**
-Septenary structure is traditional in esoteric Tarot (Wang 1983 discusses sevenfold divisions; De Angeles 2006 uses developmental stages). This entry synthesizes those frameworks with Jungian individuation stages.

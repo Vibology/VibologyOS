@@ -318,6 +318,7 @@ Iophiel is the patron of **Torah study**, **Quranic recitation**, **Vedic contem
 *Iophiel, Angel of Monotheistic Vision, let me hear the Shema not as command but as revelation: the LORD is One, and I am part of that Oneness. Amen.*
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -336,28 +337,23 @@ Iophiel is the patron of **Torah study**, **Quranic recitation**, **Vedic contem
 - **Scripture:** Deuteronomy 6:4 (Shema) | Isaiah 45:5 (*"I am the LORD, and there is no other"*) | 1 Corinthians 8:6 (*"There is one God, the Father"*)
 
 ---
-## Sources
+
+## Notes
 
 [^1]: Heywood, Thomas. *The Hierarchie of the Blessed Angells*. London: Adam Islip, 1635. Book 2, Argument.
+
 [^2]: Heywood, *Hierarchie*, Book 2, marginal note: "CHERVE, Iophiel."
+
 [^3]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983. p. 27-31 (Cherubim = Chokmah correspondence per Golden Dawn system).
+
 [^4]: Heywood, *Hierarchie*, Book 2, Argument, lines 1-4.
+
 [^5]: Heywood, *Hierarchie*, Book 2, lines 2690-2699 (origin of polytheism from "idle phantasies" and "auatitious Priests").
+
 [^6]: Heywood, *Hierarchie*, Book 2, marginal note accompanying stanza on Cherubim as "Knowledge."
+
 [^7]: Ezekiel 1:15-21, 10:9-17 (Vision of the Cherubim as wheels within wheels, covered with eyes).
+
 [^8]: Wang, *Qabalistic Tarot*, pp. 27-31; Davidson, Gustav. *A Dictionary of Angels*. New York: Free Press, 1967. p. 137 (Cherubim = Auphanim = Chokmah).
 
-### Vibology Synthesis Notes
-
-The following content represents original synthesis and interpretation not found in primary sources:
-- All Jungian interpretations (Self, Transcendent Function, individuation parallels)
-- Unity Meditation practice (Advaita-informed)
-- Philosophical inquiry questions (Neoplatonic/Vedantic synthesis)
-- Iconographic attributes (extrapolated from Cherubim imagery and Chokmah correspondences)
-- Prayer to Iophiel (composed for this entry)
-- Human Design and Gene Keys references (no documented connection to Iophiel in traditional sources)
-- Shadow analysis (psychological extrapolation from monotheistic distortions)
-
 ---
-
-*"Iophiel does not argue for God's existence. He opens the eye that sees—and once you see, the question dissolves. There was never multiplicity. There was always only One, appearing as many, to know Itself through infinite expression."*

@@ -231,14 +231,18 @@ Mercury does not care about truth in the absolute sense. He cares about **transm
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Mercury is exalted in Virgo because dryness (his nature) begins to appear in autumn"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Mercury rejoices in the 1st House (the Ascendant) because it represents the Head, Tongue, Fancy, and Memory
+
 [^4]: Greek mythology (Grimoire): Hermes born in a cave, steals Apollo's cattle on the day of his birth, invents the lyre from a tortoise shell
+
 [^5]: Greek mythology (Grimoire): Hermes as psychopomp (guide of souls to the underworld), messenger of the gods, conductor between realms; governs crossroads and transitions
+
 [^6]: Egyptian mythology (Grimoire): Thoth as scribe of the gods, inventor of writing and mathematics, recorder of the judgment of the dead in the Hall of Ma'at
 
 ---
-
-*"Mercury is the tongue of the gods and the thief at the crossroads. In his swiftness, all opposites meet—and in that meeting, consciousness expands."*

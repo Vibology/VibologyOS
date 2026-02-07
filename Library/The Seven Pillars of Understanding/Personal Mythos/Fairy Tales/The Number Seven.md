@@ -556,6 +556,7 @@ Inanna enters the underworld **naked and powerless** (like Snow White in the gla
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Shadow]] • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Nightmare]]
 
@@ -597,48 +598,8 @@ The Number Three • The Number Four • The Number Eight • The Number Twelve 
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). "Sneewittchen" (Tale 53), "Die sieben Raben" (Tale 25), "Die Gänsemagd am Brunnen" (Tale 179), "Die sechs Schwäne" (Tale 49).
-
-### Jungian Analysis
-
-- **Von Franz, Marie-Louise.** *Number and Time: Reflections Leading Toward a Unification of Depth Psychology and Physics* (1974). Comprehensive analysis of archetypal numbers, particularly seven and eight.
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Analysis of the seven-year cycle, the seven dwarfs, and incubation periods.
-- **Von Franz, Marie-Louise.** *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). The seven alchemical operations and the Ogdoad.
-- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The seven stages of transformation and the eighth completion.
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The seven planets, the alchemical ladder, and the process of individuation.
-
-### Alchemical & Hermetic
-
-- **The Corpus Hermeticum** (2nd-3rd century CE). The ascent through seven planetary spheres to the Ogdoad.
-- **The Chaldean Oracles** (2nd century CE). The seven gates and the ladder of souls.
-- **Zosimos of Panopolis.** *Visions* (3rd century CE). The seven stages of alchemical purification.
-
-### Mystical & Esoteric
-
-- **The Sepher Yetzirah** (3rd-6th century CE). The seven double letters (planetary correspondences) and the creation of the world.
-- **Merkabah and Hekhalot Literature** (2nd-7th century CE). The seven palaces and the ascent to the Throne-Chariot.
-- **Steiner, Rudolf.** *The Education of the Child in the Light of Anthroposophy* (1907). The seven-year developmental cycles.
-
-### Comparative Mythology
-
-- **Eliade, Mircea.** *Shamanism: Archaic Techniques of Ecstasy* (1951). The seven-stage shamanic initiation and the cosmic ladder.
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The monomyth structure and its relation to seven-stage initiation.
-- **Wolkstein, Diane and Samuel Noah Kramer.** *Inanna: Queen of Heaven and Earth* (1983). Translation and analysis of Inanna's descent through seven gates.
-
-### Developmental Psychology
-
-- **Erikson, Erik.** *Childhood and Society* (1950). The eight stages of psychosocial development (roughly seven-year increments).
-- **Sheehy, Gail.** *Passages: Predictable Crises of Adult Life* (1976). The seven-year adult life transitions.
-
----
-
-*"Seven represents the process of evolution, while eight represents the goal. The alchemists spoke of the seven stages of transformation leading to the eighth, the lapis philosophorum. You cannot skip to eight; you must walk the ladder of seven."*
-— Marie-Louise von Franz

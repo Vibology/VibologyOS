@@ -942,22 +942,10 @@ The **Grail/Cauldron** is the **alembic**—the vessel where all operations occu
 
 — Marie-Louise von Franz, *The Grail Legend*
 
-
-[^1]: Primary sources listed in References section.
-
 ---
 
-## Sources
-**Jungian Analytical Psychology:**
-- Jung, C.G. *Psychology and Alchemy* (CW 12). Princeton University Press, 1953.
-- Jung, C.G. *The Archetypes and the Collective Unconscious* (CW 9i). Princeton University Press, 1959.
-- Jung, C.G. *Symbols of Transformation* (CW 5). Princeton University Press, 1956.
-- Campbell, Joseph. *The Masks of God: Occidental Mythology*. Viking Press, 1964.
+## Notes
 
-**Primary Celtic Sources:**
-Core mythological narratives (cosmology, pantheon, Grail Quest, and hero cycles) are drawn from canonical Celtic sources including the *Lebor Gabála Érenn* (Book of Invasions), *Táin Bó Cúailnge*, *Mabinogion*, Arthurian Romances (Chrétien de Troyes, Wolfram von Eschenbach's *Parzival*), and Irish/Welsh/Scottish folklore traditions. These medieval texts preserve pre-Christian Celtic mythology and inform the archetypal framework.
-
-#### Vibology Synthesis
-All Jungian archetypal analysis (interpreting Celtic myths through the lens of Shadow, Anima/Animus, Self, Individuation, etc.) represents scholarly synthesis rather than medieval Celtic understanding. Cross-system correspondences (Tarot, Astrology, Alchemy, Human Design, Qabalah) are Vibology's integrative framework, not part of the original mythological tradition. The alchemical correlations (Nigredo, Albedo, Citrinitas, Rubedo) apply Renaissance hermetic symbolism to Celtic narrative patterns. The Grail's interpretation as individuation symbol is modern Jungian scholarship, not medieval theology.
+[^1]: Primary sources listed in References section.
 
 ---

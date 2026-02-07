@@ -159,21 +159,16 @@ No single system is the Tree; but every system in the Observatory *is on* the Tr
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Sefer Yetzirah 1:2 — "Ten Sefirot out of nothing, and twenty-two foundation letters." The foundational numerical-linguistic basis of creation.
+
 [^2]: Zohar — The central Qabalistic text; develops the Sephiroth into a mythological drama of divine self-unfolding, cosmic marriage (Tiphareth and Shekinah), exile, and return.
+
 [^3]: Luria, via Vital, *Etz Chaim* — Tzimtzum (contraction), Shevirat HaKelim (shattering), and Tikkun (repair) as the cosmic drama explaining evil, exile, and the human role in redemption.
+
 [^4]: Wang, *The Qabalistic Tarot* — The Hermetic Qabalah as the synthesis of Jewish Kabbalah with Tarot, astrology, and Western magical tradition; color scales and ritual correspondences.
+
 [^5]: Jung, CW 9i, 9ii, 14 — The collective unconscious, the Self, individuation, and the transcendent function as structural parallels to the Tree's Sephirothic architecture.
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** — "Ten Sefirot out of nothing, and twenty-two foundation letters"; the numerical-linguistic basis of the Tree
-- **The Zohar** — The central Qabalistic text; the Sephiroth as mythological drama of divine self-unfolding, sacred marriage, exile, and return
-- **Isaac Luria, via Chaim Vital, *Etz Chaim*** — Tzimtzum, Shevirat HaKelim, and Tikkun as the cosmic drama underlying the Tree's structure
-- **Robert Wang, *The Qabalistic Tarot*** — The Hermetic Qabalah's synthesis of Jewish Kabbalah with Tarot, astrology, and Western magical tradition
-- **Dion Fortune, *The Mystical Qabalah*** — The Tree of Life as psychological and practical instrument; pillar dynamics and the Fallen Daughter myth
-- **Jung, CW 9i, 9ii, 14** — The collective unconscious, the Self, and individuation as structural parallels to the Tree

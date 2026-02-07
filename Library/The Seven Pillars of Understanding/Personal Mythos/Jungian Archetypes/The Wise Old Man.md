@@ -899,7 +899,7 @@ And on the afternoon of life:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i, par. 398. Princeton University Press.
 
@@ -911,30 +911,4 @@ And on the afternoon of life:
 
 [^5]: Jung, C.G. *The Structure and Dynamics of the Psyche*. Collected Works Vol. 8, par. 787 ("The Stages of Life"). Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *Memories, Dreams, Reflections*. Recorded and edited by Aniela Jaffé. Vintage Books, 1989. (Jung's encounter with Philemon, the archetype of the Senex)
-- Jung, C.G. *Alchemical Studies*. Collected Works Vol. 13. Princeton University Press. (The spirit Mercurius, alchemical Senex symbolism)
-- Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12. Princeton University Press. (The old king, the Senex in alchemy)
-- Jung, C.G. *Aion*. Collected Works Vol. 9ii. Princeton University Press. (Christ as Senex, the archetype of the Self)
-- von Franz, Marie-Louise. *Puer Aeternus*. Sigo Press, 1970. (Puer-Senex polarity, eternal youth vs. rigid elder)
-- Hillman, James. *Senex and Puer*. Spring Publications, 1979. (Archetypal psychology on the elder archetype)
-- Edinger, Edward F. *Ego and Archetype*. Shambhala, 1972. (Superior personality, Senex-ego relationship)
-- Hollis, James. *Finding Meaning in the Second Half of Life*. Gotham Books, 2005. (Elderhood and Senex integration)
-- Hollis, James. *The Middle Passage: From Misery to Meaning in Midlife*. Inner City Books, 1993. (Transition from Hero to Senex)
-- Mythology sources:
-  - Egyptian: *Pyramid Texts*, *The Book of the Dead*, Hermetic texts (Thoth, Ptah)
-  - Greek: Homeric Hymns (Hermes), Hesiod's *Theogony* (Kronos), Ovid's *Metamorphoses* (Chiron)
-  - Norse: *Poetic Edda*, *Prose Edda* (Snorri Sturluson)—Odin, Mimir
-  - Biblical: Exodus (Moses), 1 Kings (Elijah), Genesis (Melchizedek)
-  - Hindu: Vyasa tradition, Upanishads (guru-disciple teachings)
-  - Arthurian: Geoffrey of Monmouth's *Historia Regum Britanniae*, Malory's *Le Morte d'Arthur* (Merlin)
-  - Hermetic: *Corpus Hermeticum*, *The Emerald Tablet* (Hermes Trismegistus)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (The Water of Life, The Spirit in the Bottle, Rumpelstiltskin, The King of the Golden Mountain)
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996. (Senex helper figures)
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974. (Wicked magician, shadow Senex)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Mentor archetype, supernatural aid)
-- Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton University Press, 1964. (Elder shaman as guide)
-- Dante Alighieri. *The Divine Comedy* (Inferno, Purgatorio, Paradiso). Trans. various. (Virgil as psychopompos, Beatrice as Anima guide)
-- Homer. *The Odyssey*. Trans. Robert Fagles. Penguin Classics, 1996. (Tiresias as seer in the underworld)
-- Tolkien, J.R.R. *The Lord of the Rings*. Houghton Mifflin, 1954. (Gandalf as archetypal Wise Old Man)
+---

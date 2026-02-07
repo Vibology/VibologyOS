@@ -830,7 +830,7 @@ The Animus interacts dynamically with other archetypal structures:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii, par. 28. Princeton University Press.
 
@@ -848,14 +848,4 @@ The Animus interacts dynamically with other archetypal structures:
 
 [^8]: Jung, C.G. *Aion: Researches into the Phenomenology of the Self*. Collected Works Vol. 9ii, par. 33. Princeton University Press.
 
-**Additional References:**
-
-- von Franz, Marie-Louise. *The Golden Ass of Apuleius: The Liberation of the Feminine in Man*. Shambhala, 1992. (Animus development stages and integration)
-- Murdock, Maureen. *The Heroine's Journey: Woman's Quest for Wholeness*. Shambhala, 1990.
-- Perrault, Charles. *The Complete Fairy Tales*. (Bluebeard)
-- Beaumont, Jeanne-Marie Leprince de. *Beauty and the Beast*. 1756.
-- Wagner, Richard. *Der Fliegende Holländer* (The Flying Dutchman). Opera, 1843.
-- Asbjørnsen, Peter Christen and Jørgen Moe. *Norwegian Folktales*. (East of the Sun, West of the Moon)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Snow White, The Handless Maiden)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Sulfur, Mercurius, Coniunctio)
-- Mythology sources: Greek (Homeric Hymns, Hesiod), Egyptian (Pyramid Texts, Book of the Dead), Norse (Prose Edda, Poetic Edda), Sumerian/Akkadian (Epic of Gilgamesh, Enuma Elish), Arthurian legends (Malory, Chrétien de Troyes)
+---

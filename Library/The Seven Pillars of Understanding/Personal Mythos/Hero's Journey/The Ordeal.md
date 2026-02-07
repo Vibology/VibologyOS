@@ -560,20 +560,12 @@ The future of the Ordeal archetype may be **gender-integrative**—recognizing t
 
 **Final Reflection**: The Ordeal is not punishment. It is the **initiation into wholeness**. Every mythology, every spiritual tradition, every depth psychology affirms: to become fully human, you must die to what you thought you were. The Ordeal is the death. The rest of the Journey is learning to live as what you have become.
 
+---
 
-
-## Footnotes
+## Notes
 
 [^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on the Ordeal as Stage 8, the supreme test and assimilation of the opposite.
+
 [^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 12 *Psychology and Alchemy* (Nigredo, mortificatio, alchemical death-rebirth), Vol. 9i *The Archetypes and the Collective Unconscious* (Shadow confrontation, Self as annihilating totality), Vol. 9ii *Aion* (ego-Self axis rupture), and *The Red Book* (Jung's own confrontation with the unconscious) — Jungian archetypal framework linking the Ordeal to the individuation crisis.
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

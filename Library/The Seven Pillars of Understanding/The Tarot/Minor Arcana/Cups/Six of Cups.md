@@ -339,6 +339,7 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Five of Cups]] - The preceding grief: loss, mourning, the spilled cups
 - [[Seven of Cups]] - The following fantasy: illusion, imagination, the cups in clouds
@@ -390,25 +391,18 @@ The Lord of Pleasure is the pleasure of remembering well—neither clinging nor 
 
 *"The past is not a prison unless you try to live there. Remembered rightly, it is a wellspring."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Six of Cups.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Pleasure" for the Six of Cups.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Sun in Scorpio decan attribution for the Six of Cups.
+
 [^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Tiphareth in Briah Sephirotic placement for the Six of Cups.
+
 [^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Six of Cups.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

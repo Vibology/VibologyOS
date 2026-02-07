@@ -232,13 +232,16 @@ Venus teaches that self-love is not narcissism. It is **discernment**—the refu
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "Venus is exalted in Pisces because dampness (her nature) begins to appear, augmenting her influence"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Venus rejoices in the 5th House, the house of pleasure, delight, and merriment
+
 [^4]: Greek mythology (Grimoire): Aphrodite born from the sea foam (aphros) when Cronus castrated Uranus and threw his genitals into the ocean; she stepped onto land at Cyprus causing flowers to grow beneath her feet
+
 [^5]: Greek mythology (Grimoire): Aphrodite's magic girdle (cestus) enslaves hearts with love and desire; her union with Ares (Mars) blends love and strife; governs harmony, mirth, and the impulse to create relationship
 
 ---
-
-*"Beauty is not decoration. It is the coherence of form with essence—and that coherence cannot be faked."*

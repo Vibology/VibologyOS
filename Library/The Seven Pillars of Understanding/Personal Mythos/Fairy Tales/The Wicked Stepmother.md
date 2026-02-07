@@ -803,6 +803,7 @@ If you answered "yes" to multiple questions, the **Inner Stepmother is active**.
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Shadow]] • [[The Great Mother]] • The Terrible Mother • [[The Muse]] • [[The Idol]] • [[The Divine Child]] • [[The Alchemist]] • [[The Hero]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 
@@ -866,24 +867,8 @@ She was never the queen.
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Multiple tales featuring the Wicked Stepmother: "Snow White," "Cinderella," "Hansel and Gretel," "The Juniper Tree."
-
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). The negative mother complex and separation dynamics.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Great Mother archetype in dual aspect (Good Mother/Terrible Mother).
-- **Neumann, Erich.** *The Great Mother: An Analysis of the Archetype* (1955). Comprehensive analysis of the Terrible Mother and devouring feminine.
-- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). The psychological splitting of good/bad mother and developmental necessity.
-
-### Feminist & Depth Psychology
-- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). The inner predator and psychic survival.
-- **Downing, Christine.** *The Goddess: Mythological Images of the Feminine* (1981). Mother archetypes across mythologies.
-
-### Developmental Psychology
-- **Mahler, Margaret, Fred Pine, and Anni Bergman.** *The Psychological Birth of the Human Infant* (1975). Separation-individuation and the role of "bad mother" splitting.

@@ -343,6 +343,7 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 ---
 
 ## Cross-References
+
 **Jungian Archetypes:**
 - [[The Great Mother]] – Weaver of reality, container of potential
 - [[The Shadow]] – Rumpelstiltskin, compulsive productivity, obsessive spinning
@@ -402,27 +403,8 @@ The **Bean Nighe** (Washer Woman) appears at rivers, washing the bloodstained cl
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Spinning-centered tales: "Rumpelstiltskin," "The Three Spinners," "The Six Swans" (sewing starflower shirts).
-
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). Comprehensive analysis of spinning as feminine creative work and integration.
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Spinning and weaving as manifestation and soul-work.
-- **Neumann, Erich.** *The Great Mother: An Analysis of the Archetype* (1955). The weaving goddess and feminine creativity.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The spinning woman as Great Mother archetype.
-
-### Comparative Mythology
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The belly of the whale as container for transformation.
-- **Baring, Anne and Jules Cashford.** *The Myth of the Goddess: Evolution of an Image* (1991). Spinning and weaving goddesses across cultures.
-
-### Astrology & Esoteric
-- **Greene, Liz.** *Saturn: A New Look at an Old Devil* (1976). Saturn as cosmic weaver and karmic patterns.
-
-### Feminist & Cultural
-- **Grahn, Judy.** *Blood, Bread, and Roses: How Menstruation Created the World* (1993). Spinning, weaving, and women's sacred work.

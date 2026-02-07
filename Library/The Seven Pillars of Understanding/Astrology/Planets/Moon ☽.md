@@ -201,14 +201,18 @@ The Moon teaches that not all wisdom is conscious. Some truths arrive in the gut
 
 ---
 
-## Sources
+## Notes
+
 [^1]: Lilly, *Christian Astrology* (1647), Book 1; Ptolemy, *Tetrabiblos*, Book 1
+
 [^2]: Ptolemy, *Tetrabiblos*, Book 1: "The Moon is exalted in Taurus where she makes her first appearance after conjunction with the Sun"
+
 [^3]: Lilly, *Christian Astrology*, Book 1: The Moon rejoices in the 3rd House
+
 [^4]: Greek mythology (Grimoire): Artemis/Diana as virgin huntress, protector of wild places, governs childbirth; represents the Maiden/Crescent Moon
+
 [^5]: Greek mythology (Grimoire): Selene drives the silver chariot, visits Endymion in eternal sleep; represents the physical moon and biological rhythms
+
 [^6]: Egyptian mythology (Grimoire): Isis gathers the scattered Osiris and resurrects him; represents lunar capacity for reconstitution and healing
 
 ---
-
-*"The Moon does not generate light. She reflects what the Sun cannot see—and in that reflection, the unconscious becomes visible."*

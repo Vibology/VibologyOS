@@ -377,30 +377,8 @@ A **completed human being** who has lived the full arc from birth to death **con
 
 ---
 
+## Notes
 
 [^1]: Primary sources listed in References section.
 
 ---
-
-## Sources
-### Primary Texts (Jung)
-- **Jung, Carl Gustav.** *Memories, Dreams, Reflections* (1961). Jung's autobiographical reflection on his own individuation journey.
-- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). Integration, wholeness, and the alchemical opus as individuation.
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The opus as psychological integration and the philosopher's stone.
-- **Jung, Carl Gustav.** *The Practice of Psychotherapy* (CW 16). The therapeutic process as individuation.
-
-### Jungian Interpretation
-- **Edinger, Edward F.** *Ego and Archetype* (1972). The ultimate goal of individuation as ego-Self integration.
-- **Jacobi, Jolande.** *The Way of Individuation* (1967). Overview of the complete individuation process.
-- **Whitmont, Edward C.** *The Symbolic Quest: Basic Concepts of Analytical Psychology* (1969). Individuation and wholeness.
-
-### Alchemical Psychology
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). The seven operations as stages of integration.
-- **Von Franz, Marie-Louise.** *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). The opus and the creation of the lapis.
-
-### Developmental & Lifespan
-- **Erikson, Erik.** *Childhood and Society* (1950). Ego integrity vs. despair (final stage).
-- **Jung, Carl Gustav.** *The Stages of Life* (CW 8). The second half of life and individuation.
-
-### Comparative & Mystical
-- **Eliade, Mircea.** *The Forge and the Crucible: The Origins and Structures of Alchemy* (1956). Alchemical transformation across cultures.

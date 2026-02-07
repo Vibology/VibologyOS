@@ -674,6 +674,7 @@ When facing an **impossible task** (the problem the ego alone cannot solve):
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Alchemist]] • [[The Muse]] • [[The Idol]] • [[The Great Mother]] • [[The Wise Old Man]] • [[The Divine Child]] • [[The Shadow]] • [[The Joker]] • [[The Hero]]
 
@@ -709,31 +710,8 @@ The Doll • The Helpful Animal • The Impossible Task • The Fairy Godmother 
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Helper-centered tales: "Cinderella" (doves, tree), "The Goose Girl" (Falada the talking horse), "The White Snake" (animal helpers).
-- **Afanasyev, Alexander.** *Russian Fairy Tales* (collected 1855-1863). "Vasilisa the Beautiful" (the doll as magical helper).
-
-### Jungian Analysis
-- **Von Franz, Marie-Louise.** *The Feminine in Fairy Tales* (1972). The doll as externalized Self and animal helpers as instinctual wisdom.
-- **Von Franz, Marie-Louise.** *The Interpretation of Fairy Tales* (1970). Magical helpers as projections of the Self and unconscious support.
-- **Jung, Carl Gustav.** *The Archetypes and the Collective Unconscious* (CW 9i). The Self as guide and the mana personality.
-- **Bettelheim, Bruno.** *The Uses of Enchantment* (1976). Magical helpers as internalized good mother and developmental support.
-
-### Feminist & Depth Psychology
-- **Estés, Clarissa Pinkola.** *Women Who Run With the Wolves* (1992). Instinctual helpers and wild feminine wisdom.
-
-### Comparative Mythology
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). Supernatural aid and meeting the mentor.
-
-### Alchemical & Symbolic
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). Mercurius as helper/trickster and the homunculus.
-
----
-
-**END OF ENTRY**

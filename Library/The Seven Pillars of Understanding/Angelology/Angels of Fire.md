@@ -319,27 +319,8 @@ In ancient practice (and some modern ceremonial magic), **fire offerings** (ince
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-### Primary Texts
-- **Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967. (Seraphim as "burning ones," Michael as Ruler of Solar Fire, Uriel as Fire of God/Regent of the Sun, Nathaniel as angel of fire, angels composed of fire and snow)
-- **The Zohar.** (Ascending flame with two lights—white/Chesed and blue-black/Geburah, holy fire consuming lower angels of judgment, fire devouring fire)
-
-### Supporting Context
-- **Bible:** Isaiah 6:1-7 (Seraphim and cleansing coal), Exodus 3:2-6 (burning bush), Exodus 13:21-22 (pillar of fire), Exodus 24:17 (consuming fire on Sinai), Deuteronomy 4:24 (God as consuming fire), Psalm 104:4 (angels as flames), Malachi 3:2-3 (refiner's fire), Acts 2:3-4 (tongues of fire at Pentecost)
-- **Golden Dawn Tradition:** Lesser Banishing Ritual of the Pentagram (Michael at South/Fire quarter)
-- **Wang, Robert.** *The Qabalistic Tarot.* (Ishim/Ashim as Flames of Fire, Malkuth correspondence)
-
-### Verification
-- **Source:** Esoteric Grimoire (NotebookLM)
-- **Date:** 2026-02-06
-- **Notes:** Davidson citations verified; biblical fire theophanies standard; Zohar fire symbolism (white/blue flame) confirmed; Golden Dawn elemental attributions standard
-
----
-
-*Last updated: 2026-02-06 | Expansion complete: stub → comprehensive entry*

@@ -556,7 +556,7 @@ The Syzygy is **not a metaphor** but a **psychological reality**—the actual un
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *Mysterium Coniunctionis: An Inquiry into the Separation and Synthesis of Psychic Opposites in Alchemy*. Collected Works Vol. 14. Princeton University Press.
 
@@ -578,23 +578,4 @@ The Syzygy is **not a metaphor** but a **psychological reality**—the actual un
 
 [^10]: Jung, C.G. *Mysterium Coniunctionis*. Collected Works Vol. 14. Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *The Practice of Psychotherapy*. Collected Works Vol. 16. Princeton University Press. (Transference and projection in analysis)
-- Jung, C.G. *Two Essays on Analytical Psychology*. Collected Works Vol. 7. Princeton University Press. (Anima/Animus theory)
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy*. Open Court, 1985. (Coniunctio, Solutio, alchemical stages)
-- Edinger, Edward F. *The Mystery of the Coniunctio: Alchemical Image of Individuation*. Inner City Books, 1994.
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Sacred marriage, Meeting with the Goddess)
-- Eliade, Mircea. *The Sacred and the Profane*. Harcourt, 1959. (Hieros gamos in archaic religions)
-- Alchemical texts:
-  - *Rosarium Philosophorum* (16th century) — The coniunctio woodcut series
-  - *Splendor Solis* (16th century) — Hermaphrodite imagery
-  - Paracelsus, *De Natura Rerum* — Alchemical marriage symbolism
-- Gnostic texts:
-  - *The Gospel of Philip*, Nag Hammadi Library — Bridal Chamber sacrament
-  - *The Gospel of Thomas* — The reunion of male and female
-- Hindu texts:
-  - Tantric scriptures (Shiva-Shakti union)
-  - *Yoga Sutras of Patanjali* (Union of consciousness and energy)
-- Qabalistic texts:
-  - *Sepher Yetzirah*, *Zohar* (Tiphereth as the center, the sacred marriage)
+---

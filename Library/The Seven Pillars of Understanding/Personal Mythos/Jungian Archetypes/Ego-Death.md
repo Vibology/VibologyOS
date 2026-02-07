@@ -200,44 +200,46 @@ The practitioner who has integrated ego-death no longer clings to the ego (infla
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 9i — Ego-death as dissolution of sense of separate self; ego's claim to centrality relativized or annihilated
-[^2]: Jung, C.G. *Collected Works* Vol. 9i, par. 45 — *Abaissement du niveau mental* (lowering of mental level); temporary dissolution necessary for transformation but dangerous
-[^3]: Jung, C.G. & mystical traditions — Distinction between psychological ego-death (Jung: relativization) and spiritual ego-death (mysticism: annihilation/transcendence)
-[^4]: Jung, C.G. *Collected Works* Vol. 9i, par. 45 — Warning: if ego extinguished, darkness/chaos of unconscious takes place of consciousness
-[^5]: Freud, S. *Civilization and Its Discontents* (1930) — "Oceanic feeling" as indissoluble bond with external world; Freud's interpretation as regression to infantile narcissism
-[^6]: Jung, C.G. — Critique of Freud: oceanic feeling accesses genuine transpersonal content (Self, archetypes), not merely personal regression
-[^7]: Buddhist philosophy — *Anatta* (no-self) / *anatman*; five aggregates (*skandhas*); no permanent unchanging self; root delusion (*avidyā*) creates suffering (*dukkha*)
-[^8]: Jung, C.G. on Buddhism — Respect for *anatta* teaching but warning against premature ego-dissolution for Westerners (ego before no-ego required)
-[^9]: Jung, C.G. — Ego-death as neutral territory: can lead to liberation or catastrophe depending on context, preparation, integration
-[^10]: Jung, C.G. *Collected Works* Vol. 9i — Psychosis risk if ego too weak or dissolution too sudden; loss of reality-testing, flooding by unconscious
-[^11]: Jung, C.G. — Being "swallowed by the unconscious"; ego obliterated not relativized, psyche in chaos
-[^12]: Contemporary Jungian analysis — Spiritual bypass: using ego-death experience to avoid psychological work while claiming "beyond ego" status
-[^13]: Jung, C.G. *Collected Works* Vol. 12 — Dark Night/confrontation with abyss; ego dies but Self does not emerge; left in *nigredo* without *rubedo*
-[^14]: Jung, C.G. — Re-emergence as crucial phase; return to functional consciousness transformed by dissolution encounter
-[^15]: Jung, C.G. *Collected Works* Vol. 12 — Alchemical parallel: *mortificatio*/*nigredo* (death/blackening) must be followed by *albedo*, *citrinitas*, *rubedo* (rebirth)
-[^16]: Contemporary integration practices — Grounding, ordinary tasks, journaling, community, patience; goal: ego returns changed, humble, in service to Self
-[^17]: Esoteric traditions — Ritualized ego-death in initiation (Qabalah/Abyss, Alchemy, Christian mysticism, Shamanism); containment prevents overwhelm
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Abyss]] — Qabalistic threshold of ego-death; crossing from Chesed to Binah
-- [[The Tower (XVI)]] — Tarot card of sudden dissolution and collapse of ego-structures
-- [[Kenosis - The Path of Self-Emptying]] — Magdalene Path practice of voluntary self-emptying (preparation for ego-death)
-- [[Death and Resurrection]] — Mythological pattern of death and rebirth underlying ego-death experience
-- [[The Self]] — The true center revealed when ego dissolves or relativizes
-- [[Inflation]] — Ego identifies with dissolution experience ("I am enlightened"), missing integration
-- [[Nigredo]] — Alchemical blackening/death phase corresponding to ego-death
-- [[Numinous Experience]] — Often accompanies or triggers ego-death
-- [[Active Imagination]] — Method requiring functional ego to engage unconscious (too much dissolution prevents practice)
-- [[The Shadow]] — Must be confronted before ego-death; premature dissolution without shadow work leads to psychosis or inflation
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 9i — Ego-death as dissolution of sense of separate self; ego's claim to centrality relativized or annihilated
 
-- Jung, C.G. *Collected Works* Vol. 9i: *The Archetypes and the Collective Unconscious* — Ego dissolution as *abaissement du niveau mental*; dangers of ego annihilation; psychosis risk; ego-Self relationship
-- Jung, C.G. *Collected Works* Vol. 12: *Psychology and Alchemy* — Alchemical *mortificatio*/Nigredo as symbolic ego-death; Dark Night as confrontation with the abyss; Albedo/Rubedo as rebirth sequence
-- Freud, Sigmund. *Civilization and Its Discontents* (1930) — "Oceanic feeling" as ego-boundary dissolution; interpretation as regression to infantile narcissism
-- St. John of the Cross. *Dark Night of the Soul* — Mystical tradition of spiritual desolation following ego-dissolution
-- Buddhist canonical sources — *Anatta* (no-self) doctrine; five aggregates (*skandhas*); cessation (*nirodha*) as dissolution of separate selfhood
+[^2]: Jung, C.G. *Collected Works* Vol. 9i, par. 45 — *Abaissement du niveau mental* (lowering of mental level); temporary dissolution necessary for transformation but dangerous
+
+[^3]: Jung, C.G. & mystical traditions — Distinction between psychological ego-death (Jung: relativization) and spiritual ego-death (mysticism: annihilation/transcendence)
+
+[^4]: Jung, C.G. *Collected Works* Vol. 9i, par. 45 — Warning: if ego extinguished, darkness/chaos of unconscious takes place of consciousness
+
+[^5]: Freud, S. *Civilization and Its Discontents* (1930) — "Oceanic feeling" as indissoluble bond with external world; Freud's interpretation as regression to infantile narcissism
+
+[^6]: Jung, C.G. — Critique of Freud: oceanic feeling accesses genuine transpersonal content (Self, archetypes), not merely personal regression
+
+[^7]: Buddhist philosophy — *Anatta* (no-self) / *anatman*; five aggregates (*skandhas*); no permanent unchanging self; root delusion (*avidyā*) creates suffering (*dukkha*)
+
+[^8]: Jung, C.G. on Buddhism — Respect for *anatta* teaching but warning against premature ego-dissolution for Westerners (ego before no-ego required)
+
+[^9]: Jung, C.G. — Ego-death as neutral territory: can lead to liberation or catastrophe depending on context, preparation, integration
+
+[^10]: Jung, C.G. *Collected Works* Vol. 9i — Psychosis risk if ego too weak or dissolution too sudden; loss of reality-testing, flooding by unconscious
+
+[^11]: Jung, C.G. — Being "swallowed by the unconscious"; ego obliterated not relativized, psyche in chaos
+
+[^12]: Contemporary Jungian analysis — Spiritual bypass: using ego-death experience to avoid psychological work while claiming "beyond ego" status
+
+[^13]: Jung, C.G. *Collected Works* Vol. 12 — Dark Night/confrontation with abyss; ego dies but Self does not emerge; left in *nigredo* without *rubedo*
+
+[^14]: Jung, C.G. — Re-emergence as crucial phase; return to functional consciousness transformed by dissolution encounter
+
+[^15]: Jung, C.G. *Collected Works* Vol. 12 — Alchemical parallel: *mortificatio*/*nigredo* (death/blackening) must be followed by *albedo*, *citrinitas*, *rubedo* (rebirth)
+
+[^16]: Contemporary integration practices — Grounding, ordinary tasks, journaling, community, patience; goal: ego returns changed, humble, in service to Self
+
+[^17]: Esoteric traditions — Ritualized ego-death in initiation (Qabalah/Abyss, Alchemy, Christian mysticism, Shamanism); containment prevents overwhelm
+
+---

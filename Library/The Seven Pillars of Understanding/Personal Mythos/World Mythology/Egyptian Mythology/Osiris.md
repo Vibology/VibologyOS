@@ -148,32 +148,8 @@ The Osiris archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Plutarch, *Isis and Osiris* — Osiris as god of death, resurrection, and vegetation.
 
 ---
-
-## Sources
-
-**Primary Egyptian Sources:**
-- *Pyramid Texts* (c. 2400 BCE) — Utterances 213-222 (Osiris resurrection formulae)
-- *Coffin Texts* (c. 2000 BCE)
-- *Book of the Dead* (c. 1550 BCE) — Spell 125 (the Judgment scene and Negative Confession)
-
-**Classical Sources:**
-- Plutarch, *De Iside et Osiride* (the fullest narrative account)
-- Diodorus Siculus, *Bibliotheca Historica* 1.13-27
-
-**Mythological Encyclopedias:**
-- Pinch, G. *Egyptian Mythology: A Guide to the Gods, Goddesses, and Traditions of Ancient Egypt*
-- Assmann, J. *The Search for God in Ancient Egypt*
-- Frazer, J.G. *The Golden Bough* (Osiris as dying-and-rising god)
-
-**Psychological and Archetypal Analysis:**
-- Jung, C.G. *Collected Works*, Vol. 5 (death-rebirth symbolism), Vol. 14, §659 (dissolution of prima materia), Vol. 9i, §206 (rebirth archetype)
-- Neumann, E. *The Origins and History of Consciousness* (the dismembered hero)
-- Rundle Clark, R.T. *Myth and Symbol in Ancient Egypt* (Osiris chapter)
-
----
-
-*Created 2026-02-07. Part of the Egyptian Mythology collection within [[Personal Mythos]].*

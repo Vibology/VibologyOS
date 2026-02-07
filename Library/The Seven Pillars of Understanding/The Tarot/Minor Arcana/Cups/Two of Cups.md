@@ -323,6 +323,7 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Ace of Cups]] - The preceding gift: divine love received
 - [[Three of Cups]] - The following expansion: joy shared in community
@@ -368,25 +369,18 @@ The Two of Cups does not promise that love is easy. It promises that love is *po
 
 *"True love is not finding your other half—it is two whole people choosing to create a shared wholeness."*
 
-## Footnotes
+---
+
+## Notes
 
 [^1]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meaning for the Two of Cups.
+
 [^2]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Love" for the Two of Cups.
+
 [^3]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Venus in Cancer decan attribution for the Two of Cups.
+
 [^4]: Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Chokmah in Briah Sephirotic placement for the Two of Cups.
+
 [^5]: Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meaning for the Two of Cups.
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

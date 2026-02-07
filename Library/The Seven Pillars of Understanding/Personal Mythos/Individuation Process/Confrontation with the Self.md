@@ -378,28 +378,8 @@ A **whole human being** who has shifted the center of gravity from ego to Self, 
 
 ---
 
+## Notes
 
 [^1]: Primary sources listed in References section.
 
 ---
-
-## Sources
-### Primary Texts (Jung)
-- **Jung, Carl Gustav.** *Aion: Researches into the Phenomenology of the Self* (CW 9ii). Most comprehensive treatment of the Self as archetype and totality.
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). The Self as philosopher's stone and mandala symbolism.
-- **Jung, Carl Gustav.** *Two Essays on Analytical Psychology* (CW 7). Ego-Self axis and the Self as supraordinate personality.
-- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). The Self as unus mundus and the union of opposites.
-- **Jung, Carl Gustav.** *Memories, Dreams, Reflections* (1961). Autobiographical account of Jung's confrontation with the Self.
-
-### Jungian Interpretation
-- **Edinger, Edward F.** *Ego and Archetype: Individuation and the Religious Function of the Psyche* (1972). The ego-Self axis as central dynamic of individuation.
-- **Edinger, Edward F.** *The Creation of Consciousness: Jung's Myth for Modern Man* (1984). The Self's teleological purpose.
-- **Von Franz, Marie-Louise.** *C.G. Jung: His Myth in Our Time* (1975). The Self in Jung's cosmology.
-
-### Mandala & Symbolism
-- **Jung, Carl Gustav.** *Mandala Symbolism* (CW 9i). The mandala as Self representation.
-- **Tucci, Giuseppe.** *The Theory and Practice of the Mandala* (1961). Cross-cultural mandala symbolism.
-
-### Comparative & Mystical
-- **Eliade, Mircea.** *Shamanism: Archaic Techniques of Ecstasy* (1951). The cosmic center and axis mundi.
-- **Underhill, Evelyn.** *Mysticism* (1911). Unitive experience and union with the divine.

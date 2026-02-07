@@ -276,31 +276,8 @@ Jung's method for contacting the inner guardian:
 
 ---
 
+## Notes
 
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-### Primary Texts
-- **DuQuette, Lon Milo.** *Enochian Vision Magick: An Introduction and Practical Guide to the Magick of Dr. John Dee and Edward Kelley.* Weiser Books, 2008. (Holy Guardian Angel as Higher Self, Knowledge and Conversation, Abramelin operation, Tiphareth association, balancing personality before contact)
-- **Crowley, Aleister.** *Magick in Theory and Practice.* 1929. (Definition of Magick, True Will, HGA as formulation of Will)
-- **Crowley, Aleister.** *Liber Samekh.* 1921. (Ritual invocation of HGA)
-- **Mathers, S.L. MacGregor (trans.).** *The Book of the Sacred Magic of Abramelin the Mage.* 1897. (Abramelin operation)
-
-### Supporting Context
-- **Bible:** Matthew 18:10, Psalm 91:11-12, Hebrews 1:14, Acts 12:15 (Scriptural foundations)
-- **Talmud:** Shabbat 119b (Two angels accompany every Jew on Shabbat eve)
-- **Catechism of the Catholic Church.** §336. (Official Catholic doctrine on guardian angels)
-- **Islamic Tradition:** Kiraman Katibin (Noble Scribes), Qur'an references
-- **Karo, Joseph.** *Maggid Mesharim.* 16th century. (Jewish maggid tradition)
-
-### Verification
-- **Source:** Esoteric Grimoire (NotebookLM)
-- **Date:** 2026-02-06
-- **Notes:** DuQuette and Crowley material verified; scriptural references standard; Jungian interpretation synthesized from existing Library entries on Self archetype
-
----
-
-*Last updated: 2026-02-06 | Expansion complete: stub → comprehensive entry*

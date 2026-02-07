@@ -409,42 +409,8 @@ Astrologically, Apollo corresponds to the **[[Sun ☉]]**—the core identity, t
 
 ---
 
+## Notes
 
 [^1]: Homeric *Hymn to Apollo* and classical sources — Apollo as god of light, music, prophecy, and rational order.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-- **Homeric Hymn to Apollo** (7th-6th century BCE) — Birth, slaying of Python, establishment of Delphi
-- **Homer** — *Iliad* (Apollo's plague arrows, role in Trojan War)
-- **Ovid** — *Metamorphoses* (Daphne, Hyacinthus, Coronis, Marsyas, Niobe)
-- **Euripides** — *Ion* (Apollo's oracle at Delphi, his mortal son Ion)
-- **Callimachus** — *Hymn to Apollo* (Hellenistic hymn celebrating the god's attributes)
-
-### Mythological Encyclopedias
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive entry on Apollo's myths, epithets, and cult sites.
-- **Kerenyi, Karl** — *Apollo: The Wind, the Spirit, and the God* (1959). In-depth study of Apollo's archaic origins and evolution.
-
-### Psychological and Archetypal Analysis
-- **Nietzsche, Friedrich** — *The Birth of Tragedy* (1872). The Apollonian-Dionysian polarity as foundation of Greek culture and art.
-- **Jung, C.G.** — *Collected Works Vol. 5: Symbols of Transformation*. Apollo as solar consciousness, the sun as symbol of the ego (CW 5, ¶198).
-- **López-Pedraza, Rafael** — *Apollo and the Archetypal Idea of the Sun and the King* (1977). Apollo as "not a god of women," relationship difficulties.
-- **Hillman, James** — *Re-Visioning Psychology* (1975). The Apollonian demand for clarity and the shadow of literalism.
-
-### Oracle of Delphi
-- **Parke, H.W. and Wormell, D.E.W.** — *The Delphic Oracle* (1956). History and practice of the Pythia, oracular utterances.
-- **Fontenrose, Joseph** — *The Delphic Oracle: Its Responses and Operations* (1978). Critical analysis of oracular tradition.
-
-### Music and Aesthetics
-- **Kahn, Charles H.** — *Pythagoras and the Pythagoreans* (2001). Music, mathematics, and Apollonian order.
-- **Lippman, Edward** — *Musical Aesthetics: A Historical Reader* (1986). Apollo's lyre and the philosophy of music.
-
-### Healing and Asclepius
-- **Kerenyi, Karl** — *Asklepios: Archetypal Image of the Physician's Existence* (1959). The wounded healer archetype, father-son dynamic.
-- **Meier, C.A.** — *Ancient Incubation and Modern Psychotherapy* (1967). Asclepian healing temples and dream incubation practices.
-
----
-
-*Expanded 2026-02-06 from structural stub. Prima Materia sourced from NotebookLM Esoteric Grimoire (Homeric Hymns, Ovid, classical sources). Comprehensive coverage of birth on Delos, Python slaying, Delphi oracle, music/lyre, healing/plague, archery, major myths (Daphne, Hyacinthus, Coronis-Asclepius, Marsyas, Niobe, Cassandra), Apollonian-Dionysian polarity, Jungian analysis (solar consciousness, logos, ego-differentiation, relationship difficulty), shadow dynamics (perfectionism, coldness, cruelty in service of purity), and practical applications established.*

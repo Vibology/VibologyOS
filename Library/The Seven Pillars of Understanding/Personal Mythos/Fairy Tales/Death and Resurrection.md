@@ -849,6 +849,7 @@ A man loses his father suddenly. He hooks the skeleton (his own mortality surfac
 ---
 
 ## Cross-References
+
 #### Archetypal Figures
 [[The Great Mother]] • [[The Alchemist]] • [[The Idol]] • [[The Muse]] • [[The Shadow]] • [[The Divine Child]] • [[The Wise Old Man]] • [[The Nightmare]] • [[The Changeling]]
 
@@ -887,32 +888,8 @@ Azrael • [[Metatron]] • [[Samael]]
 
 ---
 
+## Notes
 
 [^1]: Grimm Brothers, *The Complete Fairy Tales* and Marie-Louise von Franz, *The Interpretation of Fairy Tales* (Shambhala, 1970) — Jungian analysis of archetypal patterns in fairy tales.
 
 ---
-
-## Sources
-### Primary Texts
-- **Grimm, Jacob and Wilhelm.** *Kinder- und Hausmärchen* (1812). Tales featuring death and resurrection: "The Juniper Tree," "Snow White," "Sleeping Beauty," "Fitcher's Bird."
-
-### Jungian Analysis
-- **Jung, Carl Gustav.** *Symbols of Transformation* (CW 5). Death and rebirth as archetypal pattern in psychological transformation.
-- **Jung, Carl Gustav.** *Mysterium Coniunctionis* (CW 14). Death, mortificatio, and resurrection in alchemical process.
-- **Von Franz, Marie-Louise.** *On Dreams and Death* (1986). Death symbolism and transformation in fairy tales and dreams.
-- **Neumann, Erich.** *The Origins and History of Consciousness* (1949). Death-rebirth cycle in hero's journey and individuation.
-
-### Depth Psychology & Spirituality
-- **Eliade, Mircea.** *Rites and Symbols of Initiation* (1958). Death and resurrection in initiation rituals across cultures.
-- **Campbell, Joseph.** *The Hero with a Thousand Faces* (1949). The monomyth and death-rebirth pattern.
-
-### Alchemical & Symbolic
-- **Jung, Carl Gustav.** *Psychology and Alchemy* (CW 12). Mortificatio, putrefaction, and resurrection stages.
-- **Edinger, Edward F.** *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Death and resurrection in therapeutic process.
-
-### Comparative Mythology
-- **Frazer, James George.** *The Golden Bough* (1890). Dying and rising gods across mythologies.
-
----
-
-**END OF ENTRY**

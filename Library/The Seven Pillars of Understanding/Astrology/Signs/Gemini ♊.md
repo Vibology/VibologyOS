@@ -208,13 +208,17 @@ The Twins teach that duality is not a problem to be solved but a **generative te
 - [[Virgo ♍]] — Mercury's other domicile, analysis applied to refinement
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Mercury rules Gemini (Day House)
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Gemini as Mutable (Common/Bicorporeal) Air (hot and moist, sanguine)
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter in detriment (opposite Sagittarius)
+
 [^4]: Lilly, *Christian Astrology*, Book 2: Gemini cosignificator of 3rd House (kindred, neighbors, short journeys)
+
 [^5]: Lilly, *Christian Astrology*, Book 1: Gemini governs shoulders, arms, hands, fingers; diseases include infirmities in arms/shoulders, corrupted blood
 
 ---
-
-*"Gemini does not choose between the pillars. It is the space between them, the current that makes connection possible."*

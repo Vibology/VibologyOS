@@ -430,6 +430,7 @@ Until then: navigate with all seven.
 **Invitation:** Hold your preferred system lightly. It is one lens, not the only lens. Truth is too vast for any single map.
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -457,39 +458,15 @@ Until then: navigate with all seven.
 *"The soul's position cannot be known from a single coordinate. Like a ship at sea requires latitude and longitude, the pilgrim requires seven dimensions to know where they stand, where they came from, and where they are going. The seven pillars are not separate paths—they are seven views of the One Path."*
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Wang, Robert. *The Qabalistic Tarot* (Samuel Weiser, 1983) — the 22 Major Arcana as paths on the Tree of Life connecting Sephiroth.
+
 [^2]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 2004) — the monomyth structure of departure, initiation, and return.
+
 [^3]: Jung, C.G. *Memories, Dreams, Reflections* (Pantheon Books, 1963) — the Individuation Process as psychological development toward wholeness.
+
 [^4]: Ra Uru Hu, *The Definitive Book of Human Design* (HDC Publishing, 2011) — precise BodyGraph calculations based on birth time and location determining Type, Authority, and Profile.
-
----
-
-## Sources
-
-**The Seven Pillars Framework:** Vibology Synthesis (original integration)
-
-**Pillar Source Texts (Confirmed in Grimoire):**
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene*. Shambhala, 2010.
-
-de Quillan, Jehanne. *The Gospel of the Beloved Companion*. CreateSpace, 2010.
-
-Estés, Clarissa Pinkola. *Women Who Run with the Wolves*. Ballantine, 1992.
-
-Gospel of Mary. Nag Hammadi Library.
-
-Gospel of Philip. Nag Hammadi Codex II,3.
-
-Jung, C.G. *Memories, Dreams, Reflections*. Pantheon Books, 1963.
-
-Ra Uru Hu. *The Definitive Book of Human Design*. HDC Publishing, 2011.
-
-Rudd, Richard. *The Gene Keys*. Watkins Publishing, 2009.
-
-Wang, Robert. *The Qabalistic Tarot*. Samuel Weiser, 1983.
-
-Wilhelm, Richard, trans. *The Complete I Ching*. Princeton University Press, 1967.
 
 ---

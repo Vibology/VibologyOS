@@ -195,41 +195,44 @@ The transcendent function is not magic—it is the psyche's inherent capacity fo
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 8 — The Transcendent Function as mechanism of creative synthesis, holding opposites in tension
-[^2]: Jung, C.G. "The Transcendent Function" (1916/1958) — Process mediating between conscious and unconscious, bridge between ego and Self
-[^3]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — Thesis/antithesis/synthesis pattern; symbol as "third thing" (lysis) not perceptible before
-[^4]: Jung, C.G. "The Transcendent Function" (1916) — Origins responding to Freud's reductive method; need for synthetic process
-[^5]: Jung, C.G. *Collected Works* Vol. 8 — Ego confronts unconscious content that contradicts or challenges current position
-[^6]: Jung, C.G. *Collected Works* Vol. 8 — Critical phase: holding tension without suppression, identification, or rationalization
-[^7]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — Spontaneous production of symbol embodying both positions in unified form
-[^8]: Jung, C.G. — Relationship to Hegelian dialectic; Jung's emphasis on symbolic vs. Hegel's abstract conceptual method
-[^9]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — "Shuttling to and fro represents transcendent function; confrontation releases living energy"
-[^10]: Jung, C.G. "The Transcendent Function" — Practical methods for activation: active imagination, artistic expression, dream work, mandala creation
-[^11]: Jung, C.G. — Artistic expression gives form to unconscious contents, allowing psyche to observe objectively and facilitate synthesis
-[^12]: Jung, C.G. — Dreams as natural expression of transcendent function; amplification method vs. reductive analysis
-[^13]: Jung, C.G. *Memories, Dreams, Reflections* — Mandala creation during 1913-1920 confrontation with unconscious; mandalas as quintessential symbol of transcendent function
-[^14]: Modern neuroscience — Interhemispheric integration via corpus callosum as physiological parallel to transcendent function
-[^15]: Jung, C.G. — Transcendent function as central mechanism throughout individuation process; each stage requires integration of opposite
-[^16]: Jung, C.G. *Collected Works* Vol. 8 — Failure modes: repression (thesis dominates), identification (antithesis dominates), splitting (alternation without integration)
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Self]] — The ordering principle that orchestrates the transcendent function
-- [[The Shadow]] — The first major opposite requiring integration via transcendent function
-- [[The Anima]] / [[The Animus]] — Contrasexual opposites integrated through transcendent function
-- [[Active Imagination]] — Primary method for activating the transcendent function
-- [[Individuation Process]] — The lifelong process in which transcendent function is central mechanism
-- [[Temperance (XIV)]] — Tarot card embodying the alchemical mixing and synthesis of opposites
-- [[Coniunctio]] — Alchemical parallel to transcendent function (union of opposites)
-- [[Synchronicity]] — Emerges from same psychoid layer as transcendent function symbols
-- [[Numinous Experience]] — Often accompanies emergence of transcendent symbols
-- [[Definition]] — Human Design splits requiring "bridging" can be understood as seeking transcendent function (though limited for Triple/Quad Splits)
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 8 — The Transcendent Function as mechanism of creative synthesis, holding opposites in tension
 
-- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary treatment of the transcendent function; thesis-antithesis-synthesis pattern; holding tension of opposites; symbol as spontaneous resolution; failure modes (repression, identification, splitting)
-- Jung, C.G. "The Transcendent Function" (1916, published 1958) — Original essay articulating the concept; response to Freud's reductive method; the psyche's autonomous synthetic capacity
-- Jung, C.G. *Memories, Dreams, Reflections* (1963) — Mandala creation during 1913-1920 confrontation with the unconscious; mandalas as symbols of the transcendent function in practice
+[^2]: Jung, C.G. "The Transcendent Function" (1916/1958) — Process mediating between conscious and unconscious, bridge between ego and Self
+
+[^3]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — Thesis/antithesis/synthesis pattern; symbol as "third thing" (lysis) not perceptible before
+
+[^4]: Jung, C.G. "The Transcendent Function" (1916) — Origins responding to Freud's reductive method; need for synthetic process
+
+[^5]: Jung, C.G. *Collected Works* Vol. 8 — Ego confronts unconscious content that contradicts or challenges current position
+
+[^6]: Jung, C.G. *Collected Works* Vol. 8 — Critical phase: holding tension without suppression, identification, or rationalization
+
+[^7]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — Spontaneous production of symbol embodying both positions in unified form
+
+[^8]: Jung, C.G. — Relationship to Hegelian dialectic; Jung's emphasis on symbolic vs. Hegel's abstract conceptual method
+
+[^9]: Jung, C.G. *Collected Works* Vol. 8, par. 189 — "Shuttling to and fro represents transcendent function; confrontation releases living energy"
+
+[^10]: Jung, C.G. "The Transcendent Function" — Practical methods for activation: active imagination, artistic expression, dream work, mandala creation
+
+[^11]: Jung, C.G. — Artistic expression gives form to unconscious contents, allowing psyche to observe objectively and facilitate synthesis
+
+[^12]: Jung, C.G. — Dreams as natural expression of transcendent function; amplification method vs. reductive analysis
+
+[^13]: Jung, C.G. *Memories, Dreams, Reflections* — Mandala creation during 1913-1920 confrontation with unconscious; mandalas as quintessential symbol of transcendent function
+
+[^14]: Modern neuroscience — Interhemispheric integration via corpus callosum as physiological parallel to transcendent function
+
+[^15]: Jung, C.G. — Transcendent function as central mechanism throughout individuation process; each stage requires integration of opposite
+
+[^16]: Jung, C.G. *Collected Works* Vol. 8 — Failure modes: repression (thesis dominates), identification (antithesis dominates), splitting (alternation without integration)
+
+---

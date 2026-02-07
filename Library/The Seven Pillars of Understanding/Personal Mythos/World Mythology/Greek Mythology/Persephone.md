@@ -413,45 +413,8 @@ If you are the **mother** (Demeter):
 
 ---
 
+## Notes
 
 [^1]: Homeric *Hymn to Demeter* — Persephone's abduction and descent to underworld.
 
 ---
-
-## Sources
-
-### Primary Ancient Sources
-- **Homeric Hymn to Demeter** (c. 7th-6th century BCE) — foundational narrative of the abduction
-- Ovid, *Metamorphoses* (Book V, lines 341-571) — Latin version (Proserpina)
-- Orphic Hymns (Hymn 29: To Persephone, Hymn 40: To Demeter)
-- Pausanias, *Description of Greece* (Book I, II) — Eleusinian sanctuary descriptions
-
-### Eleusinian Mysteries Scholarship
-- George E. Mylonas, *Eleusis and the Eleusinian Mysteries* (1961) — definitive archaeological/historical study
-- Walter Burkert, *Ancient Mystery Cults* (1987)
-- Karl Kerényi, *Eleusis: Archetypal Image of Mother and Daughter* (1967) — Jungian-informed classical scholarship
-- R. Gordon Wasson et al., *The Road to Eleusis: Unveiling the Secret of the Mysteries* (1978) — kykeon as psychoactive sacrament theory
-
-### Jungian and Archetypal Analysis
-- C.G. Jung, *The Archetypes and the Collective Unconscious* (CW 9i, par. 306-384) — "The Psychological Aspects of the Kore" (with Karl Kerényi)
-- C.G. Jung, *Symbols of Transformation* (CW 5) — mother-daughter bond and separation
-- Erich Neumann, *The Great Mother* (1955) — Demeter-Kore as mother-daughter unity
-- Marion Woodman, *Addiction to Perfection* (1982) — Persephone and eating disorders, rape trauma
-- Sylvia Brinton Perera, *Descent to the Goddess* (1981) — comparison with Inanna descent
-- Christine Downing, *The Goddess: Mythological Images of the Feminine* (1981) — feminist re-reading
-
-### Feminist and Critical Scholarship
-- Helene P. Foley, *The Homeric Hymn to Demeter: Translation, Commentary, and Interpretive Essays* (1994)
-- Rachel Zucker, *The Pedestrians* (2014) — modern poetic re-imagining
-- Charlene Spretnak, *Lost Goddesses of Early Greece* (1978) — pre-patriarchal Persephone (debated scholarship)
-
-### Seasonal and Agricultural Context
-- James George Frazer, *The Golden Bough* (1890) — dying-rising vegetation gods
-- Mircea Eliade, *The Sacred and the Profane* (1957) — agricultural rituals and sacred time
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Homeric Hymn and classical sources). Archetypal analysis synthesized from Jungian Kore archetype (CW 9i verified) and mother-daughter unity framework. Eleusinian Mysteries details verified from Mylonas and Burkert scholarship. Rape-as-initiation theme approached with psychological nuance—NOT romanticizing literal sexual violence but addressing symbolic intrusion of unconscious. Feminist critiques acknowledged and integrated. Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

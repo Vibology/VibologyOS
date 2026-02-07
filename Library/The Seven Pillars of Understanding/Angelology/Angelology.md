@@ -295,6 +295,7 @@ False angelic presence (demonic or egoic inflation) is marked by:
 The goal is not to *become* an angel but to **participate in angelic consciousness**. Michael's courage, Gabriel's receptivity, Raphael's healing, Uriel's wisdom—these are faculties we cultivate, not identities we assume.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -319,43 +320,8 @@ The goal is not to *become* an angel but to **participate in angelic consciousne
 
 ---
 
+## Notes
+
 [^1]: Gustav Davidson, *A Dictionary of Angels, Including the Fallen Angels* (The Free Press, 1967).
 
 ---
-
-## Sources
-
-Agrippa, Heinrich Cornelius. *The Occult Philosophy* (Three Books of Occult Philosophy). 1531.
-- Three hierarchies and nine orders as "entrance to empyrean heaven"
-- Elemental categorization of angelic orders
-
-Davidson, Gustav. *A Dictionary of Angels: Including the Fallen Angels*. New York: Free Press, 1967.
-- Comprehensive source for Pseudo-Dionysian hierarchy
-- Nine orders arranged in three triads
-- Hebrew names and correspondences
-- Comparative table across authorities (Appendix)
-- Éliphas Lévi quote on angelic sparks
-
-Huxley, Aldous. *The Perennial Philosophy*. New York: Harper & Brothers, 1945.
-- Reference to Dionysius's *Celestial Hierarchies* and its influence on Western philosophy
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, 1983.
-- Angelic choir assignments to Sephiroth (Golden Dawn system)
-- Chayoth ha-Qadesh (Seraphim) → Kether
-- Aralim (Thrones) → Binah
-- Melechim (Virtues) → Tiphareth
-- Ashim (Ishim) → Malkuth
-
-**Scriptural References:**
-- Isaiah 6:1-7 (Seraphim vision)
-- Ezekiel 1, 10 (Cherubim vision)
-- Daniel 7-12 (Michael, Gabriel)
-- Tobit 3:17, 12:15 (Raphael, seven archangels)
-- Luke 1:19, 26 (Gabriel's annunciations)
-- Revelation 12:7-9 (Michael's war)
-- Jude 1:9 (Michael contending with Satan)
-
-**Secondary Sources (Referenced via Primary Texts):**
-- Pseudo-Dionysius the Areopagite, *The Celestial Hierarchy* (6th century)
-- 1 Enoch, 2 Enoch, 3 Enoch (Sefer Hekhalot)
-- 2 Esdras (4 Ezra)

@@ -661,46 +661,8 @@ The Citrinitas is the making of the Self conscious. It is the ripening of wisdom
 
 ---
 
+## Notes
 
 [^1]: C.G. Jung, *Collected Works* Vol. 12: *Psychology and Alchemy* (Princeton University Press) — Citrinitas as yellowing, solar consciousness emerging.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (Citrinitas as solar consciousness, individuation nearing completion)
-  - Vol. 14: *Mysterium Coniunctionis* (The yellowing as wisdom integration, approach to final union)
-  - Vol. 13: *Alchemical Studies* (Commentary on *The Secret of the Golden Flower*)
-- Jung, C.G. (Commentary). *The Secret of the Golden Flower* (1929). Trans. Richard Wilhelm. Harcourt. (Taoist alchemy and Citrinitas as golden flower blooming)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). (Yellowing stage following whiteness, approach to red)
-- *Aurora Consurgens* (attributed to Thomas Aquinas). (Solar imagery, golden dawn, wisdom arising)
-- *The Chemical Wedding of Christian Rosenkreutz* (1616). Johann Valentin Andreae. (Yellow/gold symbolism in Rosicrucian alchemy)
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Citrinitas as solar stage, rare in some alchemical sequences)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Yellowing symbolism when present)
-
-**Taoist and Buddhist Sources:**
-- Wilhelm, Richard (trans.). *The Secret of the Golden Flower: A Chinese Book of Life* (1929). (Taoist golden flower meditation, solar embryo, immortal body)
-- Buddhist sources on golden body (Nirmanakaya, enlightenment as ripening, Hiranyagarbha - golden womb)
-
-**Mythological Sources:**
-- Greek: Apollo (solar wisdom), Golden Fleece (wisdom quest), Athena's birth (wisdom from head of Zeus)
-- Egyptian: Eye of Ra (solar consciousness), Khepri (dawn god, becoming)
-- Hindu: Hiranyagarbha (golden cosmic womb), Buddha's golden body
-- Chinese: Yellow Emperor (central wisdom), Golden Flower
-- Norse: Golden Apples of Idunn (immortality), Odin's wisdom
-
-**Fairy Tales:**
-- Rumplestiltskin (false gold vs. true gold)
-- Beauty and the Beast (golden heart recognition)
-- The Golden Goose
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Sun astrology, 5th/9th Houses, Leo, Solar Plexus/Spleen HD centers, Sun/Temperance Tarot, Gate 55, Raphael/Michael angelology, Tiphareth Qabalah) represent Vibology's integration of verified alchemical Citrinitas patterns across seven-pillar framework.
 
 ---

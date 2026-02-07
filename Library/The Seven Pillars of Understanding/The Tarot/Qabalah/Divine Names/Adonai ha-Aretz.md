@@ -134,20 +134,16 @@ The Shekinah's exile — the Zoharic teaching that the Divine Presence has been 
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — The distinction between the written name YHVH (transcendent, unpronounced) and the spoken name Adonai (immanent, always substituted in liturgical reading). Malkuth as the realm of the spoken/manifest God.
+
 [^2]: Zohar — Malkuth as the Shekinah, the "Lord of all the earth" (Joshua 3:11), the Divine Feminine as sovereign over the physical realm.
+
 [^3]: Zohar — The sacred marriage (*zivvug*) of Tiphareth (the Blessed Holy One) and Malkuth (the Shekinah), the restoration of unity as the goal of creation.
+
 [^4]: Jung, CW 11 (*Psychology and Religion*) — The reality of psychic experience; the insistence that psychological facts are *facts*, not mere epiphenomena of material processes.
+
 [^5]: Jung, CW 14 (*Mysterium Coniunctionis*) — The *anima mundi* (world-soul) and the alchemical project of redeeming the *lumen naturae* (light of nature) scattered in matter.
 
 ---
-
-## Sources
-
-- **The Zohar** — Primary source for the Shekinah theology, the written/spoken name distinction, and the sacred marriage of Tiphareth and Malkuth
-- **Jung, CW 11 (*Psychology and Religion*)** — The reality of psychic experience as parallel to the Qabalistic insistence on Malkuth's reality
-- **Jung, CW 14 (*Mysterium Coniunctionis*)** — The *anima mundi* concept paralleling the exiled Shekinah
-- **Israel Regardie, *The Middle Pillar*** — The Middle Pillar Exercise using Adonai ha-Aretz at the fifth station
-- **Golden Dawn tradition** — LBRP quarter assignments and ritual use of Adonai at the South

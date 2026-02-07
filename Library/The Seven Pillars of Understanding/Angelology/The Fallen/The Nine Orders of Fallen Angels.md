@@ -354,31 +354,30 @@ For **humans** who struggle with demonic influence (internal or external), the p
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Heywood, Thomas. *The Hierarchie of the Blessed Angells*. London: Adam Islip, 1635. Book 7, lines 18543-18544.
+
 [^2]: Isaiah 14:12-15 (Lucifer's fall); Ezekiel 28:12-17 (King of Tyre as metaphor for Lucifer); Luke 10:18 (Jesus: "I saw Satan fall like lightning from heaven"); Revelation 12:7-9 (War in Heaven).
+
 [^3]: Heywood, *Hierarchie*, Book 7, lines 18543-18544.
+
 [^4]: Heywood, *Hierarchie*, Book 7, lines 18546-18547.
+
 [^5]: Heywood, *Hierarchie*, Book 7, lines 18561-18563.
+
 [^6]: Heywood, *Hierarchie*, Book 7, lines 18565-18567.
+
 [^7]: Heywood, *Hierarchie*, Book 7, lines 18570-18571.
+
 [^8]: Heywood, *Hierarchie*, Book 7, lines 18573-18576.
+
 [^9]: Heywood, *Hierarchie*, Book 7, lines 18578-18580.
+
 [^10]: Heywood, *Hierarchie*, Book 7, lines 18584-18586.
+
 [^11]: Heywood, *Hierarchie*, Book 7, lines 18590-18591.
+
 [^12]: Heywood, *Hierarchie*, Book 7, lines 18593-18594.
 
-### Vibology Synthesis Notes
-
-The following content represents original synthesis and interpretation not found in primary sources:
-- All Jungian psychological parallels (shadow work, possession, inner demons)
-- Modern manifestations and examples (cancel culture, propaganda, addiction patterns)
-- Integration practices and discernment tests
-- Philosophical analysis of evil as "privation of good" (Augustinian theology applied to structure)
-- Redemption path (five-step process for working with demonic influence)
-- Question of apokatastasis (Origen's universal restoration applied to demons)
-
 ---
-
-*"The demons are not formless horrors lurking in darkness—they are the heavenly hosts with their faces turned away from God. They retain their intelligence, their order, their specialized power. But where once they mediated divine love, they now mediate divine absence. To know their structure is not to fear them more, but to recognize them when they whisper—and to refuse their counsel."*

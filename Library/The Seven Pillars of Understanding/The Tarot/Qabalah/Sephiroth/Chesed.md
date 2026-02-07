@@ -104,19 +104,14 @@ The danger is institutional sclerosis — maintaining structures beyond their us
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Zohar — Chesed as the "right arm" of the divine body (*Zer Anpin*), the arm that embraces, builds, and extends blessing into the lower worlds.
+
 [^2]: Sefer Yetzirah — Chesed as the "Cohesive Intelligence" (*Sekhel Qavua*), the power that gives structure persistence and holds creation together.
+
 [^3]: Dion Fortune, *The Mystical Qabalah* — Chesed as the first manifest Sephirah below the Abyss, where abstract principle becomes concrete plan; the builder king whose mercy is structural.
+
 [^4]: Jung, CW 5 (*Symbols of Transformation*) — The positive father archetype as the principle of order, law, and protection; the wise king who builds the city.
 
 ---
-
-## Sources
-
-- **The Zohar** — Chesed as the "right arm" of the divine body (*Zer Anpin*); the first day of manifest creation below the Abyss
-- **Sefer Yetzirah** — Chesed as the "Cohesive Intelligence" (*Sekhel Qavua*), the power that gives structure persistence
-- **Dion Fortune, *The Mystical Qabalah*** — Chesed as the first manifest Sephirah below the Abyss; the builder king whose mercy is structural
-- **Robert Wang, *The Qabalistic Tarot*** — The Fours as stability and Chesed's architectural gift; Jupiter as sustainable expansion
-- **Jung, CW 5 (*Symbols of Transformation*)** — The positive father archetype as the principle of order, law, and protection

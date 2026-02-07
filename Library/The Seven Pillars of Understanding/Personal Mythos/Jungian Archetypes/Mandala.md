@@ -135,22 +135,8 @@ The mandala is active when you:
 
 ---
 
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *Archetypes and the Collective Unconscious* (CW 9i), §§542, 627-712 — "Concerning Mandala Symbolism"
-- Jung, C.G. *Psychology and Alchemy* (CW 12), §§124 ff. — squaring the circle
-- Jung, C.G. *Commentary on "The Secret of the Golden Flower"* (CW 13) — Eastern mandala practice and Jungian psychology
-- Jung, C.G. *Memories, Dreams, Reflections*, ch. 7 — personal mandala experience
-- Jung, C.G. *The Red Book* (*Liber Novus*) — mandala paintings from the confrontation with the unconscious
-
-**Cross-Cultural Sources:**
-- Tucci, G. *The Theory and Practice of the Mandala* — Tibetan Buddhist mandala tradition
-- Eliade, M. *The Sacred and the Profane* — the temenos, sacred space, and the center
-- Lawlor, R. *Sacred Geometry* — geometric foundations of mandala structure
+## Notes
 
 [^1]: Jung, CW 9i, §627-712 ("Concerning Mandala Symbolism")
 
 ---
-
-*Created 2026-02-07. Part of the Jungian Archetypes collection within [[Personal Mythos]].*

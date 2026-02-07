@@ -193,7 +193,7 @@ The **loosing of the bond** is the zodiacal equivalent of a psychological **brea
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 18: Zodiacal releasing (*aphesis*) as one of the most powerful timing techniques recovered from the Hellenistic tradition. Technique divides life into chapters and paragraphs governed by successive signs.
 
@@ -220,3 +220,5 @@ The **loosing of the bond** is the zodiacal equivalent of a psychological **brea
 [^12]: Brennan, Ch 18; Valens, *Anthology* Book 4: The foreshadowing principle — events before the loosing are promised but not completed; events after the jump bring fulfillment or completion of those themes.
 
 [^13]: Valens, *Anthology* Book 4: Emphasis on benefic/malefic enclosure of the time-lord sign. Signs configured with Jupiter/Venus indicate ease; signs configured with Saturn/Mars indicate struggle.
+
+---

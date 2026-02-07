@@ -467,7 +467,9 @@ The willingness to say *"Let it be"* even when the calling is terrifying, even w
 The individual becomes a **channel** through which divine will flows into the world. Not as a grandiose guru, but as a humble servant who speaks what must be spoken, does what must be done, and steps aside when the message has been delivered.
 
 ---
+
 ## Cross-References
+
 ### Within Angelology
 - [[The Three Triads]] (Archangels belong to the Third Triad)
 - [[Seraphim]] | [[Cherubim]] | [[Thrones]] (First Triad)
@@ -486,34 +488,8 @@ The individual becomes a **channel** through which divine will flows into the wo
 
 ---
 
+## Notes
 
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Archangels as divine messengers.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius on Archangels as bearers of divine decrees: referenced in text
-- Archangels as "divine messengers" in hierarchy: p. 55-56
-
-**Wang, Robert.** *The Qabalistic Tarot: A Textbook of Mystical Philosophy.* Weiser Books, 1983.
-- Hod angelic choir: Beni Elohim ("Sons of God")
-- Mercury/Hod correspondence for Archangels
-
-**The Bible** (New International Version, English Standard Version)
-- Luke 1:26-38: Gabriel's Annunciation to Mary
-- Daniel 8:15-17, 9:21-23, 10:5-14: Gabriel's revelations to Daniel
-- Revelation 12:7-9: Michael's war in heaven
-- Jude 1:9: Michael disputing with Satan over Moses' body
-- 1 Thessalonians 4:16: Archangel's voice at the resurrection
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Archangels as divine messengers bearing decrees (referenced in text)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Sacral Center, Mercury/Hod associations, Tarot Magician/Eights, Jungian individuated will) represent original integrative frameworks developed for this system. The Sacral Center correspondence (life force, response, generative power) synthesizes Human Design mechanics with angelic hierarchy.*
-
----
-
-*"The Archangels do not speak often, but when they do, they speak with the authority of the Divine. To hear them is to stand at the threshold between what was and what must be. To answer them is to step through."*
-

@@ -374,6 +374,7 @@ The card does not answer this question. It simply presents the figure on the bat
 ---
 
 ## Cross-References
+
 ### Adjacent Cards in Suit
 - [[Ace of Wands]] - The preceding gift: divine creative fire offered
 - [[Three of Wands]] - The following fruit: early success, ships sailing
@@ -423,26 +424,14 @@ The card does not answer this question. It simply presents the figure on the bat
 
 ---
 
-*"Authority is not inherited—it is claimed, and then perpetually re-earned."*
-
-## Footnotes
+## Notes
 
 [^1]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — upright divinatory meanings for the Two of Wands
+
 [^2]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — Golden Dawn title "Lord of Dominion" and attribution of Mars in Aries for the Two of Wands
+
 [^3]: A.E. Waite, *The Pictorial Key to the Tarot* (William Rider & Son, 1910) — reversed divinatory meanings for the Two of Wands
+
 [^4]: Robert Wang, *The Qabalistic Tarot* (Samuel Weiser, 1983) — sephirotic placement of the Two of Wands as Chokmah (Wisdom) in the world of Atziluth
 
-## Sources
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-Interpretive commentary sections (RWS symbolism analysis, synthesis notes, personal observations) represent original Vibology Synthesis anchored to verified source material.
 ---

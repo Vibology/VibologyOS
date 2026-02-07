@@ -767,6 +767,7 @@ You embody **Netzach**—the triumph of life over entropy, the persistence of vi
 To integrate the Principalities is to become the **conscious participant in collective consciousness**—honoring belonging without losing sovereignty, protecting identity without excluding the "other," serving the collective's highest purpose while contributing unique individual gifts.
 
 ---
+
 ## Cross-References
 
 ### Within Angelology
@@ -836,31 +837,8 @@ To integrate the Principalities is to become the **conscious participant in coll
 
 ---
 
+## Notes
 
 [^1]: Pseudo-Dionysius, *The Celestial Hierarchy* (6th century) — Principalities as angels of nations and groups.
 
 ---
-
-## Sources
-
-**Davidson, Gustav.** *A Dictionary of Angels: Including the Fallen Angels.* Free Press, 1967.
-- Pseudo-Dionysius on Principalities possessing "princely and truly royal authority": p. 233
-- Principalities' capacity to lead others in "divinely befitting order": p. 233
-
-**The Bible** (New International Version, English Standard Version)
-- Colossians 1:16: Naming of Principalities (*archai*)
-- Ephesians 1:21: Christ's supremacy over all principalities
-- Ephesians 3:10: Wisdom of God made known to principalities and powers
-- Ephesians 6:12: Spiritual warfare against rulers and authorities
-- Daniel 10:13, 10:20: Prince of Persia and Prince of Greece (angelic princes over nations)
-- Deuteronomy 32:8: God dividing nations according to number of divine beings
-
-**Pseudo-Dionysius the Areopagite.** *The Celestial Hierarchy* (6th century, cited via Davidson)
-- Principalities possess "princely and truly royal authority" (Davidson, p. 233)
-- Principalities lead others in "divinely befitting order" (Davidson, p. 233)
-
-> *Vibology Synthesis: Cross-system correspondences (Human Design Spleen Center, Venus/Netzach associations, Tarot Empress/Sevens, Jungian collective unconscious) represent original integrative frameworks developed for this system. The Spleen Center correspondence (survival instincts, tribal belonging, immune system) synthesizes Human Design mechanics with angelic hierarchy. Mythological parallels (Athena Polias, Tutelary deities) are comparative analysis, not direct citations from primary angelology sources.*
-
----
-
-*"The Principalities are the shepherds of nations, the guardians of collective identity, the architects of belonging. They do not rule through force but through the magnetic pull of shared purpose, the warmth of cultural coherence, the vitality of a people united in love. They whisper: 'You are both individual and part of the whole. Honor your collective. Serve its highest purpose. Contribute your unique gifts. But do not lose yourself in the merging. Belong consciously. Protect identity without excluding the other. Let the spirit of your people be aligned with divine will, and you will know the victory—not of conquest, but of life enduring, thriving, flowering across generations.'"*

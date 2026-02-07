@@ -867,44 +867,10 @@ The Trickster appears in dreams with specific motifs:
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i, par. 472. Princeton University Press.
 
 [^2]: Jung, C.G. *The Archetypes and the Collective Unconscious*. Collected Works Vol. 9i, par. 465. Princeton University Press.
 
-**Additional References:**
-
-- Jung, C.G. *Symbols of Transformation*. Collected Works Vol. 5. Princeton University Press. (Mercurius, trickster symbolism)
-- Jung, C.G. *Alchemical Studies*. Collected Works Vol. 13. Princeton University Press. (The spirit Mercurius as trickster)
-- Jung, C.G. *Psychology and Alchemy*. Collected Works Vol. 12. Princeton University Press. (Mercurius as transformative agent)
-- Radin, Paul. *The Trickster: A Study in American Indian Mythology*. With commentary by C.G. Jung and Karl Kerényi. Schocken Books, 1972. (Definitive study with Jung's essay on the trickster)
-- Hyde, Lewis. *Trickster Makes This World: Mischief, Myth, and Art*. Farrar, Straus and Giroux, 1998. (Cultural anthropology of trickster figures)
-- von Franz, Marie-Louise. *Puer Aeternus*. Sigo Press, 1970. (Trickster as shadow of eternal youth)
-- Hillman, James. *Senex and Puer*. Spring Publications, 1979. (Trickster disrupting Senex rigidity)
-- Hillman, James. *A Blue Fire*. Harper & Row, 1989. (Essays on trickster consciousness, archetypal psychology)
-- Bly, Robert. *Iron John: A Book About Men*. Addison-Wesley, 1990. (Wild Man, fool energy in men's development)
-- Moore, Robert and Douglas Gillette. *King, Warrior, Magician, Lover*. HarperCollins, 1990. (Magician archetype includes trickster shadow)
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949. (Trickster as threshold guardian, shapeshifter)
-- Eliade, Mircea. *Shamanism: Archaic Techniques of Ecstasy*. Princeton University Press, 1964. (Shaman as boundary-crosser, psychopomp)
-- Turner, Victor. *The Ritual Process: Structure and Anti-Structure*. Aldine Publishing, 1969. (Liminality, threshold states, communitas)
-- Mythology sources:
-  - Greek: Homeric Hymns (Hermes), Euripides' *The Bacchae* (Dionysus), Homer's *Odyssey* (Odysseus)
-  - Norse: *Poetic Edda*, *Prose Edda* (Snorri Sturluson)—Loki mythology
-  - Egyptian: Seth/Set mythology, conflict with Horus
-  - West African: Gates, Henry Louis Jr., *The Signifying Monkey: A Theory of African-American Literary Criticism*. Oxford University Press, 1988. (Edshu/Legba analysis)
-  - Native American: Radin, Paul. *The Trickster: A Study in American Indian Mythology*. (Winnebago trickster cycle)
-  - Native American: Erdoes, Richard and Alfonso Ortiz, eds. *American Indian Trickster Tales*. Viking, 1998. (Coyote, Raven, Spider)
-  - Hindu: Wendy Doniger. *The Hindus: An Alternative History*. Penguin, 2009. (Krishna as trickster-god)
-- Grimm, Jacob and Wilhelm. *The Complete Grimms' Fairy Tales*. Pantheon Books, 1972. (Puss in Boots, The Brave Little Tailor, The Golden Goose, Rumpelstiltskin)
-- von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996. (Trickster motifs in folklore)
-- von Franz, Marie-Louise. *Shadow and Evil in Fairy Tales*. Spring Publications, 1974. (Shadow trickster figures)
-- Bakhtin, Mikhail. *Rabelais and His World*. Trans. Helene Iswolsky. Indiana University Press, 1984. (Carnival, the carnivalesque, sacred parody)
-- Welsford, Enid. *The Fool: His Social and Literary History*. Faber & Faber, 1935. (Court jester, sacred fool tradition)
-- Willeford, William. *The Fool and His Scepter: A Study in Clowns and Jesters and Their Audience*. Northwestern University Press, 1969.
-- Dostoevsky, Fyodor. *The Idiot*. Trans. Richard Pevear and Larissa Volokhonsky. Vintage Classics, 2003. (Prince Myshkin as holy fool)
-- Shakespeare, William. *King Lear*. (The Fool as truth-teller)
-- Twain, Mark. *The Adventures of Huckleberry Finn*. (Huck as American trickster)
-- Kesey, Ken. *One Flew Over the Cuckoo's Nest*. Viking Press, 1962. (McMurphy as institutional trickster)
-- Watts, Alan. *The Way of Zen*. Pantheon Books, 1957. (Zen humor, sacred absurdity, beginner's mind)
-- Suzuki, Shunryu. *Zen Mind, Beginner's Mind*. Shambhala, 1970. (Shoshin, innocent perception)
+---

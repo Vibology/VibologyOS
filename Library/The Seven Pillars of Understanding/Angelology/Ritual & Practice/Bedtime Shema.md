@@ -251,42 +251,28 @@ Sleep is not unconsciousness—it is **deep consciousness**, where the instrumen
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Jewish liturgical tradition — Bedtime Shema (*Kriat Shema al HaMitah*) as protective prayer before sleep, invoking divine care and angelic guardianship
+
 [^2]: Traditional liturgical text — Shema (Deuteronomy 6:4), angelic invocation (Michael right, Gabriel left, Uriel front, Raphael back, Shekinah above), confession/forgiveness, Psalm 91
+
 [^3]: Talmud (*Berakhot* 60b) — Blessings for transitional moments; sleep as minor death (1/60 of death), waking as minor resurrection
+
 [^4]: Medieval Kabbalah — Nocturnal dangers (soul ascends, body vulnerable, demons/shedim roam, Lilith preys on sleepers); four archangels as guardians, Shekinah as protective canopy
+
 [^5]: Body-centered orientation — Archangels surround body (not compass directions); portable protection regardless of bed orientation/location; contrast with ceremonial magic compass-oriented systems
+
 [^6]: Jewish folklore, Kabbalah — Lilith as night demon (Adam's first wife, child-killer, succubus); Bedtime Shema wards through Shekinah (holy feminine vs. demonic feminine), archangels, divine names
+
 [^7]: Jungian interpretation — Sleep as ego-death rehearsal, nightly dissolution of waking consciousness; archangels as psychological guardians (Michael defense, Gabriel intuition, Uriel grounding, Raphael healing); Shekinah as Self providing protective canopy
+
 [^8]: Observatory/psychoid interpretation — Sleep as descent to psychoid layer (unus mundus); subject-object split dissolves; Bedtime Shema provides safe passage, archangels guard threshold, ensures soul's return at dawn
 
 ---
-
-## See Also
-- [[The Four Quarters]] — Elemental directions (body-centered variant used in Bedtime Shema)
-- [[The Four Archangels of the Quarters]] — Michael, Gabriel, Uriel, Raphael as guardians
-- [[Michael]] — Right hand, strength and protection
-- [[Gabriel]] — Left hand, revelation and intuition
-- [[Uriel]] — Front, grounding and illumination
-- [[Raphael]] — Behind, healing and safe passage
-- [[Shekinah]] — Divine feminine presence hovering above
-- [[Lesser Banishing Ritual of the Pentagram]] — Complementary practice (clears room; Bedtime Shema protects body)
-- [[Contemplative Prayer]] — Morning bookend to evening Bedtime Shema
-- [[Ego-Death]] — Sleep as nightly rehearsal of ego dissolution
-- [[Psychoid Archetype]] — Sleep as descent to psychoid layer/unus mundus
-- [[The Shadow]] — Nocturnal dangers as shadow material; archangels prevent overwhelming
-- [[Lucifer]] / [[Lilith]] — Night demons warded by Bedtime Shema
-- [[Active Imagination]] — Dream work enhanced by pre-sleep angelic invocation
-
----
-
-## Sources
-
-- Talmud, Tractate *Berakhot* 60b. Blessings for transitional moments; sleep as one-sixtieth of death.
-- Deuteronomy 6:4. The Shema as central declaration of Jewish faith.
-- Psalm 91. The psalm of protection, traditionally recited as part of the Bedtime Shema.
-- Zohar and medieval Kabbalistic literature. Nocturnal dangers, Lilith as night demon, four archangels as guardians, Shekinah as protective canopy.
-- Jewish liturgical tradition (*Siddur*). Standard text of the *Kriat Shema al HaMitah* including angelic invocation and confession.
-- Jung, C.G. On the psychoid layer and ego-dissolution during sleep. Psychological interpretation of the protective function.

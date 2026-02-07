@@ -181,6 +181,7 @@ The Fool doesn't *choose* where to step—he simply steps. The [[G Center]]'s Ma
 ---
 
 ## Cross-References
+
 - [[The Magician (I)]] - The One that follows Zero
 - [[The World (XXI)]] - The completion that returns to beginning; shares Ajna-Sacral correspondence
 - **Human Design (Canonical):** [[Ajna]] Center and [[Sacral]] Center — See "Cross-System Synthesis: Human Design" above
@@ -192,25 +193,8 @@ The Fool doesn't *choose* where to step—he simply steps. The [[G Center]]'s Ma
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright meanings: folly, mania, extravagance, intoxication, delirium, frenzy, bewrayment; reversed meanings: negligence, absence, distribution, carelessness, apathy, nullity, vanity.
-
-### Primary Sources (Uploaded to Esoteric Grimoire)
-
-- Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910.
-- Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983.
-
-### Secondary Sources (Referenced via Primary Sources)
-
-- Crowley, Aleister. *The Book of Thoth*. New York: Samuel Weiser, Inc., 1974. (Originally published in *The Equinox*, Vol. III, No. V, 1944) — Referenced via Wang 1983
-
-### Vibology Synthesis Notes
-
-**Rider-Waite Symbolism Deep Dive:** Interpretive commentary on RWS deck imagery represents original Vibology Synthesis anchored to visual analysis.
-
-**Fool's Journey Architecture:** The narrative framework of The Fool as protagonist experiencing all 22 Major Arcana represents archetypal synthesis across the pillar.
-
-**Folklore Connections:** Romanian (Fat-Frumos) and Navajo references represent cross-cultural Personal Mythos integration.
 
 ---

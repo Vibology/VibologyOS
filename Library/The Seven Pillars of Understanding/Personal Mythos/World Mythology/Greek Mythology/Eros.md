@@ -150,28 +150,8 @@ The Eros archetype is active when you:
 
 ---
 
-## Sources
-
-**Primary Texts:**
-- Hesiod, *Theogony*, 116-122 (primordial Eros)
-- Orphic Hymns (Protogonos/Phanes)
-- Plato, *Symposium* (Diotima's speech, Aristophanes' myth)
-- Apuleius, *The Golden Ass* 4-6 (Eros and Psyche)
-- Parmenides, fr. 13 (Eros as first god created by Aphrodite)
-
-**Mythological Encyclopedias:**
-- Graves, R. *The Greek Myths* (Eros sections)
-- Kerényi, K. *The Gods of the Greeks* (Eros chapter)
-
-**Psychological and Archetypal Analysis:**
-- Neumann, E. *Amor and Psyche: The Psychic Development of the Feminine* (1956) — definitive Jungian reading
-- Jung, C.G. *Collected Works*, Vol. 9ii, §29 (Eros and Logos)
-- von Franz, M.-L. *The Golden Ass of Apuleius* — Jungian interpretation
-- Bolen, J.S. *Gods in Everyman* (Eros chapter)
-- Hillman, J. *The Myth of Analysis* (Eros and psyche)
+## Notes
 
 [^1]: Neumann, E. *Amor and Psyche: The Psychic Development of the Feminine* (1956)
 
 ---
-
-*Created 2026-02-07. Part of the Greek Mythology collection within [[Personal Mythos]].*

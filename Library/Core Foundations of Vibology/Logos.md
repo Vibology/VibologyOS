@@ -173,6 +173,7 @@ Greene connects the sign of Leo and the god Apollo to the "realm of Logos," repr
 - Balancing [[The Animus]] (Logos) with [[The Anima]] (Eros) for wholeness
 
 ---
+
 ## Cross-References
 
 ### Within Core Foundations
@@ -188,52 +189,19 @@ Greene connects the sign of Leo and the god Apollo to the "realm of Logos," repr
 - **[[Angelology]]:** [[Dominations]] (enforcement of cosmic law/Logos)
 
 ---
-## Footnotes
+
+## Notes
 
 [^1]: Agrippa, Heinrich Cornelius. *The Occult Philosophy or Magic* (Hahn & Whitehead, 1898), p. 147 — Greek *logos* as reason, speech, word; distinction between "internal word" and "uttered word."
+
 [^2]: Wang, Robert. *The Qabalistic Tarot* (Samuel Weiser, 1983), p. 242 — Heraclitus' Logos as "Divine Fire which stimulated and maintained order."
+
 [^3]: Greene, Liz. *The Astrology of Fate* (Samuel Weiser, 1984), p. 19 — Heraclitus on the sun and cosmic law governed by the Erinyes.
+
 [^4]: Campbell, Joseph. *The Hero with a Thousand Faces* (Princeton University Press, 2004), p. 18 — "Elementary Ideas" identified with Stoic *Logoi spermatikoi* (Seed-Words).
+
 [^5]: Bourgeault, Cynthia. *The Meaning of Mary Magdalene* (Shambhala, 2010), p. 154 — Logos as the masculine synonym for Sophia; "wisdom minus the feminine personification."
+
 [^6]: Jung, C.G. *Memories, Dreams, Reflections* (Vintage Books, 1989), p. 306 — Elijah as Logos and Salome as Eros; conscious/unconscious dynamics in men and women.
 
 ---
-
-## Sources
-
-**Primary Sources (Verified via Esoteric Grimoire):**
-
-Jung, Carl Gustav. *Memories, Dreams, Reflections*. Translated by Richard and Clara Winston. New York: Vintage Books, 1989.
-- p. 153: Eros vs. power drive
-- p. 306: Elijah (Logos) and Salome (Eros); conscious/unconscious dynamics in men and women
-- p. 353: Eros as *kosmogonos*, father-mother of higher consciousness
-
-Campbell, Joseph. *The Hero with a Thousand Faces* (Commemorative Edition). Princeton: Princeton University Press, 2004.
-- p. 18: Elementary Ideas identified with Stoic *Logoi spermatikoi*
-- p. 26: Heraclitus on harmony of opposites
-
-Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, ME: Samuel Weiser, Inc., 1983.
-- p. 242: Heraclitus' Logos as Divine Fire; Stoic Logos as all-pervading force; Simonian Gnostics and Logos as link to Tiphareth
-
-Bourgeault, Cynthia. *The Meaning of Mary Magdalene: Discovering the Woman at the Heart of Christianity*. Boston: Shambhala Publications, 2010.
-- pp. 154-156: John 1:1, 1:14 (NRSV); Logos as masculine synonym for Sophia; Philo's synthesis of Hebrew Word and Greek Logos
-
-Agrippa, Heinrich Cornelius. *The Occult Philosophy or Magic*. Chicago: Hahn & Whitehead, 1898.
-- p. 88 note: Heraclitus and fire as first principle
-- p. 147: Greek *logos* as reason, speech, word; internal vs. uttered word
-
-Greene, Liz. *The Astrology of Fate*. York Beach, ME: Samuel Weiser, Inc., 1984.
-- p. 19: Heraclitus on sun and cosmic law
-- pp. 32, 210: Leo, Apollo, and the realm of Logos
-
-Von Franz, Marie-Louise. *The Feminine in Fairy Tales*. Boston: Shambhala Publications, 1993.
-- pp. 138-139: Logos principle (mathematical, abstract) vs. Feminine principle (detailed, specific)
-
-Huxley, Aldous. *The Perennial Philosophy*. London: Chatto & Windus, 1946.
-- pp. 59-60, 246: Eternal Gospel and Logos incarnate in the Fourth Gospel
-
-> *Vibology Synthesis: Marcus Aurelius' Meditations (Book 4.4) and Heraclitus' Fragments (DK B1, B2, B50) are cited as secondary references via the verified sources above. Philo of Alexandria's Logos theology is confirmed via Bourgeault and Grimoire sources.*
-
----
-
-*"The Logos is eternal, yet humans fail to comprehend it—both before hearing it and once they have heard. Although all things happen according to this Logos, people act as if they have no experience of it."* — Heraclitus (via Wang, Campbell, Greene)

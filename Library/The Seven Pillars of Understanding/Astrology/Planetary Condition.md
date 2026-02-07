@@ -278,7 +278,7 @@ A Mars in Cancer (fall, no essential dignity) in a day chart (out of sect), unde
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 14: "Bonification and Maltreatment." Reconstruction of Antiochus's lost definitions via Porphyry and Rhetorius.
 
@@ -311,3 +311,5 @@ A Mars in Cancer (fall, no essential dignity) in a day chart (out of sect), unde
 [^15]: Brennan, Ch 14: Spear-bearing (*doryphory*) — planets attending the luminaries as indicators of eminence.
 
 [^16]: Antiochus and Porphyry on void of course (*kenodromia*): Moon not applying within 30°. Differs from Lilly's definition (end of sign). Brennan, Ch 14.
+
+---

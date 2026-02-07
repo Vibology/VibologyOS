@@ -675,19 +675,12 @@ Western heroic narratives privilege the **masculine Mentor** (Obi-Wan, Gandalf).
 
 **Final Reflection**: The Mentor is not the destination but the **bridge**—the one who stands at the threshold and says, *"You are ready. Here is what you need. Go."* The gift is not the sword, the spell, or the teaching itself—it is the **permission to claim your own authority**. The Mentor knows what the hero cannot yet see: that the wisdom sought externally is already present within, waiting to be awakened. The encounter is the spark; the journey is the fire.
 
+---
 
-## Footnotes
+## Notes
 
 [^1]: Joseph Campbell, *The Hero with a Thousand Faces* (Princeton University Press, 1949) — monomyth framework, 12-stage Hero's Journey structure, and direct quotations on Meeting the Mentor as Stage 4 and the protective figure archetype.
+
 [^2]: C.G. Jung, *The Collected Works of C.G. Jung*, particularly Vol. 9i *The Archetypes and the Collective Unconscious* (the Wise Old Man archetype, projected Self, Anima/Animus dynamics) and Vol. 14 *Mysterium Coniunctionis* (contrasexual teaching) — Jungian archetypal framework linking the Mentor to the individuation process.
-
-## Sources
-
-- Campbell, Joseph. *The Hero with a Thousand Faces*. Princeton University Press, 1949.
-- Jung, C.G. *The Collected Works of C.G. Jung*. Volumes 5 (Symbols of Transformation), 9i (The Archetypes and the Collective Unconscious), 9ii (Aion), 12 (Psychology and Alchemy), 14 (Mysterium Coniunctionis).
-- Vogler, Christopher. *The Writer's Journey: Mythic Structure for Writers*. Michael Wiese Productions, 1992.
-- Von Franz, Marie-Louise. *The Interpretation of Fairy Tales*. Shambhala, 1996.
-- Eliade, Mircea. *The Sacred and the Profane: The Nature of Religion*. Harcourt, 1959.
-- Cross-system correspondences (Tarot, Astrology, Human Design, I-Ching, Qabalah) are original synthesis integrating multiple esoteric frameworks.
 
 ---

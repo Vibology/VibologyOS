@@ -267,61 +267,36 @@ The Observatory does not ask: *"Are the archangels real?"* It asks: *"What do th
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Golden Dawn materials — Four Archangels of Quarters as elemental guardians (Raphael East/Air, Michael South/Fire, Gabriel West/Water, Uriel North/Earth); protective mandala establishing sacred space
+
 [^2]: LBRP invocation — "Before me Raphael, Behind me Gabriel, On my right hand Michael, On my left hand Uriel, For about me flames the Pentagram, And in the column stands the six-rayed Star"
+
 [^3]: Elemental correspondence — Raphael/Air (breath, intellect, healing), Michael/Fire (will, transformation, defense), Gabriel/Water (emotion, intuition, unconscious), Uriel/Earth (physicality, grounding, stability)
+
 [^4]: Ezekiel 1:10, Revelation 4 — Four Living Creatures (Man/Lion/Eagle/Bull) as cherubim throne-bearers; correspond to Four Archangels and fixed zodiac signs (Aquarius/Leo/Scorpio/Taurus)
+
 [^5]: LBRP protocol — Body-centered orientation (practitioner faces East); angels invoked relative to body position; establishes practitioner as axis mundi (vertical column, horizontal balance)
+
 [^6]: Variant attributions — Golden Dawn (Raphael E, Michael S, Gabriel W, Uriel N); Heptameron (Michael E, Raphael W, Gabriel N, Uriel S); Dürer (Michael E, Gabriel N, Raphael W, Uriel S); Hebraic (body-centered: Michael right, Gabriel left, Uriel front, Raphael back)
+
 [^7]: Heptameron (Peter de Abano, c. 1496) — Medieval grimoire placing Michael in East (solar prince at rising sun), Raphael in West (Mercury at setting sun); prioritizes solar theology over elemental correspondence
+
 [^8]: Hebraic amulet tradition, Bedtime Shema — Body-centered system (right/left/front/back, not compass directions), portable protection, functional roles (strength/intuition/illumination/healing) vs. elemental assignments
+
 [^9]: Enochian Watchtowers (John Dee, 16th c.) — Four elemental hierarchies (Air/Water/Earth/Fire Tables) governed by Four Archangels; Golden Dawn mapped Watchtowers to LBRP system; invoking archangel invokes entire elemental legion
+
 [^10]: Elemental balance function — Without invocation: excess Air (overthinking), Fire (burnout), Water (flooding), Earth (rigidity); with invocation: quaternary balance (all four functions active)
+
 [^11]: Jungian parallel — Four functions (Thinking/Intuition/Feeling/Sensation) correspond to four elements (Air/Fire/Water/Earth); quaternary ritual prevents neurotic one-sidedness, forces acknowledgment of all functions
+
 [^12]: Observatory interpretation — Four Archangels as perceptual grid organizing experience; invoking Four creates internal compass for elemental discernment; results: balanced action/waiting, clear thinking without losing grounding, emotional processing without dissociation, synchronistic protection
 
 ---
-
-## See Also
-
-### Within Angelology
-- [[Raphael]] — Archangel of East/Air, healing and intellect
-- [[Michael]] — Archangel of South/Fire, protection and will
-- [[Gabriel]] — Archangel of West/Water, intuition and emotion
-- [[Uriel]] — Archangel of North/Earth, grounding and wisdom
-- [[The Seven Angels Who Stand Before the Throne]] — The Four are subset of the Seven Presence Angels
-- [[The Seven Planetary Archangels]] — Planetary/temporal system (vs. Four's spatial/elemental system)
-- [[Lesser Banishing Ritual of the Pentagram]] — Elaborate form invoking the Four
-- [[The Four Quarters]] — Elemental directions system (complete ritual context)
-- [[Bedtime Shema]] — Jewish protective prayer using body-centered variant
-- [[Enochian Tradition]] — Watchtowers system governed by Four Archangels
-
-### Scriptural & Traditional Sources
-- **Ezekiel 1:10** — Four Living Creatures (Man/Lion/Eagle/Bull)
-- **Revelation 4** — Four creatures around the throne
-- **Heptameron** (Peter de Abano, c. 1496) — Medieval variant attributions
-- **Golden Dawn materials** — Canonical modern system
-
-### Within Astrology & Qabalah
-- Fixed Signs — Aquarius/Leo/Scorpio/Taurus correspond to Four Archangels
-- Elements — Air/Fire/Water/Earth classical system
-- [[Cherubim|Kerubim]] — Four Living Creatures as throne-bearers
-
-### Within Personal Mythos (Jungian)
-- [[The Four Functions]] — Thinking/Intuition/Feeling/Sensation parallel to elements
-- [[Individuation Process]] — Quaternary balance prevents neurotic one-sidedness
-- [[Mandala]] — Fourfold symmetry as symbol of psychic wholeness
-- [[The Self]] — Center of mandala (practitioner as axis mundi)
-
----
-
-## Sources
-
-- Regardie, Israel. *The Golden Dawn*. Canonical LBRP invocation, quarter-element-archangel attributions, and Watchtower correspondences.
-- *Heptameron* (attributed to Peter de Abano, c. 1496). Medieval variant attributions placing Michael in the East as solar prince.
-- Jewish liturgical tradition (*Bedtime Shema*). Body-centered archangelic system (Michael right, Gabriel left, Uriel front, Raphael back, Shekinah above).
-- Ezekiel 1:10 and Revelation 4. Four Living Creatures (Man, Lion, Eagle, Bull) as cherubim throne-bearers corresponding to the four archangels and fixed zodiac signs.
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Elemental correspondences and directional angelology.
-- Jung, C.G. On the quaternity, four functions of consciousness, and the mandala as symbol of psychic wholeness.

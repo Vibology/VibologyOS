@@ -447,41 +447,7 @@ The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sac
 
 ---
 
-## Sources
-
-### Primary Sources
-
-**Yogic Tradition:**
-- *Sat-Cakra-Nirupana* (16th century). Sanskrit text describing the seven chakras, including Anahata's 12 petals, YAM mantra, air element, and symbolism.
-- Patanjali. *Yoga Sutras*. (Classical yoga philosophy; chakra system implied in subtle body teachings)
-- Various Upanishads (Chandogya, Mandukya). Ancient yogic texts describing the heart as seat of consciousness.
-
-**Buddhist Metta Practice:**
-- Buddha. *Metta Sutta* (Pali Canon). The Buddha's teaching on loving-kindness meditation.
-- Salzberg, Sharon. *Lovingkindness: The Revolutionary Art of Happiness*. Boston: Shambhala, 1995. (Accessible modern metta instruction)
-
-**HeartMath Institute:**
-- McCraty, Rollin, et al. "The Coherent Heart: Heart-Brain Interactions, Psychophysiological Coherence, and the Emergence of System-Wide Order." *Integral Review*, 5(2), 2009. (Scientific research on heart-brain communication, HRV, and coherence)
-- Institute of HeartMath. *HeartMath Techniques*. Boulder Creek, CA: HeartMath LLC, 2000-present. (Heart-focused breathing, coherence protocols)
-
-### Secondary Sources
-
-**Jungian Eros:**
-- Jung, Carl Gustav. *Collected Works*, Vol. 6: *Psychological Types*. (Eros as relatedness vs. Logos as separation; feeling function)
-- Jung, Carl Gustav. *Collected Works*, Vol. 14: *Mysterium Coniunctionis*. (Union of opposites, sacred marriage, Syzygy)
-
-**Neuroplasticity and Compassion:**
-- Davidson, Richard J., et al. "Alterations in Brain and Immune Function Produced by Mindfulness Meditation." *Psychosomatic Medicine*, 65(4), 2003. (Metta practice increases empathy-related brain activity)
-
-### Vibology Synthesis Notes
-
-**Cross-System Integration:**
-References to [[Tiphareth]], [[The Lovers (VI)]], [[G Center]], [[Contemplative Prayer]], and Jungian archetypes represent original Vibology correspondences, grounded in shared patterns (the heart as bridge, integration of opposites, love as principle of relatedness).
-
-**Scientific Integration:**
-HeartMath research provides empirical validation for ancient yogic claims about the heart's role in consciousness and emotional regulation.
-
----
+## Notes
 
 [^1]: *Sat-Cakra-Nirupana* (16th century). Anahata chakra described as 12-petaled lotus, air element, YAM mantra, seat of compassion and unconditional love.
 
@@ -490,3 +456,5 @@ HeartMath research provides empirical validation for ancient yogic claims about 
 [^3]: Buddha. *Metta Sutta* (Pali Canon). The Buddha's teaching on loving-kindness: "May all beings be happy, may all beings be free from suffering."
 
 [^4]: McCraty, Rollin, et al. "The Coherent Heart: Heart-Brain Interactions" (2009). HeartMath Institute research on heart rate variability, coherence, and emotional regulation through heart-focused breathing.
+
+---

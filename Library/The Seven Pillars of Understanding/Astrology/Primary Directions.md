@@ -173,7 +173,7 @@ The distinction between direct and converse directions — one for rising planet
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapters 11 and 18: Primary directions as circumambulations (*peripatos*) — the most astronomically rigorous timing technique, measuring actual celestial rotation.
 
@@ -200,3 +200,5 @@ The distinction between direct and converse directions — one for rising planet
 [^12]: Brennan, Ch 11: The arc between Hyleg and Anaereta (destroying malefic), converted to years, yields the predicted lifespan.
 
 [^13]: Brennan, Ch 11; Ptolemy, *Tetrabiblos* Book III: Benefic mitigation — Jupiter or Venus casting a ray to the anaeretic degree prevents or delays death. The benefic interposes between life-force and destruction.
+
+---

@@ -232,15 +232,21 @@ The Ram teaches that the greatest risk is not failure but **hesitation**—the r
 - [[The Hero]] — The archetype of threshold crossing
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Mars rules Aries as Day House
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Sun exalted in Aries at 19°
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Venus in detriment (opposite Libra)
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Saturn in fall at 21° Aries
+
 [^5]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Aries as Cardinal Fire
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Aries cosignificator of 1st House (The Ascendant)
+
 [^7]: Lilly, *Christian Astrology*, Book 1: Aries governs head, face, eyes, ears, teeth, beard; associated with headaches, migraines, smallpox, baldness
 
 ---
-
-*"Aries does not strategize. It combusts—and in the burning, clears the ground for what comes next."*

@@ -148,31 +148,8 @@ The Nephthys archetype is active when you:
 
 ---
 
+## Notes
 
 [^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
-
-## Sources
-
-**Primary Egyptian Sources:**
-- *Pyramid Texts* (c. 2400 BCE) — Utterance 364 (the Two Kites)
-- *Coffin Texts* (c. 2000 BCE) — Nephthys as protective deity
-- *Book of the Dead* — Nephthys at canopic jars and coffin
-- *Lamentations of Isis and Nephthys* (Ptolemaic temple text)
-
-**Classical Sources:**
-- Plutarch, *De Iside et Osiride* (Nephthys as "Lady of the House," the Anubis birth narrative)
-
-**Mythological Encyclopedias:**
-- Pinch, G. *Egyptian Mythology* (Nephthys sections)
-- Lesko, B. *The Great Goddesses of Egypt* (Nephthys chapter)
-
-**Psychological and Archetypal Analysis:**
-- Jung, C.G. *Collected Works*, Vol. 9ii (the quaternio and the fourth function)
-- Harding, E. *Woman's Mysteries* (the dark feminine)
-- Perera, S.B. *Descent to the Goddess* (the feminine at the threshold of death)
-
----
-
-*Created 2026-02-07. Part of the Egyptian Mythology collection within [[Personal Mythos]].*

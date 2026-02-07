@@ -312,47 +312,8 @@ When you feel mocked, diminished, or your authority challenged:
 
 ---
 
+## Notes
 
 [^1]: Egyptian mythological texts and Plutarch, *Isis and Osiris*.
 
 ---
-
-## Sources
-
-### Primary Egyptian Sources
-- Pyramid Texts (Old Kingdom) — earliest solar theology
-- Coffin Texts (Middle Kingdom) — solar barque journey expanded
-- *Book of the Dead* (New Kingdom) — Ra's underworld journey (especially Spell 17)
-- *The Destruction of Mankind* (Papyrus Bremner-Rhind) — Eye of Ra/Sekhmet myth
-- *Litany of Ra* — 75 forms of the sun god invoked
-- Heliopolitan cosmogony — Atum-Ra creation accounts
-
-### Scholarly Analysis
-- R.T. Rundle Clark, *Myth and Symbol in Ancient Egypt* (1959) — solar theology
-- Erik Hornung, *Conceptions of God in Ancient Egypt: The One and the Many* (1982) — Ra's unity and multiplicity
-- James P. Allen, *Genesis in Egypt: The Philosophy of Ancient Egyptian Creation Accounts* (1988)
-- Jan Assmann, *Egyptian Solar Religion in the New Kingdom* (1995)
-
-### Jungian and Archetypal
-- C.G. Jung, *Symbols of Transformation* (CW 5) — solar hero, night sea journey, libido theory
-- C.G. Jung, *Psychology and Alchemy* (CW 12) — solar symbolism in individuation
-- C.G. Jung, *Aion* (CW 9ii) — Self as sun, Christ as solar symbol
-- Erich Neumann, *The Origins and History of Consciousness* (1949) — solar hero's emergence from Great Mother
-- Edward Edinger, *Ego and Archetype* (1972) — ego-Self axis, solar consciousness
-
-### Comparative Religion
-- Mircea Eliade, *Patterns in Comparative Religion* (1958) — solar symbolism across cultures
-- Joseph Campbell, *The Hero with a Thousand Faces* (1949) — solar hero journey
-- James George Frazer, *The Golden Bough* (1890) — divine kingship and solar cults
-
-### Esoteric and Hermetic
-- Manly P. Hall, *The Secret Teachings of All Ages* (1928) — Ra in esoteric tradition
-- Alvin Boyd Kuhn, *The Lost Light* (1940) — solar Christ mythology
-- Dion Fortune, *The Mystical Qabalah* (1935) — Tiphareth as solar center
-
-### Verification Notes
-All mythological narratives verified through NotebookLM Esoteric Grimoire (Egyptian solar theology compilation). Archetypal analysis synthesized from Jungian ego-consciousness and Self archetype (verified CW 5, CW 9i, CW 12). Solar barque journey and Apophis battle verified from Book of the Dead and Coffin Texts. Cross-references verified against Library wikilink structure.
-
----
-
-*Originally created 2026-01-27 as structural stub. Expanded to comprehensive entry 2026-02-06.*

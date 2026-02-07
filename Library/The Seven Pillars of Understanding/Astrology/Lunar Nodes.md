@@ -196,7 +196,7 @@ The nodes belong within the broader planetary assessment, typically examined alo
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 7: The lunar nodes as intersection points of the Moon's orbit with the ecliptic. Greek: *sundesmos* ("bond," "fastening"). Eclipse axis: *ekleiptikon topon* ("eclipsing places").
 
@@ -211,3 +211,5 @@ The nodes belong within the broader planetary assessment, typically examined alo
 [^6]: Valens, *Anthology*: Nodes are *dunastikos* ("powerful"). Moon conjunct, square, or opposing nodes at inception = ventures that are "incomplete," "inconstant," and "subject to punishment." Brennan, Ch 7.
 
 [^7]: Valens on natal delineation: Nodes read through the condition of the ruler of the node's sign. The node is a mathematical point; its character derives from its sign ruler.
+
+---

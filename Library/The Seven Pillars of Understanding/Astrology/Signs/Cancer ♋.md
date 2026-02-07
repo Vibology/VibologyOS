@@ -229,15 +229,21 @@ The Crab teaches that vulnerability is not weakness. It is the **courage to be s
 - [[Mars ♂]] — Fall in Cancer, assertion through protection
 
 ---
-## Sources
+
+## Notes
+
 [^1]: Lilly, *Christian Astrology*, Book 1: Moon rules Cancer (sole house)
+
 [^2]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer as Cardinal Water (cold and moist, phlegmatic), solstitial sign
+
 [^3]: Lilly, *Christian Astrology*, Book 1: Jupiter exalted in Cancer at 15°
+
 [^4]: Lilly, *Christian Astrology*, Book 1: Saturn in detriment (opposite Capricorn)
+
 [^5]: Lilly, *Christian Astrology*, Book 1: Mars in fall at 28° Cancer
+
 [^6]: Lilly, *Christian Astrology*, Book 2: Cancer cosignificator of 4th House (fathers, lands, hidden treasure, the grave)
+
 [^7]: Lilly, *Christian Astrology*, Book 1; Ptolemy, *Tetrabiblos*, Book 1: Cancer governs breast, stomach, ribs, lungs, pleura, liver; diseases include weak digestion, breast cancers
 
 ---
-
-*"Cancer does not ask if you deserve nourishment. It feeds you because you are alive, and that is reason enough."*

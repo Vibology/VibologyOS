@@ -220,7 +220,7 @@ The Lord of Fortune and Lord of Spirit become key figures alongside the chart ru
 
 ---
 
-## Sources
+## Notes
 
 [^1]: Brennan, *Hellenistic Astrology: The Study of Fate and Fortune* (2017), Chapter 16: "The Lots." Greek *kleroi* from the practice of casting lots; Arabic *ajzā'* ("parts").
 
@@ -245,3 +245,5 @@ The Lord of Fortune and Lord of Spirit become key figures alongside the chart ru
 [^11]: Brennan, Ch 18: Zodiacal Releasing (*aphesis*) — releasing from Spirit for career/action periods; from Fortune for bodily/material periods. Valens's signature timing technique.
 
 [^12]: Brennan, Ch 16: The Ptolemaic reversal controversy. Ptolemy's ambiguous text vs. the consensus of Valens, Dorotheus, and Paulus in favor of sect-based reversal.
+
+---

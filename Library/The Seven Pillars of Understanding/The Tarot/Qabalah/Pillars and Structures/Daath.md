@@ -133,23 +133,20 @@ The instruments in the Observatory are meant to *change the observer*. If you lo
 
 ---
 
-## Footnotes
+## Notes
 
 [^1]: Sefer Yetzirah 1:4 — "Ten is the number of the ineffable Sephiroth, ten and not nine, ten and not eleven. Understand this wisdom and be wise in the understanding of it."
+
 [^2]: Zohar — Daath as the "conjunction" or "child" of Chokmah (Wisdom) and Binah (Understanding), the invisible sphere that unites the Supernal Father and Mother.
+
 [^3]: Wang, *The Qabalistic Tarot* — Daath as the interface between the Macrocosm (Supernals) and the Microcosm (lower Tree), not a vessel but a passage.
+
 [^4]: Isaac Luria — *Shevirat HaKelim* (Breaking of the Vessels), the cosmic catastrophe explaining the Abyss as a structural wound in the Tree.
+
 [^5]: Aleister Crowley, *The Vision and the Voice* (Liber 418), 10th Aethyr (ZAX) — The encounter with Choronzon in the Algerian desert, 1909.
+
 [^6]: Crowley — The "Black Brothers" who build a "Tower of Isolation" in the Abyss rather than dissolving through it.
+
 [^7]: Rudolf Otto, *The Idea of the Holy* (1917) — The *numinosum* as the experience of the "wholly other" (*mysterium tremendum et fascinans*), encountered by the ego as simultaneously terrifying and compelling. Jung adopted Otto's term throughout his work on religious experience.
 
 ---
-
-## Sources
-
-- **Sefer Yetzirah** — "Ten and not nine, ten and not eleven"; the structural decree that excludes Daath from the counted Sephiroth
-- **The Zohar** — Daath as the conjunction of Chokmah and Binah; the child of the Supernal Father and Mother
-- **Robert Wang, *The Qabalistic Tarot*** — Daath as the interface between Macrocosm (Supernals) and Microcosm (lower Tree)
-- **Isaac Luria** — *Shevirat HaKelim* (Breaking of the Vessels); the Abyss as structural wound in the Tree
-- **Aleister Crowley, *The Vision and the Voice* (Liber 418)** — The 10th Aethyr (ZAX) and the encounter with Choronzon; the Black Brothers and the Tower of Isolation
-- **Rudolf Otto, *The Idea of the Holy*** — The *numinosum* as the experience of the "wholly other," adopted by Jung for his psychology of religion

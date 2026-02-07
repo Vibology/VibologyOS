@@ -212,43 +212,38 @@ The Observatory does not claim to know *how* the psychoid works (that remains my
 
 ---
 
-## Footnotes
+## Cross-References
 
-[^1]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid as deepest archetype layer where psyche and matter no longer distinct
-[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 439 — "Archetype might be described as 'psychoid'... not purely psychic but just as much physical in its nature"
-[^3]: Jung, C.G. *Collected Works* Vol. 8 — Development in "Structure and Dynamics of the Psyche" to resolve how archetypes affect both psyche and body
-[^4]: Jung, C.G. *Collected Works* Vol. 8 — Spectrum model: spirit (image) ↔ psychoid archetype (unconscious) ↔ instinct (biological drive)
-[^5]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid as "archetype an sich" (in itself), irrepresentable, unknowable directly, inferred from effects
-[^6]: *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — 25-year correspondence on quantum mechanics, consciousness, psyche-matter relationship
-[^7]: Jung & Pauli — Psyche and matter as two aspects of one underlying reality (unus mundus); psychoid archetype as unobservable structure manifesting as both psychic image and physical event
-[^8]: Wolfgang Pauli — "It would be most satisfactory if physis (matter) and psyche could be seen as complementary aspects of the same reality"
-[^9]: Jung, C.G. *Collected Works* Vol. 14 — Unus mundus (one world) as alchemical concept; underlying unity of psyche and matter before differentiation
-[^10]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid archetype as theoretical foundation for synchronicity; archetypes at layer where psyche/matter continuous
-[^11]: Jung, C.G. — Angels/demons/spirits as psychoid realities (neither purely psychological nor purely spiritual); autonomous structures participating in both psyche and world
-[^12]: Jung, C.G. *Collected Works* Vol. 8 — "Whether you call them spirits or complexes, they possess autonomy and appear as phenomena sui generis, with own consciousness"
-[^13]: Aldous Huxley, *The Perennial Philosophy* — Esoteric core shared by mystical traditions: non-duality, levels of being, macrocosm-microcosm, the One
+*See related entries within this pillar.*
 
 ---
 
-## See Also
-- [[The Collective Unconscious]] — The archetypal layer from which the psychoid emerges
-- [[The Self]] — The central psychoid archetype (God-image, totality)
-- [[Imago Dei]] — The God-image as psychoid reality
-- [[Synchronicity]] — Meaningful coincidence explained by psychoid layer
-- [[Numinous Experience]] — The awe/terror of contact with psychoid reality
-- [[Angelology]] — Angels as psychoid entities (neither purely psychological nor purely spiritual)
-- [[Astrology]] — Planetary positions as psychoid correspondences (not causal but meaningful)
-- [[The Tarot]] — Cards as sampling method for psychoid layer
-- [[Human Design]] — Gates as psychoid archetypes imprinted at birth
-- [[The Astrolabe]] — I-Ching hexagrams as psychoid patterns
-- [[Unus Mundus]] — Alchemical concept of undifferentiated unity before psyche/matter split
-- [[Active Imagination]] — Method for consciously engaging psychoid layer
-- [[The Transcendent Function]] — Produces symbols from psychoid layer (neither purely conscious nor purely unconscious)
-- [[Ego-Death]] — Temporary return to unus mundus (dissolution of subject-object boundary)
+## Notes
 
-## Sources
+[^1]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid as deepest archetype layer where psyche and matter no longer distinct
 
-- Jung, C.G. *Collected Works* Vol. 8: *The Structure and Dynamics of the Psyche* — Primary development of the psychoid concept; spectrum model (spirit-psychoid-instinct); archetype *an sich*; theoretical foundation for synchronicity
-- Jung, C.G. *Collected Works* Vol. 14: *Mysterium Coniunctionis* — *Unus mundus* as alchemical concept of undifferentiated psyche-matter unity
-- Meier, C.A. (ed.). *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — Jung-Pauli correspondence on quantum mechanics, consciousness, and the complementarity of psyche and matter
-- Huxley, Aldous. *The Perennial Philosophy* (1945) — Perennial philosophy framework; non-duality, macrocosm-microcosm, the One as parallels to the psychoid concept
+[^2]: Jung, C.G. *Collected Works* Vol. 8, par. 439 — "Archetype might be described as 'psychoid'... not purely psychic but just as much physical in its nature"
+
+[^3]: Jung, C.G. *Collected Works* Vol. 8 — Development in "Structure and Dynamics of the Psyche" to resolve how archetypes affect both psyche and body
+
+[^4]: Jung, C.G. *Collected Works* Vol. 8 — Spectrum model: spirit (image) ↔ psychoid archetype (unconscious) ↔ instinct (biological drive)
+
+[^5]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid as "archetype an sich" (in itself), irrepresentable, unknowable directly, inferred from effects
+
+[^6]: *Atom and Archetype: The Pauli/Jung Letters 1932-1958* — 25-year correspondence on quantum mechanics, consciousness, psyche-matter relationship
+
+[^7]: Jung & Pauli — Psyche and matter as two aspects of one underlying reality (unus mundus); psychoid archetype as unobservable structure manifesting as both psychic image and physical event
+
+[^8]: Wolfgang Pauli — "It would be most satisfactory if physis (matter) and psyche could be seen as complementary aspects of the same reality"
+
+[^9]: Jung, C.G. *Collected Works* Vol. 14 — Unus mundus (one world) as alchemical concept; underlying unity of psyche and matter before differentiation
+
+[^10]: Jung, C.G. *Collected Works* Vol. 8 — Psychoid archetype as theoretical foundation for synchronicity; archetypes at layer where psyche/matter continuous
+
+[^11]: Jung, C.G. — Angels/demons/spirits as psychoid realities (neither purely psychological nor purely spiritual); autonomous structures participating in both psyche and world
+
+[^12]: Jung, C.G. *Collected Works* Vol. 8 — "Whether you call them spirits or complexes, they possess autonomy and appear as phenomena sui generis, with own consciousness"
+
+[^13]: Aldous Huxley, *The Perennial Philosophy* — Esoteric core shared by mystical traditions: non-duality, levels of being, macrocosm-microcosm, the One
+
+---

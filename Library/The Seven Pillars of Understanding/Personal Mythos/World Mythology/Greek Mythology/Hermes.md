@@ -385,49 +385,8 @@ Astrologically, Hermes corresponds to **[[Mercury ☿]]**—planet of communicat
 
 ---
 
+## Notes
 
 [^1]: Homeric *Hymn to Hermes* — Hermes as trickster, messenger, guide of souls.
 
 ---
-
-## Sources and Further Study
-
-### Primary Texts
-
-- **Homeric Hymn to Hermes (4)** — Birth, cattle theft, invention of lyre, trade with Apollo (longest and most detailed Hermes myth)
-- **Homer** — *Iliad* (Hermes as messenger, guide), *Odyssey* (Hermes gives moly to Odysseus, guides suitors' souls to underworld)
-- **Hesiod** — *Theogony* (Hermes's birth, genealogy, role among Olympians)
-- **Ovid** — *Metamorphoses* (Slaying of Argus, various Hermes interventions)
-- **Apollodorus** — *Library* (Comprehensive summary of Hermes myths)
-
-### Mythological Encyclopedias
-
-- **Grimal, Pierre** — *The Dictionary of Classical Mythology* (1951). Comprehensive Hermes entry.
-- **Kerenyi, Karl** — *Hermes: Guide of Souls* (1944/1976). Deep exploration of Hermes as psychopomp, trickster, mediator.
-- **Brown, Norman O.** — *Hermes the Thief: The Evolution of a Myth* (1947). Scholarly analysis of Hermes's development from pre-Olympian trickster to divine messenger.
-
-### Psychological and Archetypal Analysis
-
-- **Jung, C.G.** — *Collected Works Vol. 13: Alchemical Studies* — Extensive analysis of Mercurius as alchemical symbol, spirit of transformation (CW 13, ¶239-303)
-- **Jung, C.G.** — *Collected Works Vol. 9i: Archetypes and the Collective Unconscious* — The trickster archetype (CW 9i, ¶456-488)
-- **Jung, C.G.** — *Mysterium Coniunctionis* (CW 14) — Mercurius as mediator of opposites, transforming agent
-- **Radin, Paul** — *The Trickster: A Study in American Indian Mythology* (1956, with commentary by Jung and Kerényi). Cross-cultural analysis of trickster archetype.
-- **Hyde, Lewis** — *Trickster Makes This World: Mischief, Myth, and Art* (1998). Brilliant analysis of trickster as culture-hero, artist, boundary-violator.
-- **Hillman, James** — *Puer Papers* (1979). Hermes as puer aeternus, eternal youth, refusal of senex (old man) structure.
-- **López-Pedraza, Rafael** — *Hermes and His Children* (1977). Jungian analysis of Hermetic consciousness, psychopomp function.
-
-### Hermeneutics and Philosophy
-
-- **Palmer, Richard E.** — *Hermeneutics: Interpretation Theory in Schleiermacher, Dilthey, Heidegger, and Gadamer* (1969). Overview of hermeneutic philosophy.
-- **Gadamer, Hans-Georg** — *Truth and Method* (1960). Foundational hermeneutic text—meaning as event, interpretation as dialogue.
-- **Ricoeur, Paul** — *Freud and Philosophy: An Essay on Interpretation* (1965). Hermeneutics of suspicion, the art of reading symptoms and symbols.
-
-### Alchemy and Esotericism
-
-- **Corpus Hermeticum** — Collection of Greco-Egyptian texts attributed to **Hermes Trismegistus** (syncretic Hermes/Thoth), foundational to Hermeticism
-- **Yates, Frances A.** — *Giordano Bruno and the Hermetic Tradition* (1964). History of Hermeticism in Renaissance magic and philosophy.
-- **Hauck, Dennis William** — *The Emerald Tablet: Alchemy for Personal Transformation* (1999). Modern interpretation of Hermetic alchemy.
-
----
-
-*Expanded 2026-02-06. Comprehensive archetypal analysis complete.*

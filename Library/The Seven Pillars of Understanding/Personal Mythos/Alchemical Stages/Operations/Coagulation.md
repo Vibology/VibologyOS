@@ -686,41 +686,8 @@ Coagulation is the realization of this totality—*lived*, not theorized.
 
 ---
 
+## Notes
 
 [^1]: Edward F. Edinger, *Anatomy of the Psyche* (Open Court, 1985) — Coagulation as solidification of volatile spirit into permanent form.
-
----
-
-## Sources
-
-**Primary Jungian Sources:**
-- Jung, C.G. *The Collected Works of C.G. Jung* (CW). Bollingen Series XX. Princeton University Press.
-  - Vol. 12: *Psychology and Alchemy* (Coagulation as final crystallization, lapis philosophorum)
-  - Vol. 14: *Mysterium Coniunctionis* (Fixation, spirit made permanent in matter)
-  - Vol. 7: *Two Essays on Analytical Psychology* (Self embodied in ego, grounded wholeness)
-
-**Traditional Alchemical Texts:**
-- *Rosarium Philosophorum* (15th Century). ("Solve et coagula" - dissolve and coagulate, final fixing)
-- *The Emerald Tablet* (Hermes Trismegistus). ("Thus thou wilt possess the glory of the brightness of the whole world" - Coagulation as completion)
-- *Turba Philosophorum* (Assembly of the Philosophers). (Final fixation, red stone, incorruptible gold)
-- *The Twelve Keys of Basil Valentine* (17th century). (Coagulation as final key, stone complete)
-
-**Alchemical Symbol Systems:**
-- Edinger, Edward F. *Anatomy of the Psyche: Alchemical Symbolism in Psychotherapy* (1985). Open Court. (Coagulation as seventh operation, embodied wisdom, philosopher's stone)
-- von Franz, Marie-Louise. *Alchemy: An Introduction to the Symbolism and the Psychology* (1980). Inner City Books. (Fixation symbolism: stone, crystal, gold, incarnation)
-
-**Embodiment and Integration:**
-- *The Yoga Sutras of Patanjali*. (Samadhi as realized consciousness, embodied enlightenment)
-- Zen teaching: "Before enlightenment, chop wood, carry water. After enlightenment, chop wood, carry water." (Coagulation as ordinary embodiment)
-- Christian: Incarnation (logos made flesh), resurrection body (spirit coagulated in matter)
-
-**Mythological Completion:**
-- Greek: Odysseus returned home (journey complete, embodied), Heracles apotheosis (hero deified yet embodied)
-- Hindu: Jivanmukta (liberated while living), avatar (divine incarnate)
-- Buddhist: Bodhisattva return (enlightened yet embodied to serve)
-- Fairy tales: Return to kingdom, coronation, "and they lived happily ever after" (Coagulation as stable conclusion)
-
-#### Vibology Synthesis Note
-Cross-system correspondences (Saturn/Earth signs astrology, World/Pentacles Tarot, embodied HD strategy, Sandalphon angelology) represent Vibology's integration of verified alchemical Coagulation patterns across seven-pillar framework.
 
 ---

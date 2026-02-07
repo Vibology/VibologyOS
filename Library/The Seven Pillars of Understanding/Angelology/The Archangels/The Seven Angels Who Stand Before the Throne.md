@@ -225,72 +225,36 @@ The Observatory does not ask: *"Are the Seven real?"* It asks: *"What do the ins
 
 ---
 
-## Footnotes
+## Cross-References
+
+*See related entries within this pillar.*
+
+---
+
+## Notes
 
 [^1]: Tobit 12:15 — Raphael's self-identification as one of seven angels who stand before God's glory; Revelation 8:2 — Seven angels before God receiving seven trumpets
+
 [^2]: Revelation 8-11 — Seven trumpets announcing apocalyptic judgments (one-third of creation destroyed in sequence); Angels of the Presence as executors of divine will
+
 [^3]: 1 Enoch 20 — Complete enumeration: Uriel (world/Tartarus), Raphael (spirits of men/healing), Raguel (vengeance on luminaries), Michael (mankind/chaos), Saraqael (spirits who sin), Gabriel (Paradise/cherubim), Remiel (resurrection)
+
 [^4]: Variant lists — Talmud/Zohar (Michael/Gabriel/Uriel/Raphael + Aniel/Kafziel/Zadkiel); Pseudo-Dionysius (Michael/Gabriel/Raphael/Uriel/Chamuel/Jophiel/Zadkiel); Islamic tradition (four archangels, no formalized seven)
+
 [^5]: Pseudo-Dionysius the Areopagite (5th-6th c.) — Influenced Western angelology with seven-archangel list aligning to Qabalistic Sephiroth
+
 [^6]: Golden Dawn system — Seven Planetary Archangels: Michael (Sun/Sunday), Gabriel (Moon/Monday), Raphael (Mercury/Wednesday), Haniel (Venus/Friday), Kamael (Mars/Tuesday), Tzadkiel (Jupiter/Thursday), Tzaphkiel (Saturn/Saturday)
+
 [^7]: Ptolemaic cosmos — Seven concentric planetary spheres (Moon through Saturn); soul descends receiving planetary qualities, ascends shedding them; each sphere governed by presence angel
+
 [^8]: Revelation 8-11 — Seven trumpets sequence: hail/fire (trees/grass), mountain in sea (waters blood), Wormwood star (bitter waters), luminaries darkened, locusts from pit, Euphrates angels, seventh trumpet (Kingdom of God)
+
 [^9]: Seven as number of completeness — Seven days creation, seven-branched menorah, seven eyes of Lord (Zechariah 4:10), seven spirits before throne (Revelation 1:4, 4:5), seven classical planets, seven chakras; Jung: completeness in process (dynamic wholeness vs. static perfection)
+
 [^10]: Four vs. Seven distinction — Four Archangels of Quarters selected for elemental correspondence (Air/Fire/Water/Earth), not "highest" but spatially aligned; Seven govern planetary/temporal cycles; Raphael/Michael/Gabriel/Uriel bridge both functions
+
 [^11]: Seven as princes over lower orders — Michael commands Virtues, Gabriel governs Archangels, Raphael rules Virtues, Uriel oversees Cherubim; Seven do not merely belong to archangelic order but lead it
+
 [^12]: Observatory interpretation — Seven as coordinate system for psychoid navigation; invoking Seven calibrates perception across seven frequencies (planetary awareness); results: multi-dimensional clarity, synchronistic alignment, Shadow integration (Kamael's necessary severity)
 
 ---
-
-## See Also
-
-### Within Angelology
-- [[The Seven Planetary Archangels]] — Complete planetary correspondence system (days, hours, Sephiroth, qualities)
-- [[The Four Archangels of the Quarters]] — Elemental subset of the Seven (Raphael/Michael/Gabriel/Uriel)
-- [[Michael]] — Archangel of the Sun, commander of heavenly host, protector
-- [[Gabriel]] — Archangel of the Moon, messenger, guardian of Paradise
-- [[Raphael]] — Archangel of Mercury, healer, guide (Tobit identification as one of seven)
-- [[Uriel]] — Archangel of Earth/Saturn, light in darkness, threshold guardian
-- [[Haniel]] — Archangel of Venus, love and harmony
-- [[Kamael]] — Archangel of Mars, strength and severity
-- [[Tzadkiel]] — Archangel of Jupiter, mercy and expansion
-- [[Tzaphkiel]] — Archangel of Saturn, understanding and limitation
-- [[The Archangels]] — General archangel overview (second-highest angelic order)
-- [[Virtues]] — Angelic order commanded by Michael and Raphael
-- [[Cherubim]] — Angelic order overseen by Uriel
-
-### Scriptural & Traditional Sources
-- **Tobit 12:15** — Raphael's self-revelation as one of seven
-- **Revelation 8:2** — Seven angels receiving seven trumpets
-- **1 Enoch 20** — Complete enumeration with functions
-- **Zechariah 4:10** — Seven eyes of the Lord (Zoharic correspondence)
-- **Pseudo-Dionysius** — Western angelological systematization
-- **Davidson, *A Dictionary of Angels*** — Comprehensive angel catalog
-
-### Within Astrology & Qabalah
-- [[The Tree of Life]] — Seven lower Sephiroth correspond to seven planets/angels
-- [[Tiphareth]] — Sixth Sephirah (Sun, Michael)
-- [[Chesed]] — Fourth Sephirah (Jupiter, Tzadkiel)
-- [[Geburah]] — Fifth Sephirah (Mars, Kamael)
-- [[Netzach]] — Seventh Sephirah (Venus, Haniel)
-- [[Hod]] — Eighth Sephirah (Mercury, Raphael)
-- [[Yesod]] — Ninth Sephirah (Moon, Gabriel)
-- [[Binah]] — Third Sephirah (Saturn, Tzaphkiel)
-
-### Ritual Practices
-- [[Lesser Banishing Ritual of the Pentagram]] — Invokes four of the seven (elemental subset)
-- [[Invocation]] — General invocation protocols
-- Planetary Hours — Timing invocations by planetary rulership
-
----
-
-## Sources
-
-- Tobit 12:15. Raphael's self-identification as one of seven holy angels who stand before God's glory.
-- Revelation 8:2-11:19. The seven angels receiving seven trumpets; apocalyptic judgment sequence.
-- 1 Enoch 20 (Book of Enoch, Ethiopian Orthodox canon). Complete enumeration of the seven with their cosmic domains.
-- Pseudo-Dionysius the Areopagite. *The Celestial Hierarchy* (5th-6th c.). Western angelological systematization influencing the seven-archangel list.
-- Davidson, Gustav. *A Dictionary of Angels* (1967). Comprehensive catalog of variant lists across Jewish, Christian, and Islamic traditions.
-- Zohar. Seven archangels as "seven eyes of the Lord" (Zechariah 4:10); correspondence with seven classical planets.
-- Regardie, Israel. *The Golden Dawn*. Seven Planetary Archangels system (Michael/Sun, Gabriel/Moon, Raphael/Mercury, Haniel/Venus, Kamael/Mars, Tzadkiel/Jupiter, Tzaphkiel/Saturn).
-- Agrippa, Heinrich Cornelius. *Three Books of Occult Philosophy* (1533). Planetary spheres and their angelic governors.
