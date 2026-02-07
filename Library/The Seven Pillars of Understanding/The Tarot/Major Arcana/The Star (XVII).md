@@ -108,7 +108,7 @@ The Rider-Waite depiction of The Star is one of the most serene in the deck:
 
   The eight-pointed star is the symbol of **Venus**, the Morning Star and Evening Star, **Lucifer** (the Light-Bearer, not in the demonic sense but as the bringer of dawn). Venus is the "mundane chakra" (the planetary correspondence) of **Netzach**, the Sephirah from which The Star's path descends.
 
-  In the Golden Dawn tradition, the central star has **seven primary rays and fourteen secondary rays**, totaling **21**—the number of **Eheieh** (אהיה, "I Am"), the God-name of Kether(Wang 1983). This links The Star directly to the **Crown**, to the source of all creation. The Star is the light of Kether refracted through the lower worlds, the divine presence shining into the darkness after The Tower's devastation.
+  In the Golden Dawn tradition, the central star has **seven primary rays and fourteen secondary rays**, totaling **21**—the number of **Eheieh** (אהיה, "I Am"), the God-name of Kether[^2]. This links The Star directly to the **Crown**, to the source of all creation. The Star is the light of Kether refracted through the lower worlds, the divine presence shining into the darkness after The Tower's devastation.
 
   The eight-pointed star also represents the **Solar Logos**, the cosmic Christ, the divine intelligence that governs the sun. The Star is the promise that the Sun (Tiphareth, the Higher Self) still shines, even when it cannot be seen from within The Tower's ruins.
 
@@ -353,6 +353,12 @@ The ibis doesn't abandon the tree. Gate 46 doesn't escape the body. Both recogni
 ---
 
 *"The Star does not promise that suffering will end. She promises that meaning can be found within it—and that you have the resources to begin again."*
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
+
+---
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

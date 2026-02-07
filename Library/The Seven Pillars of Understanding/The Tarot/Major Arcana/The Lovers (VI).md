@@ -17,15 +17,15 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Lovers appear ***upright*** in a reading, it speaks to the realm of sacred union and conscious choice. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *attraction, love, beauty, trials overcome,* and most significantly, *human love exhibited as part of the way, the truth, and the life*(Waite 1910).
+When The Lovers appear ***upright*** in a reading, it speaks to the realm of sacred union and conscious choice. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *attraction, love, beauty, trials overcome,* and most significantly, *human love exhibited as part of the way, the truth, and the life*[^1].
 
-The Golden Dawn tradition identifies The Lovers as "The Children of the Voice," representing passive (often mediumistic) inspiration and the motive power arising from impulse(Wang 1983). This card symbolizes the "marriage" of the dualities of the Higher Self—the moment when opposites unite not through force but through recognition of their essential complementarity.
+The Golden Dawn tradition identifies The Lovers as "The Children of the Voice," representing passive (often mediumistic) inspiration and the motive power arising from impulse[^2]. This card symbolizes the "marriage" of the dualities of the Higher Self—the moment when opposites unite not through force but through recognition of their essential complementarity.
 
 The Lovers are fundamentally about **choice**—not the arbitrary selection between options, but the existential commitment that defines identity. To choose one love is to exclude all others; to walk one path is to abandon infinite alternatives. This card appears at the crossroads where the soul must decide: which love will you serve?
 
 "Trials overcome" points to the testing that precedes true union. The Lovers are not naive fusion but conscious partnership forged through challenge. "Human love as part of the way, the truth, and the life" elevates relationship from personal gratification to spiritual path—love becomes the vehicle of awakening.
 
-When The Lovers appear ***reversed***, Waite gives: *failure, foolish designs, marriage frustrated,* and *contrarieties of all kinds*(Waite 1910).
+When The Lovers appear ***reversed***, Waite gives: *failure, foolish designs, marriage frustrated,* and *contrarieties of all kinds*[^1].
 
 The reversed Lovers speak to union thwarted—by external circumstance, internal resistance, or poor timing. "Foolish designs" suggests relationship pursued for wrong reasons: projection rather than seeing, possession rather than partnership, escape rather than engagement.
 
@@ -39,15 +39,15 @@ The key insight is that The Lovers always deal with **the paradox of union throu
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 6 - The hexagram, balance of opposites, perfect harmony(Wang 1983 cites Crowley) |
-| **Hebrew Letter** | Zain (ז) - Value: 7 - Meaning: Sword/Weapon (discernment)(Wang 1983 cites Crowley) |
-| **Kabbalistic Path** | 17th Path: Binah to Tiphareth - "Disposing Intelligence"(Wang 1983 cites Crowley) |
-| **Element** | Air (Mutable Air - the exchange of breath)(Wang 1983 cites Crowley) |
-| **Astrology** | Gemini - The Twins, ruled by Mercury(Wang 1983 cites Crowley) |
-| **Sephiroth Connection** | Descends from Understanding (Mother) to Beauty (Heart)(Wang 1983 cites Crowley) |
-| **Sound** | D-Natural(Wang 1983 cites Crowley) |
-| **Color** | Orange(Wang 1983 cites Crowley) |
-| **Simple Letter** | Smell (the sense of discernment and attraction)(Wang 1983 cites Crowley) |
+| **Number** | 6 - The hexagram, balance of opposites, perfect harmony[^2] |
+| **Hebrew Letter** | Zain (ז) - Value: 7 - Meaning: Sword/Weapon (discernment)[^2] |
+| **Kabbalistic Path** | 17th Path: Binah to Tiphareth - "Disposing Intelligence"[^2] |
+| **Element** | Air (Mutable Air - the exchange of breath)[^2] |
+| **Astrology** | Gemini - The Twins, ruled by Mercury[^2] |
+| **Sephiroth Connection** | Descends from Understanding (Mother) to Beauty (Heart)[^2] |
+| **Sound** | D-Natural[^2] |
+| **Color** | Orange[^2] |
+| **Simple Letter** | Smell (the sense of discernment and attraction)[^2] |
 
 ---
 
@@ -287,6 +287,12 @@ Gate 33's strategic retreat creates the conditions for **meaningful expression**
 - The Sacred Marriage - Hieros Gamos
 - Alchemical Conjunction
 - Cards of Union and Choice
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

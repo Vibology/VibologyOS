@@ -17,9 +17,9 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*(Waite 1910).
+When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*[^1].
 
-The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter(Wang 1983). He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
+The Golden Dawn tradition identifies The Hierophant as the "Magus of the Eternal," representing the Zodiac acting through Taurus upon Jupiter[^2]. He is the formulation of the road upon which the soul travels, the rock-solid foundation of experience between the Spiritual Self (Chokmah) and the Ego (Chesed).
 
 The Hierophant is always paradoxical: he represents both liberation through teaching and captivity through dogma, both mercy and servitude, both the path to truth and the obstacle that must be transcended. He is the mediator—the bridge between heaven and earth, the priest who translates divine law into human comprehension.
 
@@ -27,7 +27,7 @@ The Hierophant is always paradoxical: he represents both liberation through teac
 
 "Mercy and goodness" reveal his positive pole: when functioning purely, The Hierophant is the compassionate teacher who guides without dominating, who holds the lineage in trust for those who will come after. "The man to whom the Querent has recourse" suggests he appears when we need guidance, when individual insight is insufficient and we must seek wisdom from those who have walked the path before us.
 
-When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*(Waite 1910).
+When The Hierophant appears ***reversed***, Waite gives: *society, good understanding, concord, overkindness,* and *weakness*[^1].
 
 The reversed Hierophant speaks to institutional authority dissolved or corrupted. "Society" and "good understanding" suggest communal wisdom accessed outside formal structures—the organic spiritual community rather than the hierarchical institution. This can be liberation: the direct relationship with the divine that requires no intermediary.
 
@@ -41,15 +41,15 @@ The key insight is that The Hierophant always deals with **the transmission of w
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 5 - The pentagram, humanity reaching toward the divine(Wang 1983 cites Crowley) |
-| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds)(Wang 1983 cites Crowley) |
-| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence"(Wang 1983 cites Crowley) |
-| **Element** | Earth (Fixed Earth - stable, enduring, traditional)(Wang 1983 cites Crowley) |
-| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted(Wang 1983 cites Crowley) |
-| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy(Wang 1983 cites Crowley) |
-| **Sound** | C-Sharp(Wang 1983 cites Crowley) |
-| **Color** | Red-Orange(Wang 1983 cites Crowley) |
-| **Simple Letter** | Hearing (the ear that receives teaching)(Wang 1983 cites Crowley) |
+| **Number** | 5 - The pentagram, humanity reaching toward the divine[^2] |
+| **Hebrew Letter** | Vau (ו) - Value: 6 - Meaning: Nail/Hook (that which binds)[^2] |
+| **Kabbalistic Path** | 16th Path: Chokmah to Chesed - "Triumphal Intelligence" or "Eternal Intelligence"[^2] |
+| **Element** | Earth (Fixed Earth - stable, enduring, traditional)[^2] |
+| **Astrology** | Taurus - The Bull, ruled by Venus, Moon exalted[^2] |
+| **Sephiroth Connection** | Links Supernal Wisdom to Manifest Mercy[^2] |
+| **Sound** | C-Sharp[^2] |
+| **Color** | Red-Orange[^2] |
+| **Simple Letter** | Hearing (the ear that receives teaching)[^2] |
 
 ---
 
@@ -289,6 +289,12 @@ The Hierophant says: "I teach the ancient path, but you must walk it in your uni
 - The Guru Archetype
 - Cards of Teaching and Tradition
 - Sacred Marriage and Alliance
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

@@ -17,9 +17,9 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Hermit appears ***upright*** in a reading, it speaks to the realm of withdrawal for the sake of illumination. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *prudence, circumspection,* and also (by another account) *divine inspiration*—but Waite includes the paradoxical meanings of *treason* or *roguery*(Waite 1910).
+When The Hermit appears ***upright*** in a reading, it speaks to the realm of withdrawal for the sake of illumination. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *prudence, circumspection,* and also (by another account) *divine inspiration*—but Waite includes the paradoxical meanings of *treason* or *roguery*[^1].
 
-The Golden Dawn tradition identifies The Hermit as "The Prophet of the Eternal" and "Magus of the Voice of Power," representing wisdom sought and obtained from above(Wang 1983). This card embodies the archetype of voluntary isolation—the withdrawal from society not from misanthropy but from the recognition that truth cannot be found in crowds.
+The Golden Dawn tradition identifies The Hermit as "The Prophet of the Eternal" and "Magus of the Voice of Power," representing wisdom sought and obtained from above[^2]. This card embodies the archetype of voluntary isolation—the withdrawal from society not from misanthropy but from the recognition that truth cannot be found in crowds.
 
 The Hermit stands alone on the mountaintop holding a lantern, having climbed to heights where others cannot or will not follow. His light is not for guiding others (that comes later, if at all) but for his own illumination. He seeks truth in solitude because noise obscures, because companionship often becomes codependency, because the voice of the Self can only be heard in silence.
 
@@ -27,7 +27,7 @@ The Hermit stands alone on the mountaintop holding a lantern, having climbed to 
 
 But Waite's inclusion of "treason or roguery" warns of the shadow: the one who withdraws may be avoiding responsibility, using spiritual practice as escape, claiming wisdom while evading relationship. The hermit can become the cynic, the misanthrope, the one who judges from safe distance.
 
-When The Hermit appears ***reversed***, Waite gives: *concealment, disguise, policy,* and *unreasoned caution*(Waite 1910).
+When The Hermit appears ***reversed***, Waite gives: *concealment, disguise, policy,* and *unreasoned caution*[^1].
 
 The reversed Hermit speaks to withdrawal that has become pathological—isolation as prison rather than sanctuary. "Concealment" and "disguise" suggest someone hiding, using solitude to avoid being seen rather than to see more clearly. This is not the voluntary retreat of the seeker but the fearful withdrawal of the avoider.
 
@@ -41,14 +41,14 @@ The key insight is that The Hermit always deals with **the paradox of solitude a
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 9 - The final single digit, completion before new cycle, three times three (Wang 1983 cites Crowley)|
-| **Hebrew Letter** | Yod (י) - Value: 10 - Meaning: Hand/Seed (the divine hand, the spermatozoon) (Wang 1983 cites Crowley)|
-| **Kabbalistic Path** | 20th Path: Chesed to Tiphareth - "Intelligence of Will" (Wang 1983 cites Crowley)|
-| **Element** | Earth (Mutable Earth - adaptable, analytical, refining) (Wang 1983 cites Crowley)|
-| **Astrology** | Virgo - The Virgin, ruled by Mercury (Wang 1983 cites Crowley)|
+| **Number** | 9 - The final single digit, completion before new cycle, three times three [^2]|
+| **Hebrew Letter** | Yod (י) - Value: 10 - Meaning: Hand/Seed (the divine hand, the spermatozoon) [^2]|
+| **Kabbalistic Path** | 20th Path: Chesed to Tiphareth - "Intelligence of Will" [^2]|
+| **Element** | Earth (Mutable Earth - adaptable, analytical, refining) [^2]|
+| **Astrology** | Virgo - The Virgin, ruled by Mercury [^2]|
 | **Sephiroth Connection** | Descends from Mercy (Chesed) to Beauty (Tiphareth) |
-| **Sound** | F-Natural (Wang 1983 cites Crowley)|
-| **Color** | Yellow-Green (the hermit's earthy wisdom) (Wang 1983 cites Crowley)|
+| **Sound** | F-Natural [^2]|
+| **Color** | Yellow-Green (the hermit's earthy wisdom) [^2]|
 
 ---
 
@@ -310,6 +310,12 @@ The Hermit's **grey robes** (ash, what remains after fire) represent experience 
 - The Desert Fathers and Hermit Tradition
 - Cards of Wisdom and Solitude
 - The Intelligence of Will
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

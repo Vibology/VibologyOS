@@ -59,7 +59,7 @@ Hexagram 25 is composed of Heaven above, Thunder below—creative force descendi
 **Judgment (Wilhelm/Baynes):**
 > "Innocence. Supreme success. Perseverance furthers. If someone is not as he should be, he has misfortune, and it does not further him to undertake anything."
 
-The keynote is **naturalness**—action that flows from one's true nature without artifice. In Human Design, this becomes the **Spirit of the Self** (Gate 25)—the capacity to act from spiritual innocence, free from conditioning.
+The keynote is **naturalness**—action that flows from one's true nature without artifice. In Human Design, this becomes the **Spirit of the Self** (Gate 25)—the capacity to act from spiritual innocence, free from conditioning.[^1]
 
 ### Hexagram 51: 震 (Zhèn) - The Arousing / Shock
 
@@ -437,6 +437,11 @@ This is the essence of the Individual Centering Circuit: **centering in one's ow
 - Defined vs. Undefined Centers — Understanding fixed vs. variable initiatory energy
 - The 7-Year Deconditioning Cycle — Returning to authentic initiatory alignment
 - Ego Sustainability — Understanding the Ego's need for rest and conservation
+
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Channel mechanics and circuitry analysis.
+
+---
 
 ## Sources
 **Primary Source:**

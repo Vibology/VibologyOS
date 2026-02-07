@@ -17,15 +17,15 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When Justice appears ***upright*** in a reading, it speaks to the realm of equilibrium and righteous adjustment. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *equity, rightness, probity,* and *executive force*—and can represent a person whose action is in question(Waite 1910).
+When Justice appears ***upright*** in a reading, it speaks to the realm of equilibrium and righteous adjustment. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *equity, rightness, probity,* and *executive force*—and can represent a person whose action is in question[^1].
 
-The Golden Dawn tradition identifies Justice as embodying the "Faithful Intelligence," representing the process of self-assessment where the soul weighs itself to bring the organism into perfect equilibrium(Wang 1983). This card acts as a "stabilizing extreme" that mediates divine influence upon all existence.
+The Golden Dawn tradition identifies Justice as embodying the "Faithful Intelligence," representing the process of self-assessment where the soul weighs itself to bring the organism into perfect equilibrium[^2]. This card acts as a "stabilizing extreme" that mediates divine influence upon all existence.
 
 Justice represents cosmic law—the principle that every action generates consequence, that every imbalance demands correction. She is Maat, the Egyptian goddess who weighs the heart against the feather of truth. If the heart is heavy with untruth, the soul does not pass.
 
 "Equity" and "rightness" point to natural law rather than human legislation—the inherent balance that reality seeks, the way things return to center when displaced. "Executive force" suggests that Justice does not merely judge but *acts*—the sword severs what must be cut, the scales measure what must be weighed, and adjustment follows inevitably.
 
-When Justice appears ***reversed***, Waite gives: *law in all its departments, legal complications, bigotry, bias,* and *excessive severity*(Waite 1910).
+When Justice appears ***reversed***, Waite gives: *law in all its departments, legal complications, bigotry, bias,* and *excessive severity*[^1].
 
 The reversed Justice speaks to law divorced from equity—bureaucracy, le
 
@@ -39,14 +39,14 @@ The key insight is that Justice always deals with **the relationship between act
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 11 - Beyond the perfection of 10, the first step into new complexity (Wang 1983 cites Crowley)|
-| **Hebrew Letter** | Lamed (ל) - Value: 30 - Meaning: Ox-goad (that which directs the beast) (Wang 1983 cites Crowley)|
-| **Kabbalistic Path** | 22nd Path: Geburah to Tiphareth - "Faithful Intelligence" (Wang 1983 cites Crowley)|
-| **Element** | Air (Cardinal Air - initiating balance, active equilibrium) (Wang 1983 cites Crowley)|
-| **Astrology** | Libra - The Scales, ruled by Venus (Wang 1983 cites Crowley)|
+| **Number** | 11 - Beyond the perfection of 10, the first step into new complexity [^2]|
+| **Hebrew Letter** | Lamed (ל) - Value: 30 - Meaning: Ox-goad (that which directs the beast) [^2]|
+| **Kabbalistic Path** | 22nd Path: Geburah to Tiphareth - "Faithful Intelligence" [^2]|
+| **Element** | Air (Cardinal Air - initiating balance, active equilibrium) [^2]|
+| **Astrology** | Libra - The Scales, ruled by Venus [^2]|
 | **Sephiroth Connection** | Links Severity (Geburah) to Beauty (Tiphareth) |
-| **Sound** | F-Sharp (Wang 1983 cites Crowley)|
-| **Color** | Emerald Green (Wang 1983 cites Crowley)|
+| **Sound** | F-Sharp [^2]|
+| **Color** | Emerald Green [^2]|
 | **Simple Letter** | Work (the labor of adjustment) |
 
 ---
@@ -276,6 +276,12 @@ Both teach that **truth is labor-intensive**: Justice weighs continuously; Gate 
 - Maat - Egyptian Justice Goddess
 - Karma and Cosmic Law
 - The Faithful Intelligence
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

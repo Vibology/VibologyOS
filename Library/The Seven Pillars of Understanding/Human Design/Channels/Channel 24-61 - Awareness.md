@@ -59,7 +59,7 @@ Hexagram 24 is composed of Earth above, Thunder below—receptivity above, sudde
 **Judgment (Wilhelm/Baynes):**
 > "The Return. Success. Going out and coming in without error. Friends come without blame. To and fro goes the way. On the seventh day comes return. It furthers one to have somewhere to go."
 
-The keynote is **natural renewal through cycles**—the mind returning to contemplation again and again until clarity emerges. In Human Design, this becomes **Gate 24**—**rationalization**—the mental process of revisiting insights until they can be understood.
+The keynote is **natural renewal through cycles**—the mind returning to contemplation again and again until clarity emerges. In Human Design, this becomes **Gate 24**—**rationalization**—the mental process of revisiting insights until they can be understood.[^1]
 
 ### Hexagram 61: 中孚 (Zhōng Fú) - Inner Truth / Sincerity
 
@@ -312,6 +312,11 @@ When recognized and invited, the 24-61 individual becomes the **voice of mystery
 - [[Projector]] — Recognition, invitation, and guidance
 - Gene Keys — Shadow/Gift/Siddhi framework
 - [[The Hermit (IX)]] — Contemplative wisdom and inner truth
+
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Channel mechanics and circuitry analysis.
+
+---
 
 ## Sources
 **Primary Source:**

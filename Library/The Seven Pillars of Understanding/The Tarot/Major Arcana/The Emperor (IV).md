@@ -17,15 +17,15 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*(Waite 1910). He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
+When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*[^1]. He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
 
-The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror(Wang 1983). He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
+The Golden Dawn tradition identifies The Emperor as the "Sun of the Morning, Chief Among the Mighty," representing the General—hot, passionate, impetuous, a conqueror[^2]. He symbolizes the Zodiac acting through Aries upon Jupiter, acting as the bridge between the Supernal Father (Chokmah) and the Son (Tiphareth).
 
 In readings, The Emperor represents conviction, dominion, and the establishment of law. He is the archetype of sovereign power—not inherited or claimed arbitrarily, but *earned* through competence and maintained through just governance. He builds the fortress, establishes the code, defends the realm.
 
 The Emperor is always martial, always paternal, always structured. He does not create ex nihilo like The Empress—he takes what she has generated and *organizes* it. Without The Empress's fertility, he has nothing to govern; without his structure, her abundance becomes chaos.
 
-When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*(Waite 1910).
+When The Emperor appears ***reversed***, Waite gives: *benevolence, compassion, credit,* but also *confusion to enemies, obstruction,* and *immaturity*[^1].
 
 The reversed Emperor speaks to authority corrupted or authority abdicated. "Benevolence and compassion" as reversed meanings suggest power misapplied—the leader who prioritizes being liked over being effective, who confuses mercy with weakness. This is the father who cannot set boundaries, the ruler who will not rule.
 
@@ -39,15 +39,15 @@ The key insight is that The Emperor always deals with **the right use of power**
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 4 - Stability, foundation, the four corners of manifestation(Wang 1983 cites Crowley) |
-| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight(Wang 1983 cites Crowley) |
-| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence"(Wang 1983 cites Crowley) |
-| **Element** | Fire (Cardinal Fire - initiating, commanding)(Wang 1983 cites Crowley) |
-| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars(Wang 1983 cites Crowley) |
-| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty)(Wang 1983 cites Crowley) |
-| **Sound** | C-Natural(Wang 1983 cites Crowley) |
-| **Color** | Scarlet(Wang 1983 cites Crowley) |
-| **Simple Letter** | Sight (the first sense, the ruling perception)(Wang 1983 cites Crowley) |
+| **Number** | 4 - Stability, foundation, the four corners of manifestation[^2] |
+| **Hebrew Letter** | Heh (ה) - Value: 5 - Meaning: Window/Sight[^2] |
+| **Kabbalistic Path** | 15th Path: Chokmah to Tiphareth - "Constituting Intelligence"[^2] |
+| **Element** | Fire (Cardinal Fire - initiating, commanding)[^2] |
+| **Astrology** | Aries - The Ram, first sign of the zodiac, ruled by Mars[^2] |
+| **Sephiroth Connection** | Bridges Supernal Father (Wisdom) to Individual Son (Beauty)[^2] |
+| **Sound** | C-Natural[^2] |
+| **Color** | Scarlet[^2] |
+| **Simple Letter** | Sight (the first sense, the ruling perception)[^2] |
 
 ---
 
@@ -260,6 +260,12 @@ Ra taught: "Gate 31 is democratic leadership—you lead when you've earned the r
 - The Animus Archetype
 - Cards of Authority and Structure
 - The Sacred Kingship
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

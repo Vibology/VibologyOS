@@ -146,6 +146,11 @@ Each Gate name in Human Design derives from its corresponding I-Ching hexagram, 
 - [[The Blueprint - 444 Architecture]] — The 64-fold substrate across systems
 
 ---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — The 64 gates as hexagram activations.
+
+---
+
 ## Sources
 
 - Ra Uru Hu, *The Complete Rave I'Ching* — Gate names, themes, line descriptions, and Center placements

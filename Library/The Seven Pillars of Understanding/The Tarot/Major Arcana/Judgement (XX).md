@@ -94,7 +94,7 @@ In modern esoteric astrology, Judgement is also associated with **Pluto**—the 
 
 The Rider-Waite depiction of Judgement is dramatic, biblical, apocalyptic:
 
-- **The Angel (Michael, not Gabriel)**: At the top of the image, an **angel** emerges from clouds, blowing a trumpet. Tradition often identifies this angel as **Gabriel** (the messenger, the announcer), but in the Golden Dawn system, the angel is **Michael**—the **Ruler of Solar Fire**, the archangel who wields the sword of truth, who weighs souls, who stands as the champion of the divine against chaos(Wang 1983).
+- **The Angel (Michael, not Gabriel)**: At the top of the image, an **angel** emerges from clouds, blowing a trumpet. Tradition often identifies this angel as **Gabriel** (the messenger, the announcer), but in the Golden Dawn system, the angel is **Michael**—the **Ruler of Solar Fire**, the archangel who wields the sword of truth, who weighs souls, who stands as the champion of the divine against chaos[^2].
 
   Michael calls down the influence of **Binah** (Understanding, the Great Mother) to initiate resurrection. This is significant: resurrection is not a masculine act of force but a feminine act of *reception*—the soul must open, must allow, must *receive* the divine influx. Michael is the mediator, but Binah is the source.
 
@@ -321,6 +321,12 @@ Judgement doesn't rise from chaos—it rises from **deconditioning completed**. 
 ---
 
 *"Judgement does not condemn. She calls—and those who answer rise from the tomb of matter into the light of the Self."*
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
+
+---
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

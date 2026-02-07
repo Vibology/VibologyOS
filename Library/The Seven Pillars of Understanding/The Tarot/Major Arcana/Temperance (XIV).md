@@ -22,7 +22,7 @@ According to Waite's *Pictorial Key to the Tarot*, Temperance signifies *economy
 
 The Golden Dawn titles this card "The Daughter of the Reconcilers" and "The Bringer Forth of Life." Temperance is the offspring of the cosmic forces that unite opposites (the Reconcilers). She is the principle of **combination**—not the destruction of polarity but its integration. She brings forth life by *mixing* rather than choosing.
 
-The Golden Dawn tradition also describes Temperance as representing a "Dark Night of the Soul"—a deep tunnel entered in the belief that light awaits at the end(Wang 1983). This is the testing period, the trial by patience, the waiting while the alchemical work unfolds. Temperance is the realization of material effects through the combination of spiritual forces—**grounding the high into the low**.
+The Golden Dawn tradition also describes Temperance as representing a "Dark Night of the Soul"—a deep tunnel entered in the belief that light awaits at the end[^2]. This is the testing period, the trial by patience, the waiting while the alchemical work unfolds. Temperance is the realization of material effects through the combination of spiritual forces—**grounding the high into the low**.
 
 In divinatory practice, Temperance appears when **integration is required**. She signals that opposites must be blended, not chosen between. She declares: *Neither extreme. The third way.* When the querent is torn between passion and reason, action and stillness, spirit and matter, Temperance offers the possibility of *synthesis*—holding both until something new emerges.
 
@@ -354,6 +354,12 @@ Both processes require **patience during invisible transformation**. Temperance 
 ---
 
 *"Temperance does not destroy fire or water. She combines them—and in that combination, creates steam."*
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
+
+---
 
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)

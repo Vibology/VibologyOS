@@ -343,6 +343,12 @@ The Sun illuminates this progression: **Disharmony (feeling unseen) receives The
 
 *"The Sun does not earn its light. It is light—and in being light, it gives permission for all else to shine."*
 
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 

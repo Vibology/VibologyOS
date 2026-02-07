@@ -17,9 +17,9 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Magician appears ***upright*** in a reading, it speaks to the realm of directed will and skillful manifestation. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *skill, diplomacy, address,* and *subtlety*—though it can also indicate the Querent themselves if male. In certain contexts, particularly when afflicted by surrounding cards, it may signify *sickness, pain, loss,* or *snares from enemies*(Waite 1910).
+When The Magician appears ***upright*** in a reading, it speaks to the realm of directed will and skillful manifestation. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *skill, diplomacy, address,* and *subtlety*—though it can also indicate the Querent themselves if male. In certain contexts, particularly when afflicted by surrounding cards, it may signify *sickness, pain, loss,* or *snares from enemies*[^1].
 
-The Golden Dawn tradition offers crucial clarification: The Magician represents *skill, wisdom, adaptation, craft,* and *cunning*(Wang 1983). But like The Fool, this card's meaning shifts dramatically depending on the plane of your question.
+The Golden Dawn tradition offers crucial clarification: The Magician represents *skill, wisdom, adaptation, craft,* and *cunning*[^2]. But like The Fool, this card's meaning shifts dramatically depending on the plane of your question.
 
 If your divination concerns **spiritual matters**, The Magician is profoundly favorable—it represents *idea, thought,* and *the will in the liberation of its union with that which is above*. This is the endeavor to transcend the material through pure focused intention. It is the "beginning of the beginning" on a spiritual level, the first vibration through which Spirit begins manifestation.
 
@@ -27,7 +27,7 @@ However, if your question involves **material, practical concerns**, The Magicia
 
 The Magician embodies the paradox of power itself: the same force that can elevate consciousness can, when misdirected, ensnare and corrupt. He is both channel and channeled, messenger and message.
 
-When The Magician appears ***reversed***, Waite gives: *physician, Magus, mental disease, disgrace,* and *disquiet*(Waite 1910).
+When The Magician appears ***reversed***, Waite gives: *physician, Magus, mental disease, disgrace,* and *disquiet*[^1].
 
 The reversed Magician speaks to a corrupted or blocked channel. Where the upright card (in spiritual contexts) represents the pure transmission of divine will, the reversed card suggests someone whose skill has turned inward in problematic ways. "Mental disease" here is telling—it points to the intellect divorced from spirit, technique without wisdom, the trickster who has deceived himself.
 
@@ -39,14 +39,14 @@ The key insight is that The Magician always deals with **transmission**—uprigh
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 1 - The first conscious act, directed will(Wang 1983 cites Crowley) |
-| **Hebrew Letter** | Beth (ב) - Value: 2 - Meaning: House/Dwelling(Wang 1983 cites Crowley) |
-| **Kabbalistic Path** | 12th Path: Kether to Binah - "Intelligence of Transparency"(Wang 1983 cites Crowley) |
-| **Element** | Mercury (Double Letter: Life-Death)(Wang 1983 cites Crowley) |
-| **Astrology** | Mercury - The Messenger, the Logos, the Word(Wang 1983 cites Crowley) |
-| **Sephiroth Connection** | Connects Source (Kether) to Form (Binah)(Wang 1983 cites Crowley) |
-| **Sound** | E-Natural(Wang 1983 cites Crowley) |
-| **Color** | Yellow (Atziluth)(Wang 1983 cites Crowley) |
+| **Number** | 1 - The first conscious act, directed will[^2] |
+| **Hebrew Letter** | Beth (ב) - Value: 2 - Meaning: House/Dwelling[^2] |
+| **Kabbalistic Path** | 12th Path: Kether to Binah - "Intelligence of Transparency"[^2] |
+| **Element** | Mercury (Double Letter: Life-Death)[^2] |
+| **Astrology** | Mercury - The Messenger, the Logos, the Word[^2] |
+| **Sephiroth Connection** | Connects Source (Kether) to Form (Binah)[^2] |
+| **Sound** | E-Natural[^2] |
+| **Color** | Yellow (Atziluth)[^2] |
 
 ---
 
@@ -280,6 +280,12 @@ This is The Magician's **iterative mastery**—not one perfect act but continuou
 - The Four Elemental Tools
 - Cards of Manifestation and Will
 - The Magician in Alchemy
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

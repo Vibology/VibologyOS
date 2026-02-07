@@ -181,6 +181,11 @@ The 4/1 brings:
 
 
 
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Profile mechanics (4/1 opportunist/investigator).
+
+---
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

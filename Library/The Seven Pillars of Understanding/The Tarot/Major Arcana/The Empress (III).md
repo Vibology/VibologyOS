@@ -17,9 +17,9 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Empress appears ***upright*** in a reading, it speaks to the realm of generative abundance and the materialization of potential. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *fruitfulness, action, initiative, length of days,* and in some contexts, *the unknown* or *clandestine*(Waite 1910).
+When The Empress appears ***upright*** in a reading, it speaks to the realm of generative abundance and the materialization of potential. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *fruitfulness, action, initiative, length of days,* and in some contexts, *the unknown* or *clandestine*[^1].
 
-The Golden Dawn tradition identifies The Empress as the "Daughter of the Mighty Ones," representing the mediating path of the Supreme Spiritual Self(Wang 1983). She is the door through which divine potential enters the manifest world—not as abstract principle, but as tangible form.
+The Golden Dawn tradition identifies The Empress as the "Daughter of the Mighty Ones," representing the mediating path of the Supreme Spiritual Self[^2]. She is the door through which divine potential enters the manifest world—not as abstract principle, but as tangible form.
 
 If your divination concerns **spiritual matters**, The Empress represents the Illuminating Intelligence that makes the invisible visible. She is the moment when gnosis becomes embodied, when spiritual insight crystallizes into lived experience. She affirms that incarnation is sacred, that the physical world is not separate from the divine but its direct expression.
 
@@ -27,7 +27,7 @@ However, if your question involves **material concerns**, The Empress is profoun
 
 The Empress embodies the paradox of motherhood: she is both creative power and surrender to natural process. She does not force—she allows.
 
-When The Empress appears ***reversed***, Waite gives: *light, truth, the unravelling of involved matters,* or alternatively, *vacillation*(Waite 1910).
+When The Empress appears ***reversed***, Waite gives: *light, truth, the unravelling of involved matters,* or alternatively, *vacillation*[^1].
 
 The reversed Empress speaks to blocked creativity, fertility stifled, the generative flow interrupted. "Vacillation" suggests indecision about what to birth, hesitation to commit to the creative process. Where the upright Empress surrenders to the natural rhythm, the reversed card resists it—questioning, doubting, withholding permission from the life force.
 
@@ -41,15 +41,15 @@ The key insight is that The Empress always deals with **the relationship between
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 3 - The creative triad, synthesis of opposites(Wang 1983 cites Crowley) |
-| **Hebrew Letter** | Daleth (ד) - Value: 4 - Meaning: Door/Gateway(Wang 1983 cites Crowley) |
-| **Kabbalistic Path** | 14th Path: Chokmah to Binah - "Illuminating Intelligence"(Wang 1983 cites Crowley) |
-| **Element** | Earth (manifested fertility)(Wang 1983 cites Crowley) |
-| **Astrology** | Venus - Beauty, love, embodied pleasure(Wang 1983 cites Crowley) |
-| **Sephiroth Connection** | Joins Wisdom (masculine seed) to Understanding (feminine womb)(Wang 1983 cites Crowley) |
-| **Sound** | F-Sharp(Wang 1983 cites Crowley) |
-| **Color** | Emerald Green(Wang 1983 cites Crowley) |
-| **Double Letter** | Wisdom-Folly(Wang 1983 cites Crowley) |
+| **Number** | 3 - The creative triad, synthesis of opposites[^2] |
+| **Hebrew Letter** | Daleth (ד) - Value: 4 - Meaning: Door/Gateway[^2] |
+| **Kabbalistic Path** | 14th Path: Chokmah to Binah - "Illuminating Intelligence"[^2] |
+| **Element** | Earth (manifested fertility)[^2] |
+| **Astrology** | Venus - Beauty, love, embodied pleasure[^2] |
+| **Sephiroth Connection** | Joins Wisdom (masculine seed) to Understanding (feminine womb)[^2] |
+| **Sound** | F-Sharp[^2] |
+| **Color** | Emerald Green[^2] |
+| **Double Letter** | Wisdom-Folly[^2] |
 
 ---
 
@@ -256,6 +256,12 @@ The Empress holds a **shield bearing Venus's symbol**—not for defense, but as 
 - The Great Mother Archetype
 - Cards of Fertility and Abundance
 - The Persephone Mysteries
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

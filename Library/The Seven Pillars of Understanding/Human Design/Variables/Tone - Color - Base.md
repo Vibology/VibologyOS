@@ -435,6 +435,11 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 - [[Jungian Archetypes]] - Fixed patterns in consciousness
 
 
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — Variables (tone, color, base) as advanced hd mechanics.
+
+---
+
 ## Sources
 
 Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.

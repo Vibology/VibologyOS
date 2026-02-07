@@ -17,15 +17,15 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When Strength appears ***upright*** in a reading, it speaks to the realm of fortitude and mastery over the animal nature. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *power, energy, action, courage, magnanimity,* and *complete success*(Waite 1910).
+When Strength appears ***upright*** in a reading, it speaks to the realm of fortitude and mastery over the animal nature. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *power, energy, action, courage, magnanimity,* and *complete success*[^1].
 
-The Golden Dawn tradition identifies Strength as the "Daughter of the Flaming Sword," representing power that is not arrested by judgment but passes on to further action(Wang 1983). This card embodies the paradox that true strength is gentle—the woman closes the lion's jaws not through force but through love.
+The Golden Dawn tradition identifies Strength as the "Daughter of the Flaming Sword," representing power that is not arrested by judgment but passes on to further action[^2]. This card embodies the paradox that true strength is gentle—the woman closes the lion's jaws not through force but through love.
 
 Strength represents the higher nature subduing the animal passions. The lion is not killed or caged but *tamed*—led by a chain of flowers, the sweet yoke of Divine Law. This is mastery through relationship rather than domination, control through compassion rather than violence.
 
 The card teaches that the greatest power is self-possession—the capacity to face one's own beast-nature (rage, lust, fear, hunger) without being consumed by it. This is Daniel in the lion's den unharmed, Samson subduing the lion, the saint with the wild animal that has become docile through spiritual presence.
 
-When Strength appears ***reversed***, Waite gives: *despotism, abuse of power, weakness, discord,* and *disgrace*(Waite 1910).
+When Strength appears ***reversed***, Waite gives: *despotism, abuse of power, weakness, discord,* and *disgrace*[^1].
 
 The reversed Strength speaks to power misapplied—either through tyranny (using force where love would serve) or through weakness (unable to direct the animal energies at all). "Despotism" suggests the woman has become harsh, controlling the lion through violence rather than gentle mastery. The relationship has degraded from partnership to domination.
 
@@ -39,14 +39,14 @@ The key insight is that Strength always deals with **the relationship between hi
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 8 - The octave, completion of one cycle before the next, infinity horizontal (Wang 1983 cites Crowley)|
-| **Hebrew Letter** | Teth (ט) - Value: 9 - Meaning: Serpent/Snake (coiled fire, Kundalini) (Wang 1983 cites Crowley)|
-| **Kabbalistic Path** | 19th Path: Chesed to Geburah - "Intelligence of all the activities of the spiritual beings" (Wang 1983 cites Crowley)|
-| **Element** | Fire (Fixed Fire - sustained, controlled, directed) (Wang 1983 cites Crowley)|
-| **Astrology** | Leo - The Lion, ruled by the Sun (Wang 1983 cites Crowley)|
+| **Number** | 8 - The octave, completion of one cycle before the next, infinity horizontal [^2]|
+| **Hebrew Letter** | Teth (ט) - Value: 9 - Meaning: Serpent/Snake (coiled fire, Kundalini) [^2]|
+| **Kabbalistic Path** | 19th Path: Chesed to Geburah - "Intelligence of all the activities of the spiritual beings" [^2]|
+| **Element** | Fire (Fixed Fire - sustained, controlled, directed) [^2]|
+| **Astrology** | Leo - The Lion, ruled by the Sun [^2]|
 | **Sephiroth Connection** | Balances Mercy (Chesed) with Severity (Geburah) |
-| **Sound** | E-Natural (Wang 1983 cites Crowley)|
-| **Color** | Yellow-Greenish (the color of nature's growth tamed into garden) (Wang 1983 cites Crowley)|
+| **Sound** | E-Natural [^2]|
+| **Color** | Yellow-Greenish (the color of nature's growth tamed into garden) [^2]|
 
 ---
 
@@ -294,6 +294,12 @@ When Strength appears, it signals **the time to tame rather than unleash**. When
 - Kundalini - The Serpent Fire
 - Cards of Mastery and Self-Control
 - The Integration of Shadow
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

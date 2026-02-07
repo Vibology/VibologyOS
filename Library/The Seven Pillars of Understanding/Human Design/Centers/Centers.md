@@ -121,6 +121,11 @@ The wisdom of Human Design lies in recognizing that undefined Centers are not we
 - [[Channels]] — Connections between Centers
 
 ---
+
+[^1]: Ra Uru Hu, *The Definitive Book of Human Design: The Science of Differentiation* (HDC Publishing, 2011) — The nine centers as energy hubs.
+
+---
+
 ## Sources
 
 - Ra Uru Hu & Lynda Bunnell, *The Definitive Book of Human Design* (2011) — Nine Center system, biological correlations, defined vs. undefined mechanics

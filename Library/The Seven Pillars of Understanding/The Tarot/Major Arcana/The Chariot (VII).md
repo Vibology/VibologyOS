@@ -17,9 +17,9 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
 ## Traditional Symbolism
 
-When The Chariot appears ***upright*** in a reading, it speaks to the realm of conquest through disciplined will. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *succour, providence, triumph, victory,* particularly *victory in the mind*—but also *war, presumption,* and *trouble*(Waite 1910).
+When The Chariot appears ***upright*** in a reading, it speaks to the realm of conquest through disciplined will. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *succour, providence, triumph, victory,* particularly *victory in the mind*—but also *war, presumption,* and *trouble*[^1].
 
-The Golden Dawn tradition identifies The Chariot as the "Lord of the Triumph of Light," representing the descent of the Holy Spirit into manifest creation and "conquest on all planes(Wang 1983)." This card signifies the soul warrior who has reached the pinnacle of spiritual development before the Abyss—the last triumph of ego-strength before the great surrender.
+The Golden Dawn tradition identifies The Chariot as the "Lord of the Triumph of Light," representing the descent of the Holy Spirit into manifest creation and "conquest on all planes[^2]." This card signifies the soul warrior who has reached the pinnacle of spiritual development before the Abyss—the last triumph of ego-strength before the great surrender.
 
 The Chariot represents victory through mastery of opposing forces. The charioteer does not eliminate contradiction but *harnesses* it, directing conflicting energies toward a single aim. This is triumph not through destruction of the enemy but through integration of opposites—the black and white sphinxes pulling together despite their contrary natures.
 
@@ -27,7 +27,7 @@ The Chariot represents victory through mastery of opposing forces. The chariotee
 
 But Waite's inclusion of "war, presumption, and trouble" warns of the shadow: victory can become conquest for its own sake, control can harden into rigidity, the armor that protects can become the prison that isolates.
 
-When The Chariot appears ***reversed***, Waite gives: *riot, quarrel, dispute, litigation,* and *defeat*(Waite 1910).
+When The Chariot appears ***reversed***, Waite gives: *riot, quarrel, dispute, litigation,* and *defeat*[^1].
 
 The reversed Chariot speaks to control lost, the opposing forces no longer harnessed but in open conflict. "Riot" suggests internal chaos, the sphinxes pulling in opposite directions while the charioteer loses the reins. What should be disciplined will becomes scattered energy, purposeless motion, the illusion of progress masking actual stasis.
 
@@ -41,14 +41,14 @@ The key insight is that The Chariot always deals with **the paradox of victory t
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|
-| **Number** | 7 - The sacred seven, completion of first cycle, rest in motion (Wang 1983 cites Crowley)|
-| **Hebrew Letter** | Cheth (ח) - Value: 8 - Meaning: Fence/Enclosure (protective boundary) (Wang 1983 cites Crowley)|
-| **Kabbalistic Path** | 18th Path: Binah to Geburah - "House of Influence" (Wang 1983 cites Crowley)|
-| **Element** | Water (Cardinal Water - initiating emotion, protective containment) (Wang 1983 cites Crowley)|
-| **Astrology** | Cancer - The Crab, ruled by the Moon (Wang 1983 cites Crowley)|
+| **Number** | 7 - The sacred seven, completion of first cycle, rest in motion [^2]|
+| **Hebrew Letter** | Cheth (ח) - Value: 8 - Meaning: Fence/Enclosure (protective boundary) [^2]|
+| **Kabbalistic Path** | 18th Path: Binah to Geburah - "House of Influence" [^2]|
+| **Element** | Water (Cardinal Water - initiating emotion, protective containment) [^2]|
+| **Astrology** | Cancer - The Crab, ruled by the Moon [^2]|
 | **Sephiroth Connection** | Descends from Understanding (Mother) to Strength (Severity) |
-| **Sound** | D-Sharp (Wang 1983 cites Crowley)|
-| **Color** | Red-Orange/Amber (Wang 1983 cites Crowley)|
+| **Sound** | D-Sharp [^2]|
+| **Color** | Red-Orange/Amber [^2]|
 | **Simple Letter** | Speech (the power to command, to speak the Will) |
 
 ---
@@ -304,6 +304,12 @@ Both teach the wisdom of **the fence that serves**:
 - The Merkabah - Throne Chariot Mysticism
 - Cards of Victory and Conquest
 - Ego Development Before Transcendence
+
+---
+
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
 
 ---
 

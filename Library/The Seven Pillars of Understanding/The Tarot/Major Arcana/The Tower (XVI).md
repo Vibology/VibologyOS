@@ -370,6 +370,12 @@ The Tower demolishes conceptual direction. Gate 2 receives geometric truth that 
 
 *"The Tower does not destroy what is true. She destroys what is false—and what is false always falls."*
 
+[^1]: Waite, Arthur Edward. *The Pictorial Key to the Tarot: Being Fragments of a Secret Tradition under the Veil of Divination*. London: William Rider & Son, Ltd., 1910. — Traditional upright and reversed meanings, symbolic interpretations.
+
+[^2]: Wang, Robert. *The Qabalistic Tarot: A Textbook of Mystical Philosophy*. York Beach, Maine: Samuel Weiser, Inc., 1983. — Qabalistic correspondences, Golden Dawn tradition, Crowley's *Book of Thoth* references.
+
+---
+
 ## Sources
 ### Primary Sources (Uploaded to Esoteric Grimoire)
 
