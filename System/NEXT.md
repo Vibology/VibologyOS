@@ -88,14 +88,14 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 
 #### Prioritized Development Roadmap
 
-**Tier 1: Gaps That Affect Client Work** *(Item #1 COMPLETE)*
+**Tier 1: Gaps That Affect Client Work** *(ALL COMPLETE)*
 
 | # | Pillar | Item | Effort | Impact |
 |---|--------|------|--------|--------|
 | ~~1~~ | ~~HD~~ | ~~Definition Types~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
-| 2 | Astrology | Lots (Lot of Fortune, Lot of Spirit) | Medium | High — core Hellenistic technique; completely absent |
-| 3 | Astrology | Planetary Condition (cazimi, combust, under the beams, hayz, bonification, maltreatment) | Medium | High — fundamental to traditional planetary assessment; absent |
-| 4 | Astrology | Natal Chart expansion (Hellenistic reading methodology) | Medium | Medium — 90-line stub; should teach sect → condition → dignities → lots → timing |
+| ~~2~~ | ~~Astrology~~ | ~~Lots (Lot of Fortune, Lot of Spirit)~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06 (247 lines, Brennan Ch 16)~~ |
+| ~~3~~ | ~~Astrology~~ | ~~Planetary Condition~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06 (313 lines, verified)~~ |
+| ~~4~~ | ~~Astrology~~ | ~~Natal Chart expansion~~ | ~~Medium~~ | ~~COMPLETE 2026-01-26 (251 lines, comprehensive)~~ |
 
 **Tier 2: Deepening Practice**
 
