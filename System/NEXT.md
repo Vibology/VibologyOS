@@ -7,17 +7,17 @@
 
 ## System Health Summary
 
-### Library (788 files)
+### Library (807 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 788 (783 Library + 5 Synthesis) |
+| Total Files | 807 (802 Library + 5 Synthesis) |
 | Cross-References Coverage | 99.9% |
-| Dead Wikilinks | 70 (20 legitimate gaps needing content + 5 template placeholders) |
+| Dead Wikilinks | 5 (all `[[Relevant Entry]]` template placeholders) |
 | YAML Compliance | 100% |
 | Stub Files | 0 |
 
-**Dead link maintenance complete (3 rounds):** ~749 → 70. Round 1: 429 automated fixes. Round 2: 35 mechanical fixes + Qabalah.md overview. Round 3: 217 fixes (86 alias rewrites, 110 bracket removals, 4 compound fixes, 8 piped-link corrections). Remaining 65 effective dead links are Category B items awaiting new content. Scanner: `scan_dead_links.py`.
+**Dead link maintenance complete (4 rounds):** ~749 → 5. Round 1: 429 automated fixes. Round 2: 35 mechanical fixes + Qabalah.md overview. Round 3: 217 fixes (86 alias rewrites, 110 bracket removals, 4 compound fixes, 8 piped-link corrections). Round 4: 19 Category B entries created + 173 alias fixes (148 rewrites, 25 unbracketed). Effective dead links: **0**. Scanner: `scan_dead_links.py`.
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -28,16 +28,17 @@
 - 14 Archangels + 7 Planetary Archangels + 12 Zodiacal Angels + 9 Orders of Fallen Angels
 - 10 Angelic Orders + Lucifugi Classification + full Enochian Tradition
 - 33 Qabalah files (Sephiroth, Paths, Divine Names, Shadow System)
-- Core Jungian Archetypes (12 entries), Hero's Journey, Alchemical Stages
-- 16 deity expansions (Greek Olympians 8, Egyptian 3, Mesopotamian 1, Specialized 4)
-- Magdalene Path practitioner protocols (Contemplative Prayer, Daily Practice, Protocols)
+- Core Jungian Archetypes (12 entries) + 5 Jungian concepts (Coniunctio, Enantiodromia, Mandala, Four Functions, Unus Mundus), Hero's Journey, Alchemical Stages
+- 26 deity expansions (Greek Olympians 14, Egyptian 7, Mesopotamian 2, Specialized 4)
+- Magdalene Path practitioner protocols + The Dark Night of the Soul
+- Core Foundations: Hermeticism, Neoplatonism, Logos, and others
 
 ### Repository Structure
 
 ```
 VibologyOS/
 ├── CLAUDE.md (V4.8)
-├── Library/ (783 files)
+├── Library/ (802 files)
 ├── Synthesis/General/ (1 synthesis + template)
 ├── System/
 │   ├── NEXT.md (this file)
@@ -70,50 +71,11 @@ VibologyOS/
 
 **Status:** Canonized 2026-02-04. Production-ready.
 
-### 3. Library Expansion — Remaining Content Gaps
+### 3. Library Expansion — Remaining Roadmap Items
 
-**20 Category B items** identified from dead link analysis (2026-02-07). All are legitimately referenced across multiple files and belong within the Seven Pillars framework.
+**Category B content gaps: COMPLETE** (2026-02-07). All 19 entries created (20 items, 1 combined). See Completed Milestones.
 
-#### Greek Mythology (6 entries — 38 refs)
-
-| Entry | Refs | Notes |
-|-------|------|-------|
-| Athena | 17 | Highest-referenced gap. Major Olympian — all peers exist. |
-| Hera | 9 | Queen of Olympus. Referenced from Aphrodite, Ares, Hermes. |
-| Demeter | 7 | Core to Persephone/katabasis myth. Missing half of existing pair. |
-| Hecate | 2 | Crossroads, liminal spaces, chthonic goddess. |
-| Eros | 2 | Primordial/Olympian desire. Aphrodite/Psyche myth. |
-| Hestia | 1 | Goddess of the hearth. Completes 12 Olympians. |
-
-#### Egyptian Mythology (4 entries — 11 refs)
-
-| Entry | Refs | Notes |
-|-------|------|-------|
-| Set | 4 | Shadow figure. Osiris/Horus counterpart. |
-| Osiris | 3 | Central to Isis cycle. Isis/Thoth/Ra exist; Osiris is the gap. |
-| Horus | 3 | Solar heir. Son of Isis/Osiris. |
-| Nephthys | 1 | Sister of Isis. Completes Egyptian quaternio. |
-
-#### Jungian/Alchemical Concepts (6 entries — ~9 refs)
-
-| Entry | Refs | Notes |
-|-------|------|-------|
-| Coniunctio | 2 | Sacred marriage. Central alchemical concept (CW 14). |
-| Enantiodromia | 2 | Running into the opposite. Key Jungian principle. |
-| Mandala | 2 | Symbol of the Self. Fundamental Jungian symbol. |
-| Psychological Types / The Four Functions | 2 | CW 6. Thinking/Feeling/Sensation/Intuition. Could combine. |
-| Unus Mundus | 1 | Unified psycho-physical reality. High synthesis value. |
-
-#### Cross-Pillar (4 entries — 7 refs)
-
-| Entry | Refs | Notes |
-|-------|------|-------|
-| Lilith | 4 | Dark-feminine archetype across Qabalah, Jewish mysticism, astrology. |
-| The Dark Night of the Soul | 1 | Central to contemplative/mystical path. Core Magdalene Path concept. |
-| Hermeticism | 1 | Foundational Western esoteric philosophical framework. |
-| Neoplatonism | 1 | Philosophical root of Celestial Hierarchy and emanation theology. |
-
-#### Other Remaining Roadmap Items
+#### Remaining Roadmap Items
 
 | # | Pillar | Item | Status |
 |---|--------|------|--------|
@@ -136,7 +98,8 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
-| Dead link maintenance (3 rounds) | 2026-02-07 | ~749 → 70 (679 fixes across 280+ files) |
+| Category B entries complete | 2026-02-07 | 19 entries: Greek 6, Egyptian 4, Jungian 5, Cross-Pillar 4 |
+| Dead link maintenance (4 rounds) | 2026-02-07 | ~749 → 5 (all template placeholders). Round 4: 19 entries + 173 alias fixes |
 | Astrolabe oracle deck canonized | 2026-02-04 | 88 cards production-ready |
 | Dignity calculation implemented | 2026-02-04 | Full IHDS algorithm, juxtaposition, harmonic fixing |
 | Dignity data extraction | 2026-02-04 | 64/64 gates, 384/384 lines from IHDS source |
@@ -167,6 +130,16 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 2):** Category B entries + round 4 dead link fixes — 70 → 5
+- **Objective:** Create all 20 Category B entries identified in dead link analysis; fix resulting alias dead links
+- **Entries created (19 files, 20 items — "Psychological Types / Four Functions" combined):**
+  - **Greek Mythology (6):** Athena, Hera, Demeter, Hecate, Eros, Hestia
+  - **Egyptian Mythology (4):** Osiris, Horus, Set, Nephthys
+  - **Jungian Concepts (5):** Coniunctio, Enantiodromia, Mandala, The Four Functions, Unus Mundus
+  - **Cross-Pillar (4):** Lilith (Mesopotamian Mythology), The Dark Night of the Soul (Magdalene Path), Hermeticism (Core Foundations), Neoplatonism (Core Foundations)
+- **Dead link round 4:** New entries introduced 108 new alias dead links. `fix_dead_links_round4.py` applied 173 fixes (148 alias rewrites, 25 unbracketed) across 19 files.
+- **Result:** 807 files, 5 dead links (all `[[Relevant Entry]]` template placeholders). Effective dead links: **0**.
 
 **2026-02-07:** Dead link analysis and round 3 fixes — 287 → 70
 - **Objective:** Evaluate remaining 287 dead links; fix all mechanical issues
