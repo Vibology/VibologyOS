@@ -208,7 +208,36 @@ The Craftsman does not seek to *be* something (inflation)—they seek to *do* so
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Related Archetypes
+- [[The Wise Old Man]] — Wisdom needed to wield mastery correctly (Daedalus's lesson)
+- [[The Shadow]] — Wound transformed into gift (Hephaestus's deformity → skill)
+- [[The Self]] — Alignment with totality prevents Craftsman shadow
+- [[The Hero]] — Quest vs. craft: Hero acts, Craftsman builds
+
+### Mythological Forms
+- Hephaestus/Vulcan — The wounded divine smith
+- Daedalus — The architect of the Labyrinth
+- Ptah — Egyptian creator through thought and word
+
+### Alchemical Work
+- [[Nigredo]] — Blackening, dissolution in the forge
+- [[Albedo]] — Purification through repetition
+- [[Rubedo]] — Mastery as completion of the opus
+- [[Coniunctio]] — Union of craftsman and material (Ch'ing the Woodcarver)
+
+### Practices
+- [[Active Imagination]] — Inner craft requiring patient repetition
+- [[Individuation Process]] — Lifelong craft of self-transformation
+- [[Mandala]] — Jung's craft during confrontation with unconscious
+
+### Cross-Pillar Correspondences
+- [[Astrology]]: [[Virgo ♍]] (precision, refinement), [[Saturn ♄]] (discipline, mastery), [[Mercury ☿]] (skill, dexterity), 6th House (daily work, service)
+- [[Human Design]]: [[Generator]] Type (sustainable work energy), [[Sacral Authority]] (craft chooses the Craftsman)
+- [[The Tarot]]: Eight of Pentacles (apprenticeship), Four of Wands (structural mastery)
+
+### Shadow Manifestations
+- [[Inflation]] — Ego identifies with craft output
+- [[The Shadow]] — Perfectionism, work as relational escape, rigidity
 
 ---
 

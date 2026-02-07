@@ -187,7 +187,27 @@ Humility is not weakness—it is precision. The Observatory does not claim to be
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Archetypes Subject to Inflation
+- [[The Great Mother]] — Ego identifies as the nurturing/devouring mother
+- [[The Wise Old Man]] — Ego identifies as the sage or prophet
+- [[The Hero]] — Ego identifies as the chosen savior
+- [[The Self]] — The most dangerous inflation: believing "I am the totality"
+- [[The Shadow]] — Inflation as defense against shadow encounter
+
+### Related Jungian Concepts
+- [[Ego-Death]] — The opposite pole: ego annihilated rather than inflated
+- [[The Transcendent Function]] — Fails when ego identifies with archetype (antithesis dominates)
+- [[The Collective Unconscious]] — Source of numinous content that inflates ego
+- [[Psychoid Archetype]] — Archetypal possession occurs at psychoid layer
+
+### Von Franz's Work
+- [[The Anima]] — Von Franz's example: woman inflates as Great Mother
+- [[The Persona]] — Inflation vs. persona: both mask authentic Self
+
+### Remedies and Integration
+- [[Individuation Process]] — Inflation as obstacle requiring deflation
+- [[Humility]] — The antidote to inflation
+- [[Active Imagination]] — Method to restore ego-archetype boundary
 
 ---
 

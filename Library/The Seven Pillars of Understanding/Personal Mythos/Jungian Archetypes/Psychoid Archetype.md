@@ -214,7 +214,32 @@ The Observatory does not claim to know *how* the psychoid works (that remains my
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Core Jungian Concepts
+- [[Synchronicity]] — The primary manifestation of the psychoid layer
+- [[The Collective Unconscious]] — The psychoid is the deepest level of the collective unconscious
+- [[Unus Mundus]] — The one world where psyche and matter are unified
+- [[The Transcendent Function]] — Operates through the psychoid layer to produce symbols
+
+### Related Archetypes
+- [[The Self]] — The Self exists at the psychoid level
+- [[The Shadow]] — Shadow integration touches the psychoid through somatic symptoms
+- [[The Anima]] / [[The Animus]] — Contrasexual figures as psychoid realities
+
+### Jung-Pauli Collaboration
+- [[Synchronicity]] — Developed through Jung-Pauli dialogue on quantum mechanics
+- [[Unus Mundus]] — The shared ground both physics and psychology point toward
+
+### Cross-Pillar Applications
+- [[Angelology]] — Angels as psychoid realities (neither purely psychological nor purely spiritual)
+- [[Astrology]] — Planetary positions as psychoid correspondences, not causal forces
+- [[The Tarot]] — Divination works via psychoid layer where inner/outer are continuous
+- [[Human Design]] — Neutrino programming as psychoid interface
+- [[The Astrolabe]] — I-Ching hexagrams tap psychoid acausal orderedness
+
+### Perennial Philosophy
+- [[Neoplatonism]] — The One as psychoid ground
+- [[Hermeticism]] — "As above, so below" as psychoid correspondence
+- [[Ain Soph Aur]] — Qabalistic limitless light as psychoid unity
 
 ---
 

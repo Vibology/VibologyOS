@@ -205,7 +205,40 @@ The collective unconscious speaks in symbols, myths, and dreams. The practitione
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Major Archetypes Within the Collective Unconscious
+- [[The Shadow]] — The repressed, instinctual side
+- [[The Anima]] — The feminine soul-image in men
+- [[The Animus]] — The masculine soul-image in women
+- [[The Great Mother]] — The nurturing/devouring maternal principle
+- [[The Wise Old Man]] — The sage, guide, prophet
+- [[The Hero]] — The questing, dragon-slaying protagonist
+- [[The Self]] — The totality, God-image, center and circumference
+- [[The Divine Child]] — Innocence, new beginning, potential
+- [[The Joker]] — The Trickster, chaos, boundary-crossing
+
+### Related Jungian Concepts
+- [[Psychoid Archetype]] — The deepest layer where archetypes touch matter
+- [[Synchronicity]] — Emerges from the collective unconscious as acausal orderedness
+- [[Individuation Process]] — Journey through layers from ego to collective unconscious
+- [[The Transcendent Function]] — Mechanism for integrating archetypal contents
+
+### Instincts and Images
+- [[The Shadow]] — Shadow as instinctual, repressed side
+- Archetypes as images of instincts (hunger → Great Mother, reproduction → Anima/Animus)
+
+### Evidence and Manifestations
+- [[Mandala]] — Spontaneous symbol from collective unconscious during crisis
+- [[Active Imagination]] — Method for accessing collective layer
+- [[Numinous Experience]] — Contact with collective unconscious produces awe
+
+### Cross-Pillar Applications
+- [[Astrology]] — Planetary archetypes from collective unconscious
+- [[The Tarot]] — Visual archetypes as collective unconscious narratives
+- [[Human Design]] — Genetic imprinting accesses archetypal patterns
+- [[The Astrolabe]] — I-Ching/Gene Keys as 64-fold archetypal matrix
+- [[Angelology]] — Angelic hierarchies as archetypal structures
+- [[Personal Mythos]] — Mythology as collective dream of humanity
+- [[The Magdalene Path]] — Christian archetypes (Christ, Mary) from collective layer
 
 ---
 

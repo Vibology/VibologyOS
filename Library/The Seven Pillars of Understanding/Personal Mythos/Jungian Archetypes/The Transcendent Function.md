@@ -197,7 +197,42 @@ The transcendent function is not magic—it is the psyche's inherent capacity fo
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Opposites to Be Integrated
+- [[The Shadow]] — First major opposite in individuation (ego vs. shadow)
+- [[The Anima]] / [[The Animus]] — Contrasexual opposite (masculine vs. feminine)
+- [[The Self]] — Final opposite: ego vs. totality (ego as satellite, not center)
+
+### Core Jungian Concepts
+- [[Individuation Process]] — Transcendent function as central mechanism throughout
+- [[Coniunctio]] — Alchemical union of opposites, sacred marriage
+- [[The Collective Unconscious]] — Source of archetypal opposites
+- [[Psychoid Archetype]] — Transcendent function operates through psychoid layer
+- [[Synchronicity]] — Breakthrough of synthesis into time
+
+### Symbols Produced
+- [[Mandala]] — Quintessential symbol of transcendent function (unity of opposites)
+- [[The Self]] — Final symbol integrating all opposites
+
+### Practical Methods
+- [[Active Imagination]] — Primary method for activating transcendent function
+- [[Mandala]] — Creation during psychic upheaval facilitates integration
+- Dream work — Dreams as natural expression of transcendent function
+
+### Failure Modes
+- [[Ego-Death]] — Antithesis dominates; ego overwhelmed by unconscious
+- [[Inflation]] — Antithesis dominates; ego identifies with archetype
+- Repression — Thesis dominates; unconscious suppressed
+- Splitting — Oscillation without integration
+
+### Alchemical Parallels
+- [[Nigredo]] — Thesis and antithesis in black chaos
+- [[Coniunctio]] — The sacred marriage, union of opposites
+- [[Rubedo]] — Synthesis: the Philosopher's Stone / the Self
+
+### Cross-Pillar Applications
+- [[The Tarot]] — Major Arcana as transcendent function stages
+- [[Astrology]] — Planetary oppositions requiring integration
+- [[Human Design]] — Open centers as sites of transcendent function work
 
 ---
 

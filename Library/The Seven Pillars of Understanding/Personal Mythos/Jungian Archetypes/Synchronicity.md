@@ -154,7 +154,34 @@ When working with charts (astrological, Human Design, Tarot), synchronicity is t
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Theoretical Foundation
+- [[Psychoid Archetype]] — The psychoid layer is where synchronicity operates
+- [[The Collective Unconscious]] — The shared ground producing meaningful coincidences
+- [[Unus Mundus]] — The one world where inner and outer events are unified
+- [[The Transcendent Function]] — Synchronicity as breakthrough of synthesis into time
+
+### Related Jungian Concepts
+- [[The Self]] — Synchronicities often cluster during Self-encounters
+- [[Individuation Process]] — Major transitions accompanied by synchronistic events
+- [[Numinous Experience]] — Synchronicity carries numinous charge
+
+### Jung-Pauli Dialogue
+- [[Psychoid Archetype]] — Developed alongside synchronicity theory
+- [[Unus Mundus]] — Converged on as explanation for acausal orderedness
+
+### Divination Systems
+- [[The Astrolabe]] — I-Ching as Jung's primary synchronicity demonstration
+- [[The Tarot]] — Card draws operate synchronistically
+- [[Astrology]] — Birth chart as synchronistic snapshot of archetypal field
+- [[Human Design]] — Neutrino imprinting as synchronistic correlation
+
+### Pathology
+- [[Inflation]] — Over-reading synchronicity as personal cosmic attention
+- [[The Shadow]] — Paranoid projection vs. genuine meaningful coincidence
+
+### Cross-Pillar Applications
+- [[Angelology]] — Angelic encounters as synchronistic events
+- [[The Magdalene Path]] — Synchronicity in spiritual practice
 
 ---
 

@@ -202,7 +202,28 @@ The practitioner who has integrated ego-death no longer clings to the ego (infla
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Core Jungian Concepts
+- [[The Self]] — The organizing center revealed when ego dissolves
+- [[The Shadow]] — The repressed material encountered during dissolution
+- [[Individuation Process]] — Ego-death as critical threshold in development
+- [[Psychoid Archetype]] — The layer where ego-death touches the unus mundus
+- [[The Collective Unconscious]] — The transpersonal ground accessed through dissolution
+
+### Alchemical Stages
+- [[Nigredo]] — The blackening, death phase of the alchemical process
+- [[Albedo]] — Purification following dissolution
+- [[Rubedo]] — Resurrection, the return from ego-death transformed
+- [[Mortificatio]] — Alchemical death as parallel to ego-death
+
+### Esoteric Initiation
+- [[The Abyss]] — Qabalistic crossing requiring ego-dissolution
+- [[The Dark Night of the Soul]] — Christian mystical parallel to unintegrated ego-death
+- [[Kenosis]] — Self-emptying in Christian mysticism
+
+### Related Phenomena
+- [[Synchronicity]] — Increases during liminal ego-death states
+- [[Inflation]] — The opposite danger: ego identifies with archetypal forces
+- [[Numinous Experience]] — Direct contact with the sacred during dissolution
 
 ---
 
