@@ -163,7 +163,7 @@ The gift of integration: **Learning when to act and when to yield**. The Hanged 
 
 ### The Hanged Man in the Bodygraph: Gate 1 (The Creative)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hanged Man (Key 12)** corresponds to **[[Gate 1]]** in Human Design—the gate of **The Creative** (or **Self-Expression**), located in the G-Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hanged Man (Key 12)** corresponds to **[[Gate 01 - The Creative]]** in Human Design—the gate of **The Creative** (or **Self-Expression**), located in the G-Center.
 
 #### Mem (Water) and Individual Direction
 
@@ -270,7 +270,7 @@ When The Hanged Man descends from the tree (if he descends), he brings **what wa
 - **Planetary**: [[Neptune ♆]]
 - **Path**: Path 23 - Geburah to Hod
 - **Hebrew Letter**: Mem
-- **Human Design (Canonical):** [[Gate 1]] (The Creative / Self-Expression) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 01 - The Creative]] (The Creative / Self-Expression) — See "Cross-System Synthesis: Human Design" above
 - **Thematic Groupings**: The Ordeal Cards | Sacrifice and Surrender | The Mystical Path
 - **Cross-References**: Odin, [[Prometheus]], Samadhi, Mortificatio
 

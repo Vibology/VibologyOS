@@ -93,7 +93,7 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 - [[Libra ♎]] — Astrological harmony and beauty
 - [[The Anima]] — Jungian archetypal framework (Personal Mythos)
 - [[Venus ♀]] — Planetary ruler of Libra; beauty and relationship
-- [[Encounter with Anima]] — Integration stage in individuation
+- [[Encounter with Anima-Animus]] — Integration stage in individuation
 
 ---
 ## Sources

@@ -129,14 +129,14 @@ Another Shadow trap: fear of intimacy masquerading as boundaries. Building walls
 - Gate 6 (Conflict) in the Solar Plexus — The 6-59 Channel of Mating creates capacity for profound intimacy; sexual energy meets emotional regulation, generating bonding that serves tribal survival
 
 ### Tarot Correspondences
-- [[The Lovers]] — Choice to allow intimacy; recognition that union requires surrender of separateness
-- [[Temperance]] — Flow between vessels; dissolution of barriers enabling exchange
-- [[The Devil]] — Bondage and desire; recognizing what we cling to through intimate attachment
+- [[The Lovers (VI)]] — Choice to allow intimacy; recognition that union requires surrender of separateness
+- [[Temperance (XIV)]] — Flow between vessels; dissolution of barriers enabling exchange
+- [[The Devil (XV)]] — Bondage and desire; recognizing what we cling to through intimate attachment
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — Life force, sexuality, generative response; motor center creating bonding energy
+- [[Sacral]] — Life force, sexuality, generative response; motor center creating bonding energy
 - [[Tribal Defense Circuit]] — Survival through intimate support; bonding that sustains tribal life
-- [[Yesod (Foundation)]] — Qabalistic sphere of sexuality, generation, cosmic foundation through union
+- [[Yesod]] — Qabalistic sphere of sexuality, generation, cosmic foundation through union
 - [[Eros Archetype]] — Divine force of attraction; longing that dissolves rational defenses
 
 ---

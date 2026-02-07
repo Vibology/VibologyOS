@@ -204,13 +204,13 @@ Antiochus and Porphyry define void of course as the Moon not applying to any pla
 
 The condition system, read through Jungian depth, reveals something about the nature of psychic content under pressure. A planet is not merely a point in space — it is a complex, an archetype with its own developmental trajectory. The question of condition is the question of whether an archetype can *speak* in the life or whether it is suppressed, co-opted, or overwhelmed by other psychic forces.
 
-**Bonification** mirrors what happens when the ego encounters supportive archetypal content — the [[Anima]] or [[The Self|Self]] that strengthens rather than overwhelms. The benefics are not merely "good luck" but psychic allies: Venus bonifying Mars is desire teaching aggression the language of relationship; Jupiter bonifying Saturn is meaning tempering limitation with purpose.
+**Bonification** mirrors what happens when the ego encounters supportive archetypal content — the [[The Anima]] or [[The Self|Self]] that strengthens rather than overwhelms. The benefics are not merely "good luck" but psychic allies: Venus bonifying Mars is desire teaching aggression the language of relationship; Jupiter bonifying Saturn is meaning tempering limitation with purpose.
 
 **Maltreatment** is the archetype under siege — Saturn's depression crushing Venus's capacity for pleasure, Mars's aggression destabilizing the Moon's emotional security. The *enclosed* planet (besieged between two malefics) is the psychic content with no exit: anxiety that can neither discharge through action (Mars) nor find structure through patience (Saturn), but is trapped between them.
 
 **Overcoming** reveals the hierarchy of psychic forces. The planet in the superior position is the dominant complex — what overrides, what takes precedence in the inner life. When Saturn overcomes the Sun from the tenth sign, the father complex or the inner critic holds authority over the conscious identity. When Jupiter overcomes, faith or meaning-making holds the dominant position.
 
-**Counteraction** is the psychological equivalent of integration: the malefic that is received in mutual reception is the difficult content that belongs to the personality — the [[Shadow]] that has been acknowledged and given a place in the house. It still causes difficulty, but it no longer destroys.
+**Counteraction** is the psychological equivalent of integration: the malefic that is received in mutual reception is the difficult content that belongs to the personality — the [[The Shadow]] that has been acknowledged and given a place in the house. It still causes difficulty, but it no longer destroys.
 
 ---
 

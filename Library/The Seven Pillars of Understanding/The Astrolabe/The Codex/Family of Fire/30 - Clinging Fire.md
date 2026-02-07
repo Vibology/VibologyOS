@@ -129,14 +129,14 @@ Another Shadow trap: spiritual bypassing of desire. Using "non-attachment" teach
 - Gate 41 (Decrease) in the Root — The 30-41 Channel of Recognition creates the capacity to desire new experiences and initiate them; the Start Codon of the emotional-experiential cycle
 
 ### Tarot Correspondences
-- [[The Devil]] — Bondage through desire; recognition of what we cling to
-- [[The Lovers]] — Choice and commitment despite impermanence
-- [[Strength]] — Taming fire through awareness, not suppression
+- [[The Devil (XV)]] — Bondage through desire; recognition of what we cling to
+- [[The Lovers (VI)]] — Choice and commitment despite impermanence
+- [[Strength (VIII)]] — Taming fire through awareness, not suppression
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional awareness, spirit, the wave that teaches through feeling
+- [[Solar Plexus]] — Emotional awareness, spirit, the wave that teaches through feeling
 - [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; wisdom extracted from emotional depth
-- [[Netzach (Victory)]] — Qabalistic sphere of desire, passion, emotional experience
+- [[Netzach]] — Qabalistic sphere of desire, passion, emotional experience
 - [[Eros Function]] — Jungian principle of desire, value, relationship
 
 ---

@@ -73,7 +73,7 @@ Water — the solvent, the womb, the flood. In the body, dissolution is tears, s
 - [[The Star (XVII)]] — Water poured out, the dissolution that precedes hope
 
 ### Cross-Pillar Synthesis
-- [[The Moon ☽]] — Planetary correspondence: tides, unconscious, emotional depths
+- [[Moon ☽]] — Planetary correspondence: tides, unconscious, emotional depths
 - [[Binah]] — Qabalah: the Great Mother, the womb that dissolves form back into potential
 - [[The Anima]] — Jungian archetype: the soul-image that mediates through feeling and fluidity
 - [[Nigredo]] — Alchemical color: the blackening completed by dissolution's flood

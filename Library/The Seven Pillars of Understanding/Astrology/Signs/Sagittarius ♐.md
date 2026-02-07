@@ -208,7 +208,7 @@ In esoteric anatomy, Sagittarius governs the **thighs** (the muscles that propel
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** Temperance (Key XIV) — Synthesis, the alchemical marriage of opposites
-- **[[The Window]]:** The Jump (contemporary face: the risk-taker, the visionary)
+- **[[The Astrolabe]]:** The Jump (contemporary face: the risk-taker, the visionary)
 - **[[Jungian Archetypes]]:** The Hero (on the journey), The Sage
 - **[[Human Design]]:** Throat Center (manifestation of vision into speech)
 

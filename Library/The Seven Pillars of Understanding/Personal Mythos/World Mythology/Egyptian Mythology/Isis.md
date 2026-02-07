@@ -247,13 +247,13 @@ When someone you love is "dismembered" by life (addiction, trauma, fragmentation
 ### Within Personal Mythos
 - **Egyptian Pantheon:** [[Egyptian Mythology]], [[Ra]], [[Thoth]], [[Osiris]] (husband), [[Horus]] (son), [[Set]] (adversary), [[Nephthys]] (sister)
 - **Great Mother Manifestations:** [[The Great Mother]] (archetypal parent), [[Demeter]] (Greek grain mother), [[Inanna]] (descent/resurrection), [[Kali]] (transformer), [[Virgin Mary]] (Christian mother)
-- **Jungian Archetypes:** [[The Great Mother]], [[The Anima]], [[The Magician]], [[The Syzygy]] (sacred marriage)
+- **Jungian Archetypes:** [[The Great Mother]], [[The Anima]], [[The Magician (I)]], [[The Syzygy]] (sacred marriage)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Moon ☽]] (primary correspondence—mystery, protection, magic, emotional depth), [[Cancer ♋]] (maternal home, nourishment), [[8th House]] (death, transformation, resurrection, occult knowledge)
-- **[[Tarot]]:** [[The High Priestess (II)]] (lunar mystery, hidden knowledge, veil between worlds, virgin anima, Isis enthroned between pillars), [[The Empress (III)]] (abundant mother, fertility), [[Strength (VIII)]] (mastery through love)
+- **[[The Tarot]]:** [[The High Priestess (II)]] (lunar mystery, hidden knowledge, veil between worlds, virgin anima, Isis enthroned between pillars), [[The Empress (III)]] (abundant mother, fertility), [[Strength (VIII)]] (mastery through love)
 - **[[Qabalah]]:** **Binah** (Understanding, Supernal Mother, the Great Sea who gives form), High Priestess as path between Kether and Tiphareth
-- **[[Human Design]]:** [[Gate 27]] (Nourishing—caring for the tribe), [[Gate 50]] (The Cauldron—values and rules that protect), [[Emotional Solar Plexus]] (the ocean of feeling, the mother's emotional body)
+- **[[Human Design]]:** [[Gate 27 - Nourishment]] (Nourishing—caring for the tribe), [[Gate 50 - The Cauldron]] (The Cauldron—values and rules that protect), [[Solar Plexus]] (the ocean of feeling, the mother's emotional body)
 - **[[Angelology]]:** [[Gabriel]] (announcement, lunar mysteries, protection), [[Archangel Correspondence - Moon|Lunar Archangel]] (emotional/psychic realm)
 - **Mystery Traditions:** Eleusinian Mysteries (Demeter-Persephone parallel), Isiac Mysteries (Apuleius's *The Golden Ass*), Hermetic tradition (Isis-Sophia-Mary lineage)
 

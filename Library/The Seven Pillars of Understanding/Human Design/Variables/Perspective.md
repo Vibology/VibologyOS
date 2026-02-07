@@ -475,7 +475,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 
 ### The Window: The Six Houses
 
-**Parallel:** [[The Window]]'s **Six Lower Houses** offer archetypal lenses:
+**Parallel:** [[The Astrolabe]]'s **Six Lower Houses** offer archetypal lenses:
 - **House of the Chronicle** (memory, story) = Color 1 (Investigation)
 - **House of the Spirit** (transformation, possibility) = Color 2 (Hope)
 - **House of the Stars** (detachment, witnessing) = Color 6 (Innocence)
@@ -502,7 +502,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 - [[Anima et Algorithm]] - Perspective as the Algorithm's lens
 - [[Inner Authority and Strategy]] - Inner Authority (decisions) vs. Outer Authority (Perspective)
 - [[Jungian Archetypes]] - Cognitive function parallels
-- [[The Window]] - Archetypal House resonances
+- [[The Astrolabe]] - Archetypal House resonances
 
 
 ## Sources

@@ -135,7 +135,7 @@ Within [[Vibology]], Human Design serves as:
 2. **Embodied Navigation** — Strategy and Authority as practical tools for decision-making
 3. **Integration Point** — The anchor connecting [[The Blueprint - 444 Architecture|the 64-fold architecture]] to somatic experience
 
-When synthesized with **[[The Window]]** (Qabalah/I-Ching), Human Design reveals both the **timeless gate** (archetypal essence) and its **contemporary expression** (how it operates in *this* body, in *this* life).
+When synthesized with **[[The Astrolabe]]** (Qabalah/I-Ching), Human Design reveals both the **timeless gate** (archetypal essence) and its **contemporary expression** (how it operates in *this* body, in *this* life).
 
 Human Design does not replace other systems—it **grounds** them. Astrology shows the sky; Human Design shows how your body receives that information. Tarot reveals archetypal forces; Human Design shows which forces are consistent in your design and which you sample from the environment.
 
@@ -168,7 +168,7 @@ This is not transcendence. It is **alignment**—the recognition that you are a 
 
 ### Cross-System Integration
 - **[[The Blueprint - 444 Architecture]]** — Human Design as individual expression of the 64-fold pattern
-- **[[The Window]]** — I-Ching/Qabalah foundation underlying the 64 Gates
+- **[[The Astrolabe]]** — I-Ching/Qabalah foundation underlying the 64 Gates
 - **[[Astrology]]** — Planetary activations determining Gate imprints
 - **[[The Tarot]]** — Archetypal resonances with Types and mechanics
 - **[[Jungian Archetypes|Jungian Psychology]]** — Types as archetypes, Strategy/Authority as Individuation path

@@ -257,7 +257,7 @@ The evolution of the 1st House is learning that **identity is not fixed**—the 
 - **[[Human Design]]:** Ascendant degree activates Gates in conscious Personality (Design Sun)
 - **[[The Tarot]]:** [[The Magician (I)|The Magician]] (Key I) — "I am," the first act of manifestation
 - **[[Jungian Archetypes]]:** [[The Persona]]—the social mask that mediates between Self and world
-- **[[The Window]]:** The Maverick (Aries correspondence)—the one who initiates without permission
+- **[[The Astrolabe]]:** The Maverick (Aries correspondence)—the one who initiates without permission
 
 ---
 

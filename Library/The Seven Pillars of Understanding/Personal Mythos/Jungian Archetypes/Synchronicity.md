@@ -177,5 +177,5 @@ When working with charts (astrological, Human Design, Tarot), synchronicity is t
 - [[Active Imagination]] — Method for engaging the unconscious, often triggering synchronicities
 - [[Wheel of Fortune (X)]] — Tarot card embodying the sudden reversals and meaningful coincidences of synchronicity
 - [[Astrology]] — Divination system operating on synchronistic correspondence between celestial and terrestrial
-- [[The Window]] — I-Ching/Gene Keys system demonstrating synchronicity in practice
+- [[The Astrolabe]] — I-Ching/Gene Keys system demonstrating synchronicity in practice
 - [[Human Design]] — Birth chart as synchronistic snapshot of archetypal field at moment of imprinting

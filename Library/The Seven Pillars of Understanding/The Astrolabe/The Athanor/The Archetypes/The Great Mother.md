@@ -101,7 +101,7 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 - [[Taurus ♉]] — Astrological sustainer and builder
 - [[The Great Mother]] — Jungian archetypal framework (Personal Mythos)
 - [[Venus ♀]] — Planetary ruler of Taurus; values and resources
-- [[The Meeting with the Mentor]] — The mother as first guide
+- [[Meeting the Mentor]] — The mother as first guide
 
 ---
 ## Sources

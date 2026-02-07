@@ -129,14 +129,14 @@ Another Shadow trap: rejecting ambition entirely. If desire to rise is greed, th
 - Gate 32 (Duration) in the Spleen — The 54-32 Channel of Transformation creates the capacity for sustainable advancement—ambition grounded in recognition of what patterns actually endure
 
 ### Tarot Correspondences
-- [[The Chariot]] — Ambition, drive, victory through disciplined will
+- [[The Chariot (VII)]] — Ambition, drive, victory through disciplined will
 - [[Seven of Pentacles]] — Patient cultivation, sustainable transformation over time
 - [[Eight of Wands]] — Swift movement toward destination; momentum on the path
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure, stress, adrenaline; the drive to act and transform
+- [[Root]] — Pressure, stress, adrenaline; the drive to act and transform
 - [[Tribal Circuit]] — Survival through right relationship to resources, position, community
-- [[Netzach (Victory)]] — Qabalistic sphere of desire, passion, drive toward achievement
+- [[Netzach]] — Qabalistic sphere of desire, passion, drive toward achievement
 - [[Anima-Animus]] — Jungian soul-image; projection of completion onto other or path
 
 ---

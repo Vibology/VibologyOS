@@ -779,7 +779,7 @@ In the Western esoteric tradition, the ultimate goal is **union with the divine*
 
 ### Qabalistic Framework
 - [[Kether]] through [[Malkuth]] — The ten Sephiroth
-- [[The Four Worlds]] — Qabalistic cosmology
+- [[Four Worlds]] — Qabalistic cosmology
 - Hebrew letters — Linguistic keys to paths
 
 ### Cross-Pillar Integration

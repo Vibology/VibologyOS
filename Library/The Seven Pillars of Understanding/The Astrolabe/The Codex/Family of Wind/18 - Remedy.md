@@ -129,14 +129,14 @@ Another Shadow trap: passivity in the face of decay. If pointing out flaws has b
 - Gate 58 (The Joyous) in the Root — The 18-58 Channel of Judgment creates the instinct to identify patterns and the pressure to correct them; shadow is chronic criticism, gift is precise improvement
 
 ### Tarot Correspondences
-- [[Justice]] — Precise assessment; correction without mercy or cruelty; balance through accurate judgment
-- [[Judgement]] — The call to account; revealing what is hidden; resurrection through acknowledgment
-- [[The Hermit]] — Careful examination; withdrawal to diagnose before acting
+- [[Justice (XI)]] — Precise assessment; correction without mercy or cruelty; balance through accurate judgment
+- [[Judgement (XX)]] — The call to account; revealing what is hidden; resurrection through acknowledgment
+- [[The Hermit (IX)]] — Careful examination; withdrawal to diagnose before acting
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — Intuitive awareness; survival instinct; body intelligence; health and vitality
+- [[Spleen]] — Intuitive awareness; survival instinct; body intelligence; health and vitality
 - [[Collective Logic Circuit]] — Shared understanding of patterns; cause and effect serving the collective
-- [[Geburah (Severity)]] — Qabalistic sphere of corrective force; the surgeon's blade removing disease
+- [[Geburah]] — Qabalistic sphere of corrective force; the surgeon's blade removing disease
 - [[The Healer Archetype]] — Diagnostician who identifies and treats; balance of precision and compassion
 
 ---

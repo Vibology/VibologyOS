@@ -130,7 +130,7 @@ In Jungian terms, the bound lord is the **complex** that mediates between the eg
 
 The bounds also mirror the Jungian insight that the psyche is not governed by a single ruler but by a *hierarchy of authorities*, each operative at different scales. The Self (domicile ruler) sets the overarching pattern; the ego-complex (bound lord) negotiates the specific terms. When the bound lord is a malefic, the daily texture of the archetype is harder, more conflicted, more defensive. When a benefic, the texture is easier, more supported — but potentially less tested.
 
-**Malefics at the boundaries** — the consistent placement of Mars and Saturn at the end of signs — carries archetypal weight. The threshold between signs is a zone of transition, dissolution, and rebirth. The [[Shadow]] guards every threshold. To cross from one archetypal territory to another, one must pass through the malefic's jurisdiction — through severity (Saturn) or conflict (Mars). There is no painless passage between modes of being.
+**Malefics at the boundaries** — the consistent placement of Mars and Saturn at the end of signs — carries archetypal weight. The threshold between signs is a zone of transition, dissolution, and rebirth. The [[The Shadow]] guards every threshold. To cross from one archetypal territory to another, one must pass through the malefic's jurisdiction — through severity (Saturn) or conflict (Mars). There is no painless passage between modes of being.
 
 ---
 

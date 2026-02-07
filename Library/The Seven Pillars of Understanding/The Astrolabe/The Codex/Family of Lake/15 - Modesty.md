@@ -129,14 +129,14 @@ Another Shadow trap: forced moderation. Using spiritual bypassing to suppress na
 - Gate 5 (Waiting) in the Sacral — The 5-15 Channel of Rhythm creates the capacity to be in the flow; fixed patterns meeting flexible tempo
 
 ### Tarot Correspondences
-- [[Temperance]] — Mixing extremes into integration; the angel balancing fluids
-- [[The World]] — Balanced at the center of all elements; the dance that contains all rhythms
-- [[The Hermit]] — Greatness hidden within simplicity; the light that guides without asserting
+- [[Temperance (XIV)]] — Mixing extremes into integration; the angel balancing fluids
+- [[The World (XXI)]] — Balanced at the center of all elements; the dance that contains all rhythms
+- [[The Hermit (IX)]] — Greatness hidden within simplicity; the light that guides without asserting
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Self, identity, love, direction; the magnetic core that knows who you are
 - [[Collective Logic Circuit]] — Pattern recognition; understanding where each frequency fits within the whole
-- [[Tiphareth (Beauty)]] — Qabalistic sphere balancing all extremes; the heart of the Tree
+- [[Tiphareth]] — Qabalistic sphere balancing all extremes; the heart of the Tree
 - [[Everyman Archetype]] — Jungian capacity to see self in all others; shared humanity
 
 ---

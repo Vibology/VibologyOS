@@ -52,7 +52,7 @@ Raphael's essence is **solar** (the healing light of Tiphareth, the physician wh
 - **Wednesday (Mercurial):** Raphael's secondary day, aligned with Hod and Mercury
 
 For maximum potency, invoke Raphael:
-- **At dawn** (sunrise, the eastern quarter, Raphael's traditional station in the [[Four Quarters]])
+- **At dawn** (sunrise, the eastern quarter, Raphael's traditional station in the [[The Four Quarters]])
 - **During the planetary hour of the Sun or Mercury** (calculate using planetary hour tables)
 - **On Sundays or Wednesdays**
 
@@ -232,7 +232,7 @@ Raphael is the patron of **both esoteric healing and scientific medicine**. He i
 
 ## Psychological Function: Healing the Split
 
-From a Jungian perspective, illness (physical or psychic) is often a **symptom of splitting**—the ego at war with the body, the conscious mind refusing the unconscious, the persona denying the [[Shadow]].[^6]
+From a Jungian perspective, illness (physical or psychic) is often a **symptom of splitting**—the ego at war with the body, the conscious mind refusing the unconscious, the persona denying the [[The Shadow]].[^6]
 
 **Raphael as healer:**
 Raphael's caduceus—the two serpents winding around the central staff—represents the **union of opposites**:
@@ -349,7 +349,7 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 ### Within Angelology
 - [[Raphael]] — Complete archangel profile (planetary rulerships, Qabalistic position, mythology, functions)
 - [[The Four Archangels of the Quarters]] — Raphael's role in the elemental square (East/Air/Dawn)
-- [[Four Quarters]] — Body-centered vs. compass-oriented invocation systems
+- [[The Four Quarters]] — Body-centered vs. compass-oriented invocation systems
 - [[Michael]] — Archangel of protection and strength (South/Fire)
 - [[Gabriel]] — Archangel of revelation and intuition (West/Water)
 - [[Uriel]] — Archangel of grounding and wisdom (North/Earth)
@@ -371,8 +371,8 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 - [[Synchronicity]] — Meaningful coincidences following invocations (divinely arranged encounters)
 
 ### Within Human Design
-- [[Spleen Center]] — Intuitive knowing of health/safety; Raphael's influence on instinctual awareness
-- [[Throat Center]] — Communication of needs; Raphael as mercurial messenger enabling clear expression
+- [[Spleen]] — Intuitive knowing of health/safety; Raphael's influence on instinctual awareness
+- [[Throat]] — Communication of needs; Raphael as mercurial messenger enabling clear expression
 
 ### Ritual Practices
 - [[Contemplative Prayer]] — Non-petitionary prayer (contrasted with invocation's direct address)

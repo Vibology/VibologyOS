@@ -1136,7 +1136,7 @@ The **grain of wheat** in the Eleusinian mysteries = the **lotus in the mud** in
 - The I-Ching (Book of Changes parallels impermanence teaching)
 - Qabalah (Tree of Life parallels the graduated path, Ten Sephiroth as stages)
 - [[Angelology]] (Bodhisattvas as "angelic" intermediaries)
-- [[The Window]] (Contemporary archetypal resonance with Buddhist themes)
+- [[The Astrolabe]] (Contemporary archetypal resonance with Buddhist themes)
 
 ---
 

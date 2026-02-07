@@ -129,14 +129,14 @@ Another Shadow trap: abdicating leadership entirely. If influence risks arroganc
 - Gate 7 (The Army) in the G Center — The 7-31 Channel of The Alpha creates leadership emerging from identity; the capacity to influence through being rather than doing
 
 ### Tarot Correspondences
-- [[The Emperor]] — Structure, leadership, authority grounded in discipline
-- [[The Hierophant]] — Traditional authority, teaching through transmission
+- [[The Emperor (IV)]] — Structure, leadership, authority grounded in discipline
+- [[The Hierophant (V)]] — Traditional authority, teaching through transmission
 - [[King of Swords]] — Intellectual authority, leadership through clarity and pattern
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — Manifestation, communication, metabolizing experience into expression
+- [[Throat]] — Manifestation, communication, metabolizing experience into expression
 - [[Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation
-- [[Hod (Splendor)]] — Qabalistic sphere of communication, intellect, patterns made beautiful
+- [[Hod]] — Qabalistic sphere of communication, intellect, patterns made beautiful
 - [[King-Queen Archetype]] — Jungian mature sovereignty; leadership through wisdom and service
 
 ---

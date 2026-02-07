@@ -445,9 +445,9 @@ If you recognize Inanna's pattern of consuming partners:
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Venus ♀]] (primary correspondence—love, beauty, desire, values), Venus retrograde as Inanna-descent cycle (18-19 month cycle), [[Pluto ♇]] (underworld, death-rebirth, transformation), **Venus-Pluto aspects** (love fused with death, transformative desire), [[Scorpio ♏]] (death-rebirth, underworld, sexual power)
-- **[[Tarot]]:** [[The Empress (III)]] (Venus/Inanna—abundant, fertile, sovereign), [[Death (XIII)]] (descent, transformation, necessary ending), [[The Star (XVII)]] (rebirth after descent, naked truth, hope restored), [[The Tower (XVI)]] (stripping of structures, Mars/war aspect)
+- **[[The Tarot]]:** [[The Empress (III)]] (Venus/Inanna—abundant, fertile, sovereign), [[Death (XIII)]] (descent, transformation, necessary ending), [[The Star (XVII)]] (rebirth after descent, naked truth, hope restored), [[The Tower (XVI)]] (stripping of structures, Mars/war aspect)
 - **[[Qabalah]]:** **Netzach** (Venus sphere—love, beauty, nature, art), **Geburah** (Mars sphere—severity, destruction, boundaries)—Inanna holds both spheres
-- **[[Human Design]]:** [[Gate 6]] (Conflict/Intimacy—Venus gate, emotional friction in bonding), [[Gate 36]] (Crisis/Darkening of the Light—descent into shadow), Emotional Solar Plexus (wave, depth, transformation)
+- **[[Human Design]]:** [[Gate 06 - Conflict]] (Conflict/Intimacy—Venus gate, emotional friction in bonding), [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of the Light—descent into shadow), Emotional Solar Plexus (wave, depth, transformation)
 - **[[Angelology]]:** [[Archangel Correspondence - Venus|Venus Archangel]] (love, beauty, harmony)
 
 ### Mythology and Literature

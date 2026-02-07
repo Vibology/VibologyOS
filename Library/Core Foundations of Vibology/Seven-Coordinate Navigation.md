@@ -22,7 +22,7 @@ Each of the **Seven Pillars** provides a distinct vantage point:
 - **Where you are now** (current location)
 - **Where you are going** (destination)
 
-No single system tells the whole story. [[Astrology]] reveals *when* and *where* in cosmic cycles. [[Human Design]] reveals *how* you are mechanically configured. [[The Tarot]] reveals *what* archetypal forces are active. [[Angelology]] reveals the *hierarchical consciousness structure* through which all patterns descend. [[Personal Mythos]] reveals the *cultural and psychological narratives* that shape your journey. [[The Window]] reveals contemporary archetypal resonances via I-Ching and Gene Keys. **[[The Magdalene Path]]** unifies all seven into a single vertical ascent.
+No single system tells the whole story. [[Astrology]] reveals *when* and *where* in cosmic cycles. [[Human Design]] reveals *how* you are mechanically configured. [[The Tarot]] reveals *what* archetypal forces are active. [[Angelology]] reveals the *hierarchical consciousness structure* through which all patterns descend. [[Personal Mythos]] reveals the *cultural and psychological narratives* that shape your journey. [[The Astrolabe]] reveals contemporary archetypal resonances via I-Ching and Gene Keys. **[[The Magdalene Path]]** unifies all seven into a single vertical ascent.
 
 This is not syncretism for its own sake—it is **triangulated gnosis**: using multiple systems to verify, deepen, and cross-reference insights until the **Third Meaning** emerges that no single system could reveal alone. These are not seven _different_ destinations, but seven _simultaneous lenses_ required to view a single, complex object (the soul) that is otherwise invisible from any one perspective.
 
@@ -445,7 +445,7 @@ Until then: navigate with all seven.
 - [[Human Design]] - Mechanical configuration and somatic authority
 - [[The Magdalene Path]] - Vertical soul ascent and sacred feminine
 - [[The Tarot]] - Qabalistic pathways and archetypal visualization
-- [[The Window]] - Contemporary I-Ching and Gene Keys framework
+- [[The Astrolabe]] - Contemporary I-Ching and Gene Keys framework
 
 ### Synthesis Practices
 - **[[PROTOCOL - Cross-System Synthesis]]** - Complete methodology for multi-system integration

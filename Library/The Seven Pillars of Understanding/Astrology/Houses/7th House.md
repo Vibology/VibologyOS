@@ -297,7 +297,7 @@ The 7th House challenge is to recognize that **your enemy is your dark twin**—
 - **[[Human Design]]:** G Center (identity through relationship), Emotional Solar Plexus (bonding)
 - **[[The Tarot]]:** [[The Lovers (VI)|The Lovers]] (Key VI) — Choice, union, sacred partnership
 - **[[Jungian Archetypes]]:** [[The Syzygy]] (anima/animus)—the contrasexual other
-- **[[The Window]]:** Netzach (Victory) — Desire, relationship, the feminine principle
+- **[[The Astrolabe]]:** Netzach (Victory) — Desire, relationship, the feminine principle
 
 ---
 

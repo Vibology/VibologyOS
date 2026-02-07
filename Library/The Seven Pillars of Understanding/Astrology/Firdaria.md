@@ -177,7 +177,7 @@ In Jungian terms, the firdaria lord is the **dominant complex** of the period �
 
 ### Cross-Pillar
 - [[Individuation Process]] — Firdaria as developmental stages mapping archetypal tasks across the lifespan
-- [[The Wheel of Fortune (X)]] — Tarot's image of cyclical fortune and the turning of planetary chapters
+- [[Wheel of Fortune (X)]] — Tarot's image of cyclical fortune and the turning of planetary chapters
 
 ---
 

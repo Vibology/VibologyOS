@@ -161,7 +161,7 @@ TBD
 
 ### Justice in the Bodygraph: Gate 23 (Splitting Apart / Assimilation)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Justice (Key 11)** corresponds to **[[Gate 23]]** in Human Design—the gate of **Splitting Apart** (or **Assimilation**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Justice (Key 11)** corresponds to **[[Gate 23 - Splitting Apart]]** in Human Design—the gate of **Splitting Apart** (or **Assimilation**), located in the Throat Center.
 
 #### Lamed (Ox-Goad) and the Voice of Knowing
 
@@ -269,7 +269,7 @@ Both teach that **truth is labor-intensive**: Justice weighs continuously; Gate 
 - [[The Fool (0)]] - The ox that Lamed's goad directs
 - [[Wheel of Fortune (X)]] - The karmic law Justice enacts
 - [[Judgement (XX)]] - The final weighing after the journey
-- **Human Design (Canonical):** [[Gate 23]] (Splitting Apart / Assimilation) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 23 - Splitting Apart]] (Splitting Apart / Assimilation) — See "Cross-System Synthesis: Human Design" above
 - Lamed - Hebrew Letters in Tarot
 - Kabbalistic Paths - Geburah to Tiphareth
 - Libra and Venus in Esoteric Systems

@@ -104,7 +104,7 @@ The danger is the opposite: feeling so intensely that you project your own emoti
 - [[Haniel]] — The archangel of Netzach (Grace of God)
 - [[YHVH Tzabaoth]] — The Divine Name of Netzach
 - [[Pillar of Mercy]] — Netzach's pillar (Chokmah and Chesed above)
-- [[Venus]] — Netzach's planetary correspondence in astrology
+- [[Venus ♀]] — Netzach's planetary correspondence in astrology
 
 ---
 

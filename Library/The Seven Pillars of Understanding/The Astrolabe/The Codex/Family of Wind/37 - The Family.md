@@ -129,14 +129,14 @@ Another Shadow trap: agreement as control. If Gate 40's bargaining becomes manip
 - Gate 40 (Deliverance) in the Heart — The 37-40 Channel of Community creates the emotional-material foundation of tribe; willingness to feel together and work together
 
 ### Tarot Correspondences
-- [[The Lovers]] — Chosen relationship; conscious union; commitment as sacred act
+- [[The Lovers (VI)]] — Chosen relationship; conscious union; commitment as sacred act
 - [[Ten of Pentacles]] — Family wealth and inheritance; material-emotional foundation passed through generations
 - [[Four of Wands]] — Celebration of home and community; the hearth as center
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional awareness; the wave; mood; emotional motor for bonding
+- [[Solar Plexus]] — Emotional awareness; the wave; mood; emotional motor for bonding
 - [[Tribal Ego Circuit]] — Bonding through bargain; community through reciprocal obligations
-- [[Malkuth (Kingdom)]] — Qabalistic sphere of manifest community; spirit embodied in shared life
+- [[Malkuth]] — Qabalistic sphere of manifest community; spirit embodied in shared life
 - [[The Hearth]] — Hestia/Vesta; the center that holds; belonging as chosen commitment
 
 ---

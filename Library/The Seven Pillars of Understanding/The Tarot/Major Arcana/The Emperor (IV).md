@@ -158,7 +158,7 @@ TBD
 
 ### The Emperor in the Bodygraph: Gate 31 (Influence / Leading)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Emperor (Key 4)** corresponds to **[[Gate 31]]** in Human Design—the gate of **Influence** (Leading), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Emperor (Key 4)** corresponds to **[[Gate 31 - Influence]]** in Human Design—the gate of **Influence** (Leading), located in the Throat Center.
 
 #### Heh (Window) and the Throat as Vision Made Audible
 
@@ -253,7 +253,7 @@ Ra taught: "Gate 31 is democratic leadership—you lead when you've earned the r
 - [[The Fool (0)]] - The wanderer who must learn to rule
 - [[The Empress (III)]] - His consort and source of creative power
 - [[The Hierophant (V)]] - The spiritual authority complementing temporal power
-- **Human Design (Canonical):** [[Gate 31]] (Influence / Leading) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 31 - Influence]] (Influence / Leading) — See "Cross-System Synthesis: Human Design" above
 - Heh - Hebrew Letters in Tarot
 - Kabbalistic Paths - Chokmah to Tiphareth
 - Aries and Mars in Esoteric Systems

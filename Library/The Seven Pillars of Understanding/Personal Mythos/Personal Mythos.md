@@ -56,7 +56,7 @@ It is:
 
 1. **Universal pattern made particular:** The [[The Hero's Journey]] is universal, but **your** Hero's Journey has never happened before. [[The Shadow]] is archetypal, but **your** Shadow contains unique contents shaped by your history, culture, family, soul.
 
-2. **Synthesis of all seven pillars:** Personal Mythos integrates [[Human Design]] (your genetic blueprint), [[Astrology]] (your cosmic timing), [[The Tarot]] (symbolic stations), [[The Window]] (contemporary archetypal resonance), [[Angelology]] (consciousness hierarchy), [[The Magdalene Path]] (vertical soul ascent), and Personal Mythos itself (narrative meaning).
+2. **Synthesis of all seven pillars:** Personal Mythos integrates [[Human Design]] (your genetic blueprint), [[Astrology]] (your cosmic timing), [[The Tarot]] (symbolic stations), [[The Astrolabe]] (contemporary archetypal resonance), [[Angelology]] (consciousness hierarchy), [[The Magdalene Path]] (vertical soul ascent), and Personal Mythos itself (narrative meaning).
 
 3. **The "why" that completes the "what" and "when":** Mechanism (HD, Astrology) tells you **what** you are and **when** things activate. Personal Mythos tells you **why**—the meaning, purpose, soul-teaching of this particular configuration expressing in this particular life.
 
@@ -374,7 +374,7 @@ Your Personal Mythos is the **integration point** for all seven VibologyOS pilla
 - **What it provides:** 78 archetypal keys, symbolic progression (Fool's Journey 0-21), four elemental suits (Wands/Cups/Swords/Pentacles), court cards (archetypal figures)
 - **Personal Mythos integration:** Tarot shows the **symbolic stations** of your journey. When you pull The Tower, you're in Calcination. When The Hanged Man appears, you're in Fermentation. The cards you chronically avoid reveal shadow archetypes. The cards you love reveal primary archetypes. Your life IS the Fool's Journey—walking from 0 to 21 and beginning again.
 
-**[[The Window]]** — Your contemporary archetypal resonance
+**[[The Astrolabe]]** — Your contemporary archetypal resonance
 - **What it provides:** 64 patterns (I-Ching/Gene Keys/HD Gates contemporary translation), 12 archetypes, 10 portals, 6 houses
 - **Personal Mythos integration:** The Window shows how **eternal patterns express in 1980s+ language**—the contemporary "face" of ancient archetypes. Gate 51 (Shock) becomes "the capacity to shock the system into awakening." The Window provides the **current-era vocabulary** for archetypal experiences (vs. ancient myth/fairy tale language).
 
@@ -749,7 +749,7 @@ That answer—moment by moment, choice by choice, crisis by crisis, integration 
 - [[Human Design]] — Genetic blueprint, mechanical layer
 - [[Astrology]] — Cosmic timing, planetary functions
 - [[The Tarot]] — Archetypal keys, symbolic progression
-- [[The Window]] — Contemporary archetypal translation
+- [[The Astrolabe]] — Contemporary archetypal translation
 - [[Angelology]] — Hierarchical consciousness patterns
 - [[The Magdalene Path]] — Vertical soul ascent, unifying core
 

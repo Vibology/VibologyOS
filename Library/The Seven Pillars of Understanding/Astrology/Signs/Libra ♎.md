@@ -186,7 +186,7 @@ Libra's shadow is **codependency disguised as love**—the one who loses themsel
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** Justice (Key XI) — Impartiality, consequence, the weighing of the soul
-- **[[The Window]]:** Magic (contemporary face: the alchemist, the mediator)
+- **[[The Astrolabe]]:** Magic (contemporary face: the alchemist, the mediator)
 - **[[Jungian Archetypes]]:** The Syzygy (union of opposites), The Diplomat
 - **[[Human Design]]:** G-Center (love, direction, identity in relationship)
 

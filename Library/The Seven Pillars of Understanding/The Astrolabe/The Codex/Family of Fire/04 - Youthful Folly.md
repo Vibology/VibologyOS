@@ -129,14 +129,14 @@ Another Shadow trap: mental paralysis. If all formulas are provisional, if knowl
 - Gate 63 (After Completion) in the Head — The 4-63 Channel of Logic creates the mental drive to resolve uncertainty through systematic thinking; shadow is anxiety, gift is logical clarity
 
 ### Tarot Correspondences
-- [[The Fool]] — Inexperience as potential; stepping into the unknown without demanding certainty first
-- [[The Magician]] — Gathering mental tools; formulating frameworks to work with reality
-- [[The Hermit]] — The teacher who withdraws to formulate understanding before sharing
+- [[The Fool (0)]] — Inexperience as potential; stepping into the unknown without demanding certainty first
+- [[The Magician (I)]] — Gathering mental tools; formulating frameworks to work with reality
+- [[The Hermit (IX)]] — The teacher who withdraws to formulate understanding before sharing
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — Mental awareness; conceptualization; pattern recognition; not Authority
+- [[Ajna]] — Mental awareness; conceptualization; pattern recognition; not Authority
 - [[Collective Logic Circuit]] — Shared understanding through testable patterns; cause-and-effect thinking
-- [[Da'ath (Knowledge)]] — Qabalistic sphere of provisional understanding; knowledge in the Abyss
+- [[Daath]] — Qabalistic sphere of provisional understanding; knowledge in the Abyss
 - [[Puer Aeternus]] — Jungian archetype of eternal youth; the beginner's mind
 
 ---

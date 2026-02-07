@@ -22,7 +22,7 @@ standardization: Thomas Aquinas (Summa Theologica)
 
 ## Essence
 
-**The Celestial Hierarchy** (*De Coelesti Hierarchia*) is a foundational 5th/6th-century theological treatise attributed to **Pseudo-Dionysius the Areopagite**, establishing the definitive Christian classification of angels into **nine orders** arranged in **three triads**. This text became the **standard angelology** of medieval Christianity and profoundly influenced Western esoteric traditions, including Qabalistic angelology, the [[Golden Dawn]], and modern occultism.
+**The Celestial Hierarchy** (*De Coelesti Hierarchia*) is a foundational 5th/6th-century theological treatise attributed to **Pseudo-Dionysius the Areopagite**, establishing the definitive Christian classification of angels into **nine orders** arranged in **three triads**. This text became the **standard angelology** of medieval Christianity and profoundly influenced Western esoteric traditions, including Qabalistic angelology, the [[The Hermetic Order of the Golden Dawn]], and modern occultism.
 
 The author, writing under the pseudonym of **Dionysius the Areopagite**—the Athenian convert of St. Paul mentioned in Acts 17:34—successfully channeled **Neoplatonic metaphysics** into Christian theology. Though the true author remains unknown, the apostolic attribution gave his writings immense authority throughout the medieval Church, until Renaissance scholars recognized the pseudonymous nature of the work. The texts are deeply influenced by the non-Christian Neoplatonist philosopher **Proclus** (412-485 CE), whose hierarchical cosmology provided the conceptual scaffolding for the Dionysian system (Davidson; Wang; Huxley, *The Perennial Philosophy*).
 
@@ -198,7 +198,7 @@ The **primary difference** between the Dionysian and Qabalistic systems is **num
 - **Dionysian Hierarchy:** **Nine orders** ending with Angels (Yesod)
 - **Qabalistic Hierarchy:** **Ten orders** extending to Malkuth
 
-The **Qabalistic Tree of Life** has **ten Sephiroth** by nature—not nine. To make the angelic hierarchy correspond perfectly with the Tree, Qabalists (particularly in the [[Golden Dawn]] tradition) add a **tenth order** at the bottom: the **[[Ishim]]** (Souls of Fire or Souls of the Just), associated with [[Malkuth]] (Earth/Kingdom).
+The **Qabalistic Tree of Life** has **ten Sephiroth** by nature—not nine. To make the angelic hierarchy correspond perfectly with the Tree, Qabalists (particularly in the [[The Hermetic Order of the Golden Dawn]] tradition) add a **tenth order** at the bottom: the **[[Ishim]]** (Souls of Fire or Souls of the Just), associated with [[Malkuth]] (Earth/Kingdom).
 
 Pseudo-Dionysius **does not list the Ishim** because his system reflects a Christian emphasis on **transcendence**—angels as mediators *above* humanity, drawing souls upward toward God. The Qabalistic system includes **immanence**—God's presence *within* the material world. The Ishim represent this immanent dimension: they are not above humanity but *among* humanity, demonstrating that divine light can fully incarnate in matter.
 
@@ -243,7 +243,7 @@ Both systems agree on the **structure**: divine light emanates downward through 
 
 - [[The Tree of Life]] — Ten Sephiroth requiring ten-fold angelic correspondence
 - [[Kether]] through [[Malkuth]] — Sephirotic sequence
-- [[The Four Worlds]] (Atziluth, Briah, Yetzirah, Assiah) — Levels of reality through which angels operate
+- [[Four Worlds]] (Atziluth, Briah, Yetzirah, Assiah) — Levels of reality through which angels operate
 
 ### Patristic & Medieval Sources
 

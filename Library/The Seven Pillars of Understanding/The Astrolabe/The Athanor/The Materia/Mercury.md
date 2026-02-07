@@ -29,7 +29,7 @@ In the Great Work, Mercury is both *solve* (dissolution) and the substance that 
 
 ### Jungian Correspondence
 
-Jung mapped Mercury to the **unconscious as mediator** — the function of the psyche that connects ego and Self, conscious and unconscious, matter and meaning. Mercury is the *transcendent function*, the capacity to hold opposites in tension until a third thing emerges (Jung, CW 6, §828)[^3]. It is also the [[Anima]]/[[Animus]] — the soul-image that mediates between the ego and the deeper layers of the unconscious, betraying and guiding in equal measure.
+Jung mapped Mercury to the **unconscious as mediator** — the function of the psyche that connects ego and Self, conscious and unconscious, matter and meaning. Mercury is the *transcendent function*, the capacity to hold opposites in tension until a third thing emerges (Jung, CW 6, §828)[^3]. It is also the [[The Anima]]/[[The Animus]] — the soul-image that mediates between the ego and the deeper layers of the unconscious, betraying and guiding in equal measure.
 
 Mercury's dual nature — poison and medicine — reflects the shadow's dual role: what wounds also heals, if consciousness can metabolize it. The alchemists knew this: *venenum et remedium* — poison and remedy are the same substance, differentiated only by dose and timing.
 
@@ -75,9 +75,9 @@ Mercury is **Water** in its volatile aspect — not the dissolving water of [[Di
 
 ### Cross-Pillar Synthesis
 - [[Mercury ☿]] — Planetary correspondence: communication, mediation, intelligence
-- [[Tiphereth]] — Qabalah: Beauty, the mediating center of the Tree
+- [[Tiphareth]] — Qabalah: Beauty, the mediating center of the Tree
 - [[The Anima]] / [[The Animus]] — Jungian archetypes: soul-images that mediate between ego and Self
-- [[Transcendent Function]] — Jungian concept: the psyche's capacity to hold opposites
+- [[The Transcendent Function]] — Jungian concept: the psyche's capacity to hold opposites
 
 ---
 ## Sources

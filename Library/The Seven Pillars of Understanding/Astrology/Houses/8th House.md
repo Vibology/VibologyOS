@@ -322,7 +322,7 @@ The 8th House challenge is to **receive the inheritance consciously**—to take 
 - **[[Human Design]]:** Root Center (survival pressure), Emotional Solar Plexus (depth, the wave)
 - **[[The Tarot]]:** [[Death (XIII)|Death]] (Key XIII) — Transformation, endings that birth beginnings
 - **[[Jungian Archetypes]]:** [[The Shadow]]—disowned aspects exiled into unconscious
-- **[[The Window]]:** Geburah (Severity) — Destruction, discipline, surgical precision
+- **[[The Astrolabe]]:** Geburah (Severity) — Destruction, discipline, surgical precision
 
 ---
 

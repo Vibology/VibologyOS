@@ -129,14 +129,14 @@ Another Shadow trap: avoiding contemplation entirely. If thinking creates pressu
 - Gate 64 (Before Completion) in the Head — The 47-64 Channel of Abstraction creates the capacity to pressure confusing experiences into coherent meaning
 
 ### Tarot Correspondences
-- [[The Hermit]] — Withdrawal, contemplation, light discovered through darkness
+- [[The Hermit (IX)]] — Withdrawal, contemplation, light discovered through darkness
 - [[Eight of Cups]] — Walking away from what no longer serves, sustained by internal realization
 - [[Four of Swords]] — Rest from mental activity; necessary pause in thinking
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — Conceptualization, mental processing, awareness through thinking
+- [[Ajna]] — Conceptualization, mental processing, awareness through thinking
 - [[Collective Abstract Circuit]] — Learning through experience over time; wisdom emerging from accumulated pattern
-- [[Binah (Understanding)]] — Qabalistic sphere of Saturn, limitation, the womb that confines to create
+- [[Binah]] — Qabalistic sphere of Saturn, limitation, the womb that confines to create
 - [[Wise Old Man-Woman]] — Jungian archetype of wisdom earned through suffering
 
 ---

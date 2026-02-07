@@ -128,11 +128,11 @@ The conditioning pattern: "I must prove my power" or "Strength means domination.
 - Gate 10 (Treading) in the G Center — When connected, power finds right behavior and love
 
 ### Tarot Correspondences
-- [[Strength (VIII/XI)]] — Power tamed through gentleness, force transformed into strength
+- [[Strength (VIII)]] — Power tamed through gentleness, force transformed into strength
 - [[The Tower (XVI)]] — Destructive force when power is misused
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — The motor of pure life-force
+- [[Sacral]] — The motor of pure life-force
 - [[Geburah]] — Severity, the Qabalistic sphere of disciplined power
 - [[Sulphur]] — The alchemical soul principle, combustible and active
 

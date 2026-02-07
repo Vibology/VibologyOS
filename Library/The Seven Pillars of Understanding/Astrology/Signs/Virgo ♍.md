@@ -188,7 +188,7 @@ In esoteric anatomy, Virgo governs the **intestines** (discernment, the body's c
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Hermit (Key IX) — Withdrawal for the sake of refinement, the inner light that guides through discernment
-- **[[The Window]]:** Seduction (contemporary face: the one who sees potential and calls it forth)
+- **[[The Astrolabe]]:** Seduction (contemporary face: the one who sees potential and calls it forth)
 - **[[Jungian Archetypes]]:** The Healer, The Craftsman, [[The Wise Old Man]] (apprentice phase)
 - **[[Human Design]]:** Spleen Center (survival intelligence, in-the-moment awareness, somatic discernment)
 - **Qabalah:** The letter **Yod** (the hand, the instrument of work); the path of precision

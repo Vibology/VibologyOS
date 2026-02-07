@@ -262,8 +262,8 @@ This is **Kamael in service to Chesed**—the loving parent who sets boundaries,
 ### Tarot Correspondence
 
 - [[Judgment]] (Key XX) — Michael's trumpet, resurrection, spiritual awakening
-- [[The Tower]] (Key XVI, Mars/Geburah) — Necessary destruction, false structures collapse
-- [[Justice]] (Key XI or VIII, Libra) — The scales, equilibrium, karmic balance
+- [[The Tower (XVI)]] (Key XVI, Mars/Geburah) — Necessary destruction, false structures collapse
+- [[Justice (XI)]] (Key XI or VIII, Libra) — The scales, equilibrium, karmic balance
 
 ### Jungian Parallels
 
@@ -274,8 +274,8 @@ This is **Kamael in service to Chesed**—the loving parent who sets boundaries,
 
 ### Cross-Pillar Synthesis
 
-- **Astrology:** [[Mars]] (Geburah planet), [[Libra]] (scales of judgment)
-- **Human Design:** [[Spleen Center]] (survival instinct, immune function, discernment)
+- **Astrology:** [[Mars ♂]] (Geburah planet), [[Libra ♎]] (scales of judgment)
+- **Human Design:** [[Spleen]] (survival instinct, immune function, discernment)
 - **Alchemy:** [[Separation]] (solutio—dissolving false structures before recrystallization)
 - **Personal Mythos:** [[The Hero's Journey]] (Trial, Ordeal—the testing function of Samael/Kamael)
 

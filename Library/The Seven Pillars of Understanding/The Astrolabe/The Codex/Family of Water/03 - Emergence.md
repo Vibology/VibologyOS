@@ -129,14 +129,14 @@ Another Shadow trap: addiction to chaos itself. The Sacral keeps initiating with
 - Gate 60 (Limitation) in the Root Center — The 3-60 Channel of Mutation creates the pulse of evolutionary change. Gate 60's constraint provides the necessary limitation that turns Sacral chaos into sustainable new forms. Without 60, Gate 3's innovation lacks structure; without 3, Gate 60's limitation lacks life force.
 
 ### Tarot Correspondences
-- [[The Fool]] — Innocence at the threshold; stepping into the unknown with trust
-- [[Death]] — The necessary dissolution that precedes rebirth; Nigredo phase
-- [[The Star]] — Hope emerging from crisis; the first light after the darkest hour
+- [[The Fool (0)]] — Innocence at the threshold; stepping into the unknown with trust
+- [[Death (XIII)]] — The necessary dissolution that precedes rebirth; Nigredo phase
+- [[The Star (XVII)]] — Hope emerging from crisis; the first light after the darkest hour
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — Life force generator; biological yes/no; the engine of response
+- [[Sacral]] — Life force generator; biological yes/no; the engine of response
 - [[Individual Knowing Circuit]] — Mutation through unique experimentation; acoustic frequency; empowerment through self-discovery
-- [[Yesod (Foundation)]] — Qabalistic foundation where astral forms begin to crystallize; the bridge between formless and formed
+- [[Yesod]] — Qabalistic foundation where astral forms begin to crystallize; the bridge between formless and formed
 - [[The Child Archetype]] — Jungian image of futurity, renewal, innocent becoming
 
 ---

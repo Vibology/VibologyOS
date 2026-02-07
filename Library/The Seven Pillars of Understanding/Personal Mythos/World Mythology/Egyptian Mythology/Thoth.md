@@ -309,13 +309,13 @@ When facing a deadlock between two positions (inner or outer conflict):
 ### Within Personal Mythos
 - **Egyptian Pantheon:** [[Egyptian Mythology]], [[Ra]] (solar logos), [[Isis]] (magic/wisdom), [[Osiris]] (underworld judge), [[Horus]] (whose eye Thoth healed), [[Set]] (chaos opponent)
 - **Trickster-Sages:** [[Hermes]] (Greek messenger/trickster), [[Prometheus]] (fire-thief), Loki (Norse trickster), Coyote (Native American), Anansi (West African spider-trickster)
-- **Jungian Archetypes:** [[The Wise Old Man]] (wisdom, guidance), [[The Trickster]] (amoral cunning, creative chaos), [[The Magician]] (transformative will, "As above, so below")
+- **Jungian Archetypes:** [[The Wise Old Man]] (wisdom, guidance), [[The Trickster]] (amoral cunning, creative chaos), [[The Magician (I)]] (transformative will, "As above, so below")
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Mercury ☿]] (primary correspondence—communication, intellect, magic, mediation, trickster), [[Moon ☽]] (lunar measurement, reflected wisdom), [[Gemini ♊]] / [[Virgo ♍]] (Mercurial signs—mental agility, precision)
-- **[[Tarot]]:** [[The Magician (I)]] (primary correspondence—Hermes-Thoth, "As above, so below," mastery of the elements, logos principle), [[The Hierophant (V)]] (sacred knowledge, teaching, mediation), [[Judgment (XX)]] (weighing of the heart, reckoning)
+- **[[The Tarot]]:** [[The Magician (I)]] (primary correspondence—Hermes-Thoth, "As above, so below," mastery of the elements, logos principle), [[The Hierophant (V)]] (sacred knowledge, teaching, mediation), [[Judgement (XX)]] (weighing of the heart, reckoning)
 - **[[Qabalah]]:** **Hod** (Splendor, Mercury sphere, intellect, language, magic), Magician as path of Aleph (air, spirit, breath, the first letter—creation through word)
-- **[[Human Design]]:** [[Throat Center]] (communication, manifestation through speech), [[Ajna Center]] (mental processing, conceptualization), Gate 43 (Breakthrough—Mercury's gate of insight)
+- **[[Human Design]]:** [[Throat]] (communication, manifestation through speech), [[Ajna]] (mental processing, conceptualization), Gate 43 (Breakthrough—Mercury's gate of insight)
 - **[[Angelology]]:** [[Raphael]] (Mercury/Hermes parallel—healer, guide, messenger), Archangel Correspondence - Mercury
 
 ### Hermetic Tradition

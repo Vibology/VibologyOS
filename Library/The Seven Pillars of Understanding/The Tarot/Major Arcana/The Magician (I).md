@@ -131,7 +131,7 @@ TBD
 
 ### The Magician in the Bodygraph: Gate 62 (Preponderance of the Small)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Magician (Key 1)** corresponds to **[[Gate 62]]** in Human Design—the gate of **Preponderance of the Small**, located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Magician (Key 1)** corresponds to **[[Gate 62 - Preponderance of the Small]]** in Human Design—the gate of **Preponderance of the Small**, located in the Throat Center.
 
 #### Beth (House) and the Throat Center
 
@@ -273,7 +273,7 @@ This is The Magician's **iterative mastery**—not one perfect act but continuou
 ## Cross-References
 - [[The Fool (0)]] - The breath that becomes the word
 - [[The High Priestess (II)]] - The complementary path on the Pillar of Form
-- **Human Design (Canonical):** [[Gate 62]] (Preponderance of the Small) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 62 - Preponderance of the Small]] (Preponderance of the Small) — See "Cross-System Synthesis: Human Design" above
 - Beth - Hebrew Letters in Tarot
 - Kabbalistic Paths - Supernal Triangle
 - Mercury in Esoteric Systems

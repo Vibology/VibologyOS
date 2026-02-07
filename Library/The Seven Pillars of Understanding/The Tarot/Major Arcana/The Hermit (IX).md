@@ -159,7 +159,7 @@ TBD
 
 ### The Hermit in the Bodygraph: Gate 35 (Progress / Change)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hermit (Key 9)** corresponds to **[[Gate 35]]** in Human Design—the gate of **Progress** (or **Change**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hermit (Key 9)** corresponds to **[[Gate 35 - Progress]]** in Human Design—the gate of **Progress** (or **Change**), located in the Throat Center.
 
 #### Yod (Hand) and the Voice of Experience
 
@@ -303,7 +303,7 @@ The Hermit's **grey robes** (ash, what remains after fire) represent experience 
 - [[The High Priestess (II)]] - The feminine complement of withdrawal
 - [[The Lovers (VI)]] - The choice that leads to solitary path
 - [[Wheel of Fortune (X)]] - The return to engagement after withdrawal
-- **Human Design (Canonical):** [[Gate 35]] (Progress / Change) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 35 - Progress]] (Progress / Change) — See "Cross-System Synthesis: Human Design" above
 - Yod - Hebrew Letters in Tarot
 - Kabbalistic Paths - Chesed to Tiphareth
 - Virgo and Mercury in Esoteric Systems

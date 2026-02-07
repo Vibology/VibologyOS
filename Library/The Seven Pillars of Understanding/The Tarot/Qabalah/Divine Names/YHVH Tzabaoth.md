@@ -108,7 +108,7 @@ The victory of Netzach is not the suppression of desire but its **consecration**
 - [[Divine Names]] — Overview of all ten names
 - [[Pillar of Mercy]] — Netzach's column
 - [[Yesod]] — Where Netzach and Hod energies merge
-- [[Venus]] — The planetary principle of Netzach
+- [[Venus ♀]] — The planetary principle of Netzach
 
 ---
 

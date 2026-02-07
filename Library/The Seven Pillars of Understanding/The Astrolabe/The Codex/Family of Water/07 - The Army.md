@@ -129,14 +129,14 @@ Another Shadow trap: refusal of leadership when recognized. False humility that 
 - Gate 31 (Influence) in the Throat Center — The 7-31 Channel of the Alpha creates recognized leadership. Gate 31 provides the voice/influence that gives expression to Gate 7's direction. This is democratic leadership—influence that leads through compelling logic and pattern recognition, not through force. With 31, Gate 7 becomes the Alpha whose direction others naturally follow.
 
 ### Tarot Correspondences
-- [[The Emperor]] — Established order, strategic authority, structure built to last
-- [[The Hierophant]] — Spiritual guidance, teaching through tradition, holding sacred office
+- [[The Emperor (IV)]] — Established order, strategic authority, structure built to last
+- [[The Hierophant (V)]] — Spiritual guidance, teaching through tradition, holding sacred office
 - [[King of Wands]] — Leadership through vision, the benevolent commander
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Magnetic monopole, identity, direction, love; the self's fixed geometry in space
 - [[Collective Logic Circuit]] — Shared patterns, abstract understanding, leadership that serves coherence not ego
-- [[Chesed (Mercy)]] — Qabalistic kingship, benevolent expansion, organized structure
+- [[Chesed]] — Qabalistic kingship, benevolent expansion, organized structure
 - [[The King Archetype]] — Jungian sovereign who serves the realm, axis of collective order
 
 ---

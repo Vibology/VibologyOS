@@ -129,14 +129,14 @@ Another Shadow trap: completion as compulsion. If one finishes things out of rig
 - Gate 53 (Development) in the Root — The 42-53 Channel of Maturation creates the capacity to complete developmental cycles; beginning correctly and finishing completely
 
 ### Tarot Correspondences
-- [[The World]] — Completion of the cycle; integration; the harvest of all that has been learned
+- [[The World (XXI)]] — Completion of the cycle; integration; the harvest of all that has been learned
 - [[Nine of Pentacles]] — Prosperity through patient cultivation; the garden that finally bears fruit
 - [[Six of Wands]] — Victory earned through sustained effort; completion that brings recognition
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — Life force generator; power for doing, building, completing; biological yes/no
+- [[Sacral]] — Life force generator; power for doing, building, completing; biological yes/no
 - [[Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through staying to the end
-- [[Netzach (Victory)]] — Qabalistic sphere of endurance; completion through sustained effort
+- [[Netzach]] — Qabalistic sphere of endurance; completion through sustained effort
 - [[The Builder Archetype]] — Completer not initiator; patience to see projects through; finishing as genius
 
 ---

@@ -126,10 +126,10 @@ The conditioning pattern: "If I just think about it one more time, I'll understa
 
 ### Tarot Correspondences
 - [[Death (XIII)]] — Transformation through dissolution and renewal
-- [[The Wheel of Fortune (X)]] — The cycle that returns all things
+- [[Wheel of Fortune (X)]] — The cycle that returns all things
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Ajna]] — The center of mental awareness and conceptualization
 - [[Binah]] — Understanding, gestation, the womb of renewal on the Tree of Life
 - [[The Phoenix]] — Archetype of death and rebirth
 

@@ -597,7 +597,7 @@ Gabriel *is* the archangelic intelligence of **[[Yesod]]**. To study the Tree of
 
 ### The Window: Patterns of Intuition and Vision
 
-In **[[The Window]]** system, Gabriel corresponds to patterns involving **intuition, receptivity, imagination, and the capacity to translate unconscious material into conscious awareness**—gates and archetypes that emphasize *listening, receiving, and visioning*.
+In **[[The Astrolabe]]** system, Gabriel corresponds to patterns involving **intuition, receptivity, imagination, and the capacity to translate unconscious material into conscious awareness**—gates and archetypes that emphasize *listening, receiving, and visioning*.
 
 ### Jungian Psychology: The Collective Unconscious and the Archetypal Messenger
 
@@ -718,7 +718,7 @@ If the "message" leads to **inflation, fear, or ego-serving action**, it is not 
 - [[Qlippoth]] — Shadow tree, Gamaliel as distortion of Yesod
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
 - [[Human Design]] — BodyGraph as angelic hierarchy embodied
-- [[The Window]] — Contemporary archetypal pattern system
+- [[The Astrolabe]] — Contemporary archetypal pattern system
 - [[Shaddai El Chai]] — Divine name of Yesod, "Almighty Living God"
 - [[Lesser Banishing Ritual of the Pentagram]] — Lesser Banishing Ritual of the Pentagram
 - [[Hermes]] — Greek psychopomp, divine messenger

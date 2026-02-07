@@ -471,7 +471,7 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 
 ### The Window: The Six Houses
 
-**Parallel:** [[The Window]]'s **Six Lower Houses** (Chronicle, Flame, Land, Sea, Spirit, Stars) resonate with Environment archetypes:
+**Parallel:** [[The Astrolabe]]'s **Six Lower Houses** (Chronicle, Flame, Land, Sea, Spirit, Stars) resonate with Environment archetypes:
 - **House of the Land** (stability, foundation) = Caves (Color 1)
 - **House of the Sea** (flow, emotion) = Valleys (Color 5)
 - **House of the Spirit** (transformation, alchemy) = Kitchens (Color 3)

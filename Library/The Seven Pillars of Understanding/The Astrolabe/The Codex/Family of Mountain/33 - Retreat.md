@@ -129,14 +129,14 @@ Another Shadow trap: forgetting as defense. If experience was painful, the mind 
 - Gate 13 (Fellowship) in the G Center — The 33-13 Channel of the Prodigal creates the keeper of history who retreats to reflect on collective patterns, then returns to share distilled wisdom
 
 ### Tarot Correspondences
-- [[The Hermit]] — Solitary withdrawal to gain illumination; the lamp in darkness guiding others
-- [[The Hanged Man]] — Voluntary suspension; seeing differently through strategic inaction
+- [[The Hermit (IX)]] — Solitary withdrawal to gain illumination; the lamp in darkness guiding others
+- [[The Hanged Man (XII)]] — Voluntary suspension; seeing differently through strategic inaction
 - [[Four of Swords]] — Rest after battle; necessary retreat to metabolize experience
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — Manifestation hub; where inner reality becomes outer expression
+- [[Throat]] — Manifestation hub; where inner reality becomes outer expression
 - [[Collective Logic Circuit]] — Shared understanding through pattern recognition across time
-- [[Binah (Understanding)]] — Qabalistic sphere of gestation; the womb where form develops in silence
+- [[Binah]] — Qabalistic sphere of gestation; the womb where form develops in silence
 - [[The Hermit Archetype]] — Jungian figure of withdrawal for illumination; solitude as preparation for return
 
 ---

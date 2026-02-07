@@ -73,7 +73,7 @@ Sulphur is **Fire** — not the purifying fire of [[Calcination]] but *combustio
 
 ### Cross-Pillar Synthesis
 - [[Mars ♂]] — Planetary correspondence: drive, assertion, combustion
-- [[The Sun ☉]] — Planetary correspondence: life-force, animation
+- [[Sun ☉]] — Planetary correspondence: life-force, animation
 - [[Geburah]] — Qabalah: severity, the fiery aspect of divine will
 - [[Libido]] — Jungian concept: psychic energy as driving force
 

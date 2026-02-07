@@ -98,8 +98,8 @@ The ten Divine Names can be understood as ten modes of the ***numinosum*** — O
 - **Yah** — The numinous as sudden insight, the flash of Wisdom
 - **YHVH Elohim** — The numinous as understanding, the moment when insight takes form
 - **El** — The numinous as grace, unconditional acceptance
-- **Elohim Gibor** — The numinous as severity, the encounter with the [[Shadow]]
-- **YHVH Eloah va-Daath** — The numinous as beauty, the harmonizing [[Transcendent Function]]
+- **Elohim Gibor** — The numinous as severity, the encounter with the [[The Shadow]]
+- **YHVH Eloah va-Daath** — The numinous as beauty, the harmonizing [[The Transcendent Function]]
 - **YHVH Tzabaoth** — The numinous as desire, the pull toward wholeness
 - **Elohim Tzabaoth** — The numinous as precision, the analytical lens
 - **Shaddai El Chai** — The numinous as vitality, the life-force that animates

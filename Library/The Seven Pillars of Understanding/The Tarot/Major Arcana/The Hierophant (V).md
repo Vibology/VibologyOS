@@ -172,7 +172,7 @@ TBD
 
 ### The Hierophant in the Bodygraph: Gate 8 (Holding Together / Contribution)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hierophant (Key 5)** corresponds to **[[Gate 8]]** in Human Design—the gate of **Holding Together** (Contribution), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Hierophant (Key 5)** corresponds to **[[Gate 08 - Holding Together]]** in Human Design—the gate of **Holding Together** (Contribution), located in the Throat Center.
 
 #### Vav (Nail/Hook) and the Throat as Connection Point
 
@@ -282,7 +282,7 @@ The Hierophant says: "I teach the ancient path, but you must walk it in your uni
 - [[The Magician (I)]] - The will that must be guided by wisdom
 - [[The High Priestess (II)]] - His esoteric complement, the inner mystery
 - [[The Lovers (VI)]] - The choice his teaching presents
-- **Human Design (Canonical):** [[Gate 8]] (Holding Together / Contribution) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 08 - Holding Together]] (Holding Together / Contribution) — See "Cross-System Synthesis: Human Design" above
 - Vau - Hebrew Letters in Tarot
 - Kabbalistic Paths - Chokmah to Chesed
 - Taurus in Esoteric Systems

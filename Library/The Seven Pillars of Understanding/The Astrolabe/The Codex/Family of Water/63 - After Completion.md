@@ -129,14 +129,14 @@ Another Shadow trap: premature certainty disguised as completion. The mind that 
 - Gate 4 (Youthful Folly) in the Ajna Center — The 4-63 Channel of Logic creates the systematic thinking mind. Gate 4 formulates answers, mental images, and logical solutions to the questions Gate 63 poses. This is the scientific method embodied: doubt provokes inquiry, inquiry formulates hypothesis, hypothesis is tested. Without Gate 4, Gate 63 questions without resolution; with Gate 4, doubt becomes the engine of understanding. The teaching: question and answer are one movement.
 
 ### Tarot Correspondences
-- [[The Hermit]] — Solitary questioning, the lantern of inquiry, withdrawal to examine truth
-- [[The High Priestess]] — Guardian of mysteries, the veil that opens only to those who question deeply
+- [[The Hermit (IX)]] — Solitary questioning, the lantern of inquiry, withdrawal to examine truth
+- [[The High Priestess (II)]] — Guardian of mysteries, the veil that opens only to those who question deeply
 - [[Eight of Swords]] — Mental imprisonment through doubt, but also potential liberation through questioning
 
 ### Cross-Pillar Synthesis
-- [[Head Center]] — Mental pressure, inspiration, doubt, the drive to understand and make meaning
+- [[Head]] — Mental pressure, inspiration, doubt, the drive to understand and make meaning
 - [[Collective Logic Circuit]] — Shared patterns, systematic thinking, testing and refining understanding
-- [[Hod (Splendor)]] — Qabalistic intellect, analysis, Mercury's discriminating function
+- [[Hod]] — Qabalistic intellect, analysis, Mercury's discriminating function
 - [[The Skeptic Archetype]] — Questioning as path to wisdom, healthy doubt that serves truth
 
 ---

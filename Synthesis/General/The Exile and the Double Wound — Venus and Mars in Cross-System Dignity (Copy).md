@@ -12,7 +12,7 @@ question_type: contradiction-as-teacher
 
 What happens when two planets share the same astrological condition — detriment — but meet entirely different fates in the bodygraph?
 
-Joe Lewis carries [[Venus ♀]] in [[Scorpio]] and [[Mars ♂]] in [[Libra]]. In traditional astrology, both are in detriment: each planet sits in the sign opposite one of its domiciles, forced to operate through a medium foreign to its nature. The astrological reading is symmetrical — two personal planets, equally exiled, equally uncomfortable.
+Joe Lewis carries [[Venus ♀]] in [[Scorpio ♏]] and [[Mars ♂]] in [[Libra ♎]]. In traditional astrology, both are in detriment: each planet sits in the sign opposite one of its domiciles, forced to operate through a medium foreign to its nature. The astrological reading is symmetrical — two personal planets, equally exiled, equally uncomfortable.
 
 But Human Design breaks the symmetry. Venus, exiled in the heavens, arrives at [[Gate 31 - Influence|Gate 31]], Line 2 on the Design side and finds herself *exalted* — the very planet designated to express that position's highest potential. Mars, exiled in Libra, lands at [[Gate 59 - Dispersion|Gate 59]], Line 3 (Design) and [[Gate 50 - The Cauldron|Gate 50]], Line 4 (Personality), and finds himself in detriment at *both* — the very planet designated as the distortion at each position.
 

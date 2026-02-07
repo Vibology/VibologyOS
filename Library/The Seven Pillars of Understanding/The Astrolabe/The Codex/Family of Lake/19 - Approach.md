@@ -129,14 +129,14 @@ Another Shadow trap: withdrawal as defense. If every approach risks rejection, t
 - Gate 49 (Revolution) in the Solar Plexus — The 19-49 Channel of Synthesis creates capacity for sensitive approach, emotional bonding, and principled intimacy
 
 ### Tarot Correspondences
-- [[The Empress]] — The mother who receives all who approach; abundance inviting participation
+- [[The Empress (III)]] — The mother who receives all who approach; abundance inviting participation
 - [[Two of Cups]] — Mutual approach; connection where both parties want union
-- [[The Star]] — Hope and healing through reaching toward the waters of life
+- [[The Star (XVII)]] — Hope and healing through reaching toward the waters of life
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure, stress, adrenaline; the drive to survive and act
+- [[Root]] — Pressure, stress, adrenaline; the drive to survive and act
 - [[Tribal Circuit]] — Survival through bonding, resources through relationship, support through mutual dependence
-- [[Chesed (Mercy)]] — Qabalistic sphere of expansion, giving, inclusion
+- [[Chesed]] — Qabalistic sphere of expansion, giving, inclusion
 - [[Lover Archetype]] — Jungian capacity for desire, connection, approach toward union
 
 ---

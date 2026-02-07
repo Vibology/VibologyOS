@@ -129,14 +129,14 @@ Another Shadow trap: confusing commitment with stubbornness. Staying in situatio
 - Gate 46 (Pushing Upward) in the G Center — The 29-46 Channel of Discovery creates direction through committed experience. Gate 46 loves the body/earth and discovers the Self's path through embodied engagement. When Sacral commitment (29) meets love of embodied being (46), direction emerges organically from what you say yes to. The teaching: you don't figure out your path; you discover it by committing fully to experiences your Sacral responds to.
 
 ### Tarot Correspondences
-- [[The Hanged Man]] — Willing sacrifice, surrender to ordeal, perspective through inversion
-- [[The Moon]] — Journey through darkness, descent into unconscious depths
+- [[The Hanged Man (XII)]] — Willing sacrifice, surrender to ordeal, perspective through inversion
+- [[The Moon (XVIII)]] — Journey through darkness, descent into unconscious depths
 - [[Five of Cups]] — Loss and grief that comes with depth; emotional perseverance
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — Life force generator, yes/no response, commitment to experience
+- [[Sacral]] — Life force generator, yes/no response, commitment to experience
 - [[Collective Sensing Circuit]] — Learning through lived experience, distilling pattern from the concrete
-- [[Da'at (Knowledge)]] — The abyss that must be crossed alone; hidden Sephirah between triads
+- [[Daath]] — The abyss that must be crossed alone; hidden Sephirah between triads
 - [[The Descent Archetype]] — Jungian necessary journey into shadow/unconscious; Inanna, Persephone, Orpheus
 
 ---

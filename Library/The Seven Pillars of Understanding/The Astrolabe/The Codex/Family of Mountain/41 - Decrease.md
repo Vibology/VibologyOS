@@ -129,14 +129,14 @@ Another Shadow trap: depression without renewal. If decrease is not honored as *
 - Gate 30 (Clinging Fire) in the Solar Plexus — The 41-30 Channel of Recognition creates an internal emotional loop that intensifies desire and the pressure to begin; both gates in the same center create unstable emotional fuel for new experience
 
 ### Tarot Correspondences
-- [[The Hermit]] — Withdrawal creating anticipation; solitude as preparation for return
-- [[The Hanged Man]] — Voluntary suspension; decrease of forward motion to gain perspective
+- [[The Hermit (IX)]] — Withdrawal creating anticipation; solitude as preparation for return
+- [[The Hanged Man (XII)]] — Voluntary suspension; decrease of forward motion to gain perspective
 - [[Five of Cups]] — Grief over what is lost, not yet seeing what remains; the contraction phase of the cycle
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional awareness; desire, mood, the wave across time
+- [[Solar Plexus]] — Emotional awareness; desire, mood, the wave across time
 - [[Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through lived experience
-- [[Kether (Crown)]] — Qabalistic sphere of contraction before manifestation; the tzimtzum creating space for creation
+- [[Kether]] — Qabalistic sphere of contraction before manifestation; the tzimtzum creating space for creation
 - [[The Sabbath]] — Sacred pause; intentional cessation that restores; decrease as gift rather than deprivation
 
 ---

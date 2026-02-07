@@ -69,7 +69,7 @@ Fire — not the warmth of the hearth but the crucible's flame, the furnace that
 ### Tarot Correspondences
 - [[The Tower (XVI)]] — Sudden destruction, structures falling, liberation through collapse
 - [[Death (XIII)]] — Necessary ending, transformation through release
-- [[Judgment (XX)]] — The fire of divine discrimination, purification
+- [[Judgement (XX)]] — The fire of divine discrimination, purification
 
 ### Cross-Pillar Synthesis
 - [[Mars ♂]] — Planetary correspondence: destruction, courage, the warrior's fire

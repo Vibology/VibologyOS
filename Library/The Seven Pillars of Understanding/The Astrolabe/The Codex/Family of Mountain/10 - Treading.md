@@ -131,15 +131,15 @@ Another Shadow trap: total withdrawal. If natural behavior triggers rejection (t
 - Gate 34 (Might) in the Sacral — The 10-34 Channel of Exploration creates the power to follow one's nature wherever it leads
 
 ### Tarot Correspondences
-- [[The Star]] — Naked authenticity; confidence born of alignment with essence
-- [[Strength]] — Natural authority that gentles the beast through love rather than force
-- [[The Fool]] — Original innocence; treading the path without needing to know where it goes
+- [[The Star (XVII)]] — Naked authenticity; confidence born of alignment with essence
+- [[Strength (VIII)]] — Natural authority that gentles the beast through love rather than force
+- [[The Fool (0)]] — Original innocence; treading the path without needing to know where it goes
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, love, direction; the magnetic monopole
 - [[Individual Centering Circuit]] — Empowerment through unique self-love
 - [[Tiphareth]] — Qabalistic Beauty; the centered self radiating authentic presence
-- [[Individuation]] — Jungian process of becoming who one actually is
+- [[Individuation Process]] — Jungian process of becoming who one actually is
 
 ---
 

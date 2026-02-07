@@ -129,14 +129,14 @@ Another Shadow trap: aestheticism disconnected from truth—beauty for its own s
 - Gate 12 (Standstill) in the Throat — The 22-12 Channel of Openness creates the capacity to articulate emotional states with grace, bringing others into resonance through beauty of expression
 
 ### Tarot Correspondences
-- [[The Empress]] — Embodied sensory beauty; the divine feminine making the world livable through grace
-- [[Temperance]] — Perfect proportion; the art of blending opposites into harmonious form
-- [[The High Priestess]] — Beauty as veil over mystery; form protecting depth
+- [[The Empress (III)]] — Embodied sensory beauty; the divine feminine making the world livable through grace
+- [[Temperance (XIV)]] — Perfect proportion; the art of blending opposites into harmonious form
+- [[The High Priestess (II)]] — Beauty as veil over mystery; form protecting depth
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional awareness; the wave across time; motor for desire and feeling
+- [[Solar Plexus]] — Emotional awareness; the wave across time; motor for desire and feeling
 - [[Individual Centering Circuit]] — Empowerment through unique emotional expression
-- [[Hod (Splendor)]] — Qabalistic sphere governing form, language, beauty, presentation
+- [[Hod]] — Qabalistic sphere governing form, language, beauty, presentation
 - [[The Persona]] — Jungian mask; the face shown to the world, necessary and dangerous
 
 ---

@@ -117,7 +117,7 @@ Read through a Jungian lens, the triplicity rulers describe the *archetypal supp
 
 **The night ruler** is the complementary resource — what becomes available once the initial strengths are established and the psyche turns toward the unlived half of life. In Jungian developmental terms, this often corresponds to the midlife reconfiguration: the introverted function asserting itself in the previously extraverted personality, or vice versa. The night ruler's condition reveals whether this transition is graceful or traumatic.
 
-**The cooperating ruler** is the integrative resource — the capacity for wholeness that operates throughout life but becomes most visible at the end. If the cooperating ruler is well-placed, the late years bring integration, wisdom, and a sense of completion. If poorly placed, the final third carries the weight of what was never resolved — the [[Shadow]] material that accumulated across both earlier periods.
+**The cooperating ruler** is the integrative resource — the capacity for wholeness that operates throughout life but becomes most visible at the end. If the cooperating ruler is well-placed, the late years bring integration, wisdom, and a sense of completion. If poorly placed, the final third carries the weight of what was never resolved — the [[The Shadow]] material that accumulated across both earlier periods.
 
 When all three rulers are strong, the psyche has access to its full archetypal inheritance at every stage — the conscious gifts, the complementary depths, and the integrative wisdom. When one is weak, that developmental stage becomes the site of the life's central struggle.
 

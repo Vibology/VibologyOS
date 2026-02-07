@@ -430,7 +430,7 @@ Determination is the **gateway** to the other Variables. You cannot access [[Env
 
 ### The Window: House of the Land
 
-**Parallel:** The [[The Window]]'s **House of the Land** governs **stability, foundation, and physical form**—resonating with Determination's role as the foundational Variable.
+**Parallel:** The [[The Astrolabe]]'s **House of the Land** governs **stability, foundation, and physical form**—resonating with Determination's role as the foundational Variable.
 
 ---
 

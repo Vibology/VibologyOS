@@ -158,7 +158,7 @@ TBD
 
 ### The Lovers in the Bodygraph: Gate 33 (Retreat / Privacy)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Lovers (Key 6)** corresponds to **[[Gate 33]]** in Human Design—the gate of **Retreat** (or **Privacy**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Lovers (Key 6)** corresponds to **[[Gate 33 - Retreat]]** in Human Design—the gate of **Retreat** (or **Privacy**), located in the Throat Center.
 
 #### Zain (Sword) and the Voice of Memory
 
@@ -280,7 +280,7 @@ Gate 33's strategic retreat creates the conditions for **meaningful expression**
 - [[The Magician (I)]] - The will that commits to union
 - [[The High Priestess (II)]] - The feminine principle receiving divine inspiration
 - [[The Hierophant (V)]] - The authority who blesses the union
-- **Human Design (Canonical):** [[Gate 33]] (Retreat / Privacy) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 33 - Retreat]] (Retreat / Privacy) — See "Cross-System Synthesis: Human Design" above
 - Zayin - Hebrew Letters in Tarot
 - Kabbalistic Paths - Binah to Tiphareth
 - Gemini in Esoteric Systems

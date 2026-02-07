@@ -356,7 +356,7 @@ The 12th House challenge is to recognize that **mysticism is not escape**—it i
 - **[[Human Design]]:** Solar Plexus Center (emotional depth), undefined spaces (merging with collective)
 - **[[The Tarot]]:** [[The Hanged Man (XII)|The Hanged Man]] (Key XII) — Voluntary surrender, seeing from inverted perspective
 - **[[Jungian Archetypes]]:** [[The Collective Unconscious]]—the primordial matrix beneath personal psyche
-- **[[The Window]]:** Kether (Crown) — The void before manifestation, return to Source
+- **[[The Astrolabe]]:** Kether (Crown) — The void before manifestation, return to Source
 
 ---
 

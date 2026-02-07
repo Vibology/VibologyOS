@@ -145,7 +145,7 @@ The I-Ching organizes the 64 hexagrams into **eight houses** (one per trigram), 
 **Gates 33-48: The Hexagrams of Transformation and Crisis**
 **Gates 49-64: The Hexagrams of Completion and Return**
 
-(For the complete list with names and correspondences, see [[The Window]] and [[Human Design]].)
+(For the complete list with names and correspondences, see [[The Astrolabe]] and [[Human Design]].)
 
 ### The Correspondence Table: Systems United
 
@@ -562,8 +562,8 @@ By the end of the contemplation period, the pattern is **embodied**—you don't 
 
 ### The 64-Fold Systems
 - **Human Design:** [[The BodyGraph]] | [[Gates]] | [[Channels]] | [[Types]] | [[Profiles]]
-- **I-Ching:** [[The Window]] | [[Hexagrams]] | [[Oracles]]
-- **Gene Keys:** [[The Window]] | [[Shadow-Gift-Siddhi]] | [[Golden Path]]
+- **I-Ching:** [[The Astrolabe]] | [[Hexagrams]] | [[Oracles]]
+- **Gene Keys:** [[The Astrolabe]] | [[Shadow-Gift-Siddhi]] | [[Golden Path]]
 - **DNA:** Genetic code, codons, amino acids (external biological references)
 
 ### Cross-System Integration

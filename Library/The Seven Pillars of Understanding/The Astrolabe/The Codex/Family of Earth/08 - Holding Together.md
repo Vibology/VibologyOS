@@ -129,7 +129,7 @@ The conditioning pattern: "I must conform to be accepted" or "My unique style is
 - [[The Magician (I)]] — Individual will channeled into manifestation
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation, voice, and action
+- [[Throat]] — The center of manifestation, voice, and action
 - [[Chesed]] — Mercy, benevolent creative expression on the Tree of Life
 - [[The Artist]] — Archetype of individual creativity serving collective culture
 

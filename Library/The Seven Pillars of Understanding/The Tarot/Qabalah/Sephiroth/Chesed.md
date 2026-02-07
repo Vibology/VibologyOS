@@ -100,7 +100,7 @@ The danger is institutional sclerosis — maintaining structures beyond their us
 - [[Pillar of Mercy]] — Chesed's pillar (Chokmah above, Netzach below)
 - [[Supernal Triangle]] — The three Sephiroth above the Abyss that Chesed first receives
 - [[The Abyss]] — The divide Chesed bridges into manifestation
-- [[Jupiter]] — Chesed's planetary correspondence in astrology
+- [[Jupiter ♃]] — Chesed's planetary correspondence in astrology
 
 ---
 

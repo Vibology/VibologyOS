@@ -41,7 +41,7 @@ Hephaestus was born deformed (or made lame when Zeus threw him from Olympus). Re
 Hephaestus is the **wounded craftsman**—the one whose limitation becomes the source of his mastery. His deformity (physical weakness) drives him to develop skill (technical strength). He cannot compete with the gods in beauty or power, so he compensates through **craft**—and in doing so, surpasses them.
 
 **Jungian interpretation:**
-Hephaestus embodies the process of **turning wound into gift**. The rejected, inferior side (the [[Shadow]]) is not destroyed but *worked*—hammered, heated, shaped—until it becomes something of value. His workshop is **beneath the earth** (the unconscious), in **fire** (libido, transformation), in **darkness** (the place of gestation, not visibility). This is where the real work happens—not in the light of conscious achievement but in the hidden discipline of repetition.
+Hephaestus embodies the process of **turning wound into gift**. The rejected, inferior side (the [[The Shadow]]) is not destroyed but *worked*—hammered, heated, shaped—until it becomes something of value. His workshop is **beneath the earth** (the unconscious), in **fire** (libido, transformation), in **darkness** (the place of gestation, not visibility). This is where the real work happens—not in the light of conscious achievement but in the hidden discipline of repetition.
 
 Marie-Louise von Franz noted that smiths and dwarfs in fairy tales often represent **creative impulses in the unconscious**—the "ferreters" who mine the psyche for precious ideas.[^3] When this energy is not given a craft, it creates mischief in life (sabotage, compulsion, destructive behavior). The cure is to provide the "inner dwarf" a workshop.[^4]
 
@@ -188,7 +188,7 @@ The Generator is designed to **build** through sustained effort. They are not th
 From the Observatory, the Craftsman is not only the practitioner but the **instrument builder**—the one who constructs, calibrates, and maintains the tools through which perception occurs.
 
 The esoteric practitioner does not passively receive archetypal knowledge—they **craft** their instruments:
-- Learning the [[Tarot]] (78 cards internalized through repetition)
+- Learning the [[The Tarot]] (78 cards internalized through repetition)
 - Mastering [[Astrology]] (planets, signs, houses, aspects practiced until fluent)
 - Studying [[Human Design]] (gates, channels, types understood at cellular level)
 - Developing [[Active Imagination]] (dialogue with the unconscious honed over years)

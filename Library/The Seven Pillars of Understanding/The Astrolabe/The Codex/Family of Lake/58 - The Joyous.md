@@ -130,14 +130,14 @@ Another Shadow trap: suppressing critical voice entirely. If correction creates 
 - Gate 18 (Remedy) in the Spleen — The 58-18 Channel of Judgment creates the capacity to identify what's not working and correct it; pressure meeting authority
 
 ### Tarot Correspondences
-- [[The Star]] — Hope, healing, pouring waters endlessly; commitment to improvement
+- [[The Star (XVII)]] — Hope, healing, pouring waters endlessly; commitment to improvement
 - [[Eight of Pentacles]] — Mastery through practice; perfection through sustained engagement
-- [[Temperance]] — Continuous refinement; the angel eternally mixing to perfect
+- [[Temperance (XIV)]] — Continuous refinement; the angel eternally mixing to perfect
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure, stress, adrenaline; the fuel to act and improve
+- [[Root]] — Pressure, stress, adrenaline; the fuel to act and improve
 - [[Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation and correction
-- [[Hod (Splendor)]] — Qabalistic sphere of intellect, communication, patterns refined
+- [[Hod]] — Qabalistic sphere of intellect, communication, patterns refined
 - [[Eternal Youth]] — Jungian capacity to remain engaged with possibility; vitality that refuses calcification
 
 ---

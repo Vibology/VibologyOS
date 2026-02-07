@@ -129,8 +129,8 @@ The conditioning pattern: "I need something new to feel alive" or "Staying still
 - [[The Fool (0)]] — The leap into new experience
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
-- [[Tiphereth]] — Beauty, integration of experience on the Tree of Life
+- [[Throat]] — The center of manifestation and voice
+- [[Tiphareth]] — Beauty, integration of experience on the Tree of Life
 - [[The Seeker]] — Archetype of soul-hunger for new territory
 
 ---

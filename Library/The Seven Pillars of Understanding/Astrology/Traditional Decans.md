@@ -134,7 +134,7 @@ This approach is largely lost in modern practice but represents one of the oldes
 
 The face reveals the **surface presentation** of the archetype — not its essence (domicile), not its aspiration (exaltation), not its elemental alliance (triplicity), not its local conditions (bounds), but its *appearance*, its *persona* in the Jungian sense.
 
-Jung's [[Persona]] is the mask the ego presents to the world — the social face, the adaptive surface. The face dignity functions analogously: it is the outermost layer of planetary identity, the way the archetype *appears to others* at a particular degree. A planet in its own face has at least its own mask — it appears as itself, even if it has no deeper authority. A planet without even this dignity is *faceless* — unrecognizable, unable to present a coherent identity to the world.
+Jung's [[The Persona]] is the mask the ego presents to the world — the social face, the adaptive surface. The face dignity functions analogously: it is the outermost layer of planetary identity, the way the archetype *appears to others* at a particular degree. A planet in its own face has at least its own mask — it appears as itself, even if it has no deeper authority. A planet without even this dignity is *faceless* — unrecognizable, unable to present a coherent identity to the world.
 
 The Chaldean sequence's independence from sign rulership is itself psychologically significant. The face does not follow the logic of belonging (domicile) or honor (exaltation) or kinship (triplicity) or local governance (bounds). It follows its own mathematical logic — the Chaldean planetary order cycling relentlessly through the zodiac regardless of which sign it traverses. This is the archetype of *surface pattern* — consistent, impersonal, indifferent to the deeper meanings of the territory it crosses. The persona does not care about the Self's intentions; it follows its own rhythm.
 
@@ -163,7 +163,7 @@ The Chaldean sequence's independence from sign rulership is itself psychological
 - [[Dignities & Rulerships]] — The complete five-level dignity hierarchy
 
 ### Cross-Pillar
-- [[Persona]] — Jungian concept of the social mask; the face as the zodiac's persona system
+- [[The Persona]] — Jungian concept of the social mask; the face as the zodiac's persona system
 - [[The Shadow]] — Malefic face rulers as shadow masks worn in the territory of other archetypes
 - [[The Hermit (IX)]] — The stranger recognized by appearance, known by face but not by name
 

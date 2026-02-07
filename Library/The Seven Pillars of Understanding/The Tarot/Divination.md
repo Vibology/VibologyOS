@@ -707,7 +707,7 @@ Thousands of decks now exist, reflecting diverse cultural, artistic, and spiritu
 **Advanced:**
 1. **Develop intuitive reading** — Move beyond "book meanings" to spontaneous symbolic perception
 2. **Create custom spreads** — Design layouts for specific question types
-3. **Integrate other systems** — Combine Tarot with astrology, [[Human Design]], [[The Window|I-Ching]]
+3. **Integrate other systems** — Combine Tarot with astrology, [[Human Design]], [[The Astrolabe|I-Ching]]
 4. **Teach and mentor** — Share knowledge ethically and humbly
 
 ### Sample Reading Protocol
@@ -794,7 +794,7 @@ The reader's task is not to command or pronounce but to **hold space for truth t
 ### Vibology Synthesis Notes
 
 **Cross-System Integration:**
-References to [[Human Design]], [[The Window|I-Ching]], and [[Angelology]] represent original Vibology correspondences, not found in primary Tarot sources.
+References to [[Human Design]], [[The Astrolabe|I-Ching]], and [[Angelology]] represent original Vibology correspondences, not found in primary Tarot sources.
 
 **Ethics Framework:**
 Professional ethics code synthesized from De Angeles 2006 (reader responsibilities), contemporary Tarot professional standards, and Jungian analytical ethics (therapeutic boundaries, do no harm).

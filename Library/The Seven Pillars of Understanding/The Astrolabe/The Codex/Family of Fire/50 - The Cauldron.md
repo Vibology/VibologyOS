@@ -129,14 +129,14 @@ The underlying wound: believing either that values don't matter (nihilism leadin
 - Gate 27 (Nourishment) in the Sacral — The 50-27 Channel of Preservation creates the capacity to know what must be preserved and commit life force to preserving it; the guardian who both knows and does
 
 ### Tarot Correspondences
-- [[Justice]] — Balance, law fairly applied, accountability that preserves
-- [[The Emperor]] — Establishing structure, creating order that allows life to flourish
-- [[The Hierophant]] — Upholding tradition, transmitting values, teaching what must be preserved
+- [[Justice (XI)]] — Balance, law fairly applied, accountability that preserves
+- [[The Emperor (IV)]] — Establishing structure, creating order that allows life to flourish
+- [[The Hierophant (V)]] — Upholding tradition, transmitting values, teaching what must be preserved
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — Survival instinct, health, intuitive awareness in the present moment
+- [[Spleen]] — Survival instinct, health, intuitive awareness in the present moment
 - [[Tribal Ego Circuit]] — Survival through will, maintaining structures that protect the tribe
-- [[Chesed (Mercy)]] — Qabalistic sphere of benevolent authority, structure through love
+- [[Chesed]] — Qabalistic sphere of benevolent authority, structure through love
 - [[The Guardian Archetype]] — Universal pattern of protecting sacred space and collective well-being
 
 ---

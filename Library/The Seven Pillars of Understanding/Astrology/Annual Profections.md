@@ -134,7 +134,7 @@ The twelve-year cycle means the native revisits each house three times in the fi
 
 **The Lord of the Year** is the archetype the psyche must negotiate during that period. A Venus year (profection into Taurus or Libra) brings relationship, value, and aesthetic themes to the foreground regardless of whether the native consciously chooses them. A Saturn year (profection into Capricorn or Aquarius) demands confrontation with structure, limitation, and authority — the ego meets the [[Saturn ♄|Senex]] whether it wants to or not.
 
-When the Lord of the Year is a planet the native has difficulty with — a natal Saturn in detriment, a Mars in the 12th — the profection year becomes a period of forced engagement with the [[Shadow]]. The avoided content can no longer be avoided; the dormant complex awakens. This is not fate punishing the native but the psyche's own rhythm demanding that all its contents be attended to, each in turn.
+When the Lord of the Year is a planet the native has difficulty with — a natal Saturn in detriment, a Mars in the 12th — the profection year becomes a period of forced engagement with the [[The Shadow]]. The avoided content can no longer be avoided; the dormant complex awakens. This is not fate punishing the native but the psyche's own rhythm demanding that all its contents be attended to, each in turn.
 
 The profection cycle is ultimately a mandala of developmental time — a wheel that ensures no life domain, no archetypal function, remains permanently neglected.
 
@@ -186,7 +186,7 @@ Profections layer with other timing systems to create temporal convergence:
 
 ### Cross-Pillar
 - [[Individuation Process]] — Twelve-year developmental cycle as mandala of individuation
-- [[The Wheel of Fortune (X)]] — Tarot's image of cyclical return — the same territory revisited at different levels of maturity
+- [[Wheel of Fortune (X)]] — Tarot's image of cyclical return — the same territory revisited at different levels of maturity
 - [[The Shadow]] — Profection years ruled by difficult natal planets as forced Shadow engagement
 
 ---

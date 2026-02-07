@@ -387,7 +387,7 @@ Variables are calculated from the **Nodes** and **Sun/Earth** positions—the sa
 
 ### The Window and I-Ching
 
-The [[The Window]] system's **House of the Land** (stability, foundation) resonates with Color 1 Motivation (Fear/Foundation). The **House of the Spirit** (observation, detachment) resonates with Color 6 Motivation (Innocence).
+The [[The Astrolabe]] system's **House of the Land** (stability, foundation) resonates with Color 1 Motivation (Fear/Foundation). The **House of the Spirit** (observation, detachment) resonates with Color 6 Motivation (Innocence).
 
 ---
 
@@ -414,7 +414,7 @@ The [[The Window]] system's **House of the Land** (stability, foundation) resona
 - [[Anima et Algorithm]] - Testing Variables through embodied experience
 - [[Inner Authority and Strategy]] - The somatic foundation
 - [[Jungian Archetypes]] - Psychological type parallels
-- [[The Window]] - Archetypal resonance with House attributions
+- [[The Astrolabe]] - Archetypal resonance with House attributions
 - I-Ching - The 64-fold hexagram substrate
 - [[The Blueprint - 444 Architecture]] - The shared 64-fold structure
 

@@ -312,8 +312,8 @@ In ancient practice (and some modern ceremonial magic), **fire offerings** (ince
 
 ### Cross-Pillar Synthesis
 
-- **Astrology:** [[Fire Signs]] (Aries, Leo, Sagittarius), [[The Sun]], [[Mars]]
-- **Tarot:** [[The Sun]] (Key XIX, Tiphareth), [[The Tower]] (Key XVI, Geburah lightning)
+- **Astrology:** [[Fire Signs]] (Aries, Leo, Sagittarius), [[The Sun (XIX)]], [[Mars ♂]]
+- **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[The Tower (XVI)]] (Key XVI, Geburah lightning)
 - **Alchemy:** [[Calcination]] (first operation—burning away impurities), **Red King** (Sol, solar fire)
 - **Human Design:** [[Emotional Authority]] (Solar Plexus wave—fire rising and falling)
 

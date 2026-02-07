@@ -27,7 +27,7 @@ Each pillar is a complete wisdom tradition. Each contains an Overview as your en
 | [[Human Design]]       | Individual genetic imprinting and mechanical navigation    |
 | [[The Magdalene Path]] | The unifying core—vertical soul ascent                     |
 | [[The Tarot]]          | Qabalistic pathways and archetypal progression             |
-| [[The Window]]         | Contemporary archetypal resonance (the emotional field)    |
+| [[The Astrolabe]]         | Contemporary archetypal resonance (the emotional field)    |
 
 ---
 ## Core Foundations

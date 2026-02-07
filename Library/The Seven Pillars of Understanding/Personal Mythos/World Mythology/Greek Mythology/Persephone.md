@@ -406,9 +406,9 @@ If you are the **mother** (Demeter):
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Pluto ♇]] (primary correspondence—underworld, death-rebirth, transformation, sovereignty through crisis), [[Moon ☽]] (maiden/mother aspect, cycles), [[Scorpio ♏]] (death-rebirth, depth, sexual power, hidden knowledge), [[8th House]] (transformation, crisis, shared resources, death, intimacy), **Pluto-Moon aspects** (mother-daughter wounding, emotional underworld)
-- **[[Tarot]]:** [[Death (XIII)]] (transformation, necessary ending, descent), [[The High Priestess (II)]] (mystery, veil between worlds, lunar knowledge), [[Judgment (XX)]] (resurrection, return from underworld), [[The Moon (XVIII)]] (underworld journey, shadow confrontation)
+- **[[The Tarot]]:** [[Death (XIII)]] (transformation, necessary ending, descent), [[The High Priestess (II)]] (mystery, veil between worlds, lunar knowledge), [[Judgement (XX)]] (resurrection, return from underworld), [[The Moon (XVIII)]] (underworld journey, shadow confrontation)
 - **[[Qabalah]]:** **Malkuth** (earthly realm, grain, seasons), **Yesod** (lunar foundation, gateway to underworld), **Death card path** (Nun, water/transformation between Netzach and Tiphareth)
-- **[[Human Design]]:** [[Gate 36]] (Crisis/Darkening of the Light—descent into shadow, emotional depth), [[Emotional Solar Plexus]] (wave, depth, seasonal rhythms), [[Gate 55]] (Abundance/Spirit—emotional peaks and depths, seasonal mood)
+- **[[Human Design]]:** [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of the Light—descent into shadow, emotional depth), [[Solar Plexus]] (wave, depth, seasonal rhythms), [[Gate 55 - Abundance]] (Abundance/Spirit—emotional peaks and depths, seasonal mood)
 - **[[Angelology]]:** [[Archangel Correspondence - Moon|Lunar Archangel]] (emotional cycles, underworld), psychopomp angels (Hermes parallel)
 
 ---

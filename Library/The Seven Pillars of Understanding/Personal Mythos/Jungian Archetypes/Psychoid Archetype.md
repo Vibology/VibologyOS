@@ -238,10 +238,10 @@ The Observatory does not claim to know *how* the psychoid works (that remains my
 - [[Numinous Experience]] — The awe/terror of contact with psychoid reality
 - [[Angelology]] — Angels as psychoid entities (neither purely psychological nor purely spiritual)
 - [[Astrology]] — Planetary positions as psychoid correspondences (not causal but meaningful)
-- [[Tarot]] — Cards as sampling method for psychoid layer
+- [[The Tarot]] — Cards as sampling method for psychoid layer
 - [[Human Design]] — Gates as psychoid archetypes imprinted at birth
-- [[The Window]] — I-Ching hexagrams as psychoid patterns
+- [[The Astrolabe]] — I-Ching hexagrams as psychoid patterns
 - [[Unus Mundus]] — Alchemical concept of undifferentiated unity before psyche/matter split
 - [[Active Imagination]] — Method for consciously engaging psychoid layer
-- [[Transcendent Function]] — Produces symbols from psychoid layer (neither purely conscious nor purely unconscious)
+- [[The Transcendent Function]] — Produces symbols from psychoid layer (neither purely conscious nor purely unconscious)
 - [[Ego-Death]] — Temporary return to unus mundus (dissolution of subject-object boundary)

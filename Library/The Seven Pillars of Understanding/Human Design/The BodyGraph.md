@@ -369,7 +369,7 @@ The BodyGraph describes the **vehicle**, not the **driver**. You are the conscio
 - [[The Blueprint - 444 Architecture]] — The 64-fold substrate (I-Ching, DNA, Gates, Gene Keys)
 - [[Angelology]] — Nine Centers = Nine angelic orders
 - [[The Tarot]] — Qabalistic Tree of Life correspondences
-- [[The Window]] — I-Ching hexagrams as Gates
+- [[The Astrolabe]] — I-Ching hexagrams as Gates
 
 ### Methodology
 - **PROTOCOL - Chart Data Acquisition** — How to calculate charts locally

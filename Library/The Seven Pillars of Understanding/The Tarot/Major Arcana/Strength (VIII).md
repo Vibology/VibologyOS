@@ -153,7 +153,7 @@ TBD
 
 ### Strength in the Bodygraph: Gate 12 (Standstill / Caution)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Strength (Key 8)** corresponds to **[[Gate 12]]** in Human Design—the gate of **Standstill** (or **Caution**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Strength (Key 8)** corresponds to **[[Gate 12 - Standstill]]** in Human Design—the gate of **Standstill** (or **Caution**), located in the Throat Center.
 
 #### Teth (Serpent) and the Mutative Voice of Restraint
 
@@ -287,7 +287,7 @@ When Strength appears, it signals **the time to tame rather than unleash**. When
 - [[The Fool (0)]] - The innocent who must learn mastery
 - [[The Magician (I)]] - The will that directs power
 - [[The Chariot (VII)]] - The complementary path of command
-- **Human Design (Canonical):** [[Gate 12]] (Standstill / Caution) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 12 - Standstill]] (Standstill / Caution) — See "Cross-System Synthesis: Human Design" above
 - Teth - Hebrew Letters in Tarot
 - Kabbalistic Paths - Balancing Chesed and Geburah
 - Leo and the Sun in Esoteric Systems

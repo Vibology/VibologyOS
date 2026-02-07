@@ -163,7 +163,7 @@ A significant disagreement exists regarding whether the Lot of Fortune should re
 
 The Lot system, read through Jungian depth, reveals the chart's engagement with the problem of fate versus free will — the central tension of individuation.
 
-**Fortune as the Unconscious:** The Lot of Fortune is what life delivers without the ego's consent — the body one inherits, the family one is born into, the material conditions that shape the first half of life. In Jungian terms, this is the domain of the [[Collective Unconscious]] and the given archetypal inheritance. Fortune is not "luck" in the trivial sense but *moira* — the portion allotted, the thread measured by the Fates.
+**Fortune as the Unconscious:** The Lot of Fortune is what life delivers without the ego's consent — the body one inherits, the family one is born into, the material conditions that shape the first half of life. In Jungian terms, this is the domain of the [[The Collective Unconscious]] and the given archetypal inheritance. Fortune is not "luck" in the trivial sense but *moira* — the portion allotted, the thread measured by the Fates.
 
 **Spirit as the Ego's Work:** The Lot of Spirit is the ego's response to its allotment — what is done with what has been given. Career, vocation, intellectual pursuit, creative action — all belong to Spirit. The individuation process itself could be understood as the progressive alignment of Spirit's choices with Fortune's givens: learning to *will* what has been allotted rather than fighting it.
 
@@ -214,7 +214,7 @@ The Lord of Fortune and Lord of Spirit become key figures alongside the chart ru
 - [[Aspects]] — Aspects to the Lots from benefics and malefics
 
 ### Cross-Pillar
-- [[The Wheel of Fortune (X)]] — Tarot's image of the same archetype: the turning wheel of fate, what is given and taken without consent
+- [[Wheel of Fortune (X)]] — Tarot's image of the same archetype: the turning wheel of fate, what is given and taken without consent
 - [[Individuation Process]] — Fortune-Spirit polarity as the fate-will axis of individuation
 - [[The Shadow]] — Nemesis (Saturn's Lot) as the shadow of fortune
 

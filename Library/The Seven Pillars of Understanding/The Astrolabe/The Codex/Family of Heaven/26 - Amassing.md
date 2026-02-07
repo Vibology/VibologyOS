@@ -130,7 +130,7 @@ The conditioning pattern: "My version of history is the only truth" or "I can ma
 - [[Four of Pentacles]] — Resources held and managed (shadow: hoarding; gift: stewardship)
 
 ### Cross-Pillar Synthesis
-- [[Heart (Ego) Center]] — The seat of willpower and material resources
+- [[Heart]] — The seat of willpower and material resources
 - [[Coagulation]] — The alchemical stage where accumulated wisdom solidifies
 - [[Netzach]] — Victory, the Qabalistic sphere of endurance and persistence
 

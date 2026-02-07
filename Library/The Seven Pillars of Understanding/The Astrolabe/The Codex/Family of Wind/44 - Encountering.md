@@ -129,14 +129,14 @@ Another Shadow trap: pattern recognition as paralysis. If one becomes too alert 
 - Gate 26 (Amassing) in the Heart — The 44-26 Channel of Surrender creates the salesperson/messenger; Spleen recognizes patterns, Heart has will to act on them
 
 ### Tarot Correspondences
-- [[The Magician]] — "As above, so below"; pattern recognition as power; communication as magic
-- [[The Lovers]] — The choice point; discernment in encounter; recognizing what is being offered
+- [[The Magician (I)]] — "As above, so below"; pattern recognition as power; communication as magic
+- [[The Lovers (VI)]] — The choice point; discernment in encounter; recognizing what is being offered
 - [[Eight of Swords]] — The danger of interference; manipulation that binds; pattern recognition weaponized
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
+- [[Spleen]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
 - [[Tribal Ego Circuit]] — Bonding through commerce and alliance; recognition of trustworthiness
-- [[Hod (Splendor)]] — Qabalistic sphere of Mercury; communication, pattern, magical intelligence
+- [[Hod]] — Qabalistic sphere of Mercury; communication, pattern, magical intelligence
 - [[Hermes/Mercury]] — Messenger god; trickster; the one who moves between worlds; ambivalent power
 
 ---

@@ -129,14 +129,14 @@ Another Shadow trap: conflict addiction. Using friction as the only way to feel 
 - Gate 59 (Dispersion) in the Sacral — The 6-59 Channel of Mating creates capacity for profound intimacy; Sacral energy to break down aura barriers meets Solar Plexus emotional regulation
 
 ### Tarot Correspondences
-- [[The Lovers]] — Intimate choice; the friction that arises when two become one
-- [[Strength]] — Engaging conflict without violence; holding opposing forces in balance
-- [[The Tower]] — Crisis that breaks false structures; conflict that reveals truth
+- [[The Lovers (VI)]] — Intimate choice; the friction that arises when two become one
+- [[Strength (VIII)]] — Engaging conflict without violence; holding opposing forces in balance
+- [[The Tower (XVI)]] — Crisis that breaks false structures; conflict that reveals truth
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional awareness; spirit; the wave that must be honored before decisions
+- [[Solar Plexus]] — Emotional awareness; spirit; the wave that must be honored before decisions
 - [[Tribal Defense Circuit]] — Survival through support; intimacy, bonding, and resource sharing within the tribe
-- [[Geburah (Severity)]] — Qabalistic sphere of boundaries; the corrective force that refines
+- [[Geburah]] — Qabalistic sphere of boundaries; the corrective force that refines
 - [[Mars Archetype]] — Assertion, conflict, defense; healthy aggression in service to integrity
 
 ---

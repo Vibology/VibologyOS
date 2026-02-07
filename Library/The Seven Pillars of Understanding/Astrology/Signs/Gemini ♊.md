@@ -183,7 +183,7 @@ Gemini's shadow is **scatteredness without coherence**—the collector of fragme
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Lovers (Key VI) — Choice, duality, the union of opposites
-- **[[The Window]]:** The Shape (contemporary face: the shapeshifter, the adapter)
+- **[[The Astrolabe]]:** The Shape (contemporary face: the shapeshifter, the adapter)
 - **[[Jungian Archetypes]]:** The Trickster, the Herald
 - **[[Human Design]]:** Ajna Center (conceptualization, mental pattern-making)
 

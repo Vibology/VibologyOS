@@ -373,9 +373,9 @@ The **Magdalene Path** emphasizes the **feminine face of the numinous**—recept
 
 ### Numinous Experience and Human Design
 
-**[[Gate 25 (Innocence)]]** — The gate of the Spirit, universal love, the numinous encounter with "what is"
+**[[Gate 25 - Innocence]]** — The gate of the Spirit, universal love, the numinous encounter with "what is"
 
-**[[The G Center]]** — Identity, love, direction; when defined, carries the **Self's numinous authority**
+**[[G Center]]** — Identity, love, direction; when defined, carries the **Self's numinous authority**
 
 **Strategy and Authority as Sacred Practice:**
 Following your design is **submission to the numinous** (the Self's intelligence) vs. the conditioned mind's control.
@@ -397,7 +397,7 @@ Following your design is **submission to the numinous** (the Self's intelligence
 - [[Pathworking]] — Qabalistic visionary encounter (Tarot)
 - [[Invocation]] — Calling upon the numinous presence (Angelology)
 - [[Discernment of Spirits]] — Testing numinous experiences (Angelology)
-- [[Gate 25 (Innocence)]] — Numinous encounter in Human Design
+- [[Gate 25 - Innocence]] — Numinous encounter in Human Design
 
 ---
 
@@ -428,7 +428,7 @@ Following your design is **submission to the numinous** (the Self's intelligence
 ### Vibology Synthesis Notes
 
 **Cross-System Integration:**
-References to [[Tarot]], [[The Magdalene Path]], [[Human Design]], and [[Angelology]] represent original Vibology correspondences, grounded in shared archetypal patterns (encounter with the wholly Other, submission to sacred authority, integration of numinous insight).
+References to [[The Tarot]], [[The Magdalene Path]], [[Human Design]], and [[Angelology]] represent original Vibology correspondences, grounded in shared archetypal patterns (encounter with the wholly Other, submission to sacred authority, integration of numinous insight).
 
 **Psychological vs. Theological Framing:**
 This entry honors **both** Otto's theological claim (the numinous is God) and Jung's psychological claim (the numinous is the Self's manifestation). Vibrology holds the tension without collapsing into reductionism.

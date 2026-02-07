@@ -95,7 +95,7 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 ### Cross-Pillar Synthesis
 - [[Leo ♌]] — Astrological performer and creator
 - [[The Persona]] — Jungian archetypal framework (Personal Mythos)
-- [[The Sun ☉]] — Planetary ruler of Leo; conscious identity
+- [[Sun ☉]] — Planetary ruler of Leo; conscious identity
 - [[Persona Development]] — Early individuation stage
 
 ---

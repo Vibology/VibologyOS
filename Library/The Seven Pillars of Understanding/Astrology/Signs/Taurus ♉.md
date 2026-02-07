@@ -191,7 +191,7 @@ In esoteric anatomy, Taurus governs the **throat** (manifestation, the voice tha
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Hierophant (Key V) — Tradition, embodied teaching, the sacred within form
-- **[[The Window]]:** The Joker (contemporary face: the trickster who knows the game is temporary)
+- **[[The Astrolabe]]:** The Joker (contemporary face: the trickster who knows the game is temporary)
 - **[[Jungian Archetypes]]:** [[The Great Mother]] (nourishment, embodiment), The Builder
 - **[[Human Design]]:** Throat Center (manifestation, bringing inner value into form); Gate 27 (Nourishment)
 - **Qabalah:** The letter **Vav** (the nail, the connector); the path between Wisdom and Understanding

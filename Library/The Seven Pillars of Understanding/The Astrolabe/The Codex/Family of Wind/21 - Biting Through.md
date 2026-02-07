@@ -129,14 +129,14 @@ Another Shadow trap: abdication of authority. If wielding power has resulted in 
 - Gate 45 (Gathering Together) in the Throat — The 21-45 Channel of Money creates the voice of material authority; the king/treasurer who controls resources and enforces tribal law
 
 ### Tarot Correspondences
-- [[Justice]] — The sword that severs; scales that weigh; authority enforcing law
-- [[The Emperor]] — Sovereign power; material authority; structure and enforcement
+- [[Justice (XI)]] — The sword that severs; scales that weigh; authority enforcing law
+- [[The Emperor (IV)]] — Sovereign power; material authority; structure and enforcement
 - [[Five of Swords]] — Decisive victory that may require ruthlessness; the cut that removes
 
 ### Cross-Pillar Synthesis
-- [[Heart Center (Ego/Will)]] — Material resources; willpower; tribal authority; the right to rule
+- [[Heart]] — Material resources; willpower; tribal authority; the right to rule
 - [[Tribal Ego Circuit]] — Bonding through material support and enforcement of tribal law
-- [[Geburah (Severity)]] — Qabalistic sphere of necessary harshness; pruning, cutting, enforcing
+- [[Geburah]] — Qabalistic sphere of necessary harshness; pruning, cutting, enforcing
 - [[The Sovereign Archetype]] — Authority in service; decisiveness; the capacity to enforce law justly
 
 ---

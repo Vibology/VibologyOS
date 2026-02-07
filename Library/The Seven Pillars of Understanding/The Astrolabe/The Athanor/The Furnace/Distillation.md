@@ -77,7 +77,7 @@ True distillation includes both: ascent *and* descent, repeated. The soul learns
 - [[Temperance (XIV)]] — Mixing and refining, the angel's patient work
 
 ### Cross-Pillar Synthesis
-- [[The Moon ☽]] — Planetary correspondence: cycles, reflection, waxing and waning
+- [[Moon ☽]] — Planetary correspondence: cycles, reflection, waxing and waning
 - [[Yesod]] — Qabalah: Foundation, the lunar sphere where images refine before manifesting
 - [[The Anima]] — Jungian archetype: the soul-image refined through repeated encounter
 - [[Albedo]] — Alchemical color: the whitening perfected through distillation

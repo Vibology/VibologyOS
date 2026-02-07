@@ -20,7 +20,7 @@ status: complete
 
 The **Hermetic Order of the Golden Dawn** (1888-1903) was a secret society devoted to the study and practice of Western esotericism, founded in London by **William Wynn Westcott** (coroner and Freemason), **William Robert Woodman** (physician and Rosicrucian scholar), and **Samuel Liddell MacGregor Mathers** (occultist and ritualist). It became the **single most influential magical organization** in the history of modern Western occultism, shaping ceremonial magic, Wicca, Neo-Paganism, and New Age spirituality for over a century.[^1]
 
-The Golden Dawn's revolutionary achievement was the **systematization** of disparate esoteric traditions—[[Qabalah]], [[Tarot]], astrology, alchemy, geomancy, and especially [[Enochian Tradition|Enochian magic]]—into a **coherent, teachable curriculum** organized by initiatory grades corresponding to [[The Tree of Life]]. Where earlier occult orders guarded fragments jealously, the Golden Dawn synthesized the Western Mystery Tradition into a **comprehensive map** from Neophyte (0=0) to Ipsissimus (10=1).
+The Golden Dawn's revolutionary achievement was the **systematization** of disparate esoteric traditions—[[Qabalah]], [[The Tarot]], astrology, alchemy, geomancy, and especially [[Enochian Tradition|Enochian magic]]—into a **coherent, teachable curriculum** organized by initiatory grades corresponding to [[The Tree of Life]]. Where earlier occult orders guarded fragments jealously, the Golden Dawn synthesized the Western Mystery Tradition into a **comprehensive map** from Neophyte (0=0) to Ipsissimus (10=1).
 
 For the [[Enochian Tradition]], the Golden Dawn's contribution was foundational: they transformed [[John Dee and Edward Kelley]]'s raw manuscripts—cryptic, disorganized, operationally unclear—into a **working magical system** complete with color correspondences, pronunciation standards, ritual structures, and divinatory applications. Without the Golden Dawn, Enochian magic would have remained a historical curiosity; instead, it became a **pillar of modern practice**.
 
@@ -342,7 +342,7 @@ The Golden Dawn is the **institutionalization of individuation**—a structured 
 - [[Chokmah]] — Magus (9=2); Wisdom and utterance of the Word
 - [[Kether]] — Ipsissimus (10=1); union with the Crown
 - [[Daath]] — The Abyss; the gap crossed between 7=4 and 8=3
-- [[Individuation]] — The Jungian process the Golden Dawn grade system maps
+- [[Individuation Process]] — The Jungian process the Golden Dawn grade system maps
 - [[Active Imagination]] — Jungian technique; Golden Dawn ritual as structured imaginative engagement
 - [[Self]] — The Holy Guardian Angel as Jungian Self-encounter
 

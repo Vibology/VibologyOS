@@ -129,7 +129,7 @@ The conditioning pattern: "If I don't try, I can't fail" or "What worked before 
 - [[The Emperor (IV)]] — Structure that preserves through wise governance
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — The center of instinctual awareness and survival
+- [[Spleen]] — The center of instinctual awareness and survival
 - [[Chesed]] — Mercy, sustaining provision on the Tree of Life
 - [[The Elder]] — Archetype of wisdom earned through endurance
 

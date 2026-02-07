@@ -26,7 +26,7 @@ This concept appears in three distinct but related forms:
 
 2. **Esoteric/Thelemic**: The **Holy Guardian Angel (HGA)**—not an external entity, but the **Higher Self**, the innermost spiritual nature, the formulation of one's **True Will** personified as an angelic presence to be contacted through ritual work (Abramelin operation).
 
-3. **Psychological/Jungian**: A **symbolic representation** of the [[The Self|Self]] archetype, the God-image within, the totality of the psyche that transcends and guides the conscious ego toward [[Individuation|individuation]].
+3. **Psychological/Jungian**: A **symbolic representation** of the [[The Self|Self]] archetype, the God-image within, the totality of the psyche that transcends and guides the conscious ego toward [[Individuation Process|individuation]].
 
 These interpretations are not mutually exclusive. The guardian angel can be understood simultaneously as **psychoid reality**—existing at the threshold where psyche and spirit meet, neither purely psychological nor purely ontological, but partaking of both dimensions (see [[Psychoid Archetype]]).
 
@@ -156,7 +156,7 @@ The guardian angel appears in dreams, visions, and active imagination as:
 - **The Divine Child** (future potential Self)
 - **The Light-being** or **Luminous Presence**
 
-The angel functions as the **mediator** between ego and Self—transmitting messages from the unconscious to consciousness, warning of danger, inspiring creative acts, and guiding the process of [[Individuation]].
+The angel functions as the **mediator** between ego and Self—transmitting messages from the unconscious to consciousness, warning of danger, inspiring creative acts, and guiding the process of [[Individuation Process]].
 
 ### Holy Guardian Angel = Individuated Self
 
@@ -262,15 +262,15 @@ Jung's method for contacting the inner guardian:
 ### Jungian Parallels
 
 - [[The Self]] — The totality of the psyche, the God-image within
-- [[Individuation]] — The process guided by the Self/HGA
+- [[Individuation Process]] — The process guided by the Self/HGA
 - [[The Transcendent Function]] — The mediating symbol that emerges from dialogue with the unconscious (parallel to HGA communication)
 - [[Inflation]] — The danger of ego-Self identification
 - [[Active Imagination]] — Jung's method for contacting inner figures
 
 ### Cross-Pillar Synthesis
 
-- **Astrology:** [[The Sun]] (Tiphareth, the solar Self, True Will)
-- **Tarot:** [[The Sun]] (Key XIX, Tiphareth), [[Temperance]] (Key XIV, the angel as mediator)
+- **Astrology:** [[The Sun (XIX)]] (Tiphareth, the solar Self, True Will)
+- **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[Temperance (XIV)]] (Key XIV, the angel as mediator)
 - **Human Design:** [[Strategy and Authority]] — following inner guidance (parallel to True Will)
 - **Alchemy:** [[The Philosophical Mercury]] — the inner guide through the Great Work
 

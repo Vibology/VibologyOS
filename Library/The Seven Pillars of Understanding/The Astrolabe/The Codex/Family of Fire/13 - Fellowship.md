@@ -129,14 +129,14 @@ Another Shadow trap: selective listening that becomes judgment. If the vessel on
 - Gate 33 (Retreat) in the Throat — The 13-33 Channel of The Prodigal creates the capacity to listen deeply over time, then share collective wisdom when privacy ends and revelation is correct
 
 ### Tarot Correspondences
-- [[The Hierophant]] — Keeper of tradition; the one who hears confession and transmits wisdom
-- [[The High Priestess]] — Silent witness; holding mystery until the time is right
-- [[Strength]] — Compassionate witnessing; holding space without force
+- [[The Hierophant (V)]] — Keeper of tradition; the one who hears confession and transmits wisdom
+- [[The High Priestess (II)]] — Silent witness; holding mystery until the time is right
+- [[Strength (VIII)]] — Compassionate witnessing; holding space without force
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, direction, love; the magnetic pull toward one's correct path
 - [[Collective Sharing Circuit]] — Learning through experience over time; sharing patterns for future generations
-- [[Chesed (Mercy)]] — Qabalistic sphere of loving-kindness; benevolent receiving
+- [[Chesed]] — Qabalistic sphere of loving-kindness; benevolent receiving
 - [[The Witness Archetype]] — Universal pattern of observing without intervention
 
 ---

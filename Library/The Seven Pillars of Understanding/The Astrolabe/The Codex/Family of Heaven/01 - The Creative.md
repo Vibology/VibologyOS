@@ -131,7 +131,7 @@ The conditioning pattern: "I must be creative to have value" or "If I'm not crea
 ### Cross-Pillar Synthesis
 - [[G Center]] — The center of identity, direction, and love
 - [[Kether]] — The Crown, first emanation on the Tree of Life
-- [[Individuation]] — Jung's process of becoming who one is meant to be
+- [[Individuation Process]] — Jung's process of becoming who one is meant to be
 
 ---
 

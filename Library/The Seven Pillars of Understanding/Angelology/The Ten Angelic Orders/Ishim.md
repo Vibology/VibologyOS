@@ -60,7 +60,7 @@ The name *Ishim* derives from **ish** (אִישׁ, "man" or "person"), suggestin
 | **Biblical Reference** | Psalm 104:4 ("Who maketh his Angels Spirits and his Ministers a flaming Fire") |
 | **Cosmic Role** | Bridge between angelic and human consciousness |
 | **Human Faculty** | Prophetic consciousness, sanctified humanity |
-| **Human Design** | [[Sacral Center]] — embodied spiritual power, generative force |
+| **Human Design** | [[Sacral]] — embodied spiritual power, generative force |
 | **Jungian** | The realized human, the individuated Self made transparent to spirit |
 
 ### The Dual Etymology
@@ -129,7 +129,7 @@ This has profound implications: **we are not praying to alien intelligences, but
 
 ### Heywood's Traditional Witness (1635)
 
-The 1635 English text *The Hierarchie of the Blessed Angels* by [[Thomas Heywood]] provides traditional Christian-Qabalistic synthesis. While Heywood primarily follows the Dionysian nine-fold structure, later Qabalistic commentators (including the [[Golden Dawn]]) extended his framework to include the Ishim as the tenth order, completing the Tree.
+The 1635 English text *The Hierarchie of the Blessed Angels* by [[Thomas Heywood]] provides traditional Christian-Qabalistic synthesis. While Heywood primarily follows the Dionysian nine-fold structure, later Qabalistic commentators (including the [[The Hermetic Order of the Golden Dawn]]) extended his framework to include the Ishim as the tenth order, completing the Tree.
 
 Heywood's work emphasizes the **gradation of illumination** flowing downward through the orders. The Ishim, as the lowest and final recipients of this cascading light, function as the **final transformers** that step down divine voltage into a frequency the material world can receive without burning. They are, in electrical terms, the **ground wire** of heaven—channeling spiritual current safely into Earth.
 
@@ -149,26 +149,26 @@ Heywood's work emphasizes the **gradation of illumination** flowing downward thr
 ### Qabalistic Integration
 
 - [[Malkuth]] (Tarot: The Four Tens, The Four Princesses)
-- [[The Shekinah]] — The Divine Presence dwelling in Malkuth
+- [[Shekinah]] — The Divine Presence dwelling in Malkuth
 - [[The Tree of Life]] — Ten Sephiroth requiring ten angelic orders
 
 ### Human Design Correspondence
 
-- [[Sacral Center]] — Generative life-force, embodied spiritual power
+- [[Sacral]] — Generative life-force, embodied spiritual power
 - [[Generator]] — Type embodying sustained creative energy (Joe's design)
 - [[Defined Sacral]] — Sustainable access to life-force energy
 
 ### Jungian Parallels
 
-- [[Individuation]] — The process of becoming a "soul of fire"
+- [[Individuation Process]] — The process of becoming a "soul of fire"
 - [[The Self]] — The totality of the psyche, the God-image within
-- [[Transcendent Function]] — Reconciling opposites (fire and snow)
+- [[The Transcendent Function]] — Reconciling opposites (fire and snow)
 
 ### Cross-Pillar Synthesis
 
 - **Astrology:** [[Mutable Signs]] as mediators between fixed and cardinal
-- **Human Design:** [[Manifestors]] initiate; Generators (Ishim) respond and sustain
-- **Tarot:** [[The World]] (Key 21, Malkuth) — Completion of the journey
+- **Human Design:** [[Manifestor]] initiate; Generators (Ishim) respond and sustain
+- **Tarot:** [[The World (XXI)]] (Key 21, Malkuth) — Completion of the journey
 - **Alchemy:** [[Fixation]] — Spirit made permanent in matter
 
 ---

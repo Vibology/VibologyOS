@@ -129,14 +129,14 @@ Another Shadow trap: using "realism" as excuse for failure to evolve. "This is j
 - Gate 3 (Emergence) in the Sacral Center — The 3-60 Channel of Mutation creates evolutionary change through the pulse of constraint and life force. Gate 3 provides the Sacral's biological response to new potential; Gate 60 provides the Root's rhythmic limitation that stabilizes emergence. Together they create sustainable mutation—innovation that doesn't burn out because it pulses (on/off) rather than forcing constant flow. The teaching: you cannot sustain continuous emergence; the pulse of "now" and "not now" allows mutation to integrate.
 
 ### Tarot Correspondences
-- [[The Hierophant]] — Sacred tradition, beneficial structure, teaching preserved through constraint
-- [[The Devil]] — Shadow limitation, bondage that has become prison
-- [[Temperance]] — Alchemical mixing, the right measure, limitation as divine proportion
+- [[The Hierophant (V)]] — Sacred tradition, beneficial structure, teaching preserved through constraint
+- [[The Devil (XV)]] — Shadow limitation, bondage that has become prison
+- [[Temperance (XIV)]] — Alchemical mixing, the right measure, limitation as divine proportion
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Adrenaline pressure, stress, the impulse to evolve, fight/flight/freeze
+- [[Root]] — Adrenaline pressure, stress, the impulse to evolve, fight/flight/freeze
 - [[Individual Knowing Circuit]] — Mutation through unique experimentation, pulse frequency, empowerment
-- [[Binah (Understanding)]] — Qabalistic Great Mother, form-giving principle, womb of manifestation
+- [[Binah]] — Qabalistic Great Mother, form-giving principle, womb of manifestation
 - [[Saturn Archetype]] — Limitation as teacher, time as constraint, boundary as maturation
 
 ---

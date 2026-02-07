@@ -188,7 +188,7 @@ The **loosing of the bond** is the zodiacal equivalent of a psychological **brea
 
 ### Cross-Pillar
 - [[Individuation Process]] — Fortune releasing maps bodily fate; Spirit releasing maps willed development — both strands of individuation
-- [[Hero's Journey]] — Peak periods as the narrative climax; loosing of the bond as the threshold crossing
+- [[The Hero's Journey]] — Peak periods as the narrative climax; loosing of the bond as the threshold crossing
 - [[The Tower (XVI)]] — The Tarot's image of sudden disruption and structural collapse — the loosing of the bond made visible
 
 ---

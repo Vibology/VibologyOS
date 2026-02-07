@@ -327,7 +327,7 @@ When belief becomes **identity** rather than tool, it hardens into dogma. The 9t
 - **[[Human Design]]:** Ajna Center (conceptualization), Head Center (inspiration, mental pressure)
 - **[[The Tarot]]:** [[The Hierophant (V)|The Hierophant]] (Key V) — Teaching, tradition, spiritual authority
 - **[[Jungian Archetypes]]:** [[The Wise Old Man]]—inner teacher, keeper of wisdom
-- **[[The Window]]:** Chesed (Mercy) — Expansion, benevolence, generous teaching
+- **[[The Astrolabe]]:** Chesed (Mercy) — Expansion, benevolence, generous teaching
 
 ---
 

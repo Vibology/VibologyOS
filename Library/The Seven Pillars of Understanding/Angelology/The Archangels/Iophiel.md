@@ -26,7 +26,7 @@ verification_notes: Heywood assigns Iophiel to Book 2 (Monotheism/Divine Unity) 
 
 Iophiel is the archangel of **monotheistic revelation**, the intelligence that guides consciousness from the multiplicity of idols, false gods, and fragmented understanding into the **vision of divine singularity**. He is the angel who presides over the question: *"Who is God?"*—not as theological abstraction but as **lived realization** that transforms how the soul perceives reality.
 
-In Thomas Heywood's *The Hierarchie of the Blessed Angells* (1635), Iophiel presides over **Book 2**, which establishes the case for **monotheism** against polytheism, atheism, and Sadduceeism[^1]. Heywood explicitly identifies Iophiel with the **[[Cherubim]]** order, placing him in the first triad of the celestial hierarchy, immediately below the [[Seraphim]][^2]. The Cherubim, in Qabalistic tradition, correspond to **[[Chokmah]]** (Wisdom)—the second Sephirah on the [[Tree of Life]], representing the **primal flash of divine illumination**, the first differentiation of unity into knowable form[^3].
+In Thomas Heywood's *The Hierarchie of the Blessed Angells* (1635), Iophiel presides over **Book 2**, which establishes the case for **monotheism** against polytheism, atheism, and Sadduceeism[^1]. Heywood explicitly identifies Iophiel with the **[[Cherubim]]** order, placing him in the first triad of the celestial hierarchy, immediately below the [[Seraphim]][^2]. The Cherubim, in Qabalistic tradition, correspond to **[[Chokmah]]** (Wisdom)—the second Sephirah on the [[The Tree of Life]], representing the **primal flash of divine illumination**, the first differentiation of unity into knowable form[^3].
 
 Iophiel is thus the **Archangel of Wisdom-as-Unity**—not abstract philosophical wisdom, but the wisdom that **perceives the One in the Many**, that sees through the illusion of separation and recognizes the singular divine intelligence animating all creation.
 
@@ -325,13 +325,13 @@ Iophiel is the patron of **Torah study**, **Quranic recitation**, **Vedic contem
 - [[Chokmah]] (Sephirah governed by Iophiel)
 - [[Raziel]] (Traditional Archangel of Chokmah—possible alternate or complementary intelligence)
 - [[Michael]] | [[Gabriel]] | [[Raphael]] | [[Uriel]] (The Four Great Archangels—Iophiel as philosophical complement)
-- [[Zaphkiel]] (Archangel of Book 3 in Heywood—Cosmology following Monotheism)
+- [[Tzaphkiel]] (Archangel of Book 3 in Heywood—Cosmology following Monotheism)
 - [[The Celestial Hierarchy]] (Iophiel's place in the first triad)
 
 ### Cross-System Integration
-- **Qabalah:** [[Chokmah]] | [[Kether]] | [[Binah]] | [[Tree of Life]] | [[Yod]] | [[Mazloth]]
+- **Qabalah:** [[Chokmah]] | [[Kether]] | [[Binah]] | [[The Tree of Life]] | [[Yod]] | [[Mazloth]]
 - **Tarot:** [[The Magician (I)|The Magician]] (unity of will) | [[The High Priestess (II)|The High Priestess]] (hidden wisdom) | The Twos (first differentiation in each suit)
-- **Jungian Psychology:** [[The Self]] | [[Transcendent Function]] | [[Individuation Process]] | [[Imago Dei]]
+- **Jungian Psychology:** [[The Self]] | [[The Transcendent Function]] | [[Individuation Process]] | [[Imago Dei]]
 - **Philosophy:** [[Plotinus]] | [[Neoplatonism]] | [[Advaita Vedanta]] | [[Sufism]] | [[Hermeticism]]
 - **Scripture:** Deuteronomy 6:4 (Shema) | Isaiah 45:5 (*"I am the LORD, and there is no other"*) | 1 Corinthians 8:6 (*"There is one God, the Father"*)
 

@@ -129,14 +129,14 @@ Another Shadow trap: intuition as performance. If one realizes intuitive awarene
 - Gate 20 (Contemplation) in the Throat — The 57-20 Channel of the Brainwave creates the capacity to speak intuitive knowing in the moment; spontaneous articulation of what is sensed
 
 ### Tarot Correspondences
-- [[The High Priestess]] — Guardian of mystery; intuition as sacred knowing; the silence that speaks
-- [[The Moon]] — The unconscious depth; intuitive knowing that requires accepting uncertainty
+- [[The High Priestess (II)]] — Guardian of mystery; intuition as sacred knowing; the silence that speaks
+- [[The Moon (XVIII)]] — The unconscious depth; intuitive knowing that requires accepting uncertainty
 - [[Two of Swords]] — The blindfold that allows inner seeing; intuition when sight is blocked
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
+- [[Spleen]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
 - [[Individual Centering Circuit]] — Empowerment through unique awareness; mutation through trusting individual knowing
-- [[Chokmah (Wisdom)]] — Qabalistic sphere of intuitive flash; knowing before thought; receptive masculine
+- [[Chokmah]] — Qabalistic sphere of intuitive flash; knowing before thought; receptive masculine
 - [[The Oracle Archetype]] — Seer who knows by listening; receptivity as power; clarity through surrender
 
 ---

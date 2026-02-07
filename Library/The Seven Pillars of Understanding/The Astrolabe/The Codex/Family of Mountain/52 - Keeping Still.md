@@ -130,14 +130,14 @@ Another Shadow trap: paralysis disguised as meditation. If action is too frighte
 - Gate 9 (Accretion) in the Sacral — The 52-9 Channel of Concentration creates the capacity to focus life force on a single point through sustained attention; Root discipline directs Sacral power
 
 ### Tarot Correspondences
-- [[The Hermit]] — Focused concentration; the single lamp illuminating the disciplined path
-- [[The Hanged Man]] — Voluntary suspension; the refusal to move until perspective shifts
+- [[The Hermit (IX)]] — Focused concentration; the single lamp illuminating the disciplined path
+- [[The Hanged Man (XII)]] — Voluntary suspension; the refusal to move until perspective shifts
 - [[Four of Swords]] — Conscious rest; stillness as strategic withdrawal from battle
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure center; survival stress, adrenaline, fuel to persist
+- [[Root]] — Pressure center; survival stress, adrenaline, fuel to persist
 - [[Individual Centering Circuit]] — Empowerment through focus, self-knowledge, concentration
-- [[Kether (Crown)]] — Qabalistic sphere of ultimate stillness before manifestation; equilibrium of all potential
+- [[Kether]] — Qabalistic sphere of ultimate stillness before manifestation; equilibrium of all potential
 - [[The Mountain Sage]] — Daoist/Buddhist archetype of stillness as mastery; withdrawal to peak for clarity
 
 ---

@@ -515,7 +515,7 @@ Crowley assigned I-Ching hexagrams to the **numbered Minor Arcana** (not the Maj
 - **Example:** [[Two of Wands]] = Hexagram 20 (Contemplation)
 
 **The Window System:**
-> *Vibology Synthesis: VibologyOS's [[The Window]] integrates I-Ching structure with Jungian archetypes, creating parallel pathways to Tarot.*
+> *Vibology Synthesis: VibologyOS's [[The Astrolabe]] integrates I-Ching structure with Jungian archetypes, creating parallel pathways to Tarot.*
 
 ### Tarot and Angelology
 
@@ -659,7 +659,7 @@ Tarot does not predict a fixed future—it **illuminates the present** with such
 - [[Astrology]] — Planetary and zodiacal correspondences
 - [[Human Design]] — Gates, centers, and archetypal parallels
 - [[Angelology]] — Archangels and Sephirotic governors
-- [[The Window]] — I-Ching hexagram integration
+- [[The Astrolabe]] — I-Ching hexagram integration
 - [[Personal Mythos]] — Jungian archetypes and individuation
 - [[The Magdalene Path]] — Feminine mysteries and sacred devotion
 

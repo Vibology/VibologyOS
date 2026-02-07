@@ -129,14 +129,14 @@ Another Shadow trap: indiscriminate feeding. If one lacks the Spleen's discrimin
 - Gate 50 (The Cauldron) in the Spleen — The 27-50 Channel of Preservation creates the guardian of tribal values; Sacral decides what to care for, Spleen determines what is nourishing vs. toxic
 
 ### Tarot Correspondences
-- [[The Empress]] — The mother who feeds; embodied care; earth that sustains
+- [[The Empress (III)]] — The mother who feeds; embodied care; earth that sustains
 - [[Six of Pentacles]] — Reciprocal exchange; giving and receiving in balance; sustainable altruism
-- [[The Star]] — Nourishment from source; pouring out what flows in; the circulation of abundance
+- [[The Star (XVII)]] — Nourishment from source; pouring out what flows in; the circulation of abundance
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — Life force generator; biological yes/no; motor for caring and doing
+- [[Sacral]] — Life force generator; biological yes/no; motor for caring and doing
 - [[Tribal Defense Circuit]] — Caring for tribe through material support; ensuring survival
-- [[Chesed (Mercy)]] — Qabalistic sphere of overflowing benevolence; care without calculation
+- [[Chesed]] — Qabalistic sphere of overflowing benevolence; care without calculation
 - [[The Mother Archetype]] — Nourishing principle that sustains life; care as sacred responsibility
 
 ---

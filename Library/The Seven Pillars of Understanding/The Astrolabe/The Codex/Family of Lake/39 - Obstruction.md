@@ -129,14 +129,14 @@ Another Shadow trap: collapse in face of obstruction. If every obstacle feels in
 - Gate 55 (Abundance) in the Solar Plexus — The 39-55 Channel of Emoting creates capacity to provoke emotional response, to test through friction, to discover depth through resistance
 
 ### Tarot Correspondences
-- [[The Hanged Man]] — Suspension, surrender, progress through stopping
+- [[The Hanged Man (XII)]] — Suspension, surrender, progress through stopping
 - [[Five of Swords]] — Conflict as teacher, defeat that provokes reassessment
 - [[Eight of Swords]] — Perceived bondage; the recognition that obstacles are often illusion
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure, stress, adrenaline; the drive to overcome and act
+- [[Root]] — Pressure, stress, adrenaline; the drive to overcome and act
 - [[Individual Circuit]] — Mutation, unique solutions, innovation through personal experience
-- [[Geburah (Severity)]] — Qabalistic sphere of limitation, destruction clearing space for growth
+- [[Geburah]] — Qabalistic sphere of limitation, destruction clearing space for growth
 - [[Trickster Archetype]] — Jungian disruptor; chaos that serves evolution
 
 ---

@@ -201,7 +201,7 @@ From the Observatory, the research suggests:[^12]
 
 ## The Psychological Function of Healing Prayer
 
-From a Jungian perspective, illness (physical or psychic) is often a **symbol of imbalance**—the ego at war with the unconscious, the persona rejecting the [[Shadow]], the individual refusing the demands of [[Individuation Process|individuation]].[^13]
+From a Jungian perspective, illness (physical or psychic) is often a **symbol of imbalance**—the ego at war with the unconscious, the persona rejecting the [[The Shadow]], the individual refusing the demands of [[Individuation Process|individuation]].[^13]
 
 ### Illness as Message
 
@@ -416,11 +416,11 @@ For those seeking a non-denominational, accessible daily practice:
 - [[6th House]] — Astrological house of health, daily routines, service; shows health vulnerabilities and remedies
 
 ### Within Human Design
-- [[Spleen Center]] — Intuitive knowing of health/danger; trust instincts about when to seek care
-- [[Solar Plexus Center]] — Emotional wave affects physical health; healing requires emotional clarity
-- [[Sacral Center]] — Life force energy; defined Sacral has sustainable vitality, undefined needs rest
+- [[Spleen]] — Intuitive knowing of health/danger; trust instincts about when to seek care
+- [[Solar Plexus]] — Emotional wave affects physical health; healing requires emotional clarity
+- [[Sacral]] — Life force energy; defined Sacral has sustainable vitality, undefined needs rest
 
 ### Ritual Practices & Scriptures
 - [[Bedtime Shema]] — Jewish protective prayer invoking angelic guardianship (Raphael behind practitioner)
 - [[Psalms]] — Psalms 6, 41, 67, 102, 103 traditionally used in healing prayers
-- [[Anointing]] — Sacramental use of oil as vehicle for grace (James 5:14-15 protocol)
+- [[Anointing and Substituted Love]] — Sacramental use of oil as vehicle for grace (James 5:14-15 protocol)

@@ -158,7 +158,7 @@ TBD
 
 ### The Chariot in the Bodygraph: Gate 45 (Gathering Together)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Chariot (Key 7)** corresponds to **[[Gate 45]]** in Human Design—the gate of **Gathering Together** (or **The Gatherer King/Queen**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Chariot (Key 7)** corresponds to **[[Gate 45 - Gathering Together]]** in Human Design—the gate of **Gathering Together** (or **The Gatherer King/Queen**), located in the Throat Center.
 
 #### Cheth (Fence) and the Voice of Rulership
 
@@ -297,7 +297,7 @@ Both teach the wisdom of **the fence that serves**:
 - [[The High Priestess (II)]] - The lunar gnosis that guides the chariot
 - [[The Lovers (VI)]] - The complementary descent from Binah
 - [[Strength (VIII)]] - The gentle power complementing command
-- **Human Design (Canonical):** [[Gate 45]] (Gathering Together) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 45 - Gathering Together]] (Gathering Together) — See "Cross-System Synthesis: Human Design" above
 - Cheth - Hebrew Letters in Tarot
 - Kabbalistic Paths - Binah to Geburah
 - Cancer and the Moon in Esoteric Systems

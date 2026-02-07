@@ -93,7 +93,7 @@ The **High Priestess** sits veiled between the pillars of polarity (Boaz and Jac
 **Role in Journey:**
 After the Magician's outward mastery, the soul encounters the **inner world**—dreams, symbols, the unspoken. The High Priestess teaches that **not all knowledge is rational**; some truths are accessed through silence, meditation, and receptivity. She is the guardian of the [[The Shadow|unconscious]].
 
-**Jungian Parallel:** [[Anima]] (in male psyche) or the **Wise Woman** archetype—feminine wisdom, lunar consciousness.
+**Jungian Parallel:** [[The Anima]] (in male psyche) or the **Wise Woman** archetype—feminine wisdom, lunar consciousness.
 
 **Shadow:** Secrets kept for power, passive withdrawal from life, spiritual bypassing ("I'm too mystical for the material world").
 
@@ -197,7 +197,7 @@ The **Lovers** depicts a man and woman beneath an angel (Raphael), choosing unio
 **Role in Journey:**
 The soul faces its **first major choice**—which values to uphold, which path to walk, which partnerships to honor. The Lovers teaches that **freedom lies in commitment**, not endless options. This is also the **encounter with the Other** (beloved, partner, mirror).
 
-**Jungian Parallel:** [[Syzygy]] (union of opposites), encounter with [[Anima]]-[[Animus]].
+**Jungian Parallel:** [[The Syzygy]] (union of opposites), encounter with [[The Anima]]-[[The Animus]].
 
 **Shadow:** Indecision paralysis, betrayal, superficial relationships, fear of commitment, projection onto partner.
 
@@ -740,7 +740,7 @@ Reaching the World, the soul becomes the Fool again—ready to leap into the nex
 - [[The Hero's Journey]] — Campbell's monomyth structure (Personal Mythos)
 - [[The Alchemical Process]] — Transformation stages (Personal Mythos)
 - [[Confrontation with Shadow]] — Jungian shadow work (Personal Mythos)
-- [[Anima]] and [[Animus]] — Inner opposites (Personal Mythos)
+- [[The Anima]] and [[The Animus]] — Inner opposites (Personal Mythos)
 - [[The Self]] — Jungian wholeness archetype (Personal Mythos)
 
 ---
@@ -765,7 +765,7 @@ Reaching the World, the soul becomes the Fool again—ready to leap into the nex
 ### Vibology Synthesis Notes
 
 **Cross-System Integration:**
-References to [[Human Design]], [[The Window|I-Ching]], and other pillars represent original Vibrology correspondences, grounded in archetypal resonance rather than primary source claims.
+References to [[Human Design]], [[The Astrolabe|I-Ching]], and other pillars represent original Vibrology correspondences, grounded in archetypal resonance rather than primary source claims.
 
 **The Three Septenaries:**
 Septenary structure is traditional in esoteric Tarot (Wang 1983 discusses sevenfold divisions; De Angeles 2006 uses developmental stages). This entry synthesizes those frameworks with Jungian individuation stages.

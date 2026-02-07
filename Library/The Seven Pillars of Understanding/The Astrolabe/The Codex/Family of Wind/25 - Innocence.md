@@ -129,14 +129,14 @@ Another Shadow trap: passive surrender to circumstance. If ego control has faile
 - Gate 51 (The Arousing) in the Heart — The 25-51 Channel of Initiation creates the shaman's path; ego-death through shock births alignment with spirit
 
 ### Tarot Correspondences
-- [[The Fool]] — Original and ultimate innocence; trust before and after the journey
-- [[The World]] — Integration so complete it appears as simplicity; return to wholeness
-- [[The Star]] — Naked trust; alignment with cosmic will; faith after crisis
+- [[The Fool (0)]] — Original and ultimate innocence; trust before and after the journey
+- [[The World (XXI)]] — Integration so complete it appears as simplicity; return to wholeness
+- [[The Star (XVII)]] — Naked trust; alignment with cosmic will; faith after crisis
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, direction, love; the magnetic monopole; Higher Self alignment
 - [[Individual Centering Circuit]] — Empowerment through unique alignment with universal will
-- [[Kether (Crown)]] — Qabalistic sphere where personal will dissolves into divine will
+- [[Kether]] — Qabalistic sphere where personal will dissolves into divine will
 - [[The Holy Fool]] — Wisdom appearing as simplicity; power manifesting as surrender; divine idiocy
 
 ---

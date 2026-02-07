@@ -305,9 +305,9 @@ When you feel mocked, diminished, or your authority challenged:
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Sun ☉]] (primary correspondence—ego, vitality, identity, creative self-expression, authority), [[Leo ♌]] (solar kingship, creative fire), [[5th House]] (creative self-expression, vitality, solar play)
-- **[[Tarot]]:** [[The Sun (XIX)]] (solar vitality, life-force, innocence, creative joy), [[The Emperor (IV)]] (solar authority, structure, kingship), [[Strength (VIII)]] (solar will taming the lion)
+- **[[The Tarot]]:** [[The Sun (XIX)]] (solar vitality, life-force, innocence, creative joy), [[The Emperor (IV)]] (solar authority, structure, kingship), [[Strength (VIII)]] (solar will taming the lion)
 - **[[Qabalah]]:** **Tiphareth** (Beauty, the heart of the Tree, the solar center, Christ-consciousness, the reconciling principle), Sun card's path
-- **[[Human Design]]:** [[Sun]] (70% of chart definition—the core identity), [[Throat Center]] (manifestation, speaking/creating), solar transits
+- **[[Human Design]]:** [[Sun ☉]] (70% of chart definition—the core identity), [[Throat]] (manifestation, speaking/creating), solar transits
 - **[[Angelology]]:** [[Michael]] (solar archangel, defender against chaos, parallels Ra's Apophis battle), [[Archangel Correspondence - Sun|Solar Archangel]]
 
 ---

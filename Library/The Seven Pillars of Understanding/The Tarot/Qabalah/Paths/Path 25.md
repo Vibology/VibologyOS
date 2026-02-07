@@ -144,7 +144,7 @@ The testing of this path is the temptation to *stay* in Yesod — to accumulate 
 - [[Middle Pillar]] — The pillar this path traverses
 - [[The Abyss]] — The higher crossing (Tiphareth to the Supernals); Path 25 is the *lower* threshold
 - [[Individuation Process]] — The Jungian journey this path enacts
-- [[Transcendent Function]] — Jung's name for Temperance's integrative action
+- [[The Transcendent Function]] — Jung's name for Temperance's integrative action
 
 ---
 

@@ -365,8 +365,8 @@ Jung distinguished **Eros** (relatedness, feeling, connection) from **Logos** (l
 
 **Anima/Animus Integration:**
 Opening the heart often involves encountering the **contrasexual archetype**:
-- **Men** may need to soften the armored masculine and allow [[Anima]] (feeling, receptivity) to emerge
-- **Women** may need to balance [[Animus]] (structure, boundaries) with feminine softness (avoiding either codependency or rigidity)
+- **Men** may need to soften the armored masculine and allow [[The Anima]] (feeling, receptivity) to emerge
+- **Women** may need to balance [[The Animus]] (structure, boundaries) with feminine softness (avoiding either codependency or rigidity)
 
 **The Syzygy ([[The Syzygy]]):**
 The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sacred marriage**—masculine and feminine, giving and receiving, active and receptive, in dynamic balance.
@@ -416,7 +416,7 @@ The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sac
 
 **Example:** "I feel everything everyone around me feels" (undefined G Center in HD, or overactive heart chakra); "I can't say no because that wouldn't be loving."
 
-**Remedy:** **Healthy boundaries are an expression of love**—for self and other. True generosity arises from **overflow**, not depletion. Practice saying "no" with love. Cultivate [[The Animus]] (structure, Logos) alongside [[Anima]] (feeling, Eros).
+**Remedy:** **Healthy boundaries are an expression of love**—for self and other. True generosity arises from **overflow**, not depletion. Practice saying "no" with love. Cultivate [[The Animus]] (structure, Logos) alongside [[The Anima]] (feeling, Eros).
 
 ---
 
@@ -433,7 +433,7 @@ The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sac
 ### Within Personal Mythos
 - [[Eros]] — The heart as the principle of relatedness
 - [[The Syzygy]] — Integration of masculine and feminine in the heart
-- [[Anima]] and [[Animus]] — Contrasexual archetypes encountered through heart opening
+- [[The Anima]] and [[The Animus]] — Contrasexual archetypes encountered through heart opening
 - [[Numinous Experience]] — The heart as site of mystical encounter
 - [[Active Imagination]] — Dialoguing with the heart's autonomous figures
 
@@ -442,8 +442,8 @@ The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sac
 - [[Tiphareth]] — Heart center on the Tree of Life (Qabalah/Tarot)
 - [[The Lovers (VI)]] — Tarot card of heart opening (Tarot)
 - [[Temperance (XIV)]] — Alchemical heart integration (Tarot)
-- [[The G Center]] — Identity and love center in Human Design
-- [[Gate 25 (Innocence)]] — Universal love gate in Human Design
+- [[G Center]] — Identity and love center in Human Design
+- [[Gate 25 - Innocence]] — Universal love gate in Human Design
 
 ---
 
@@ -476,7 +476,7 @@ The heart chakra's **two interlocking triangles** (Shatkona) symbolize the **sac
 ### Vibology Synthesis Notes
 
 **Cross-System Integration:**
-References to [[Tiphareth]], [[The Lovers]], [[The G Center]], [[Contemplative Prayer]], and Jungian archetypes represent original Vibology correspondences, grounded in shared patterns (the heart as bridge, integration of opposites, love as principle of relatedness).
+References to [[Tiphareth]], [[The Lovers (VI)]], [[G Center]], [[Contemplative Prayer]], and Jungian archetypes represent original Vibology correspondences, grounded in shared patterns (the heart as bridge, integration of opposites, love as principle of relatedness).
 
 **Scientific Integration:**
 HeartMath research provides empirical validation for ancient yogic claims about the heart's role in consciousness and emotional regulation.

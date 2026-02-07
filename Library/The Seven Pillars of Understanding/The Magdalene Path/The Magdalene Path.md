@@ -15,7 +15,7 @@ category: Overview
 
 > *Vibology Synthesis: The following framework integrates Bourgeault's Magdalene scholarship with the Seven Pillars system.*
 
-**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], Folklore, [[Human Design]], [[The Tarot]], [[The Window]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
+**The Magdalene Path** is the **vertical axis** (Z-axis) of the [[Seven-Coordinate Navigation]] system—the unifying **soul ascent principle** that integrates and illuminates all other wisdom traditions within [[Vibology]]. While the six horizontal pillars ([[Angelology]], [[Astrology]], Folklore, [[Human Design]], [[The Tarot]], [[The Astrolabe]]) provide structural frameworks for understanding consciousness, The Magdalene Path provides the **Anima**—the inward quest, the compass, the validation through embodied experience.
 
 **The Central Teaching:** The path to divine union is not through transcendence **away from** the body, but through radical **embodiment**—the marriage of spirit and matter, consciousness and form, masculine and feminine within the individual soul. This is the **Fifth Way** or the **Path of Conscious Love** (Bourgeault, 109), characterized by three core practices:
 
@@ -135,7 +135,7 @@ While the six horizontal pillars provide **location** (where you are in the arch
 - Folklore - Cultural archetypal encoding (Jungian psychology, mythology)
 - [[Human Design]] - Individual genetic imprinting and mechanical navigation
 - [[The Tarot]] - Qabalistic pathways and archetypal progression
-- [[The Window]] - Contemporary archetypal resonance (I-Ching framework)
+- [[The Astrolabe]] - Contemporary archetypal resonance (I-Ching framework)
 
 **Vertical System (Z-Axis):**
 - **The Magdalene Path** - Soul ascent from Base (material density) through the Abyss to Zenith (sanctification)
@@ -328,7 +328,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 
 ### The Window: Contemporary Archetypal Interface
 
-[[The Window]] provides the **contemporary lens** for ancient wisdom—the I-Ching hexagrams as modern archetypal patterns. The Magdalene Path moves **through** these archetypes as stages of transformation.
+[[The Astrolabe]] provides the **contemporary lens** for ancient wisdom—the I-Ching hexagrams as modern archetypal patterns. The Magdalene Path moves **through** these archetypes as stages of transformation.
 
 **Example:** Hexagram 23 (Splitting Apart) corresponds to the **Lower Astral**—the dismantling of the false self.
 
@@ -387,7 +387,7 @@ For those with **undefined Head and Ajna centers** (particularly [[Reflector|Ref
 - Folklore - Jungian archetypes and mythology
 - [[Human Design]] - Individual mechanics and Lunar Cycle
 - [[The Tarot]] - Major Arcana as stages of ascent
-- [[The Window]] - Contemporary archetypal interface
+- [[The Astrolabe]] - Contemporary archetypal interface
 
 ### Cross-System Integration
 - [[Anima et Algorithm]] - Magdalene Path as the Anima validating the Algorithm

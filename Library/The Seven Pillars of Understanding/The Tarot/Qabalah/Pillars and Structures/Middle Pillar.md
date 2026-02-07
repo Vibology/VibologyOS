@@ -124,7 +124,7 @@ The **Transcendent Function** — Jung's term for the psyche's capacity to hold 
 - [[Michael]] — Archangel of Tiphareth (solar principle)
 - [[Gabriel]] — Archangel of Yesod (lunar principle)
 - [[Metatron]] — Archangel of Kether (divine proximity)
-- [[Transcendent Function]] — The Jungian parallel to Middle Pillar equilibrium
+- [[The Transcendent Function]] — The Jungian parallel to Middle Pillar equilibrium
 - [[Daily Practice Quick Reference]] — Middle Pillar Exercise as contemplative practice
 
 ---

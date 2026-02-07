@@ -676,7 +676,7 @@ Separation is differentiation. Without it, there is only unconscious fusion (par
 ### Related I-Ching & The Window
 - Hexagram 20 - Contemplation - Observing, witnessing, gaining perspective
 - Hexagram 43 - Breakthrough - Resoluteness, cutting away the old
-- [[The Window]] (when created) - Contemporary oracle system integrating I-Ching wisdom
+- [[The Astrolabe]] (when created) - Contemporary oracle system integrating I-Ching wisdom
 
 ---
 

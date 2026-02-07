@@ -129,8 +129,8 @@ The conditioning pattern: "I must control to feel secure" or "Power means making
 - [[Four of Disks (Power)]] — Material security and resource management
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
-- [[Ego/Heart Center]] — The center of willpower and tribal authority
+- [[Throat]] — The center of manifestation and voice
+- [[Heart]] — The center of willpower and tribal authority
 - [[Chesed]] — Mercy, benevolent rulership on the Tree of Life
 - [[The Sovereign]] — Archetype of authority serving collective survival
 

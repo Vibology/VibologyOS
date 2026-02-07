@@ -547,7 +547,7 @@ Haniel *is* the archangelic intelligence of **[[Netzach]]**. To study the Tree o
 
 ### The Window: Patterns of Love and Belonging
 
-In **[[The Window]]** system, Haniel corresponds to patterns involving **relationship, beauty, aesthetic sensitivity, and the life force**—gates and archetypes that emphasize *connection, grace, and the capacity to create and appreciate beauty*.
+In **[[The Astrolabe]]** system, Haniel corresponds to patterns involving **relationship, beauty, aesthetic sensitivity, and the life force**—gates and archetypes that emphasize *connection, grace, and the capacity to create and appreciate beauty*.
 
 ### Jungian Psychology: The Anima and Eros
 
@@ -653,7 +653,7 @@ If the "love" leads to **loss of self**, it is not Haniel but the Qlippothic she
 - [[Individuation Process|Individuation]] — Jungian process of integrating Logos and Eros
 - [[The Celestial Hierarchy]] — Pseudo-Dionysius's angelic orders
 - [[Human Design]] — BodyGraph as angelic hierarchy embodied
-- [[The Window]] — Contemporary archetypal pattern system
+- [[The Astrolabe]] — Contemporary archetypal pattern system
 - [[YHVH Tzabaoth]] — Divine name of Netzach, "Lord of Hosts"
 
 ---

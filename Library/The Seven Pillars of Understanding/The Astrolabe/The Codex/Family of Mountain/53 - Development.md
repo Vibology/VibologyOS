@@ -129,14 +129,14 @@ Another Shadow trap: paralysis by process. If development feels too slow, the de
 - Gate 42 (Increase) in the Sacral — The 53-42 Channel of Maturation creates the capacity to complete developmental cycles; Gate 53 begins correctly, Gate 42 provides life force to finish
 
 ### Tarot Correspondences
-- [[The Empress]] — Patient gestation; natural growth that cannot be rushed; the nine months that simply take nine months
-- [[Temperance]] — Proper proportion and timing; the alchemist who honors the stages of the Work
+- [[The Empress (III)]] — Patient gestation; natural growth that cannot be rushed; the nine months that simply take nine months
+- [[Temperance (XIV)]] — Proper proportion and timing; the alchemist who honors the stages of the Work
 - [[Seven of Pentacles]] — Patience during growth; tending what has been planted, trusting the harvest will come
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure center; evolutionary drive, survival, the fuel to persist through developmental stages
+- [[Root]] — Pressure center; evolutionary drive, survival, the fuel to persist through developmental stages
 - [[Collective Logic Circuit]] — Shared understanding of patterns and sequences; recognizing universal stages of growth
-- [[The Middle Pillar]] — Qabalistic path of balanced ascent through gradual mastery of each sphere
+- [[Middle Pillar]] — Qabalistic path of balanced ascent through gradual mastery of each sphere
 - [[The Elder Archetype]] — Maturity earned through honored stages; wisdom that cannot be taught, only lived through
 
 ---

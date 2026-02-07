@@ -58,7 +58,7 @@ Isaac represents the pillar's essence: a submission so complete it accepts annih
 The Pillar of Severity is traditionally assigned **feminine** polarity despite its association with Mars, warriors, and destruction. This apparent paradox dissolves when understood through the Zohar's metaphysics:
 
 - **Binah** is the **Supernal Mother** (*Imma*) — but motherhood in the Qabalistic sense means *giving form*, and form is inherently restrictive. To be born is to be limited: a specific body, a specific time, a specific place. The womb that creates is also the wall that confines.[^3]
-- **Saturn** rules Binah — the planet of time, limitation, structure, death. In Hellenistic astrology, Saturn is the "Greater Malefic" not because it is evil but because it imposes the conditions of finite existence. (Cf. [[Saturn]])
+- **Saturn** rules Binah — the planet of time, limitation, structure, death. In Hellenistic astrology, Saturn is the "Greater Malefic" not because it is evil but because it imposes the conditions of finite existence. (Cf. [[Saturn ♄]])
 - The **Dark Mother** archetype — Binah as the *Bright Fertile Mother* (associated with the sea and creation) is paired with her darker aspect as the *Dark Sterile Mother* (associated with death and the end of form). All form eventually dissolves; the mother who gives birth also presides over the grave.
 
 The feminine principle in Qabalah is not passive. It is the most powerful force on the Tree: the force that *shapes*. Without Binah's severity, Chokmah's wisdom would be an eternal explosion — all fire and no hearth.
@@ -111,7 +111,7 @@ When this pillar dominates without the Pillar of Mercy's counterbalance, the res
 - [[Michael]] — Archangel associated with Hod (in some systems)
 - [[Golachab]] — The Qlippothic shadow of Geburah
 - [[Supernal Triangle]] — Binah's position in the Supernals
-- [[Saturn]] — The planetary principle of Binah
+- [[Saturn ♄]] — The planetary principle of Binah
 
 ---
 

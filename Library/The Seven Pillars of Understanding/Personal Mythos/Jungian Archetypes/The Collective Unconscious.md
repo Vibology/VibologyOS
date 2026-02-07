@@ -192,9 +192,9 @@ When the practitioner casts a chart (Astrology, Human Design), draws Tarot cards
 
 **The systems as lenses:**
 - [[Astrology]] — Planetary archetypes in temporal motion (collective patterns through the zodiac)
-- [[Tarot]] — Visual archetypes arranged in narrative sequence (Major Arcana as individuation map)
+- [[The Tarot]] — Visual archetypes arranged in narrative sequence (Major Arcana as individuation map)
 - [[Human Design]] — Genetic archetypes imprinted at birth (Gates as archetypal themes)
-- [[The Window]] — I-Ching/Gene Keys as 64-fold archetypal matrix
+- [[The Astrolabe]] — I-Ching/Gene Keys as 64-fold archetypal matrix
 
 All draw from the same source: the collective unconscious. The practitioner's skill lies not in inventing meaning but in **reading what is already present**—translating the universal patterns into language the individual consciousness can integrate.
 
@@ -239,5 +239,5 @@ The collective unconscious speaks in symbols, myths, and dreams. The practitione
 - [[Individuation Process]] — Journey from ego-identification to relationship with collective/archetypal realm
 - [[Active Imagination]] — Method for consciously engaging the collective unconscious
 - [[Astrology]] — System revealing archetypal patterns from collective field through planetary positions
-- [[Tarot]] — Visual representation of archetypal sequence (Major Arcana as individuation map)
+- [[The Tarot]] — Visual representation of archetypal sequence (Major Arcana as individuation map)
 - [[Human Design]] — 64 Gates as archetypal themes imprinted from collective unconscious at birth

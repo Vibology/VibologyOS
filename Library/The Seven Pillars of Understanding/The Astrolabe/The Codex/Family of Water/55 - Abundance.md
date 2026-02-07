@@ -129,14 +129,14 @@ Another Shadow trap: manic clinging to the peak. Addiction to high states—whet
 - Gate 39 (Obstruction) in the Root Center — The 39-55 Channel of Emoting creates the emotional provocateur. Gate 39 provides Root pressure—provocation, obstruction, the impulse to stir things up. When connected to Gate 55's emotional spirit, this becomes the capacity to shift collective mood through provocation. The artist who provokes tears, the comedian who provokes laughter, the shaman who provokes catharsis—all manifestations of 39-55. The teaching: your emotional spirit, when provoked into expression, becomes medicine for the collective.
 
 ### Tarot Correspondences
-- [[The Sun]] — Maximum radiance, peak clarity, joy at zenith
-- [[Temperance]] — Alchemical balance, abundance through harmony not excess
-- [[The Wheel of Fortune]] — The turning cycle, recognition that ups and downs are rhythm not verdict
+- [[The Sun (XIX)]] — Maximum radiance, peak clarity, joy at zenith
+- [[Temperance (XIV)]] — Alchemical balance, abundance through harmony not excess
+- [[Wheel of Fortune (X)]] — The turning cycle, recognition that ups and downs are rhythm not verdict
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional wave, chemistry of mood, spirit's relationship to feeling
+- [[Solar Plexus]] — Emotional wave, chemistry of mood, spirit's relationship to feeling
 - [[Individual Knowing Circuit]] — Mutation through unique frequency, acoustic resonance, empowerment through experimentation
-- [[Tiferet (Beauty)]] — Qabalistic center balancing all extremes, the sun in the middle
+- [[Tiphareth]] — Qabalistic center balancing all extremes, the sun in the middle
 - [[The Dionysian Archetype]] — Ecstatic fullness, intoxication and wisdom, the god who gives and takes away
 
 ---

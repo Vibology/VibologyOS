@@ -129,7 +129,7 @@ The conditioning pattern: "I should be good at this already" or "If I have to pr
 - [[The Magician (I)]] — Skill in channeling force from above to below
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
+- [[Throat]] — The center of manifestation and voice
 - [[Hod]] — Splendor, form, pattern, and skill on the Tree of Life
 - [[The Craftsman]] — Archetype of mastery through patient practice
 

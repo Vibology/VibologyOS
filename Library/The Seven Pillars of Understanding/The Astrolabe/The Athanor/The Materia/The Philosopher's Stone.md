@@ -81,7 +81,7 @@ Most traditions identify the *Red Stone* as the true Philosopher's Stone — the
 
 ### Cross-Pillar Synthesis
 - [[Kether]] — Qabalah: the Crown, the goal that is also the source
-- [[Tiphereth]] — Qabalah: Beauty, the Self at the heart of the Tree
+- [[Tiphareth]] — Qabalah: Beauty, the Self at the heart of the Tree
 - [[The Self]] — Jungian archetype: the totality of the psyche, conscious and unconscious unified
 - [[Individuation Process]] — Jungian concept: the lifelong work of becoming whole
 

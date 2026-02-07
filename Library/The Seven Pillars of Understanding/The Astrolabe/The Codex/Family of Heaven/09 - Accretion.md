@@ -130,7 +130,7 @@ The conditioning pattern: "I don't have time for details" or "Small work doesn't
 - [[Eight of Pentacles]] — The craftsman mastering their art through repetition
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — The motor of sustained work capacity
+- [[Sacral]] — The motor of sustained work capacity
 - [[Distillation]] — The alchemical stage of patient refinement
 - [[Hod]] — Splendor, the Qabalistic sphere of form and detail
 

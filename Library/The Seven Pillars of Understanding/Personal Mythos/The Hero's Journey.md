@@ -234,7 +234,7 @@ Figures or obstacles that **test commitment**:
 **What It Is:** The hero encounters a powerful feminine figure—goddess, lover, temptress—who represents **ultimate union** or **dangerous seduction**.
 
 **Psychological Meaning:**
-- **For men:** Encounter with [[Anima]]—the feminine principle, Eros, the soul's depths
+- **For men:** Encounter with [[The Anima]]—the feminine principle, Eros, the soul's depths
 - **For women:** Encounter with the **Great Mother** or feminine Self
 - **For all:** The experience of **sacred union**, dissolution of ego boundaries, or the temptation to **remain unconscious** (seductive regression)
 

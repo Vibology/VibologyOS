@@ -129,14 +129,14 @@ Another Shadow trap: emotional bypassing disguised as spiritual maturity. "I've 
 - Gate 35 (Progress) in the Throat Center — The 35-36 Channel of Transitoriness transforms emotional experience into communicable teaching. Gate 35 provides the voice/story that gives form to Gate 36's crisis-wisdom. This is the memoirist who transmutes personal suffering into universal insight, the teacher whose authority comes from lived experience. Without 35, Gate 36 feels the turbulence without capacity to articulate it; with 35, the wound becomes the source of teaching.
 
 ### Tarot Correspondences
-- [[The Tower]] — Necessary destruction, lightning illumination through crisis
+- [[The Tower (XVI)]] — Necessary destruction, lightning illumination through crisis
 - [[Five of Swords]] — Pyrrhic victory, the wound that comes even from winning
 - [[Nine of Swords]] — Dark night of the soul, mental anguish that precedes clarity
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional wave, hope/pain oscillation, chemistry of feeling
+- [[Solar Plexus]] — Emotional wave, hope/pain oscillation, chemistry of feeling
 - [[Collective Sensing Circuit]] — Learning through lived experience, abstracting universal pattern from individual crisis
-- [[Gevurah (Severity)]] — Qabalistic judgment, necessary limitation, harsh mercy that strengthens
+- [[Geburah]] — Qabalistic judgment, necessary limitation, harsh mercy that strengthens
 - [[The Wounded Healer]] — Chiron archetype, teaching through transformed suffering
 
 ---

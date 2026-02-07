@@ -131,7 +131,7 @@ The conditioning pattern: "The now is boring; the interesting stuff is elsewhere
 - [[Temperance (XIV)]] — Present-moment balance and flow
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
+- [[Throat]] — The center of manifestation and voice
 - [[Malkuth]] — The Kingdom, sphere of present manifestation on the Tree of Life
 - [[The Witness]] — Archetype of awareness in the now
 

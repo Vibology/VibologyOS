@@ -129,12 +129,12 @@ Another Shadow trap: refusing revolution when it's necessary. The emotional wave
 - Gate 19 (Approach) in the Root Center — The 49-19 Channel of Synthesis combines emotional sensitivity to injustice with primal need. Gate 19 is the basic need for resources, touch, tribe—survival imperatives. When Solar Plexus revolution (49) connects to Root need (19), revolution becomes not ideological but existential: "We must change because survival requires it." This grounds emotional upheaval in bodily necessity, creating sustainable transformation.
 
 ### Tarot Correspondences
-- [[Death]] — Transformation, the ending that is transition, necessary dissolution
-- [[The Tower]] — Revolutionary collapse, structure falling to reveal truth
+- [[Death (XIII)]] — Transformation, the ending that is transition, necessary dissolution
+- [[The Tower (XVI)]] — Revolutionary collapse, structure falling to reveal truth
 - [[The Phoenix]] — Mythic resurrection, death and rebirth as one movement
 
 ### Cross-Pillar Synthesis
-- [[Solar Plexus Center]] — Emotional wave, chemistry of feeling, sensitivity to injustice
+- [[Solar Plexus]] — Emotional wave, chemistry of feeling, sensitivity to injustice
 - [[Tribal Circuit]] — Support, bargain, resources; principles governing family/community
 - [[Enantiodromia]] — Jungian principle of transformation into opposite at extremity
 - [[Death and Rebirth Archetype]] — Universal pattern of dissolution and renewal

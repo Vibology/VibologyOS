@@ -129,7 +129,7 @@ The conditioning pattern: "I must control to avoid being shocked" or "Shock equa
 - [[The Chariot (VII)]] — Forward movement through willpower and initiative
 
 ### Cross-Pillar Synthesis
-- [[Heart/Ego Center]] — The center of willpower and self-worth
+- [[Heart]] — The center of willpower and self-worth
 - [[Geburah]] — Severity, decisive intervention on the Tree of Life
 - [[The Lightning]] — Archetype of sudden illumination and disruption
 

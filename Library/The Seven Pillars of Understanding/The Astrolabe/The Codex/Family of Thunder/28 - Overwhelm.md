@@ -129,7 +129,7 @@ The conditioning pattern: "Nothing lasts, so why bother?" or "If I can't win, I 
 - [[Strength (VIII)]] — The courage to engage despite overwhelm
 
 ### Cross-Pillar Synthesis
-- [[Spleen Center]] — The center of instinctual awareness and survival
+- [[Spleen]] — The center of instinctual awareness and survival
 - [[Geburah]] — Severity, decisive action on the Tree of Life
 - [[The Warrior]] — Archetype of meaning through struggle
 

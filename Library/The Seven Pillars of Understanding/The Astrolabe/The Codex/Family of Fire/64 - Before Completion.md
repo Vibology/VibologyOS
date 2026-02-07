@@ -129,14 +129,14 @@ Another Shadow trap: escapism through imagination. Using fantasy to avoid realit
 - Gate 47 (Oppression) in the Ajna — The 47-64 Channel of Abstraction creates the capacity to transform confusion into insight through imaginative processing over time
 
 ### Tarot Correspondences
-- [[The Moon]] — Confusion, dreams, imagination; the realm where pattern emerges through symbol
-- [[The Fool]] — Standing at the precipice; trusting the step before seeing where it leads
-- [[The Hanged Man]] — Suspended in not-knowing; allowing new perspective to emerge through surrender
+- [[The Moon (XVIII)]] — Confusion, dreams, imagination; the realm where pattern emerges through symbol
+- [[The Fool (0)]] — Standing at the precipice; trusting the step before seeing where it leads
+- [[The Hanged Man (XII)]] — Suspended in not-knowing; allowing new perspective to emerge through surrender
 
 ### Cross-Pillar Synthesis
-- [[Head Center]] — Mental pressure, inspiration, cosmic questions; the drive to understand
+- [[Head]] — Mental pressure, inspiration, cosmic questions; the drive to understand
 - [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; abstracting meaning from past
-- [[Kether (Crown)]] — Qabalistic sphere of unmanifest potential; the "not yet" holding all possibility
+- [[Kether]] — Qabalistic sphere of unmanifest potential; the "not yet" holding all possibility
 - [[The Dreamer Archetype]] — Processing reality through image and symbol rather than logic
 
 ---

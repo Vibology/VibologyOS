@@ -129,14 +129,14 @@ Another Shadow trap: doubt as defense. If inspiration has been wrong before, the
 - Gate 24 (The Return) in the Ajna — The 61-24 Channel of Awareness creates the capacity to think about what you know even when you don't know how you know it; Head inspiration meets mental rationalization
 
 ### Tarot Correspondences
-- [[The High Priestess]] — Guardian of mystery; knowing without needing to explain; the threshold between conscious and unconscious
-- [[The Hanged Man]] — Suspension that allows revelation; inverted perspective revealing hidden truth
-- [[The Moon]] — The unconscious depth from which inspiration arises; mystery that must be navigated with care
+- [[The High Priestess (II)]] — Guardian of mystery; knowing without needing to explain; the threshold between conscious and unconscious
+- [[The Hanged Man (XII)]] — Suspension that allows revelation; inverted perspective revealing hidden truth
+- [[The Moon (XVIII)]] — The unconscious depth from which inspiration arises; mystery that must be navigated with care
 
 ### Cross-Pillar Synthesis
-- [[Head Center]] — Pressure center governing questions, inspiration, drive to understand
+- [[Head]] — Pressure center governing questions, inspiration, drive to understand
 - [[Individual Knowing Circuit]] — Mutation through unique insight; acoustic knowing bypassing consensus
-- [[Binah (Understanding)]] — Qabalistic sphere receiving Wisdom; the womb gestating knowing into form
+- [[Binah]] — Qabalistic sphere receiving Wisdom; the womb gestating knowing into form
 - [[The Oracle Archetype]] — Speaking truth received from the numinous; transmission rather than creation
 
 ---

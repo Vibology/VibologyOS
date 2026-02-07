@@ -129,7 +129,7 @@ The conditioning pattern: "If I explain it in detail, they'll understand" or "Co
 - [[The Hermit (IX)]] — The withdrawal required for assimilation
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
+- [[Throat]] — The center of manifestation and voice
 - [[Binah]] — Understanding, structure, assimilation on the Tree of Life
 - [[The Prophet]] — Archetype of knowing that sees what others cannot yet see
 

@@ -100,7 +100,7 @@ Every audit is a Geburah operation. Every dead wikilink removed is Geburah at wo
 - [[Pillar of Severity]] — Geburah's pillar (Binah above, Hod below)
 - [[Binah]] — The supernal Mother, source of Geburah's restrictive power
 - [[Golachab]] — The Qlippah of Geburah (severity unbalanced)
-- [[Mars]] — Geburah's planetary correspondence in astrology
+- [[Mars ♂]] — Geburah's planetary correspondence in astrology
 - [[The Nine Orders of Fallen Angels]] — Asmodeus as accuser, Geburah's shadow
 
 ---

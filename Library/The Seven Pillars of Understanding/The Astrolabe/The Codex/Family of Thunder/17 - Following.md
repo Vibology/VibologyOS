@@ -129,7 +129,7 @@ The conditioning pattern: "I can understand without experiencing" or "My opinion
 - [[The Hermit (IX)]] — Withdrawal to observe patterns deeply
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — The center of mental awareness and conceptualization
+- [[Ajna]] — The center of mental awareness and conceptualization
 - [[Yesod]] — Foundation, pattern recognition on the Tree of Life
 - [[The Apprentice]] — Archetype of service as path to mastery
 

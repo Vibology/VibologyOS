@@ -98,7 +98,7 @@ The **10th Aethyr (ZAX)** is the pivot of *The Vision and the Voice*—the cross
 - Crowley was reduced to babbling incoherence—the ego shattered into chaotic fragments
 - Only by **complete surrender** (the annihilation of the sense of "I") did Crowley cross the Abyss and become a **Babe of the Abyss**, reborn in [[Binah]] as **Magister Templi** (Master of the Temple)
 
-**Jungian reading:** Choronzon is the [[Shadow]] at cosmic scale—the totality of rejected, feared, and repressed psychic content. Crossing the Abyss is the complete integration of the Shadow, requiring the death of the ego's illusion of sovereignty. What emerges is no longer "Aleister Crowley" but a vessel for the **Self**, utterly emptied of personal will and refilled with transpersonal purpose.
+**Jungian reading:** Choronzon is the [[The Shadow]] at cosmic scale—the totality of rejected, feared, and repressed psychic content. Crossing the Abyss is the complete integration of the Shadow, requiring the death of the ego's illusion of sovereignty. What emerges is no longer "Aleister Crowley" but a vessel for the **Self**, utterly emptied of personal will and refilled with transpersonal purpose.
 
 ---
 
@@ -195,7 +195,7 @@ Crowley joined [[The Hermetic Order of the Golden Dawn]] in 1898 at age 23, spon
 - By 1903, Crowley had severed ties with both factions, dismissing the Golden Dawn as spiritually stagnant
 
 **What Crowley took from the Golden Dawn:**
-- Systematic training in [[Qabalah]], [[Tarot]], astrology, and Enochian magic
+- Systematic training in [[Qabalah]], [[The Tarot]], astrology, and Enochian magic
 - The grade structure he would later adapt for the A∴A∴
 - Knowledge of the [[Enochian Tradition|Enochian system]], which he would validate empirically in 1909
 - A conviction that **direct mystical experience** (not lodge politics) was the only legitimate authority
@@ -265,8 +265,8 @@ Yet his writings remain invaluable precisely because they do not soften the orde
 - [[Kether]] — The Crown; union with the Absolute in the first three Aethyrs
 - [[The Tree of Life]] — The map underlying both the A∴A∴ system and the 30 Aethyrs
 - [[Tiphareth]] — The sphere of the Holy Guardian Angel (Adeptus Minor attainment)
-- [[Shadow]] — The Jungian concept Crowley embodied and integrated through antinomian practice
-- [[Individuation]] — The process Crowley pursued to its most extreme conclusion
+- [[The Shadow]] — The Jungian concept Crowley embodied and integrated through antinomian practice
+- [[Individuation Process]] — The process Crowley pursued to its most extreme conclusion
 - [[Numinous Experience]] — The overwhelming encounter with the sacred; abundant in *The Vision and the Voice*
 - [[Inflation]] — The psychic danger Crowley both succumbed to and transcended
 

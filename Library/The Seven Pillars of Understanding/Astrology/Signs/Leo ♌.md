@@ -209,7 +209,7 @@ In esoteric anatomy, Leo governs the **heart** (the seat of courage, the organ o
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** Strength (Key VIII) — Mastery through love, the taming of the beast through presence
-- **[[The Window]]:** Leadership (contemporary face: the influencer, the performer)
+- **[[The Astrolabe]]:** Leadership (contemporary face: the influencer, the performer)
 - **[[Jungian Archetypes]]:** The Hero, The King
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-esteem, commitment)
 

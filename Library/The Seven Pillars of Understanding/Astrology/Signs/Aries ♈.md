@@ -209,7 +209,7 @@ In esoteric anatomy, Aries governs the **head** (the crown of the self, the firs
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Emperor (Key IV) — Authority, leadership, the masculine principle in its ordering aspect
-- **[[The Window]]:** The Maverick (contemporary face: the rule-breaker, the pioneer)
+- **[[The Astrolabe]]:** The Maverick (contemporary face: the rule-breaker, the pioneer)
 - **[[Jungian Archetypes]]:** The Hero (threshold crossing, the quest begins)
 - **[[Human Design]]:** Ego/Heart Center (willpower, self-assertion)
 

@@ -105,7 +105,7 @@ Reception is the astrology of *relationship as resource* — the recognition tha
 
 **Exchange as Integration:** When two planets exchange signs, the archetypes they represent are in dialogue — each hosting the other, each providing what the other lacks. Saturn in Cancer and Moon in Capricorn is not merely "mutual detriment" (though each is technically debilitated); it is also a *mutual reception* where structure (Saturn) learns to receive feeling (Cancer) and emotion (Moon) learns to accept form (Capricorn). The exchange does not eliminate the difficulty — it provides the *relationship* through which difficulty can be worked.
 
-In Jungian terms, exchange mirrors the process of integrating the [[Shadow]] or the [[Anima and Animus|contrasexual archetype]]: the ego enters unfamiliar territory (detriment) precisely because the unfamiliar territory's ruler has entered the ego's home. The discomfort is real, but so is the reciprocity. Each archetype has agreed, by cosmic arrangement, to host the other.
+In Jungian terms, exchange mirrors the process of integrating the [[The Shadow]] or the [[Anima and Animus|contrasexual archetype]]: the ego enters unfamiliar territory (detriment) precisely because the unfamiliar territory's ruler has entered the ego's home. The discomfort is real, but so is the reciprocity. Each archetype has agreed, by cosmic arrangement, to host the other.
 
 **Reception Without Exchange** is the psychology of *asymmetric support*: one function carries another without reciprocation. The host planet gives resources the guest cannot return. This is the archetype of the mentor, the parent, the therapist — one party holds space for another's process.
 

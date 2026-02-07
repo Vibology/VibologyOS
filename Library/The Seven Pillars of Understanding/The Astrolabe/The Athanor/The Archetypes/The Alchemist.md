@@ -96,7 +96,7 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 - [[Aquarius ♒]] — Astrological revolutionary and visionary
 - [[The Self]] — Jungian archetypal framework (Personal Mythos)
 - [[Uranus ♅]] — Planetary ruler of Aquarius; breakthrough and mutation
-- [[The Return with Elixir]] — Final stage of Hero's Journey
+- [[Return with the Elixir]] — Final stage of Hero's Journey
 
 ---
 ## Sources

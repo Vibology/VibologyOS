@@ -129,14 +129,14 @@ Another Shadow trap: surrender disguised as maturity. If the struggle has been t
 - Gate 28 (Overwhelm) in the Spleen — The 38-28 Channel of Struggle creates the warrior willing to risk everything for what matters; Spleen instinct determines *what* is worth fighting for, Root pressure provides fuel for the fight
 
 ### Tarot Correspondences
-- [[Strength]] — Raw encounter with power; neither side yielding entirely, both transformed through opposition
+- [[Strength (VIII)]] — Raw encounter with power; neither side yielding entirely, both transformed through opposition
 - [[Five of Wands]] — Conflict as generative friction; struggle that sharpens rather than destroys
-- [[The Tower]] — Necessary destruction when false structures oppose truth
+- [[The Tower (XVI)]] — Necessary destruction when false structures oppose truth
 
 ### Cross-Pillar Synthesis
-- [[Root Center]] — Pressure center; adrenaline, stress, fuel to persist through difficulty
+- [[Root]] — Pressure center; adrenaline, stress, fuel to persist through difficulty
 - [[Individual Knowing Circuit]] — Mutation through unique discovery, often in defiance of collective
-- [[Geburah (Severity)]] — Qabalistic sphere of Mars; necessary cutting, warrior principle, strength that refuses false peace
+- [[Geburah]] — Qabalistic sphere of Mars; necessary cutting, warrior principle, strength that refuses false peace
 - [[The Warrior Archetype]] — Jungian figure who fights for meaning; sacred opposition, honorable struggle
 
 ---

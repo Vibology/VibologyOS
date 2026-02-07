@@ -130,9 +130,9 @@ The conditioning pattern: "My ideas must be expressed/understood/validated" or "
 - [[Ace of Swords]] — The birth of new mental clarity
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — The seat of conceptualization and awareness
+- [[Ajna]] — The seat of conceptualization and awareness
 - [[Chokmah]] — Wisdom, the Qabalistic sphere of pure ideation
-- [[Transcendent Function]] — Jung's term for holding opposites until third meaning emerges
+- [[The Transcendent Function]] — Jung's term for holding opposites until third meaning emerges
 
 ---
 

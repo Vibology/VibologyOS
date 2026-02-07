@@ -12,7 +12,7 @@ grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011), Section
 ---
 ## What Definition Is
 
-**Definition** describes the flow of life force energy within the [[BodyGraph]]. It reveals how the defined parts of you communicate with one another—whether your internal circuitry operates as a single, continuous system or as separate islands seeking connection across gaps.
+**Definition** describes the flow of life force energy within the [[The BodyGraph]]. It reveals how the defined parts of you communicate with one another—whether your internal circuitry operates as a single, continuous system or as separate islands seeking connection across gaps.
 
 Definition is not about *how much* is defined (how many [[Centers]] or [[Channels]] you have active), but about *how* those defined elements relate to each other. A person with nine Centers defined can have **Quadruple Split Definition** (four separate islands), while someone with only two Centers defined can have **Single Definition** (one continuous circuit).
 
@@ -81,7 +81,7 @@ This is the classic **"You complete me"** design. Simple Splits are designed to 
 
 **The Healthy Expression:** When following [[Strategy]] and [[Authority]], these relationships are nourishing rather than addictive. The partner brings a different energy, but the Split individual does not *need* them to be themselves. **Public spaces** (coffee shops, malls) allow the auras of strangers to temporarily bridge the split, enabling processing without dependency on one specific person.[^6]
 
-**Jungian Parallel:** The search for the [[Syzygy]]—the contrasexual soul image (Anima/Animus) projected onto the partner. Jung warned that this projection, if not integrated, creates dependency: "One does not become enlightened by imagining figures of light, but by making the darkness conscious." Simple Splits must learn to hold the tension of their internal divide without collapsing into the other as savior.
+**Jungian Parallel:** The search for the [[The Syzygy]]—the contrasexual soul image (Anima/Animus) projected onto the partner. Jung warned that this projection, if not integrated, creates dependency: "One does not become enlightened by imagining figures of light, but by making the darkness conscious." Simple Splits must learn to hold the tension of their internal divide without collapsing into the other as savior.
 
 ### 3. Triple Split Definition (11% of the population)
 
@@ -99,7 +99,7 @@ This is not infidelity—it is mechanical necessity. A Triple Split in a monogam
 
 **The Shadow:** Triple Splits may be perceived as flighty, unreliable, or commitment-phobic. In truth, they are seeking the energetic diversity required for their internal communication to function. The Not-Self mind, conditioned by cultural norms around partnership, may feel shame for needing multiple connections.
 
-**Jungian Parallel:** The fragmented psyche requiring multiple archetypal perspectives to achieve temporary integration. Jung's concept of the [[Transcendent Function]]—the reconciliation of opposites through a third position—is insufficient for Triple Splits; they require *multiple* third positions, a rotating kaleidoscope of bridging energies.
+**Jungian Parallel:** The fragmented psyche requiring multiple archetypal perspectives to achieve temporary integration. Jung's concept of the [[The Transcendent Function]]—the reconciliation of opposites through a third position—is insufficient for Triple Splits; they require *multiple* third positions, a rotating kaleidoscope of bridging energies.
 
 ### 4. Quadruple Split Definition (0.5% of the population)
 
@@ -147,7 +147,7 @@ For anyone with a Split (Simple, Triple, or Quad), the open Gates that would "br
 
 **The Liberation:** When you follow Strategy and Authority, you stop chasing the bridging Gates. You allow others (and public spaces) to naturally provide the bridging energy without attachment. The splits remain, but they no longer create suffering—they become portals for connection rather than wounds to heal.
 
-**Jungian Parallel:** The [[Shadow]]—the disowned parts of the psyche that we project onto others, convinced that if we could only integrate them, we would be complete. Jung taught that the Shadow cannot be "conquered," only acknowledged and related to. Similarly, bridging Gates cannot be forced into definition—they can only be witnessed and allowed.
+**Jungian Parallel:** The [[The Shadow]]—the disowned parts of the psyche that we project onto others, convinced that if we could only integrate them, we would be complete. Jung taught that the Shadow cannot be "conquered," only acknowledged and related to. Similarly, bridging Gates cannot be forced into definition—they can only be witnessed and allowed.
 
 ---
 ## Definition and Type
@@ -203,6 +203,6 @@ Definition is not destiny—it is structure. The quality of your life depends no
 - [[The BodyGraph]] — The visual map showing Definition patterns
 - [[Reflector]] — The only Type with No Definition
 - [[Generator]] — The Type most commonly found with Simple Split Definition
-- [[Shadow]] — Jungian parallel to the conditioning of bridging Gates
-- [[Syzygy]] — Jungian parallel to the "You complete me" dynamic in Simple Splits
-- [[Transcendent Function]] — Jungian reconciliation of opposites (insufficient for Triple/Quad Splits)
+- [[The Shadow]] — Jungian parallel to the conditioning of bridging Gates
+- [[The Syzygy]] — Jungian parallel to the "You complete me" dynamic in Simple Splits
+- [[The Transcendent Function]] — Jungian reconciliation of opposites (insufficient for Triple/Quad Splits)

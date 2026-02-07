@@ -129,7 +129,7 @@ The conditioning pattern: "If I rest, I'm selfish" or "My worth is measured by m
 - [[Four of Swords (Truce)]] — Rest after battle, restoration after effort
 
 ### Cross-Pillar Synthesis
-- [[Heart/Ego Center]] — The center of willpower and material provision
+- [[Heart]] — The center of willpower and material provision
 - [[Chesed & Geburah]] — Mercy and Severity, giving and boundaries on the Tree of Life
 - [[The Provider]] — Archetype of service through sustainable rhythm
 

@@ -21,7 +21,7 @@ verification_notes: "Jung CW citations verified; Red Book references; von Franz 
 
 > "The art of letting things happen, action through non-action, letting go of oneself... became for me the key opening the door to the way. We must be able to let things happen in the psyche." (Jung, CW 13, par. 20)
 
-Active imagination is the **practical methodology of individuation**—the means by which one actually engages [[The Shadow]], [[Anima]], [[Animus]], and ultimately [[The Self]]. It is not a relaxation technique, nor is it visualization or guided meditation. It is **autonomous encounter**—allowing the unconscious to speak in its own voice, with the ego as witness and interlocutor[^2].
+Active imagination is the **practical methodology of individuation**—the means by which one actually engages [[The Shadow]], [[The Anima]], [[The Animus]], and ultimately [[The Self]]. It is not a relaxation technique, nor is it visualization or guided meditation. It is **autonomous encounter**—allowing the unconscious to speak in its own voice, with the ego as witness and interlocutor[^2].
 
 **Three Foundational Principles:**
 

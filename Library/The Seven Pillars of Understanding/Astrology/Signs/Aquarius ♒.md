@@ -202,7 +202,7 @@ Aquarius's shadow is **fanaticism disguised as humanitarianism**—the revolutio
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Star (Key XVII) — Hope, the vision of the future, the download from the cosmos
-- **[[The Window]]:** Adventure (contemporary face: the innovator, the network builder)
+- **[[The Astrolabe]]:** Adventure (contemporary face: the innovator, the network builder)
 - **[[Jungian Archetypes]]:** The Collective Unconscious, The Revolutionary
 - **[[Human Design]]:** Head Center (inspiration, mental pressure)
 

@@ -154,7 +154,7 @@ TBD
 
 ### The High Priestess in the Bodygraph: Gate 16 (Enthusiasm / Skills)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The High Priestess (Key 2)** corresponds to **[[Gate 16]]** in Human Design—the gate of **Enthusiasm** (or **Skills**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The High Priestess (Key 2)** corresponds to **[[Gate 16 - Enthusiasm]]** in Human Design—the gate of **Enthusiasm** (or **Skills**), located in the Throat Center.
 
 #### Gimel (Camel) and the Throat's Repeated Journey
 
@@ -285,7 +285,7 @@ Gate 16's repetitive practice creates the neural pathways, the muscle memory, th
 - [[The Fool (0)]] - The primal breath that enters her temple
 - [[The Magician (I)]] - Her complementary path of Will
 - [[The Empress (III)]] - The door through which her consciousness enters form
-- **Human Design (Canonical):** [[Gate 16]] (Enthusiasm / Skills) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 16 - Enthusiasm]] (Enthusiasm / Skills) — See "Cross-System Synthesis: Human Design" above
 - Gimel - Hebrew Letters in Tarot
 - Kabbalistic Paths - Crossing the Abyss
 - The Moon in Esoteric Systems

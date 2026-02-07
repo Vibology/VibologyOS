@@ -131,7 +131,7 @@ The conditioning pattern: "I need someone to tell me where to go" or "I don't tr
 ### Cross-Pillar Synthesis
 - [[G Center]] — The center of identity, direction, and love
 - [[Binah]] — The receptive intelligence on the Tree of Life
-- [[Anima]] — Jung's receptive, intuitive function in the psyche
+- [[The Anima]] — Jung's receptive, intuitive function in the psyche
 
 ---
 

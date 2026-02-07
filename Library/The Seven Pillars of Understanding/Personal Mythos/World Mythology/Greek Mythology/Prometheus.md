@@ -427,9 +427,9 @@ If you are **Epimethean** (extraverted, reactive, adaptive):
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Uranus ♅]] (primary correspondence—rebellion, innovation, sudden awakening, lightning-strike revelation, technology, revolution), [[Aquarius ♒]] (Uranus-ruled sign—humanitarian vision, progress, defiance of tradition), [[11th House]] (collective progress, future vision, revolution), **Uranus-Sun aspects** (ego rebellion against authority), **Uranus-Saturn** (rebel vs. old law)
-- **[[Tarot]]:** [[The Tower (XVI)]] (Uranian lightning, revelation through destruction of old structures), [[The Magician (I)]] (mastery of fire/elements, creative will), [[The Fool (0)]] (leap into the unknown, defiance of convention)
+- **[[The Tarot]]:** [[The Tower (XVI)]] (Uranian lightning, revelation through destruction of old structures), [[The Magician (I)]] (mastery of fire/elements, creative will), [[The Fool (0)]] (leap into the unknown, defiance of convention)
 - **[[Qabalah]]:** **Chokmah** (primordial creative force, pre-structure vision), **Uranus sphere** (rebellion, breakthrough), Tower card path (Pe, mouth/speech—Promethean utterance)
-- **[[Human Design]]:** [[Throat Center]] (manifestation through creative expression), Gate 43 (Breakthrough—individual knowing vs. collective law), undefined Head (pressure to think revolutionary thoughts)
+- **[[Human Design]]:** [[Throat]] (manifestation through creative expression), Gate 43 (Breakthrough—individual knowing vs. collective law), undefined Head (pressure to think revolutionary thoughts)
 - **[[Angelology]]:** [[Lucifer]] (light-bearer, fallen rebel parallel), Azazel (forbidden knowledge teacher), Samael (venom of God, rebel angel)
 
 ### Literary and Cultural

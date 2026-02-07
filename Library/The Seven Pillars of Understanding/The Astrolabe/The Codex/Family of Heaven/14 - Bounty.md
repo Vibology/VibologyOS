@@ -130,7 +130,7 @@ The conditioning pattern: "I must prove my worth through wealth" or "If I share 
 - [[Nine of Pentacles]] — Mastery yielding material abundance and self-sufficiency
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — The motor of sustained work capacity
+- [[Sacral]] — The motor of sustained work capacity
 - [[Chesed]] — Mercy, the Qabalistic sphere of abundant generosity
 - [[The Philosopher's Stone]] — The alchemical result that creates abundance
 

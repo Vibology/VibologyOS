@@ -190,7 +190,7 @@ In esoteric anatomy, Capricorn governs the **knees** (the joints that allow asce
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** The Devil (Key XV) — Bondage, material attachment, the test of sovereignty; also The World (Key XXI) — mastery achieved, the completion of the climb
-- **[[The Window]]:** The Sage (contemporary face: the elder, the mentor)
+- **[[The Astrolabe]]:** The Sage (contemporary face: the elder, the mentor)
 - **[[Jungian Archetypes]]:** [[The Wise Old Man]], The Elder, The Father (archetypal authority)
 - **[[Human Design]]:** Root Center (pressure, the drive to evolve); the pressure to achieve and endure
 - **Qabalah:** The letter **Ayin** (the eye that sees from the summit); the path of manifestation

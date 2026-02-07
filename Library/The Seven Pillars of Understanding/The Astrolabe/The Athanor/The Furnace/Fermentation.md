@@ -68,12 +68,12 @@ Fermentation operates at the transition from [[Albedo]] (whitening) to [[Citrini
 - [[The Philosopher's Stone]] — The living stone that fermentation begins to form
 
 ### Tarot Correspondences
-- [[Judgment (XX)]] — Resurrection, the dead called back to life
+- [[Judgement (XX)]] — Resurrection, the dead called back to life
 - [[The Sun (XIX)]] — Solar consciousness, life-giving radiance
 - [[The Star (XVII)]] — Hope, the numinous arrival after darkness
 
 ### Cross-Pillar Synthesis
-- [[The Sun ☉]] — Planetary correspondence: life-force, animation, quickening
+- [[Sun ☉]] — Planetary correspondence: life-force, animation, quickening
 - [[Tiphareth]] — Qabalah: Beauty, the center where the Self manifests
 - [[The Self]] — Jungian archetype: the living center that quickens the ego
 - [[Citrinitas]] — Alchemical color: the yellowing, first glow of gold

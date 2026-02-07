@@ -158,7 +158,7 @@ TBD
 
 ### The Empress in the Bodygraph: Gate 20 (Contemplation / The Now)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Empress (Key 3)** corresponds to **[[Gate 20]]** in Human Design—the gate of **Contemplation** (The Now), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **The Empress (Key 3)** corresponds to **[[Gate 20 - Contemplation]]** in Human Design—the gate of **Contemplation** (The Now), located in the Throat Center.
 
 #### Daleth (Door) and the Throat as Portal to Presence
 
@@ -249,7 +249,7 @@ The Empress holds a **shield bearing Venus's symbol**—not for defense, but as 
 - [[The Magician (I)]] - The will that fertilizes her creativity
 - [[The High Priestess (II)]] - Her sister-path of unmanifest potential
 - [[The Emperor (IV)]] - Her consort of structure and order
-- **Human Design (Canonical):** [[Gate 20]] (Contemplation / The Now) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 20 - Contemplation]] (Contemplation / The Now) — See "Cross-System Synthesis: Human Design" above
 - Daleth - Hebrew Letters in Tarot
 - Kabbalistic Paths - The Supernal Triangle
 - Venus in Esoteric Systems

@@ -680,7 +680,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 ### Cross-Pillar Integration
 - [[Discernment of Spirits]] — Testing spiritual experiences in contemplative prayer
 - [[The Abyss]] (Personal Mythos) — Crossing the void through Dark Night
-- [[Individuation]] (Personal Mythos) — Contemplative prayer as path to Self
+- [[Individuation Process]] (Personal Mythos) — Contemplative prayer as path to Self
 
 ---
 ## Practitioner Counsel: Start Simple

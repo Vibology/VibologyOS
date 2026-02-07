@@ -129,7 +129,7 @@ The conditioning pattern: "I must protect myself by saying no" or "If I'm cautio
 - [[Temperance (XIV)]] — Discernment and right timing
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — The center of manifestation and voice
+- [[Throat]] — The center of manifestation and voice
 - [[Geburah]] — Severity, discrimination, boundaries on the Tree of Life
 - [[The Sage]] — Archetype of wisdom that knows when to speak and when to wait
 

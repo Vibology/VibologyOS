@@ -129,14 +129,14 @@ Another Shadow trap: withholding stories out of fear. Having experiences worth s
 - Gate 11 (Peace) in the Ajna — The 11-56 Channel of Curiosity creates idea-driven storytelling; abstract concepts seeking narrative form for transmission
 
 ### Tarot Correspondences
-- [[The Fool]] — The eternal wanderer whose journey is the teaching
-- [[The Magician]] — Transforming inner reality into outer expression through skillful communication
-- [[The Hermit]] — Withdrawing to integrate experience before sharing wisdom
+- [[The Fool (0)]] — The eternal wanderer whose journey is the teaching
+- [[The Magician (I)]] — Transforming inner reality into outer expression through skillful communication
+- [[The Hermit (IX)]] — Withdrawing to integrate experience before sharing wisdom
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — Expression, manifestation, voice; bringing inner reality into outer form
+- [[Throat]] — Expression, manifestation, voice; bringing inner reality into outer form
 - [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; sharing wisdom narratively
-- [[Hod (Splendor)]] — Qabalistic sphere of communication, articulated wisdom
+- [[Hod]] — Qabalistic sphere of communication, articulated wisdom
 - [[Hermes/Mercury Archetype]] — The messenger, storyteller, bridge between realms
 
 ---

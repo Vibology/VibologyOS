@@ -129,7 +129,7 @@ The conditioning pattern: "I must act now" or "Waiting is weakness." This create
 - [[The Hanged Man (XII)]] — Suspension, waiting, the wisdom of surrender to timing
 
 ### Cross-Pillar Synthesis
-- [[Sacral Center]] — The motor of life force and biological rhythm
+- [[Sacral]] — The motor of life force and biological rhythm
 - [[Fermentation]] — The alchemical stage of waiting in darkness for new life
 - [[Binah]] — The Great Mother who holds all in the womb of time
 

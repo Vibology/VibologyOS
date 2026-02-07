@@ -151,7 +151,7 @@ TBD
 
 ### Wheel of Fortune in the Bodygraph: Gate 56 (The Wanderer / Stimulation)
 
-**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Wheel of Fortune (Key 10)** corresponds to **[[Gate 56]]** in Human Design—the gate of **The Wanderer** (or **Stimulation**), located in the Throat Center.
+**Ra Uru Hu Teaching:** According to the 1998 transmission documented by Eleanor Haspel-Portner, **Wheel of Fortune (Key 10)** corresponds to **[[Gate 56 - The Wanderer]]** in Human Design—the gate of **The Wanderer** (or **Stimulation**), located in the Throat Center.
 
 #### Kaph (Palm) and the Voice of the Storyteller
 
@@ -310,7 +310,7 @@ Gate 56's **Gene Keys progression** reflects this:
 - [[The Hermit (IX)]] - The withdrawal before the new cycle
 - [[Justice (XI)]] - The karmic law the Wheel enacts
 - [[The World (XXI)]] - The completion the Wheel promises
-- **Human Design (Canonical):** [[Gate 56]] (The Wanderer / Stimulation) — See "Cross-System Synthesis: Human Design" above
+- **Human Design (Canonical):** [[Gate 56 - The Wanderer]] (The Wanderer / Stimulation) — See "Cross-System Synthesis: Human Design" above
 - Kaph - Hebrew Letters in Tarot
 - Kabbalistic Paths - Chesed to Netzach
 - Jupiter in Esoteric Systems

@@ -131,8 +131,8 @@ The conditioning pattern: "I must understand everything logically" or "Insight s
 - [[The Tower (XVI)]] — Sudden breakthrough shattering established structures
 
 ### Cross-Pillar Synthesis
-- [[Ajna Center]] — The seat of conceptualization and mental awareness
-- [[Daat]] — Knowledge, the hidden Qabalistic abyss where revelation occurs
+- [[Ajna]] — The seat of conceptualization and mental awareness
+- [[Daath]] — Knowledge, the hidden Qabalistic abyss where revelation occurs
 - [[Conjunction]] — The alchemical moment when separated elements reunite into something new
 
 ---

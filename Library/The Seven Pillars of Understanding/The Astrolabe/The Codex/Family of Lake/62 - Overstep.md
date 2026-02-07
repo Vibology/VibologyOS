@@ -129,14 +129,14 @@ Another Shadow trap: rejecting precision entirely. If intellect creates sufferin
 - Gate 17 (Following) in the Ajna — The 62-17 Channel of Acceptance creates capacity to organize opinions (17) and express them through precise language (62)
 
 ### Tarot Correspondences
-- [[The Magician]] — "As above, so below"; thought made manifest through precise word and action
+- [[The Magician (I)]] — "As above, so below"; thought made manifest through precise word and action
 - [[Page of Swords]] — Mental clarity, careful articulation, details that illuminate
 - [[Three of Pentacles]] — Mastery through attention to craft; excellence through detail
 
 ### Cross-Pillar Synthesis
-- [[Throat Center]] — Manifestation, communication, metabolizing experience into expression
+- [[Throat]] — Manifestation, communication, metabolizing experience into expression
 - [[Collective Logic Circuit]] — Pattern recognition serving the collective through precise articulation
-- [[Hod (Splendor)]] — Qabalistic sphere of Mercury, intellect, beautiful communication
+- [[Hod]] — Qabalistic sphere of Mercury, intellect, beautiful communication
 - [[Scribe Archetype]] — Keeper of precise records; translator of pattern into transmissible form
 
 ---

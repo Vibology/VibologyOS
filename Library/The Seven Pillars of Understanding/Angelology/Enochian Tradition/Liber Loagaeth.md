@@ -272,9 +272,9 @@ Liber Loagaeth is the **collective unconscious made tangible**—a transmission 
 - [[The 30 Aethyrs]] — Cosmological realms; Loagaeth may be their alphabetic map
 - [[Daath]] — The Abyss; the withheld 49th table parallels the "invisible Sephira"
 - [[The Tree of Life]] — Qabalistic structure underlying Enochian cosmology
-- [[Collective Unconscious]] — Jungian concept; Loagaeth as its linguistic manifestation
+- [[The Collective Unconscious]] — Jungian concept; Loagaeth as its linguistic manifestation
 - [[Numinous Experience]] — The overwhelming encounter with the wholly Other; Loagaeth's opacity preserves the numinous
-- [[Shadow]] — The unknown, rejected, incomprehensible; Loagaeth as Shadow-text
+- [[The Shadow]] — The unknown, rejected, incomprehensible; Loagaeth as Shadow-text
 - [[Active Imagination]] — Jungian technique; scrying the grids as imaginative engagement with the unconscious
 
 ---
