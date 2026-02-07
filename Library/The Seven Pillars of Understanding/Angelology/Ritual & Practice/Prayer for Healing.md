@@ -422,5 +422,5 @@ For those seeking a non-denominational, accessible daily practice:
 
 ### Ritual Practices & Scriptures
 - [[Bedtime Shema]] — Jewish protective prayer invoking angelic guardianship (Raphael behind practitioner)
-- [[Psalms]] — Psalms 6, 41, 67, 102, 103 traditionally used in healing prayers
+- Psalms — Psalms 6, 41, 67, 102, 103 traditionally used in healing prayers
 - [[Anointing and Substituted Love]] — Sacramental use of oil as vehicle for grace (James 5:14-15 protocol)

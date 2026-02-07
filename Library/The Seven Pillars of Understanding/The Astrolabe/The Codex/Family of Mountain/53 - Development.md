@@ -135,9 +135,9 @@ Another Shadow trap: paralysis by process. If development feels too slow, the de
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure center; evolutionary drive, survival, the fuel to persist through developmental stages
-- [[Collective Logic Circuit]] — Shared understanding of patterns and sequences; recognizing universal stages of growth
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared understanding of patterns and sequences; recognizing universal stages of growth
 - [[Middle Pillar]] — Qabalistic path of balanced ascent through gradual mastery of each sphere
-- [[The Elder Archetype]] — Maturity earned through honored stages; wisdom that cannot be taught, only lived through
+- [[The Senex|The Elder Archetype]] — Maturity earned through honored stages; wisdom that cannot be taught, only lived through
 
 ---
 

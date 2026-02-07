@@ -301,14 +301,14 @@ When you feel mocked, diminished, or your authority challenged:
 - **Egyptian Pantheon:** [[Egyptian Mythology]], [[Isis]] (who stole his name), [[Thoth]] (wisdom/scribe who accompanies him), [[Osiris]] (underworld counterpart), [[Horus]] (solar heir), [[Set]] (defender of the barque), Apophis/Apep (chaos enemy)
 - **Solar Deities:** [[Apollo]] (Greek sun/prophecy/order), [[Sol]] (Roman sun), Helios (Greek solar titan), Surya (Vedic sun), Inti (Incan sun)
 - **Creation Myths:** Atum-Ra (self-creation), the benben stone (primordial mound)
-- **Jungian Archetypes:** [[The Self]] (ordering center), [[The Wise Old Man]] (Atum), [[The Divine Child]] (Khepri), [[The Tyrant]] (senile Ra/Sekhmet)
+- **Jungian Archetypes:** [[The Self]] (ordering center), [[The Wise Old Man]] (Atum), [[The Divine Child]] (Khepri), The Tyrant (senile Ra/Sekhmet)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Sun ☉]] (primary correspondence—ego, vitality, identity, creative self-expression, authority), [[Leo ♌]] (solar kingship, creative fire), [[5th House]] (creative self-expression, vitality, solar play)
 - **[[The Tarot]]:** [[The Sun (XIX)]] (solar vitality, life-force, innocence, creative joy), [[The Emperor (IV)]] (solar authority, structure, kingship), [[Strength (VIII)]] (solar will taming the lion)
 - **[[Qabalah]]:** **Tiphareth** (Beauty, the heart of the Tree, the solar center, Christ-consciousness, the reconciling principle), Sun card's path
 - **[[Human Design]]:** [[Sun ☉]] (70% of chart definition—the core identity), [[Throat]] (manifestation, speaking/creating), solar transits
-- **[[Angelology]]:** [[Michael]] (solar archangel, defender against chaos, parallels Ra's Apophis battle), [[Archangel Correspondence - Sun|Solar Archangel]]
+- **[[Angelology]]:** [[Michael]] (solar archangel, defender against chaos, parallels Ra's Apophis battle), [[Michael|Solar Archangel]]
 
 ---
 

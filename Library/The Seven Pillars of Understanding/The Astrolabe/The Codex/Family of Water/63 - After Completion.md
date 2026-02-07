@@ -135,9 +135,9 @@ Another Shadow trap: premature certainty disguised as completion. The mind that 
 
 ### Cross-Pillar Synthesis
 - [[Head]] — Mental pressure, inspiration, doubt, the drive to understand and make meaning
-- [[Collective Logic Circuit]] — Shared patterns, systematic thinking, testing and refining understanding
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared patterns, systematic thinking, testing and refining understanding
 - [[Hod]] — Qabalistic intellect, analysis, Mercury's discriminating function
-- [[The Skeptic Archetype]] — Questioning as path to wisdom, healthy doubt that serves truth
+- The Skeptic Archetype — Questioning as path to wisdom, healthy doubt that serves truth
 
 ---
 

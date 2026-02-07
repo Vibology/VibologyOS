@@ -299,7 +299,7 @@ Astrologically, Sol corresponds to the **[[Sun ☉]]**—the most important plac
   - [[Apollo]] — Olympian solar god (Phoebus, the brilliant one)
   - [[Ra]] — Egyptian solar god (daily journey, solar barque, battle with Apophis)
   - [[Prometheus]] — Fire-thief, bringer of consciousness (solar gift to humanity)
-  - [[Mithras]] — Persian solar deity (syncretized with Sol Invictus in Roman Empire)
+  - Mithras — Persian solar deity (syncretized with Sol Invictus in Roman Empire)
 
 ### Cross-System Integration
 

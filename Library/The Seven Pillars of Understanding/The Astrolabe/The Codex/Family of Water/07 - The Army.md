@@ -135,9 +135,9 @@ Another Shadow trap: refusal of leadership when recognized. False humility that 
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Magnetic monopole, identity, direction, love; the self's fixed geometry in space
-- [[Collective Logic Circuit]] — Shared patterns, abstract understanding, leadership that serves coherence not ego
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared patterns, abstract understanding, leadership that serves coherence not ego
 - [[Chesed]] — Qabalistic kingship, benevolent expansion, organized structure
-- [[The King Archetype]] — Jungian sovereign who serves the realm, axis of collective order
+- The King Archetype — Jungian sovereign who serves the realm, axis of collective order
 
 ---
 

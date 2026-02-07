@@ -280,4 +280,4 @@ The Observatory does not ask: *"Are the Seven real?"* It asks: *"What do the ins
 ### Ritual Practices
 - [[Lesser Banishing Ritual of the Pentagram]] — Invokes four of the seven (elemental subset)
 - [[Invocation]] — General invocation protocols
-- [[Planetary Hours]] — Timing invocations by planetary rulership
+- Planetary Hours — Timing invocations by planetary rulership

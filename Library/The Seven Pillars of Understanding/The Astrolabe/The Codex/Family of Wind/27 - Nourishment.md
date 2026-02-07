@@ -135,9 +135,9 @@ Another Shadow trap: indiscriminate feeding. If one lacks the Spleen's discrimin
 
 ### Cross-Pillar Synthesis
 - [[Sacral]] — Life force generator; biological yes/no; motor for caring and doing
-- [[Tribal Defense Circuit]] — Caring for tribe through material support; ensuring survival
+- [[Channels#Tribal Defense Circuit|Tribal Defense Circuit]] — Caring for tribe through material support; ensuring survival
 - [[Chesed]] — Qabalistic sphere of overflowing benevolence; care without calculation
-- [[The Mother Archetype]] — Nourishing principle that sustains life; care as sacred responsibility
+- [[The Great Mother|The Mother Archetype]] — Nourishing principle that sustains life; care as sacred responsibility
 
 ---
 

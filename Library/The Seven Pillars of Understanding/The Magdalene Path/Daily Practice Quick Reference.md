@@ -240,7 +240,7 @@ Uriel is invoked at the **North Quarter** (Earth):
 ---
 ### 3. Uriel's Correspondences (Sensory Anchors)
 
-**From [[The Seven Pillars of Understanding/Angelology/The Archangels/Uriel]]:**
+**From [[Uriel]]:**
 
 **To strengthen Uriel connection through the senses:**
 

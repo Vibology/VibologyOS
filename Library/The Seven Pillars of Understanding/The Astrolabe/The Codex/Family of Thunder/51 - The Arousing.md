@@ -131,7 +131,7 @@ The conditioning pattern: "I must control to avoid being shocked" or "Shock equa
 ### Cross-Pillar Synthesis
 - [[Heart]] — The center of willpower and self-worth
 - [[Geburah]] — Severity, decisive intervention on the Tree of Life
-- [[The Lightning]] — Archetype of sudden illumination and disruption
+- The Lightning — Archetype of sudden illumination and disruption
 
 ---
 

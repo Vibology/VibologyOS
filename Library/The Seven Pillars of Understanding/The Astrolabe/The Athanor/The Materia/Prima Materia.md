@@ -69,7 +69,7 @@ Prima materia belongs to **Earth** in its most primal form — not cultivated so
 - [[Death (XIII)]] — The return to prima materia through dissolution
 
 ### Cross-Pillar Synthesis
-- [[The Receptive (02)]] — Codex card: pure receptivity, the ground that receives all seeds
+- [[02 - The Receptive|The Receptive (02)]] — Codex card: pure receptivity, the ground that receives all seeds
 - [[Kether]] — Qabalah: the Crown, limitless potential before differentiation
 - [[Malkuth]] — Qabalah: the Kingdom, spirit descending into densest matter
 - [[The Shadow]] — Jungian archetype: unconscious contents in raw form

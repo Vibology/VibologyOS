@@ -135,9 +135,9 @@ Another Shadow trap: depression without renewal. If decrease is not honored as *
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional awareness; desire, mood, the wave across time
-- [[Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through lived experience
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through lived experience
 - [[Kether]] — Qabalistic sphere of contraction before manifestation; the tzimtzum creating space for creation
-- [[The Sabbath]] — Sacred pause; intentional cessation that restores; decrease as gift rather than deprivation
+- The Sabbath — Sacred pause; intentional cessation that restores; decrease as gift rather than deprivation
 
 ---
 

@@ -135,9 +135,9 @@ Another Shadow trap: confusing commitment with stubbornness. Staying in situatio
 
 ### Cross-Pillar Synthesis
 - [[Sacral]] — Life force generator, yes/no response, commitment to experience
-- [[Collective Sensing Circuit]] — Learning through lived experience, distilling pattern from the concrete
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Sensing Circuit]] — Learning through lived experience, distilling pattern from the concrete
 - [[Daath]] — The abyss that must be crossed alone; hidden Sephirah between triads
-- [[The Descent Archetype]] — Jungian necessary journey into shadow/unconscious; Inanna, Persephone, Orpheus
+- The Descent Archetype — Jungian necessary journey into shadow/unconscious; Inanna, Persephone, Orpheus
 
 ---
 

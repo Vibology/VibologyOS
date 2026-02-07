@@ -423,7 +423,7 @@ If you are **Epimethean** (extraverted, reactive, adaptive):
 - **Titans:** Iapetus (father), Clymene (mother), **Epimetheus** (brother—Afterthought), Atlas (brother, sky-bearer), Oceanus (fellow Titan)
 - **Fire Myths:** Pandora (punishment for fire-theft), Hephaestus (forge and fire god)
 - **Trickster-Sages:** [[Thoth]] (Egyptian knowledge-thief), Loki (Norse trickster-rebel), Lucifer (light-bringer, fallen rebel), Azazel (forbidden knowledge)
-- **Jungian Archetypes:** [[The Trickster]], [[The Wise Old Man]] (as rebel, not conformist), The Daimon, [[The Hero]] (Herakles), The Wounded Healer (Chiron)
+- **Jungian Archetypes:** [[The Joker|The Trickster]], [[The Wise Old Man]] (as rebel, not conformist), The Daimon, [[The Hero]] (Herakles), The Wounded Healer (Chiron)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Uranus ♅]] (primary correspondence—rebellion, innovation, sudden awakening, lightning-strike revelation, technology, revolution), [[Aquarius ♒]] (Uranus-ruled sign—humanitarian vision, progress, defiance of tradition), [[11th House]] (collective progress, future vision, revolution), **Uranus-Sun aspects** (ego rebellion against authority), **Uranus-Saturn** (rebel vs. old law)

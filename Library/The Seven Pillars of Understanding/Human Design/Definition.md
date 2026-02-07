@@ -113,7 +113,7 @@ This is not infidelity—it is mechanical necessity. A Triple Split in a monogam
 **In Relationships:**
 Quadruple Splits need trusted confidants and considerable patience from others. They are not designed to make fast decisions or shift direction easily. Partners must understand that what appears as stubbornness is actually mechanical integrity—the four parts of them require time to reach consensus.
 
-**Type Correlation:** Because Quad Splits require 8 or 9 Centers defined, they are almost exclusively [[Generator]]s or [[Manifesting Generator]]s. It is statistically difficult to have 8 Centers defined without activating the [[Sacral]] or a motor-to-[[Throat]] connection.[^9]
+**Type Correlation:** Because Quad Splits require 8 or 9 Centers defined, they are almost exclusively [[Generator]]s or [[Generator|Manifesting Generator]]s. It is statistically difficult to have 8 Centers defined without activating the [[Sacral]] or a motor-to-[[Throat]] connection.[^9]
 
 **The Shadow:** Quad Splits may be labeled "difficult," "indecisive," or "overthinking." In truth, they are honoring the complexity of their internal architecture. The Not-Self mind, conditioned to value speed and decisiveness, may attempt to override the body's need for extended processing time.
 

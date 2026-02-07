@@ -17,7 +17,7 @@ The Library is the foundational knowledge base of VibologyOS. Without systematic
 - **Incomplete stubs** (entries marked TBD or below Tier 1 quality)
 - **Outdated synthesis** (insights superseded by deeper understanding)
 - **Tag inconsistency** (taxonomy drift as conventions evolve)
-- **Orphaned content** (entries with no inbound or outbound [[wikilinks]])
+- **Orphaned content** (entries with no inbound or outbound wikilinks)
 
 **This protocol establishes:**
 1. **Quarterly audit cycles** - Systematic review schedule
@@ -67,12 +67,12 @@ Each quarterly audit should systematically work through the following tasks. Tra
 
 ### Phase 2: Link Verification (30-45 minutes)
 
-**Goal:** Ensure all [[wikilinks]] point to existing entries.
+**Goal:** Ensure all wikilinks point to existing entries.
 
 #### 2.1 Extract All Wikilinks
 
 ```bash
-# Extract all [[wikilinks]] from Library files
+# Extract all wikilinks from Library files
 grep -rh "\[\[.*\]\]" "📖 Library" --include="*.md" | \
   grep -o "\[\[[^]]*\]\]" | \
   sort | uniq > /tmp/all_library_links.txt
@@ -80,7 +80,7 @@ grep -rh "\[\[.*\]\]" "📖 Library" --include="*.md" | \
 
 #### 2.2 Check Each Link Exists
 
-For each unique [[wikilink]]:
+For each unique wikilink:
 1. Search for corresponding file: `find "📖 Library" -name "*Link Name*"`
 2. If not found, mark as **dead link**
 3. Record in audit log with location where link appears
@@ -136,12 +136,12 @@ For each entry, verify presence of required sections (per Library Content Standa
 - [ ] Core Symbolism or Mechanics
 - [ ] Jungian/Archetypal Layer
 - [ ] Internal Links section
-- [ ] At least 3 [[wikilinks]] to other Library entries
+- [ ] At least 3 wikilinks to other Library entries
 
 **Red flags:**
 - No YAML frontmatter
 - No Internal Links section
-- Zero [[wikilinks]]
+- Zero wikilinks
 - Under 500 words (likely Tier 0/stub)
 
 #### 3.4 Prioritize Expansion
@@ -224,21 +224,21 @@ grep -L "#tarot\|#astrology\|#human-design\|#qabalah\|#jungian\|#angelology\|#sy
 
 ### Phase 6: Orphaned Content Detection (15-20 minutes)
 
-**Goal:** Find entries with no inbound or outbound [[wikilinks]]—isolated islands in the knowledge graph.
+**Goal:** Find entries with no inbound or outbound wikilinks—isolated islands in the knowledge graph.
 
 #### 6.1 Find Entries with Zero Outbound Links
 
 ```bash
-# Files containing no [[wikilinks]]
+# Files containing no wikilinks
 grep -L "\[\[.*\]\]" "📖 Library" -r --include="*.md"
 ```
 
 **Acceptable cases:**
 - Very new entries (created <7 days ago)
-- Index files (they list links but may not use [[wikilink]] format)
+- Index files (they list links but may not use wikilink format)
 
 **Action required:**
-- Add relevant [[wikilinks]] to connect to related concepts
+- Add relevant wikilinks to connect to related concepts
 - Cross-reference with other systems
 
 #### 6.2 Find Entries with Zero Inbound Links
@@ -255,7 +255,7 @@ grep -l "\[\[Saturn Return\]\]" "📖 Library" -r --include="*.md"
 - May indicate: too obscure, newly created, or poorly integrated
 
 **Action options:**
-- Add references from related entries (e.g., [[Saturn]] should link to [[Saturn Return]])
+- Add references from related entries (e.g., [[Saturn]] should link to [[Saturn ♄|Saturn Return]])
 - If truly isolated and low-value, consider archival
 
 #### 6.3 Document Orphans
@@ -340,7 +340,7 @@ Look for:
 
 Audit log should include:
 - **Summary statistics:** Total files audited, issues found, fixes applied
-- **Dead links:** List of broken [[wikilinks]] and whether fixed
+- **Dead links:** List of broken wikilinks and whether fixed
 - **Incomplete entries:** List of stubs needing expansion (prioritized)
 - **Outdated content:** Entries flagged for review
 - **Orphaned content:** Entries with no links in/out
@@ -385,12 +385,12 @@ Q1 2026 Library Audit: 12 dead links fixed, 8 stubs prioritized, tags updated
 
 ### What Counts as a "Dead Link"?
 
-A [[wikilink]] is **dead** if:
+A wikilink is **dead** if:
 1. **No matching file exists:** `find "📖 Library" -name "*Link Text*"` returns empty
 2. **File exists but in wrong location:** Link expects `📖 Library/Tarot/The Tower.md` but file is at `📖 Library/Major Arcana/The Tower.md`
 3. **Filename mismatch:** Link says `[[The Hanged Man]]` but file is named `The Hanging Man.md` (typo)
 
-A [[wikilink]] is **NOT dead** if:
+A wikilink is **NOT dead** if:
 1. **Planned entry:** Link intentionally points to future entry (document in audit log)
 2. **External reference:** Link to synthesis piece in `⚛ Synthesis/` or journal entry (acceptable cross-folder linking)
 
@@ -399,7 +399,7 @@ A [[wikilink]] is **NOT dead** if:
 #### Step 1: Extract All Unique Wikilinks
 
 ```bash
-# Create temporary file with all unique [[wikilinks]]
+# Create temporary file with all unique wikilinks
 grep -rh "\[\[.*\]\]" "📖 Library" --include="*.md" | \
   grep -o "\[\[[^]]*\]\]" | \
   sed 's/\[\[\(.*\)\]\]/\1/' | \
@@ -466,7 +466,7 @@ Record:
 
 ```bash
 #!/bin/bash
-# link-check.sh - Verify all [[wikilinks]] in Library
+# link-check.sh - Verify all wikilinks in Library
 
 echo "Extracting all wikilinks..."
 grep -rh "\[\[.*\]\]" "📖 Library" --include="*.md" | \
@@ -615,7 +615,7 @@ Every Library entry must meet:
 - [ ] **YAML frontmatter** with tags, system, date_created
 - [ ] **Overview section** (2-3 paragraphs minimum)
 - [ ] **Core content** (symbolism, mechanics, or archetypal layer)
-- [ ] **Internal Links section** with 3+ [[wikilinks]]
+- [ ] **Internal Links section** with 3+ wikilinks
 - [ ] **500+ words** (excluding frontmatter)
 - [ ] **Proper directory placement** (correct system/category folder)
 
@@ -636,13 +636,13 @@ Every Library entry must meet:
 **Tier 2 (Developed):**
 - 800-1200 words
 - Includes Jungian/archetypal layer
-- 5+ [[wikilinks]], cross-system references
+- 5+ wikilinks, cross-system references
 - Synthesis of multiple sources
 
 **Tier 3 (Comprehensive):**
 - 1500+ words
 - Deep synthesis (Prima Materia + archetypal integration)
-- Extensive cross-referencing (8+ [[wikilinks]])
+- Extensive cross-referencing (8+ wikilinks)
 - Multiple perspectives (esoteric, psychological, practical)
 - Example: Current Wands suit cards (500-line entries)
 
@@ -653,7 +653,7 @@ Every Library entry must meet:
 **Immediate attention required:**
 - [ ] No YAML frontmatter
 - [ ] File size <1KB (likely empty or near-empty)
-- [ ] Zero [[wikilinks]]
+- [ ] Zero wikilinks
 - [ ] No "Internal Links" section
 - [ ] Content is stream-of-consciousness notes (Scribe mode), not refined synthesis
 - [ ] Contains personal/private info (should be in `👤 Biographical Information/`)
@@ -661,7 +661,7 @@ Every Library entry must meet:
 
 **Medium priority:**
 - [ ] Entry <500 words but otherwise complete
-- [ ] Only 1-2 [[wikilinks]] (under-connected)
+- [ ] Only 1-2 wikilinks (under-connected)
 - [ ] Missing archetypal layer (factual but not integrated)
 - [ ] Tags don't follow taxonomy (no hashtags, inconsistent format)
 
@@ -741,7 +741,7 @@ date_updated: YYYY-MM-DD
 1. **New entry created:** Add to index with appropriate status marker (usually 🟡 or ✅)
 2. **Entry expanded:** Change status (e.g., 🟡 → ✅ when Tier 1 becomes Tier 3)
 3. **Entry deprecated:** Change status to 🗄️ or move to "Archived" section
-4. **Entry renamed:** Update [[wikilink]] in index
+4. **Entry renamed:** Update wikilink in index
 5. **Quarterly audit:** Verify all entries listed, update statistics
 
 **Commit index updates:**
@@ -794,7 +794,7 @@ date_updated: YYYY-MM-DD
 **When synthesis supersedes Library entry:**
 - Follow Deprecation standards (Section IV)
 - Consider whether insights should graduate back to Library
-- Update [[wikilinks]] to point to synthesis piece if appropriate
+- Update wikilinks to point to synthesis piece if appropriate
 
 ---
 
@@ -1028,12 +1028,12 @@ auditor: [Your entity_id or "System"]
 **When creating new Library entries:**
 - [ ] Follow Library Content Standard (minimum Tier 1)
 - [ ] Use correct tag taxonomy (hashtags, lowercase, hyphens)
-- [ ] Include Internal Links section with 3+ [[wikilinks]]
+- [ ] Include Internal Links section with 3+ wikilinks
 - [ ] Update relevant Index file in same commit
 
 **When editing existing entries:**
 - [ ] If expanding significantly, update Index status marker (🟡 → ✅)
-- [ ] If referencing new entries, ensure [[wikilinks]] are correct
+- [ ] If referencing new entries, ensure wikilinks are correct
 - [ ] If deprecating, follow Deprecation standards (Section IV)
 
 **When you notice issues:**
@@ -1052,7 +1052,7 @@ auditor: [Your entity_id or "System"]
 
 **Potential automation (not currently implemented):**
 
-1. **Link checker script:** Automated bash script to extract and verify all [[wikilinks]] (prototype in Section III)
+1. **Link checker script:** Automated bash script to extract and verify all wikilinks (prototype in Section III)
 2. **Tag validator:** Script to check tag format consistency
 3. **Stub finder:** Automated identification of <500 word entries
 4. **Index generator:** Script to auto-generate index files from directory contents
@@ -1093,7 +1093,7 @@ auditor: [Your entity_id or "System"]
 **Duration:** 2-4 hours per audit
 
 **Core Tasks:**
-1. Link verification (fix dead [[wikilinks]])
+1. Link verification (fix dead wikilinks)
 2. Incomplete entry identification (find and prioritize stubs)
 3. Outdated content review (flag superseded entries)
 4. Tag consistency (ensure taxonomy compliance)
@@ -1103,14 +1103,14 @@ auditor: [Your entity_id or "System"]
 8. Documentation (audit log, action items)
 
 **Key Standards:**
-- **Minimum quality:** Tier 1 (500+ words, 3+ [[wikilinks]], proper YAML)
+- **Minimum quality:** Tier 1 (500+ words, 3+ wikilinks, proper YAML)
 - **Deprecation:** Mark superseded entries, move to `.archive/`
 - **Tags:** Hashtag format, lowercase, hyphens, system + category required
-- **Links:** All [[wikilinks]] must resolve (or be documented as planned entries)
+- **Links:** All wikilinks must resolve (or be documented as planned entries)
 
 **Integration:**
 - **Library Content Standard:** Defines quality tiers
-- **Search & Navigation:** Relies on tag consistency and [[wikilinks]]
+- **Search & Navigation:** Relies on tag consistency and wikilinks
 - **Cross-System Synthesis:** May supersede outdated Library entries
 
 **Audit Log Template:** `◈ System/Audit Logs/YYYY-MM-DD - Q[X] Library Audit.md`

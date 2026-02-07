@@ -76,7 +76,7 @@ Salt is **Earth** — not the undifferentiated earth of [[Prima Materia]] but *c
 ### Cross-Pillar Synthesis
 - [[Saturn ♄]] — Planetary correspondence: structure, limitation, fixity
 - [[Malkuth]] — Qabalah: the Kingdom, spirit fully descended into matter
-- [[The Body]] — Jungian concept: the ego's material ground
+- The Body — Jungian concept: the ego's material ground
 - [[Coagulation]] — Alchemical operation: fixing the volatile into enduring form
 
 ---

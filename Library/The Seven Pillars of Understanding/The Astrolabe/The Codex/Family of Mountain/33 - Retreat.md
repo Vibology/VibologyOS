@@ -135,9 +135,9 @@ Another Shadow trap: forgetting as defense. If experience was painful, the mind 
 
 ### Cross-Pillar Synthesis
 - [[Throat]] — Manifestation hub; where inner reality becomes outer expression
-- [[Collective Logic Circuit]] — Shared understanding through pattern recognition across time
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared understanding through pattern recognition across time
 - [[Binah]] — Qabalistic sphere of gestation; the womb where form develops in silence
-- [[The Hermit Archetype]] — Jungian figure of withdrawal for illumination; solitude as preparation for return
+- [[The Hermit (IX)|The Hermit Archetype]] — Jungian figure of withdrawal for illumination; solitude as preparation for return
 
 ---
 

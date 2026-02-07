@@ -135,9 +135,9 @@ Another Shadow trap: using "realism" as excuse for failure to evolve. "This is j
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Adrenaline pressure, stress, the impulse to evolve, fight/flight/freeze
-- [[Individual Knowing Circuit]] — Mutation through unique experimentation, pulse frequency, empowerment
+- [[Channels#Individual Knowing Circuit|Individual Knowing Circuit]] — Mutation through unique experimentation, pulse frequency, empowerment
 - [[Binah]] — Qabalistic Great Mother, form-giving principle, womb of manifestation
-- [[Saturn Archetype]] — Limitation as teacher, time as constraint, boundary as maturation
+- [[Saturn ♄|Saturn Archetype]] — Limitation as teacher, time as constraint, boundary as maturation
 
 ---
 

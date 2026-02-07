@@ -69,13 +69,13 @@ Book 2, under Iophiel's aegis, opens with the Argument:
 > *By the Philosophers confest,*
 > *And such as were of Poets best."*[^4]
 
-Heywood marshals testimonies from pagan philosophers ([[Plato]], [[Aristotle]], Hermes Trismegistus, [[Cicero]]), poets (Sophocles, Orpheus), and sages (Sibyls, Gymnosophists) to demonstrate that **even pre-Christian wisdom traditions recognized the necessity of monotheism**—that polytheism arose not from divine reality but from **human error, priestly avarice, and poetic fiction**[^5].
+Heywood marshals testimonies from pagan philosophers (Plato, Aristotle, Hermes Trismegistus, Cicero), poets (Sophocles, Orpheus), and sages (Sibyls, Gymnosophists) to demonstrate that **even pre-Christian wisdom traditions recognized the necessity of monotheism**—that polytheism arose not from divine reality but from **human error, priestly avarice, and poetic fiction**[^5].
 
 In a marginal note accompanying a stanza about the Cherubim, Heywood writes:
 
 > *"CHERVE, Iophiel."*[^6]
 
-This identifies Iophiel as the **angelic intelligence of the Cherubim order**—the second-highest rank of angels, associated with **fullness of knowledge** and **inter-dimensional vision**. The Cherubim in [[Ezekiel]]'s vision are the "wheels within wheels," covered with eyes, perceiving all directions simultaneously—a perfect symbol for the **unified vision** that sees the One God underlying all multiplicity[^7].
+This identifies Iophiel as the **angelic intelligence of the Cherubim order**—the second-highest rank of angels, associated with **fullness of knowledge** and **inter-dimensional vision**. The Cherubim in Ezekiel's vision are the "wheels within wheels," covered with eyes, perceiving all directions simultaneously—a perfect symbol for the **unified vision** that sees the One God underlying all multiplicity[^7].
 
 ---
 ## Theological Depth
@@ -216,7 +216,7 @@ Iophiel's light makes idolatry **impossible**—not through moral prohibition, b
 
 The individual becomes capable of **philosophical contemplation** grounded in **direct experience**. They are not armchair theologians debating God's existence—they have **seen** the unity, and their philosophy is an attempt to articulate what cannot be fully captured in words.
 
-This is the stance of [[Plotinus]], [[Meister Eckhart]], [[Shankara]], and [[Ibn Arabi]]—mystics who were also rigorous philosophers, whose logic was in service of **vision**.
+This is the stance of Plotinus, Meister Eckhart, Shankara, and Ibn Arabi—mystics who were also rigorous philosophers, whose logic was in service of **vision**.
 
 ---
 ## Fallen Aspect
@@ -329,10 +329,10 @@ Iophiel is the patron of **Torah study**, **Quranic recitation**, **Vedic contem
 - [[The Celestial Hierarchy]] (Iophiel's place in the first triad)
 
 ### Cross-System Integration
-- **Qabalah:** [[Chokmah]] | [[Kether]] | [[Binah]] | [[The Tree of Life]] | [[Yod]] | [[Mazloth]]
+- **Qabalah:** [[Chokmah]] | [[Kether]] | [[Binah]] | [[The Tree of Life]] | Yod | Mazloth
 - **Tarot:** [[The Magician (I)|The Magician]] (unity of will) | [[The High Priestess (II)|The High Priestess]] (hidden wisdom) | The Twos (first differentiation in each suit)
 - **Jungian Psychology:** [[The Self]] | [[The Transcendent Function]] | [[Individuation Process]] | [[Imago Dei]]
-- **Philosophy:** [[Plotinus]] | [[Neoplatonism]] | [[Advaita Vedanta]] | [[Sufism]] | [[Hermeticism]]
+- **Philosophy:** Plotinus | [[Neoplatonism]] | Advaita Vedanta | Sufism | [[Hermeticism]]
 - **Scripture:** Deuteronomy 6:4 (Shema) | Isaiah 45:5 (*"I am the LORD, and there is no other"*) | 1 Corinthians 8:6 (*"There is one God, the Father"*)
 
 ---

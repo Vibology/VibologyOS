@@ -131,13 +131,13 @@ Another Shadow trap: refusing revolution when it's necessary. The emotional wave
 ### Tarot Correspondences
 - [[Death (XIII)]] — Transformation, the ending that is transition, necessary dissolution
 - [[The Tower (XVI)]] — Revolutionary collapse, structure falling to reveal truth
-- [[The Phoenix]] — Mythic resurrection, death and rebirth as one movement
+- The Phoenix — Mythic resurrection, death and rebirth as one movement
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional wave, chemistry of feeling, sensitivity to injustice
-- [[Tribal Circuit]] — Support, bargain, resources; principles governing family/community
+- [[Channels#3. Tribal Circuit|Tribal Circuit]] — Support, bargain, resources; principles governing family/community
 - [[Enantiodromia]] — Jungian principle of transformation into opposite at extremity
-- [[Death and Rebirth Archetype]] — Universal pattern of dissolution and renewal
+- [[Death and Resurrection|Death and Rebirth Archetype]] — Universal pattern of dissolution and renewal
 
 ---
 

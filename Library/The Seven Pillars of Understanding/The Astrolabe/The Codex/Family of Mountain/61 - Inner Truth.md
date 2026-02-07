@@ -135,9 +135,9 @@ Another Shadow trap: doubt as defense. If inspiration has been wrong before, the
 
 ### Cross-Pillar Synthesis
 - [[Head]] — Pressure center governing questions, inspiration, drive to understand
-- [[Individual Knowing Circuit]] — Mutation through unique insight; acoustic knowing bypassing consensus
+- [[Channels#Individual Knowing Circuit|Individual Knowing Circuit]] — Mutation through unique insight; acoustic knowing bypassing consensus
 - [[Binah]] — Qabalistic sphere receiving Wisdom; the womb gestating knowing into form
-- [[The Oracle Archetype]] — Speaking truth received from the numinous; transmission rather than creation
+- The Oracle Archetype — Speaking truth received from the numinous; transmission rather than creation
 
 ---
 

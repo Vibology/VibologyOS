@@ -137,7 +137,7 @@ Another Shadow trap: total withdrawal. If natural behavior triggers rejection (t
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, love, direction; the magnetic monopole
-- [[Individual Centering Circuit]] — Empowerment through unique self-love
+- [[Channels#Individual Centering Circuit|Individual Centering Circuit]] — Empowerment through unique self-love
 - [[Tiphareth]] — Qabalistic Beauty; the centered self radiating authentic presence
 - [[Individuation Process]] — Jungian process of becoming who one actually is
 

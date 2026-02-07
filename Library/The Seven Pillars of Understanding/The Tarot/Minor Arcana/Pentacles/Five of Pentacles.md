@@ -331,10 +331,10 @@ The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door m
 
 ### Psychological
 - [[The Self]] - Identity through loss, the self beyond circumstances
-- [[Pride]] - The refusal to ask for help
+- Pride - The refusal to ask for help
 - Shame - The belief that you do not deserve help
 - Victim Identity - Defining the self through suffering
-- [[Humility]] - The capacity to receive
+- Humility - The capacity to receive
 
 ---
 *"The coldest poverty is not lack of coin—it is the belief that you must suffer alone."*

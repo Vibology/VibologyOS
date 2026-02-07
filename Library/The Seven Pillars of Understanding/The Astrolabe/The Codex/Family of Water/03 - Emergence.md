@@ -135,9 +135,9 @@ Another Shadow trap: addiction to chaos itself. The Sacral keeps initiating with
 
 ### Cross-Pillar Synthesis
 - [[Sacral]] — Life force generator; biological yes/no; the engine of response
-- [[Individual Knowing Circuit]] — Mutation through unique experimentation; acoustic frequency; empowerment through self-discovery
+- [[Channels#Individual Knowing Circuit|Individual Knowing Circuit]] — Mutation through unique experimentation; acoustic frequency; empowerment through self-discovery
 - [[Yesod]] — Qabalistic foundation where astral forms begin to crystallize; the bridge between formless and formed
-- [[The Child Archetype]] — Jungian image of futurity, renewal, innocent becoming
+- [[The Divine Child|The Child Archetype]] — Jungian image of futurity, renewal, innocent becoming
 
 ---
 

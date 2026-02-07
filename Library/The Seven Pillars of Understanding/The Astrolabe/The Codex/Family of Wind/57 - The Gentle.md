@@ -135,9 +135,9 @@ Another Shadow trap: intuition as performance. If one realizes intuitive awarene
 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
-- [[Individual Centering Circuit]] — Empowerment through unique awareness; mutation through trusting individual knowing
+- [[Channels#Individual Centering Circuit|Individual Centering Circuit]] — Empowerment through unique awareness; mutation through trusting individual knowing
 - [[Chokmah]] — Qabalistic sphere of intuitive flash; knowing before thought; receptive masculine
-- [[The Oracle Archetype]] — Seer who knows by listening; receptivity as power; clarity through surrender
+- The Oracle Archetype — Seer who knows by listening; receptivity as power; clarity through surrender
 
 ---
 

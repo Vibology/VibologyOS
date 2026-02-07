@@ -131,7 +131,7 @@ The conditioning pattern: "If I don't try, I can't fail" or "What worked before 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — The center of instinctual awareness and survival
 - [[Chesed]] — Mercy, sustaining provision on the Tree of Life
-- [[The Elder]] — Archetype of wisdom earned through endurance
+- [[The Senex|The Elder]] — Archetype of wisdom earned through endurance
 
 ---
 

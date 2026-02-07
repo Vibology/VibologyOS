@@ -131,7 +131,7 @@ The conditioning pattern: "I must conform to be accepted" or "My unique style is
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation, voice, and action
 - [[Chesed]] — Mercy, benevolent creative expression on the Tree of Life
-- [[The Artist]] — Archetype of individual creativity serving collective culture
+- The Artist — Archetype of individual creativity serving collective culture
 
 ---
 

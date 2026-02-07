@@ -142,7 +142,7 @@ Implemented local, free, self-hosted chart calculation infrastructure to elimina
 **Description:**
 Created comprehensive quarterly audit protocol for systematic Library maintenance. Includes:
 - **PROTOCOL - Library Maintenance & Audit.md** - Complete 9-phase audit checklist (2-4 hours per quarter)
-- **Link Verification Process** - Automated and manual methods for finding/fixing dead [[wikilinks]]
+- **Link Verification Process** - Automated and manual methods for finding/fixing dead wikilinks
 - **Deprecation Standards** - When and how to archive outdated content (move to `.archive/` with superseded_by metadata)
 - **Quality Thresholds** - Minimum entry requirements (Tier 1: 500+ words, 3+ wikilinks, proper YAML)
 - **Index Maintenance** - Protocol for keeping master lists current

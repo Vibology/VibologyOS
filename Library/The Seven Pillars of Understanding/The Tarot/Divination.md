@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006)
 
 **Divination** is the practice of using Tarot cards as an oracular instrument—drawing cards to gain insight into questions, situations, or the unfolding of time. Unlike [[Pathworking]] (which uses cards as doorways for inner journeying) or study (which analyzes symbolic correspondences), divination is the **dialogical encounter** between questioner, cards, and the imaginal realm.
 
-Tarot divination operates on the principle of **synchronicity**—the meaningful coincidence between inner psychological states and outer events ([[Carl Jung]]). The cards drawn are not "random" in the mechanistic sense but reflect the constellation of psychic forces active at the moment of the question. This is not fortune-telling in the sense of predicting a fixed, inevitable future, but rather **probability assessment and psychological mirroring**—revealing current trajectories, hidden dynamics, unconscious motivations, and potential outcomes (Waite 1910, Part II; De Angeles 2006).
+Tarot divination operates on the principle of **synchronicity**—the meaningful coincidence between inner psychological states and outer events (Carl Jung). The cards drawn are not "random" in the mechanistic sense but reflect the constellation of psychic forces active at the moment of the question. This is not fortune-telling in the sense of predicting a fixed, inevitable future, but rather **probability assessment and psychological mirroring**—revealing current trajectories, hidden dynamics, unconscious motivations, and potential outcomes (Waite 1910, Part II; De Angeles 2006).
 
 **Three Functions of Divination:**
 

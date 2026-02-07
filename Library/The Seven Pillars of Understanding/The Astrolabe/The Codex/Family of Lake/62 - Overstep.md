@@ -135,9 +135,9 @@ Another Shadow trap: rejecting precision entirely. If intellect creates sufferin
 
 ### Cross-Pillar Synthesis
 - [[Throat]] — Manifestation, communication, metabolizing experience into expression
-- [[Collective Logic Circuit]] — Pattern recognition serving the collective through precise articulation
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Pattern recognition serving the collective through precise articulation
 - [[Hod]] — Qabalistic sphere of Mercury, intellect, beautiful communication
-- [[Scribe Archetype]] — Keeper of precise records; translator of pattern into transmissible form
+- Scribe Archetype — Keeper of precise records; translator of pattern into transmissible form
 
 ---
 

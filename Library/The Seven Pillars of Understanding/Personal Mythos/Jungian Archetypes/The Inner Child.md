@@ -497,7 +497,7 @@ Bessel van der Kolk's research demonstrates that **trauma is stored in the body*
 - [[5th House]] — Play, creativity, self-expression, the Playful Child
 - [[4th House]] — Home, family of origin, childhood environment
 - [[Cancer ♋]] — The child needing safety and belonging
-- [[Chiron]] — The wounded healer; childhood wounds that become gifts
+- Chiron — The wounded healer; childhood wounds that become gifts
 
 ### Human Design
 - **Emotional Solar Plexus** — Emotional wave and childhood conditioning

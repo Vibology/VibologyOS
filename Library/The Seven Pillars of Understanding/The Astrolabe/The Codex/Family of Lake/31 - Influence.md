@@ -135,9 +135,9 @@ Another Shadow trap: abdicating leadership entirely. If influence risks arroganc
 
 ### Cross-Pillar Synthesis
 - [[Throat]] — Manifestation, communication, metabolizing experience into expression
-- [[Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation
 - [[Hod]] — Qabalistic sphere of communication, intellect, patterns made beautiful
-- [[King-Queen Archetype]] — Jungian mature sovereignty; leadership through wisdom and service
+- [[The Syzygy|King-Queen Archetype]] — Jungian mature sovereignty; leadership through wisdom and service
 
 ---
 

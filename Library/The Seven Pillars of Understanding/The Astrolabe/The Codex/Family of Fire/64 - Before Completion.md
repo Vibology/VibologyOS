@@ -135,9 +135,9 @@ Another Shadow trap: escapism through imagination. Using fantasy to avoid realit
 
 ### Cross-Pillar Synthesis
 - [[Head]] — Mental pressure, inspiration, cosmic questions; the drive to understand
-- [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; abstracting meaning from past
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Sensing/Abstract Circuit]] — Learning through experience over time; abstracting meaning from past
 - [[Kether]] — Qabalistic sphere of unmanifest potential; the "not yet" holding all possibility
-- [[The Dreamer Archetype]] — Processing reality through image and symbol rather than logic
+- The Dreamer Archetype — Processing reality through image and symbol rather than logic
 
 ---
 

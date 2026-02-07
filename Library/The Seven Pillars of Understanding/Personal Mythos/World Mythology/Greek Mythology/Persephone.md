@@ -402,14 +402,14 @@ If you are the **mother** (Demeter):
 - **Greek Pantheon:** [[Greek Mythology]], [[Hades]] (husband/abductor), Demeter (mother), [[Zeus]] (father/arranger), [[Hermes]] (psychopomp rescuer), [[Hecate]] (witness/guide)
 - **Descent Myths:** [[Inanna]] (voluntary descent to shadow sister), Psyche (underworld tasks), Orpheus/Eurydice (failed rescue), Christ's Harrowing of Hell
 - **Mystery Traditions:** Eleusinian Mysteries (Greater/Lesser), Orphic Mysteries (Persephone as mother of Dionysus/Zagreus)
-- **Jungian Archetypes:** [[The Kore]] (maiden/potential Self), [[The Great Mother]] (Demeter), [[The Shadow]] (underworld), [[The Anima]] (in men—the abducted soul-image)
+- **Jungian Archetypes:** [[Persephone|The Kore]] (maiden/potential Self), [[The Great Mother]] (Demeter), [[The Shadow]] (underworld), [[The Anima]] (in men—the abducted soul-image)
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Pluto ♇]] (primary correspondence—underworld, death-rebirth, transformation, sovereignty through crisis), [[Moon ☽]] (maiden/mother aspect, cycles), [[Scorpio ♏]] (death-rebirth, depth, sexual power, hidden knowledge), [[8th House]] (transformation, crisis, shared resources, death, intimacy), **Pluto-Moon aspects** (mother-daughter wounding, emotional underworld)
 - **[[The Tarot]]:** [[Death (XIII)]] (transformation, necessary ending, descent), [[The High Priestess (II)]] (mystery, veil between worlds, lunar knowledge), [[Judgement (XX)]] (resurrection, return from underworld), [[The Moon (XVIII)]] (underworld journey, shadow confrontation)
 - **[[Qabalah]]:** **Malkuth** (earthly realm, grain, seasons), **Yesod** (lunar foundation, gateway to underworld), **Death card path** (Nun, water/transformation between Netzach and Tiphareth)
 - **[[Human Design]]:** [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of the Light—descent into shadow, emotional depth), [[Solar Plexus]] (wave, depth, seasonal rhythms), [[Gate 55 - Abundance]] (Abundance/Spirit—emotional peaks and depths, seasonal mood)
-- **[[Angelology]]:** [[Archangel Correspondence - Moon|Lunar Archangel]] (emotional cycles, underworld), psychopomp angels (Hermes parallel)
+- **[[Angelology]]:** [[Gabriel|Lunar Archangel]] (emotional cycles, underworld), psychopomp angels (Hermes parallel)
 
 ---
 

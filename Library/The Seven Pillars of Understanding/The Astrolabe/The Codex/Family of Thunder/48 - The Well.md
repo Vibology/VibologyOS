@@ -131,7 +131,7 @@ The conditioning pattern: "I am not enough" or "There is never enough." This lea
 ### Cross-Pillar Synthesis
 - [[Spleen]] — The center of instinctual awareness and survival
 - [[Binah]] — Understanding, deep receptive intelligence on the Tree of Life
-- [[The Source]] — Archetype of inexhaustible reservoir
+- The Source — Archetype of inexhaustible reservoir
 
 ---
 

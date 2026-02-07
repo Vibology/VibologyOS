@@ -126,12 +126,12 @@ The conditioning pattern: "If I rest, I'm selfish" or "My worth is measured by m
 
 ### Tarot Correspondences
 - [[The Hanged Man (XII)]] — The necessary pause that restores perspective
-- [[Four of Swords (Truce)]] — Rest after battle, restoration after effort
+- [[Four of Swords|Four of Swords (Truce)]] — Rest after battle, restoration after effort
 
 ### Cross-Pillar Synthesis
 - [[Heart]] — The center of willpower and material provision
-- [[Chesed & Geburah]] — Mercy and Severity, giving and boundaries on the Tree of Life
-- [[The Provider]] — Archetype of service through sustainable rhythm
+- [[Chesed]] & [[Geburah]] — Mercy and Severity, giving and boundaries on the Tree of Life
+- The Provider — Archetype of service through sustainable rhythm
 
 ---
 

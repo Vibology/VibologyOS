@@ -47,7 +47,7 @@ Before diving into any pillar, these five entries establish the framework:
 
 **Search** — All entries are tagged by system, category, and theme. Search freely.
 
-**Follow the Links** — Each entry contains `[[wikilinks]]` to related concepts. Let curiosity guide you.
+**Follow the Links** — Each entry contains `wikilinks` to related concepts. Let curiosity guide you.
 
 ---
 

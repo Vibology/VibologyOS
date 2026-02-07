@@ -135,9 +135,9 @@ Another Shadow trap: withholding stories out of fear. Having experiences worth s
 
 ### Cross-Pillar Synthesis
 - [[Throat]] — Expression, manifestation, voice; bringing inner reality into outer form
-- [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; sharing wisdom narratively
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Sensing/Abstract Circuit]] — Learning through experience over time; sharing wisdom narratively
 - [[Hod]] — Qabalistic sphere of communication, articulated wisdom
-- [[Hermes/Mercury Archetype]] — The messenger, storyteller, bridge between realms
+- [[Hermes|Hermes/Mercury Archetype]] — The messenger, storyteller, bridge between realms
 
 ---
 

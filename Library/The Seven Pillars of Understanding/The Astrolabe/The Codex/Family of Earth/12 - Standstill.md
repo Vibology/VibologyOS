@@ -131,7 +131,7 @@ The conditioning pattern: "I must protect myself by saying no" or "If I'm cautio
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation and voice
 - [[Geburah]] — Severity, discrimination, boundaries on the Tree of Life
-- [[The Sage]] — Archetype of wisdom that knows when to speak and when to wait
+- [[The Wise Old Man|The Sage]] — Archetype of wisdom that knows when to speak and when to wait
 
 ---
 

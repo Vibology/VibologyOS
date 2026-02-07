@@ -135,9 +135,9 @@ Another Shadow trap: emotional bypassing disguised as spiritual maturity. "I've 
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional wave, hope/pain oscillation, chemistry of feeling
-- [[Collective Sensing Circuit]] — Learning through lived experience, abstracting universal pattern from individual crisis
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Sensing Circuit]] — Learning through lived experience, abstracting universal pattern from individual crisis
 - [[Geburah]] — Qabalistic judgment, necessary limitation, harsh mercy that strengthens
-- [[The Wounded Healer]] — Chiron archetype, teaching through transformed suffering
+- The Wounded Healer — Chiron archetype, teaching through transformed suffering
 
 ---
 

@@ -15,7 +15,7 @@ verification_notes: "Egyptian terms table from Dorotheus (via Brennan Ch 8). Pto
 
 ## Archetypal Essence
 
-The **terms** or **bounds** (*horia*, singular *horion*) represent the most granular level of [[essential dignity|Dignities & Rulerships]] in traditional astrology. Each of the twelve signs is subdivided into five unequal sections, each governed by one of the five non-luminary planets — Jupiter, Venus, Mercury, Mars, and Saturn. The Sun and Moon never rule bounds[^1].
+The **terms** or **bounds** (*horia*, singular *horion*) represent the most granular level of [[Planetary Condition|Dignities & Rulerships]] in traditional astrology. Each of the twelve signs is subdivided into five unequal sections, each governed by one of the five non-luminary planets — Jupiter, Venus, Mercury, Mars, and Saturn. The Sun and Moon never rule bounds[^1].
 
 If domicile rulership makes a planet the *king* of a sign and exaltation elevates it as *honored guest*, the bound lord is the *local magistrate* — the planet that governs the particular street, the specific neighborhood within the larger territory. A planet at 14° Aries is in Aries (Mars's domicile) but in Mercury's bounds — Mars sets the broad character, but Mercury defines the local terms of engagement.
 
@@ -84,7 +84,7 @@ Despite Ptolemy's intellectual authority, his system was *never widely adopted* 
 
 ### Dignity Assessment
 
-The bounds constitute the fourth level of [[essential dignity]], after domicile, exaltation, and triplicity:
+The bounds constitute the fourth level of [[Planetary Condition|essential dignity]], after domicile, exaltation, and triplicity:
 
 | Dignity Level | Metaphor | Strength |
 |---------------|----------|----------|

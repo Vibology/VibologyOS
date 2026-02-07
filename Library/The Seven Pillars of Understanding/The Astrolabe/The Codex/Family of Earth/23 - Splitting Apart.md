@@ -131,7 +131,7 @@ The conditioning pattern: "If I explain it in detail, they'll understand" or "Co
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation and voice
 - [[Binah]] — Understanding, structure, assimilation on the Tree of Life
-- [[The Prophet]] — Archetype of knowing that sees what others cannot yet see
+- The Prophet — Archetype of knowing that sees what others cannot yet see
 
 ---
 

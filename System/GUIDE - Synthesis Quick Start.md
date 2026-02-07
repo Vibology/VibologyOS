@@ -146,7 +146,7 @@ Before writing to disk:
 
 **Structure correct:**
 - [ ] YAML frontmatter complete
-- [ ] Minimum 5 [[wikilinks]]
+- [ ] Minimum 5 wikilinks
 - [ ] Scribe/Weaver voice separation maintained
 
 **Location correct:**

@@ -448,7 +448,7 @@ If you recognize Inanna's pattern of consuming partners:
 - **[[The Tarot]]:** [[The Empress (III)]] (Venus/Inanna—abundant, fertile, sovereign), [[Death (XIII)]] (descent, transformation, necessary ending), [[The Star (XVII)]] (rebirth after descent, naked truth, hope restored), [[The Tower (XVI)]] (stripping of structures, Mars/war aspect)
 - **[[Qabalah]]:** **Netzach** (Venus sphere—love, beauty, nature, art), **Geburah** (Mars sphere—severity, destruction, boundaries)—Inanna holds both spheres
 - **[[Human Design]]:** [[Gate 06 - Conflict]] (Conflict/Intimacy—Venus gate, emotional friction in bonding), [[Gate 36 - Darkening of the Light]] (Crisis/Darkening of the Light—descent into shadow), Emotional Solar Plexus (wave, depth, transformation)
-- **[[Angelology]]:** [[Archangel Correspondence - Venus|Venus Archangel]] (love, beauty, harmony)
+- **[[Angelology]]:** [[Haniel|Venus Archangel]] (love, beauty, harmony)
 
 ### Mythology and Literature
 - **Dying-and-Rising Gods:** Dumuzi/Tammuz, Adonis, Attis, Osiris (consorts who descend and return)

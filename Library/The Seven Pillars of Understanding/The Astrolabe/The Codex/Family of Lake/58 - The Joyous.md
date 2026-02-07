@@ -136,9 +136,9 @@ Another Shadow trap: suppressing critical voice entirely. If correction creates 
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure, stress, adrenaline; the fuel to act and improve
-- [[Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation and correction
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Pattern recognition serving the collective; understanding through observation and correction
 - [[Hod]] — Qabalistic sphere of intellect, communication, patterns refined
-- [[Eternal Youth]] — Jungian capacity to remain engaged with possibility; vitality that refuses calcification
+- [[Puer and Puella|Eternal Youth]] — Jungian capacity to remain engaged with possibility; vitality that refuses calcification
 
 ---
 

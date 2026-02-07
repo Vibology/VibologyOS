@@ -309,7 +309,7 @@ When facing a deadlock between two positions (inner or outer conflict):
 ### Within Personal Mythos
 - **Egyptian Pantheon:** [[Egyptian Mythology]], [[Ra]] (solar logos), [[Isis]] (magic/wisdom), [[Osiris]] (underworld judge), [[Horus]] (whose eye Thoth healed), [[Set]] (chaos opponent)
 - **Trickster-Sages:** [[Hermes]] (Greek messenger/trickster), [[Prometheus]] (fire-thief), Loki (Norse trickster), Coyote (Native American), Anansi (West African spider-trickster)
-- **Jungian Archetypes:** [[The Wise Old Man]] (wisdom, guidance), [[The Trickster]] (amoral cunning, creative chaos), [[The Magician (I)]] (transformative will, "As above, so below")
+- **Jungian Archetypes:** [[The Wise Old Man]] (wisdom, guidance), [[The Joker|The Trickster]] (amoral cunning, creative chaos), [[The Magician (I)]] (transformative will, "As above, so below")
 
 ### Cross-System Integration
 - **[[Astrology]]:** [[Mercury ☿]] (primary correspondence—communication, intellect, magic, mediation, trickster), [[Moon ☽]] (lunar measurement, reflected wisdom), [[Gemini ♊]] / [[Virgo ♍]] (Mercurial signs—mental agility, precision)

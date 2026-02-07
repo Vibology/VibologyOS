@@ -28,7 +28,7 @@ The author, writing under the pseudonym of **Dionysius the Areopagite**—the At
 
 Through this treatise and its companion work *The Divine Names*, **medieval Christendom absorbed Neoplatonic philosophy wholesale**—not as heresy, but as orthodox theology. Pseudo-Dionysius described the universe as a **hierarchy of emanations** where divine light ("**thearchy**") flows downward from the Godhead, diminishing in brilliance as it descends into matter, creating a **chain of being** from pure divine unity to material creation.
 
-The Dionysian system provided the conceptual framework for [[Thomas Aquinas]], [[Dante Alighieri]], and countless medieval mystics. It shaped liturgy, iconography, and contemplative practice for over a millennium. Even after the Reformation challenged its authority, the ninefold structure remained embedded in Christian angelology—so deeply that most believers today assume it derives from scripture itself, rather than from a 5th-century Neoplatonic synthesis.
+The Dionysian system provided the conceptual framework for Thomas Aquinas, Dante Alighieri, and countless medieval mystics. It shaped liturgy, iconography, and contemplative practice for over a millennium. Even after the Reformation challenged its authority, the ninefold structure remained embedded in Christian angelology—so deeply that most believers today assume it derives from scripture itself, rather than from a 5th-century Neoplatonic synthesis.
 
 ---
 
@@ -70,7 +70,7 @@ This was **not fraud in the modern sense**. Pseudonymous authorship was a recogn
 
 The ruse succeeded spectacularly. Medieval theologians treated the Dionysian corpus as **near-scriptural authority**, second only to the Bible and the Church Fathers. It was cited in ecumenical councils, quoted in liturgies, and studied in monastic schools. Only during the Renaissance did scholars like **Lorenzo Valla** and **Erasmus** recognize the texts as pseudonymous, based on linguistic analysis and theological content inconsistent with 1st-century Christianity.
 
-But by then, the **theology had become orthodox**. The Dionysian hierarchy was too deeply embedded in Christian thought to be dislodged. [[Thomas Aquinas]] had baptized it into Scholasticism. [[Dante]] had immortalized it in the *Paradiso*. The nine orders had become **the standard map** of the angelic realm, regardless of authorship.
+But by then, the **theology had become orthodox**. The Dionysian hierarchy was too deeply embedded in Christian thought to be dislodged. Thomas Aquinas had baptized it into Scholasticism. Dante had immortalized it in the *Paradiso*. The nine orders had become **the standard map** of the angelic realm, regardless of authorship.
 
 ### Neoplatonic Foundations: Proclus and the Chain of Being
 
@@ -202,9 +202,9 @@ The **Qabalistic Tree of Life** has **ten Sephiroth** by nature—not nine. To m
 
 Pseudo-Dionysius **does not list the Ishim** because his system reflects a Christian emphasis on **transcendence**—angels as mediators *above* humanity, drawing souls upward toward God. The Qabalistic system includes **immanence**—God's presence *within* the material world. The Ishim represent this immanent dimension: they are not above humanity but *among* humanity, demonstrating that divine light can fully incarnate in matter.
 
-**[[Gustav Davidson]]** notes that in the Jewish system (Maimonides, Zohar), the Ishim constitute the **tenth and lowest class**, appearing below the Cherubim (who occupy different positions in Jewish vs. Christian hierarchies). Dionysius's Cherubim are second from the top (First Triad); Maimonides' Cherubim can appear lower, creating divergent mappings between the two systems (Davidson).
+**Gustav Davidson** notes that in the Jewish system (Maimonides, Zohar), the Ishim constitute the **tenth and lowest class**, appearing below the Cherubim (who occupy different positions in Jewish vs. Christian hierarchies). Dionysius's Cherubim are second from the top (First Triad); Maimonides' Cherubim can appear lower, creating divergent mappings between the two systems (Davidson).
 
-**[[Robert Wang]]** explains that the Golden Dawn solved this by extending the Dionysian nine orders to ten, ensuring perfect correspondence between angelic orders and Sephiroth (Wang, pp. 115, 266). This was not arbitrary innovation but **restoration of pattern**—honoring the ten-fold structure fundamental to Jewish mysticism while preserving the Dionysian framework intact.
+**Robert Wang** explains that the Golden Dawn solved this by extending the Dionysian nine orders to ten, ensuring perfect correspondence between angelic orders and Sephiroth (Wang, pp. 115, 266). This was not arbitrary innovation but **restoration of pattern**—honoring the ten-fold structure fundamental to Jewish mysticism while preserving the Dionysian framework intact.
 
 ### Sephirotic Mapping Variations
 
@@ -235,7 +235,7 @@ Both systems agree on the **structure**: divine light emanates downward through 
 
 - [[The Ten Angelic Orders]] — Complete Qabalistic extension (nine + Ishim)
 - [[The Three Triads]] — Detailed triad structure
-- [[The Seven Archangels]] — Named archangels (Michael, Gabriel, Raphael, Uriel, Chamuel, Jophiel, Zadkiel)
+- [[The Seven Planetary Archangels|The Seven Archangels]] — Named archangels (Michael, Gabriel, Raphael, Uriel, Chamuel, Jophiel, Zadkiel)
 - [[Seraphim]], [[Cherubim]], [[Thrones]], [[Dominations]], [[Virtues]], [[Powers]], [[Principalities]], [[Archangels]], [[Angels]] — Individual order entries
 - [[Ishim]] — The tenth order (Qabalistic addition for Malkuth)
 
@@ -247,20 +247,20 @@ Both systems agree on the **structure**: divine light emanates downward through 
 
 ### Patristic & Medieval Sources
 
-- [[Thomas Aquinas]] — *Summa Theologica* (standardized the hierarchy)
-- [[Dante Alighieri]] — *Paradiso* Cantos 28-29 (poetic immortalization)
-- [[Gregory the Great]] — Earlier (incorrect) mapping corrected by Dante
+- Thomas Aquinas — *Summa Theologica* (standardized the hierarchy)
+- Dante Alighieri — *Paradiso* Cantos 28-29 (poetic immortalization)
+- Gregory the Great — Earlier (incorrect) mapping corrected by Dante
 
 ### Philosophical Parallels
 
-- **Neoplatonism:** [[Proclus]], [[Plotinus]] — Chain of being, emanation doctrine
-- **Jungian:** [[Archetypes]] as mediators between the collective unconscious and conscious ego
-- **Perennial Philosophy:** [[Aldous Huxley]] — Universal mystical insight across traditions
+- **Neoplatonism:** Proclus, Plotinus — Chain of being, emanation doctrine
+- **Jungian:** [[Jungian Archetypes|Archetypes]] as mediators between the collective unconscious and conscious ego
+- **Perennial Philosophy:** Aldous Huxley — Universal mystical insight across traditions
 
 ### Cross-Pillar Synthesis
 
-- **Astrology:** [[Planetary Spheres]] as descending levels of emanation
-- **Tarot:** [[The Major Arcana]] as descent from Fool (Kether) to World (Malkuth)
+- **Astrology:** Planetary Spheres as descending levels of emanation
+- **Tarot:** [[The Fool's Journey|The Major Arcana]] as descent from Fool (Kether) to World (Malkuth)
 - **Human Design:** [[Centers]] as energy receivers and transformers
 - **Alchemy:** [[Separation]] and [[Coagulation]] — Spirit descending into matter, matter ascending into spirit
 

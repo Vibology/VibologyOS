@@ -135,9 +135,9 @@ The underlying wound: believing either that values don't matter (nihilism leadin
 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — Survival instinct, health, intuitive awareness in the present moment
-- [[Tribal Ego Circuit]] — Survival through will, maintaining structures that protect the tribe
+- [[Channels#Tribal Ego Circuit|Tribal Ego Circuit]] — Survival through will, maintaining structures that protect the tribe
 - [[Chesed]] — Qabalistic sphere of benevolent authority, structure through love
-- [[The Guardian Archetype]] — Universal pattern of protecting sacred space and collective well-being
+- [[The Threshold Guardian|The Guardian Archetype]] — Universal pattern of protecting sacred space and collective well-being
 
 ---
 

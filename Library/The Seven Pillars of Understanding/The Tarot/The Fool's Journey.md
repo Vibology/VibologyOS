@@ -18,7 +18,7 @@ verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006)
 
 **The Fool's Journey** is the interpretive framework that reads the 22 Major Arcana as a sequential narrative of psychological and spiritual development—the soul's passage from innocent potential ([[The Fool (0)|The Fool]]) through worldly experience, crisis, death, and rebirth, culminating in wholeness ([[The World (XXI)|The World]]).
 
-This narrative lens reveals the Tarot as a **map of individuation**—parallel to [[Carl Jung|Jung's]] developmental psychology, [[The Hero's Journey]] of comparative mythology, and the alchemical opus of transformation. The Fool is the protagonist; each Major Arcanum represents a stage, encounter, or transformation along the way.
+This narrative lens reveals the Tarot as a **map of individuation**—parallel to Jung's developmental psychology, [[The Hero's Journey]] of comparative mythology, and the alchemical opus of transformation. The Fool is the protagonist; each Major Arcanum represents a stage, encounter, or transformation along the way.
 
 **Three Foundational Principles:**
 
@@ -651,7 +651,7 @@ Before the Magician's will, there is the Fool's pure **openness**—the void pre
 The Fool is **consciousness itself**, watching the journey unfold. In every reading, the querent is the Fool.
 
 **3. The Trickster:**
-The Fool disrupts, questions, plays. He is the **divine idiot** who speaks truth because he is unbound by convention (Jungian [[The Trickster]] archetype).
+The Fool disrupts, questions, plays. He is the **divine idiot** who speaks truth because he is unbound by convention (Jungian [[The Joker|The Trickster]] archetype).
 
 **4. The Eternal Return:**
 Reaching the World, the soul becomes the Fool again—ready to leap into the next unknown. The journey is **spiral, not linear**.

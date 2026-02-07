@@ -135,9 +135,9 @@ Another Shadow trap: passive surrender to circumstance. If ego control has faile
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, direction, love; the magnetic monopole; Higher Self alignment
-- [[Individual Centering Circuit]] — Empowerment through unique alignment with universal will
+- [[Channels#Individual Centering Circuit|Individual Centering Circuit]] — Empowerment through unique alignment with universal will
 - [[Kether]] — Qabalistic sphere where personal will dissolves into divine will
-- [[The Holy Fool]] — Wisdom appearing as simplicity; power manifesting as surrender; divine idiocy
+- [[The Joker|The Holy Fool]] — Wisdom appearing as simplicity; power manifesting as surrender; divine idiocy
 
 ---
 

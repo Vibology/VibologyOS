@@ -133,7 +133,7 @@ The conditioning pattern: "The now is boring; the interesting stuff is elsewhere
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation and voice
 - [[Malkuth]] — The Kingdom, sphere of present manifestation on the Tree of Life
-- [[The Witness]] — Archetype of awareness in the now
+- The Witness — Archetype of awareness in the now
 
 ---
 

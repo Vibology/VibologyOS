@@ -219,7 +219,7 @@ Now interpret. Ask:
 4. **What shadow material is surfacing?** - The disowned parts demanding integration
 5. **What is the "Third Meaning"?** - The emergent insight no single system reveals
 
-Use mythopoetic language. Reference [[Library]] entries liberally with [[wikilinks]].
+Use mythopoetic language. Reference [[Library]] entries liberally with wikilinks.
 
 ### Step 6: Provide Practical Application
 
@@ -276,7 +276,7 @@ Final synthesis pieces should follow this general arc, written in **mythopoetic 
 
 5. **Questions That Remain** - What stays open? Synthesis gathers what can be gathered but does not pretend to close every aperture.
 
-6. **Internal Links** - Minimum 5 [[wikilinks]] to Library entries.
+6. **Internal Links** - Minimum 5 wikilinks to Library entries.
 
 7. **Changelog** - Track updates as understanding deepens.
 
@@ -318,7 +318,7 @@ Synthesis is observation through multiple instruments held in dynamic tension. T
 
 - 2+ systems integrated with meaningful dialogue (not passing mentions)
 - 1500-3000 words minimum (comprehensive pieces: 6000+)
-- 5+ [[wikilinks]] to Library entries
+- 5+ wikilinks to Library entries
 - "Third Meaning" explicitly articulated (insight neither system reveals alone)
 - Practical wisdom section with actionable guidance
 

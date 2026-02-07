@@ -135,9 +135,9 @@ Another Shadow trap: conflict addiction. Using friction as the only way to feel 
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional awareness; spirit; the wave that must be honored before decisions
-- [[Tribal Defense Circuit]] — Survival through support; intimacy, bonding, and resource sharing within the tribe
+- [[Channels#Tribal Defense Circuit|Tribal Defense Circuit]] — Survival through support; intimacy, bonding, and resource sharing within the tribe
 - [[Geburah]] — Qabalistic sphere of boundaries; the corrective force that refines
-- [[Mars Archetype]] — Assertion, conflict, defense; healthy aggression in service to integrity
+- [[Mars ♂|Mars Archetype]] — Assertion, conflict, defense; healthy aggression in service to integrity
 
 ---
 

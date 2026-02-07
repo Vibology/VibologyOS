@@ -479,7 +479,7 @@ The Imago Dei is that **infinite something**—the numinous center that gives li
 - [[Gate 10 - Treading]] — Behavior of the Self, self-love
 
 ### Angelology
-- [[Hierarchical Consciousness]] — Angels as differentiated aspects of the divine mind
+- [[The Celestial Hierarchy|Hierarchical Consciousness]] — Angels as differentiated aspects of the divine mind
 - [[Seraphim]] — The burning ones, closest to the God-image
 - [[Metatron]] — The angel of the Presence, the interface between God and creation
 

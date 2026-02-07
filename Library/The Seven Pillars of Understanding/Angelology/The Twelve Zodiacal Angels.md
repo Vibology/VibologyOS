@@ -533,7 +533,7 @@ The zodiacal angels are **not you**—they are **forces working through you**, a
 ## Cross-References
 
 ### Within Angelology
-- [[The Nine Orders of Angels]] (Vertical hierarchy vs. horizontal zodiacal pattern)
+- [[The Ten Angelic Orders|The Nine Orders of Angels]] (Vertical hierarchy vs. horizontal zodiacal pattern)
 - [[The Seven Planetary Archangels]] (Michael, Gabriel, Raphael, Haniel, Tzadkiel, Tzaphkiel, Kamael)
 - [[Iophiel]] (Archangel of Chokmah/Mazloth, overseer of zodiacal pattern as a whole)
 - [[Haniel]] (Archangel of Venus, presides over Book 5 where zodiacal angels are revealed)

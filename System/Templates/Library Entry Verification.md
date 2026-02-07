@@ -53,7 +53,7 @@ date_created: 2026-01-23
 - [Confirm accuracy against Grimoire mythology inventory]
 
 ### Cross-System References
-- Verify [[wikilinks]] point to valid integration points
+- Verify wikilinks point to valid integration points
 - Confirm cross-pillar correspondences are legitimate
 - **Status:** ☐ VERIFIED / ☐ NOT APPLICABLE / ☐ UNVERIFIED
 

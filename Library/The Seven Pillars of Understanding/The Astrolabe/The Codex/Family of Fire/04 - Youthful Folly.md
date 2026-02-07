@@ -135,9 +135,9 @@ Another Shadow trap: mental paralysis. If all formulas are provisional, if knowl
 
 ### Cross-Pillar Synthesis
 - [[Ajna]] — Mental awareness; conceptualization; pattern recognition; not Authority
-- [[Collective Logic Circuit]] — Shared understanding through testable patterns; cause-and-effect thinking
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared understanding through testable patterns; cause-and-effect thinking
 - [[Daath]] — Qabalistic sphere of provisional understanding; knowledge in the Abyss
-- [[Puer Aeternus]] — Jungian archetype of eternal youth; the beginner's mind
+- Puer Aeternus — Jungian archetype of eternal youth; the beginner's mind
 
 ---
 

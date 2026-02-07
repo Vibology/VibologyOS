@@ -131,7 +131,7 @@ The conditioning pattern: "I need something new to feel alive" or "Staying still
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation and voice
 - [[Tiphareth]] — Beauty, integration of experience on the Tree of Life
-- [[The Seeker]] — Archetype of soul-hunger for new territory
+- The Seeker — Archetype of soul-hunger for new territory
 
 ---
 

@@ -135,9 +135,9 @@ Another Shadow trap: forced moderation. Using spiritual bypassing to suppress na
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Self, identity, love, direction; the magnetic core that knows who you are
-- [[Collective Logic Circuit]] — Pattern recognition; understanding where each frequency fits within the whole
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Pattern recognition; understanding where each frequency fits within the whole
 - [[Tiphareth]] — Qabalistic sphere balancing all extremes; the heart of the Tree
-- [[Everyman Archetype]] — Jungian capacity to see self in all others; shared humanity
+- Everyman Archetype — Jungian capacity to see self in all others; shared humanity
 
 ---
 

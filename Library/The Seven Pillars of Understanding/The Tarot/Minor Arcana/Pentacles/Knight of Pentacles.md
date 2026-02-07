@@ -193,7 +193,7 @@ The teaching: Most people quit not because the work is hard but because they can
 - Marathon vs. Sprint - Endurance athletics as metaphor for life
 
 ### Psychological
-- [[Integrity]] - Doing what you said you would do
+- Integrity - Doing what you said you would do
 - Consistency Over Intensity - Sustainable practice beats periodic brilliance
 - The Value of Boring - Most transformation is un-dramatic
 - Persistence as Wisdom - The capacity to endure the unglamorous middle

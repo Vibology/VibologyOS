@@ -126,13 +126,13 @@ The conditioning pattern: "I must control to feel secure" or "Power means making
 
 ### Tarot Correspondences
 - [[The Emperor (IV)]] — Authority, structure, governance
-- [[Four of Disks (Power)]] — Material security and resource management
+- [[Four of Pentacles|Four of Disks (Power)]] — Material security and resource management
 
 ### Cross-Pillar Synthesis
 - [[Throat]] — The center of manifestation and voice
 - [[Heart]] — The center of willpower and tribal authority
 - [[Chesed]] — Mercy, benevolent rulership on the Tree of Life
-- [[The Sovereign]] — Archetype of authority serving collective survival
+- The Sovereign — Archetype of authority serving collective survival
 
 ---
 

@@ -135,9 +135,9 @@ Another Shadow trap: agreement as control. If Gate 40's bargaining becomes manip
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional awareness; the wave; mood; emotional motor for bonding
-- [[Tribal Ego Circuit]] — Bonding through bargain; community through reciprocal obligations
+- [[Channels#Tribal Ego Circuit|Tribal Ego Circuit]] — Bonding through bargain; community through reciprocal obligations
 - [[Malkuth]] — Qabalistic sphere of manifest community; spirit embodied in shared life
-- [[The Hearth]] — Hestia/Vesta; the center that holds; belonging as chosen commitment
+- The Hearth — Hestia/Vesta; the center that holds; belonging as chosen commitment
 
 ---
 

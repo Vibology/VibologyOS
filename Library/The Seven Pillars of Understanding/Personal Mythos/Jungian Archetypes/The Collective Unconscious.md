@@ -75,7 +75,7 @@ We never experience the archetype itself—only its **images**. Just as we never
 - [[The Hero]] — The questing, sacrificing, dragon-slaying protagonist
 - [[The Self]] — The totality, the center and circumference of the psyche, the God-image
 - [[The Divine Child]] — Innocence, new beginning, potential
-- [[The Trickster]] — Chaos, liminality, boundary-crossing
+- [[The Joker|The Trickster]] — Chaos, liminality, boundary-crossing
 
 Each archetype is **bipolar**—capable of positive or negative manifestation. The Great Mother is both nurturing and devouring; the Hero is both redeemer and destroyer; the Wise Old Man is both guide and deceiver.
 

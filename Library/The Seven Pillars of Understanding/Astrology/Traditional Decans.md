@@ -15,7 +15,7 @@ verification_notes: "Chaldean face table from Brennan Ch 8. Egyptian decan origi
 
 ## Archetypal Essence
 
-The **decans** — from the Greek *dekanos* ("ten") — divide each zodiacal sign into three segments of 10°, yielding thirty-six faces across the complete circle. They are the most granular subdivision of the zodiac used systematically in traditional astrology, and the **face** (*prosōpon*) constitutes the fifth and weakest level of [[essential dignity|Dignities & Rulerships]][^1].
+The **decans** — from the Greek *dekanos* ("ten") — divide each zodiacal sign into three segments of 10°, yielding thirty-six faces across the complete circle. They are the most granular subdivision of the zodiac used systematically in traditional astrology, and the **face** (*prosōpon*) constitutes the fifth and weakest level of [[Planetary Condition|Dignities & Rulerships]][^1].
 
 If the domicile ruler is the *king*, the exaltation ruler the *honored guest*, the triplicity ruler the *ally*, and the bound lord the *local magistrate*, then the face ruler is the *stranger recognized by appearance* — a planet that possesses no deep authority in the territory but is at least *known*, not entirely foreign. The face provides the barest foothold of dignity, enough to prevent a planet from being **peregrine** — the condition of having no dignities at all, of being a wanderer without jurisdiction or recognition in any system[^1].
 
@@ -160,7 +160,7 @@ The Chaldean sequence's independence from sign rulership is itself psychological
 - [[Triplicity Rulers]] — Third dignity level; triplicity logic also generates an alternative decan system
 - [[Reception]] — Exchange by face (weakest form of dignity exchange)
 - [[Natal Chart]] — Faces within the dignity assessment step of the Hellenistic reading methodology
-- [[Dignities & Rulerships]] — The complete five-level dignity hierarchy
+- [[Planetary Condition|Dignities & Rulerships]] — The complete five-level dignity hierarchy
 
 ### Cross-Pillar
 - [[The Persona]] — Jungian concept of the social mask; the face as the zodiac's persona system

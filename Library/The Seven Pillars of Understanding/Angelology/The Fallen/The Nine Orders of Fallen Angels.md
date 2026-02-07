@@ -340,16 +340,16 @@ For **humans** who struggle with demonic influence (internal or external), the p
 
 ### Within Angelology
 - [[Lucifer]] (The Morning Star, chief of all fallen angels)
-- [[The Nine Orders of Angels]] (The heavenly hierarchy that the demonic inverts)
+- [[The Ten Angelic Orders|The Nine Orders of Angels]] (The heavenly hierarchy that the demonic inverts)
 - [[Seraphim]] | [[Cherubim]] | [[Thrones]] | [[Dominations]] | [[Virtues]] | [[Powers]] | [[Principalities]] | [[Archangels]] | [[Angels]] (Individual orders and their fallen counterparts)
 - [[Michael]] (Archangel who wars against Lucifer)
 - [[Discernment of Spirits]] (Practice of distinguishing demonic from angelic presence)
 
 ### Cross-System Integration
-- **Jungian Psychology:** [[The Shadow]] | [[Possession]] | [[The Trickster]] | [[The Devouring Father]] | [[Inflation]] | [[Fragmentation]]
+- **Jungian Psychology:** [[The Shadow]] | Possession | [[The Joker|The Trickster]] | [[The Senex|The Devouring Father]] | [[Inflation]] | Fragmentation
 - **Qabalah:** [[Qlippoth]] (The "husks" or shells—the demonic inversions of the Sephiroth)
 - **Tarot:** [[The Devil (XV)|The Devil]] (The shadow of materiality and bondage) | [[The Tower (XVI)|The Tower]] (The destruction wrought by pride)
-- **Mythology:** [[Prometheus]] (Fire stolen from gods) | [[Loki]] (Trickster-destroyer) | [[Set]] (Egyptian god of chaos) | [[Ahriman]] (Zoroastrian principle of evil)
+- **Mythology:** [[Prometheus]] (Fire stolen from gods) | Loki (Trickster-destroyer) | [[Set]] (Egyptian god of chaos) | Ahriman (Zoroastrian principle of evil)
 - **Scripture:** Genesis 3 (The serpent in Eden) | Job 1-2 (Satan as accuser) | Luke 10:18 (*"I saw Satan fall like lightning"*) | Revelation 12 (War in Heaven) | Ephesians 6:12 (*"Our struggle is not against flesh and blood, but against... the spiritual forces of evil in the heavenly realms"*)
 
 ---

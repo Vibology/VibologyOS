@@ -234,7 +234,7 @@ Those with prominent Cancer, Sagittarius, Aries, or Scorpio placements may find 
 - **Greek Equivalent:** [[Artemis]] — Greek virgin huntress goddess
 - **Related Deities:**
   - [[Hecate]] — Underworld aspect of the triple goddess
-  - [[Luna]] — Pure lunar form (Roman personification)
+  - [[Moon ☽|Luna]] — Pure lunar form (Roman personification)
   - [[Persephone]] — Kore/maiden who descends to become queen
   - [[Inanna]] — Sumerian descent goddess (autonomous feminine archetype)
 

@@ -125,7 +125,7 @@ The conditioning pattern: "I should be good at this already" or "If I have to pr
 - Gate 48 (The Well) in the Spleen — When connected, Enthusiasm gains depth of resourcefulness and becomes reliable expertise
 
 ### Tarot Correspondences
-- [[Eight of Disks (Prudence)]] — Patient, methodical refinement of craft
+- [[Eight of Pentacles|Eight of Disks (Prudence)]] — Patient, methodical refinement of craft
 - [[The Magician (I)]] — Skill in channeling force from above to below
 
 ### Cross-Pillar Synthesis

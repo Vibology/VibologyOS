@@ -135,9 +135,9 @@ Another Shadow trap: avoiding contemplation entirely. If thinking creates pressu
 
 ### Cross-Pillar Synthesis
 - [[Ajna]] — Conceptualization, mental processing, awareness through thinking
-- [[Collective Abstract Circuit]] — Learning through experience over time; wisdom emerging from accumulated pattern
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Abstract Circuit]] — Learning through experience over time; wisdom emerging from accumulated pattern
 - [[Binah]] — Qabalistic sphere of Saturn, limitation, the womb that confines to create
-- [[Wise Old Man-Woman]] — Jungian archetype of wisdom earned through suffering
+- [[The Wise Old Man|Wise Old Man-Woman]] — Jungian archetype of wisdom earned through suffering
 
 ---
 

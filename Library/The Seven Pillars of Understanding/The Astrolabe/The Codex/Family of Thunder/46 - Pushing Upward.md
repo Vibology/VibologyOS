@@ -131,7 +131,7 @@ The conditioning pattern: "The spiritual path requires transcending the body" or
 ### Cross-Pillar Synthesis
 - [[G Center]] — The center of identity, direction, and love
 - [[Malkuth]] — The Kingdom, physical manifestation on the Tree of Life
-- [[The Dancer]] — Archetype of embodied ecstasy
+- The Dancer — Archetype of embodied ecstasy
 
 ---
 

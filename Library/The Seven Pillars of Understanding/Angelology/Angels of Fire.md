@@ -74,9 +74,9 @@ This category encompasses several specific orders and named angels:
 
 ### 1. The Seraphim: The Burning Ones
 
-The **[[Seraphim]]** (singular: *Seraph*; Hebrew: שרפים) are the **highest order** of the celestial hierarchy, whose name literally means **"Burning Ones"** or **"Fiery Serpents"** ([[Gustav Davidson]]).
+The **[[Seraphim]]** (singular: *Seraph*; Hebrew: שרפים) are the **highest order** of the celestial hierarchy, whose name literally means **"Burning Ones"** or **"Fiery Serpents"** (Gustav Davidson).
 
-**[[Gustav Davidson]]** defines them as:
+**Gustav Davidson** defines them as:
 
 > "Angels of fire, love, and light who surround the Throne of Glory, intoning the Trisagion ('Holy, Holy, Holy')."
 
@@ -106,11 +106,11 @@ Fire is the **primary medium** through which the Divine Presence manifests in th
 
 > *"There the angel of the LORD appeared to him in flames of fire from within a bush. Moses saw that though the bush was on fire it did not burn up."*
 
-The **angel of the LORD** (mal'akh YHWH) appeared to Moses as **fire within the bush**. [[Gustav Davidson]] identifies this angel variously as **Zagzagel** or **[[Michael]]**.
+The **angel of the LORD** (mal'akh YHWH) appeared to Moses as **fire within the bush**. Gustav Davidson identifies this angel variously as **Zagzagel** or **[[Michael]]**.
 
 **The paradox**: The bush **burns but is not consumed**. This is the central mystery of sacred fire—it **transforms without destroying**. The bush represents matter illuminated by spirit; the fire is **divine energy** animating form without annihilating it.
 
-God speaks from within the fire: *"I AM WHO I AM"* (Exodus 3:14)—the Name of pure Being ([[EHEIEH]], associated with [[Kether]]). The fire is the **manifestation** of the unmanifest Godhead.
+God speaks from within the fire: *"I AM WHO I AM"* (Exodus 3:14)—the Name of pure Being ([[Eheieh|EHEIEH]], associated with [[Kether]]). The fire is the **manifestation** of the unmanifest Godhead.
 
 #### The Pillar of Fire (Exodus 13:21-22)
 
@@ -151,9 +151,9 @@ The fire here is **pentecostal fire**—the fire of inspiration, charisma, gloss
 
 #### Michael: Ruler of Solar Fire
 
-**[[Michael]]** (מיכאל, "Who is like God?") is the **Archangel of Fire** in the Golden Dawn and Western ceremonial magic traditions. [[Gustav Davidson]] cites him as the **"Ruler of Solar Fire."**
+**[[Michael]]** (מיכאל, "Who is like God?") is the **Archangel of Fire** in the Golden Dawn and Western ceremonial magic traditions. Gustav Davidson cites him as the **"Ruler of Solar Fire."**
 
-**In the Lesser Banishing Ritual of the Pentagram ([[LBRP]]):**
+**In the Lesser Banishing Ritual of the Pentagram ([[Lesser Banishing Ritual of the Pentagram|LBRP]]):**
 - Michael is invoked at the **South** (the quarter of Fire, Summer, Noon)
 - He appears as a towering figure in **red robes**, wielding a **flaming sword**
 - His color is **red** (passion, heat, blood, Mars)
@@ -185,7 +185,7 @@ In Jewish mystical tradition, Uriel is sometimes placed at the **North** (the qu
 
 #### Nathaniel: Lord Over Fire
 
-**Nathaniel** (Nathanel) is specifically listed by [[Gustav Davidson]] as the **"angel of fire"** or **"lord over fire."**
+**Nathaniel** (Nathanel) is specifically listed by Gustav Davidson as the **"angel of fire"** or **"lord over fire."**
 
 **Biblical reference**: Nathaniel saved the **seven men** from the fire in the contest with the prophets of Baal (1 Kings 18:20-40, though the text does not name an angel explicitly—this is apocryphal/midrashic attribution). He also burned the servants of Jair (2 Kings 1:9-12, where Elijah calls down fire from heaven).
 
@@ -201,11 +201,11 @@ The **[[Ishim]]** (אישים, "Men" or "Personages") or **Ashim** (אשים, "F
 
 > *"Who maketh his Angels Spirits and his Ministers a flaming Fire."*
 
-[[Robert Wang]] calls them the **"Flames of Fire,"** emphasizing their dual nature:
+Robert Wang calls them the **"Flames of Fire,"** emphasizing their dual nature:
 - **Human origin** — *Ishim* derives from *ish* (אִישׁ, "man"), suggesting sanctified humanity
 - **Spiritual function** — *Ashim* derives from *esh* (אֵשׁ, "fire"), suggesting purifying flames
 
-[[Gustav Davidson]] notes they are "**composed of fire and snow**"—the paradoxical union of opposites. Fire = spirit, active principle, ascent; snow = matter, passive principle, crystallization. The Ishim hold these opposites in balance within [[Malkuth]], proving that **matter can be spiritualized** and **spirit can be embodied** without either being destroyed.
+Gustav Davidson notes they are "**composed of fire and snow**"—the paradoxical union of opposites. Fire = spirit, active principle, ascent; snow = matter, passive principle, crystallization. The Ishim hold these opposites in balance within [[Malkuth]], proving that **matter can be spiritualized** and **spirit can be embodied** without either being destroyed.
 
 ---
 
@@ -312,7 +312,7 @@ In ancient practice (and some modern ceremonial magic), **fire offerings** (ince
 
 ### Cross-Pillar Synthesis
 
-- **Astrology:** [[Fire Signs]] (Aries, Leo, Sagittarius), [[The Sun (XIX)]], [[Mars ♂]]
+- **Astrology:** Fire Signs (Aries, Leo, Sagittarius), [[The Sun (XIX)]], [[Mars ♂]]
 - **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[The Tower (XVI)]] (Key XVI, Geburah lightning)
 - **Alchemy:** [[Calcination]] (first operation—burning away impurities), **Red King** (Sol, solar fire)
 - **Human Design:** [[Emotional Authority]] (Solar Plexus wave—fire rising and falling)

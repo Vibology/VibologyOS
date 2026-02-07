@@ -135,9 +135,9 @@ Another Shadow trap: selective listening that becomes judgment. If the vessel on
 
 ### Cross-Pillar Synthesis
 - [[G Center]] — Identity, direction, love; the magnetic pull toward one's correct path
-- [[Collective Sharing Circuit]] — Learning through experience over time; sharing patterns for future generations
+- [[Channels#2. Collective Circuit|Collective Sharing Circuit]] — Learning through experience over time; sharing patterns for future generations
 - [[Chesed]] — Qabalistic sphere of loving-kindness; benevolent receiving
-- [[The Witness Archetype]] — Universal pattern of observing without intervention
+- The Witness Archetype — Universal pattern of observing without intervention
 
 ---
 

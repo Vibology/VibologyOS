@@ -135,7 +135,7 @@ Another Shadow trap: aestheticism disconnected from truth—beauty for its own s
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional awareness; the wave across time; motor for desire and feeling
-- [[Individual Centering Circuit]] — Empowerment through unique emotional expression
+- [[Channels#Individual Centering Circuit|Individual Centering Circuit]] — Empowerment through unique emotional expression
 - [[Hod]] — Qabalistic sphere governing form, language, beauty, presentation
 - [[The Persona]] — Jungian mask; the face shown to the world, necessary and dangerous
 

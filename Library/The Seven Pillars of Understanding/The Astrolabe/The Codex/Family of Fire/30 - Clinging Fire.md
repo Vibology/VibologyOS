@@ -135,9 +135,9 @@ Another Shadow trap: spiritual bypassing of desire. Using "non-attachment" teach
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional awareness, spirit, the wave that teaches through feeling
-- [[Collective Sensing/Abstract Circuit]] — Learning through experience over time; wisdom extracted from emotional depth
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Sensing/Abstract Circuit]] — Learning through experience over time; wisdom extracted from emotional depth
 - [[Netzach]] — Qabalistic sphere of desire, passion, emotional experience
-- [[Eros Function]] — Jungian principle of desire, value, relationship
+- Eros Function — Jungian principle of desire, value, relationship
 
 ---
 

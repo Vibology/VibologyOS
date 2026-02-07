@@ -136,9 +136,9 @@ Another Shadow trap: paralysis disguised as meditation. If action is too frighte
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure center; survival stress, adrenaline, fuel to persist
-- [[Individual Centering Circuit]] — Empowerment through focus, self-knowledge, concentration
+- [[Channels#Individual Centering Circuit|Individual Centering Circuit]] — Empowerment through focus, self-knowledge, concentration
 - [[Kether]] — Qabalistic sphere of ultimate stillness before manifestation; equilibrium of all potential
-- [[The Mountain Sage]] — Daoist/Buddhist archetype of stillness as mastery; withdrawal to peak for clarity
+- The Mountain Sage — Daoist/Buddhist archetype of stillness as mastery; withdrawal to peak for clarity
 
 ---
 

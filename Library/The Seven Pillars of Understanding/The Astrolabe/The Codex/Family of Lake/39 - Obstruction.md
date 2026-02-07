@@ -135,9 +135,9 @@ Another Shadow trap: collapse in face of obstruction. If every obstacle feels in
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure, stress, adrenaline; the drive to overcome and act
-- [[Individual Circuit]] — Mutation, unique solutions, innovation through personal experience
+- [[Channels#1. Individual Circuit|Individual Circuit]] — Mutation, unique solutions, innovation through personal experience
 - [[Geburah]] — Qabalistic sphere of limitation, destruction clearing space for growth
-- [[Trickster Archetype]] — Jungian disruptor; chaos that serves evolution
+- [[The Joker|Trickster Archetype]] — Jungian disruptor; chaos that serves evolution
 
 ---
 

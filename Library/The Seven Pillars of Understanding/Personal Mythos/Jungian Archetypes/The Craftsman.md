@@ -172,7 +172,7 @@ The Craftsman's identity becomes **fused** with their work. If the work is prais
 When Virgo (refinement) meets Saturn (discipline), the result is the Craftsman—the one who hones skill through repetitive practice, accepting limitation as the crucible of mastery.
 
 ### Human Design: The Generator's Craft
-The Craftsman archetype aligns most closely with the **[[Generator]]** and **[[Manifesting Generator]]** Types in Human Design:[^15]
+The Craftsman archetype aligns most closely with the **[[Generator]]** and **[[Generator|Manifesting Generator]]** Types in Human Design:[^15]
 
 - **Defined Sacral** — Sustainable work energy; capacity for repetition without burnout
 - **Strategy: Wait to Respond** — The craft chooses the Craftsman, not vice versa (like Ch'ing seeing the stand in the tree)

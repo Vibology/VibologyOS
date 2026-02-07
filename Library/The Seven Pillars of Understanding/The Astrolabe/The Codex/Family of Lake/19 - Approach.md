@@ -135,9 +135,9 @@ Another Shadow trap: withdrawal as defense. If every approach risks rejection, t
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure, stress, adrenaline; the drive to survive and act
-- [[Tribal Circuit]] — Survival through bonding, resources through relationship, support through mutual dependence
+- [[Channels#3. Tribal Circuit|Tribal Circuit]] — Survival through bonding, resources through relationship, support through mutual dependence
 - [[Chesed]] — Qabalistic sphere of expansion, giving, inclusion
-- [[Lover Archetype]] — Jungian capacity for desire, connection, approach toward union
+- Lover Archetype — Jungian capacity for desire, connection, approach toward union
 
 ---
 

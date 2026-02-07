@@ -135,9 +135,9 @@ Another Shadow trap: fear of intimacy masquerading as boundaries. Building walls
 
 ### Cross-Pillar Synthesis
 - [[Sacral]] — Life force, sexuality, generative response; motor center creating bonding energy
-- [[Tribal Defense Circuit]] — Survival through intimate support; bonding that sustains tribal life
+- [[Channels#Tribal Defense Circuit|Tribal Defense Circuit]] — Survival through intimate support; bonding that sustains tribal life
 - [[Yesod]] — Qabalistic sphere of sexuality, generation, cosmic foundation through union
-- [[Eros Archetype]] — Divine force of attraction; longing that dissolves rational defenses
+- Eros Archetype — Divine force of attraction; longing that dissolves rational defenses
 
 ---
 

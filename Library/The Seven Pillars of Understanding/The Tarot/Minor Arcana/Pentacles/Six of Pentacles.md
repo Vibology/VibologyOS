@@ -334,7 +334,7 @@ The invitation is to give freely and receive gratefully, to recognize interdepen
 ### Psychological
 - [[The Self]] - Navigating power, abundance, and relationship
 - Shame - The wound of receiving, the belief that needing = weakness
-- [[Gratitude]] - Receiving with grace, without subservience
+- Gratitude - Receiving with grace, without subservience
 - Empowerment vs. Dependency - Does giving liberate or bind?
 
 ---

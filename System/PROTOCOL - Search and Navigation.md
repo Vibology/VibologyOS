@@ -28,7 +28,7 @@ As the Library grows, efficient search and navigation becomes critical. This pro
 ### Library Overview (as of 2026-01-19)
 
 **Total Files:** 446 markdown entries (all 7 pillars complete)
-**Cross-Reference Density:** 97%+ of files contain [[wikilinks]]
+**Cross-Reference Density:** 97%+ of files contain wikilinks
 **Systems Represented:** 7 pillars (Angelology, Astrology, Personal Mythos, Human Design, The Magdalene Path, The Tarot, The Window)
 
 **System Breakdown:**
@@ -386,7 +386,7 @@ grep -l "#fire" "📖 Library" -r --include="*.md"
 Index files provide **at-a-glance navigation** for each pillar, showing:
 - What exists (completed entries)
 - What's missing (planned/stub entries)
-- How to access each entry (direct [[wikilinks]])
+- How to access each entry (direct wikilinks)
 - Current completion status
 
 ### Index File Locations
@@ -483,7 +483,7 @@ Use emoji for quick visual scanning:
 
 ### Current State
 
-**Wikilink Density:** 97% of Library files contain [[wikilinks]]—excellent foundation for cross-reference mapping!
+**Wikilink Density:** 97% of Library files contain wikilinks—excellent foundation for cross-reference mapping!
 
 **Wikilink Conventions:**
 - Use `[[double brackets]]` for all cross-references
@@ -612,7 +612,7 @@ grep -r "\[\[.*\]\]" "📖 Library/The Tarot" --include="*.md" | grep -i "saturn
 **Quarterly Library Audit (once protocol exists):**
 - [ ] Review Index files for accuracy
 - [ ] Update status indicators (✅🟡⚪)
-- [ ] Check for dead [[wikilinks]] (links to non-existent files)
+- [ ] Check for dead wikilinks (links to non-existent files)
 - [ ] Standardize any remaining tag inconsistencies
 - [ ] Identify stub entries that need expansion
 

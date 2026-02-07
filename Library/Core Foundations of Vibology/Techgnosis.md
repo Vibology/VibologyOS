@@ -129,7 +129,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 **What:** Organizing esoteric knowledge as an **interconnected web** rather than isolated files.
 
 #### Examples
-- **Obsidian vault:** 428 markdown files with extensive `[[wikilink]]` cross-referencing
+- **Obsidian vault:** 428 markdown files with extensive `wikilink` cross-referencing
 - **YAML frontmatter:** Structured metadata (tags, systems, dates) making every file queryable
 - **Internal linking density:** 97% of files contain cross-references to other entries
 - **Tag taxonomy:** Hierarchical tagging (system → category → descriptor → theme)
@@ -188,7 +188,7 @@ This is **not** materialist reductionism (consciousness = computation). This is 
 
 #### How It Works
 - Plain text markdown files stored locally (no cloud lock-in)
-- `[[Double bracket]]` syntax creates bidirectional links between notes
+- `Double bracket` syntax creates bidirectional links between notes
 - Graph view visualizes the entire knowledge network
 - Plugins extend functionality (Dataview for queries, Templater for templates, etc.)
 

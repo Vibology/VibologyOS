@@ -71,7 +71,7 @@ The antidote lives in the exalted planet itself. Mercury — communication, anal
 ## Questions That Remain
 
 - Does this Venus-Mercury tension at 2.5 manifest differently depending on whether Venus appears on the Personality (conscious) or Design (unconscious) side? The conscious carrier may *recognize* the smoothing impulse; the unconscious carrier may be entirely blind to it.
-- How does the [[Gene Keys]] spectrum for Gate 2 (Dislocation -> Orientation -> Unity) interact with this dignity? Is Venus in detriment an expression of the *Dislocation* shadow — applying direction toward the wrong coordinates because the coordinates were chosen for aesthetic rather than geometric reasons?
+- How does the Gene Keys spectrum for Gate 2 (Dislocation -> Orientation -> Unity) interact with this dignity? Is Venus in detriment an expression of the *Dislocation* shadow — applying direction toward the wrong coordinates because the coordinates were chosen for aesthetic rather than geometric reasons?
 - Does the Taurus domicile amplify or mitigate the detriment over a lifetime? One could argue that the very resources Venus provides (patience, embodiment, sensory intelligence) eventually become the tools for recognizing the distortion — that the garden itself teaches the gardener to distinguish beauty from truth.
 
 ## Internal Links
@@ -80,7 +80,7 @@ The antidote lives in the exalted planet itself. Mercury — communication, anal
 - [[Taurus ♉]]
 - [[Gate 02 - The Receptive]]
 - [[The High Priestess (II)]]
-- [[Gene Keys]] — Gate 2: Dislocation -> Orientation -> Unity
+- Gene Keys — Gate 2: Dislocation -> Orientation -> Unity
 
 ---
 

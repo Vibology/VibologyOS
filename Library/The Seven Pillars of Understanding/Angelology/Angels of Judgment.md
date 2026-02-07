@@ -53,7 +53,7 @@ The **Tree of Life** maintains balance through the interaction of opposing Sephi
 | Jupiter (growth) | Sun (integration) | Mars (cutting) |
 | Risk: Enabling corruption | Beauty, the golden mean | Risk: Tyranny, cruelty |
 
-**[[Robert Wang]]** in *The Qabalistic Tarot* defines **evil** as "**unbalanced force**":
+**Robert Wang** in *The Qabalistic Tarot* defines **evil** as "**unbalanced force**":
 
 > "If the severity of Geburah is not balanced by the mercy of Chesed, it becomes tyranny or cruelty."
 
@@ -65,7 +65,7 @@ The Angels of Judgment, therefore, are **not evil**—they are necessary. Evil e
 
 ### 1. Michael: The Weigher of Souls
 
-**[[Michael]]** (מיכאל, "Who is like God?") is the **benevolent angel of death** and the **psychopomp** (guide of souls) who leads the faithful into eternal light. [[Gustav Davidson]] describes him as disputing with Satan over the body of Moses (Jude 1:9), demonstrating his role as **advocate** for the righteous dead.
+**[[Michael]]** (מיכאל, "Who is like God?") is the **benevolent angel of death** and the **psychopomp** (guide of souls) who leads the faithful into eternal light. Gustav Davidson describes him as disputing with Satan over the body of Moses (Jude 1:9), demonstrating his role as **advocate** for the righteous dead.
 
 #### The Scales: Psychostasia
 
@@ -87,7 +87,7 @@ In the **Qabalistic Tarot**, the card **Judgment** (Key XX) is associated with:
 - **Archangel:** **Michael**, Ruler of Solar Fire
 - **Path:** Connects [[Malkuth]] (Earth) to [[Hod]] (Glory/Splendor)
 
-**[[Robert Wang]]** describes the card:
+**Robert Wang** describes the card:
 
 > "Michael blows the trumpet to summon the dead from their graves. The dead rise—not as punishment, but as awakening. Judgment is not condemnation; it is the call to resurrection, to spiritual rebirth."
 
@@ -105,7 +105,7 @@ The dragon is **cosmic disorder**, the principle of entropy and rebellion agains
 
 ### 2. Kamael: The Archangel of Geburah
 
-**Kamael** (כמאל, "Severity of God"; also Camael, Kemuel) is the **Archangel** of the Sephirah **[[Geburah]]** (Strength, Severity, Judgment) on the Tree of Life. He personifies **divine justice** and the "severity of God" ([[Gustav Davidson]]).
+**Kamael** (כמאל, "Severity of God"; also Camael, Kemuel) is the **Archangel** of the Sephirah **[[Geburah]]** (Strength, Severity, Judgment) on the Tree of Life. He personifies **divine justice** and the "severity of God" (Gustav Davidson).
 
 #### The Destroyer
 
@@ -185,9 +185,9 @@ The Zohar identifies Samael as:
 
 ### 4. The Powers: Cosmic Law Enforcement
 
-The **[[Powers]]** (also called **Potentates**, **Dynameis**) are the **sixth angelic order** in [[Pseudo-Dionysius the Areopagite]]'s *[[The Celestial Hierarchy]]*. They belong to the **Second Triad** (Governors of Universal Order) and function as the **cosmic police force**.
+The **[[Powers]]** (also called **Potentates**, **Dynameis**) are the **sixth angelic order** in Pseudo-Dionysius the Areopagite's *[[The Celestial Hierarchy]]*. They belong to the **Second Triad** (Governors of Universal Order) and function as the **cosmic police force**.
 
-**Primary Function** ([[Gustav Davidson]]):
+**Primary Function** (Gustav Davidson):
 
 > "Their specific duty is to **stop the efforts of demons** who would overthrow the world and **maintain the order of the heavenly pathways**."
 

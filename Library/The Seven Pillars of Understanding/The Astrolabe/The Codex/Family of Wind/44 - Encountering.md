@@ -135,9 +135,9 @@ Another Shadow trap: pattern recognition as paralysis. If one becomes too alert 
 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — Intuitive awareness; survival instinct; in-the-moment knowing; body intelligence
-- [[Tribal Ego Circuit]] — Bonding through commerce and alliance; recognition of trustworthiness
+- [[Channels#Tribal Ego Circuit|Tribal Ego Circuit]] — Bonding through commerce and alliance; recognition of trustworthiness
 - [[Hod]] — Qabalistic sphere of Mercury; communication, pattern, magical intelligence
-- [[Hermes/Mercury]] — Messenger god; trickster; the one who moves between worlds; ambivalent power
+- [[Hermes|Hermes/Mercury]] — Messenger god; trickster; the one who moves between worlds; ambivalent power
 
 ---
 

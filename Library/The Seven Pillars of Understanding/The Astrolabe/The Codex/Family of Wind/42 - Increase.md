@@ -135,9 +135,9 @@ Another Shadow trap: completion as compulsion. If one finishes things out of rig
 
 ### Cross-Pillar Synthesis
 - [[Sacral]] — Life force generator; power for doing, building, completing; biological yes/no
-- [[Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through staying to the end
+- [[Channels#Collective Sensing (Abstract) Circuit|Collective Abstract Circuit]] — Experiential learning through complete cycles; wisdom through staying to the end
 - [[Netzach]] — Qabalistic sphere of endurance; completion through sustained effort
-- [[The Builder Archetype]] — Completer not initiator; patience to see projects through; finishing as genius
+- The Builder Archetype — Completer not initiator; patience to see projects through; finishing as genius
 
 ---
 

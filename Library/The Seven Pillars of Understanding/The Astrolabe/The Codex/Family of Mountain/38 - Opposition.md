@@ -135,9 +135,9 @@ Another Shadow trap: surrender disguised as maturity. If the struggle has been t
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure center; adrenaline, stress, fuel to persist through difficulty
-- [[Individual Knowing Circuit]] — Mutation through unique discovery, often in defiance of collective
+- [[Channels#Individual Knowing Circuit|Individual Knowing Circuit]] — Mutation through unique discovery, often in defiance of collective
 - [[Geburah]] — Qabalistic sphere of Mars; necessary cutting, warrior principle, strength that refuses false peace
-- [[The Warrior Archetype]] — Jungian figure who fights for meaning; sacred opposition, honorable struggle
+- The Warrior Archetype — Jungian figure who fights for meaning; sacred opposition, honorable struggle
 
 ---
 

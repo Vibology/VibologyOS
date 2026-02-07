@@ -135,9 +135,9 @@ Another Shadow trap: abdication of authority. If wielding power has resulted in 
 
 ### Cross-Pillar Synthesis
 - [[Heart]] — Material resources; willpower; tribal authority; the right to rule
-- [[Tribal Ego Circuit]] — Bonding through material support and enforcement of tribal law
+- [[Channels#Tribal Ego Circuit|Tribal Ego Circuit]] — Bonding through material support and enforcement of tribal law
 - [[Geburah]] — Qabalistic sphere of necessary harshness; pruning, cutting, enforcing
-- [[The Sovereign Archetype]] — Authority in service; decisiveness; the capacity to enforce law justly
+- The Sovereign Archetype — Authority in service; decisiveness; the capacity to enforce law justly
 
 ---
 

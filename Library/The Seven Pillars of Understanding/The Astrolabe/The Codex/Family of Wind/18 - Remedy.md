@@ -135,9 +135,9 @@ Another Shadow trap: passivity in the face of decay. If pointing out flaws has b
 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — Intuitive awareness; survival instinct; body intelligence; health and vitality
-- [[Collective Logic Circuit]] — Shared understanding of patterns; cause and effect serving the collective
+- [[Channels#Collective Logic Circuit|Collective Logic Circuit]] — Shared understanding of patterns; cause and effect serving the collective
 - [[Geburah]] — Qabalistic sphere of corrective force; the surgeon's blade removing disease
-- [[The Healer Archetype]] — Diagnostician who identifies and treats; balance of precision and compassion
+- The Healer Archetype — Diagnostician who identifies and treats; balance of precision and compassion
 
 ---
 

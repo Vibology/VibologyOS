@@ -486,7 +486,7 @@ Hillman[^9]:
 - [[Saturn ♄]] — Limitation, discipline, time, authority, earned wisdom, the Great Teacher
 - [[10th House]] — Public authority, mastery, vocation, career, legacy, reputation
 - [[Capricorn ♑]] — Structure, ambition, responsibility, discipline, the mountain climbed
-- [[Saturn Return]] — Ages 28-30, 58-60 (crisis points of maturation)
+- [[Saturn ♄|Saturn Return]] — Ages 28-30, 58-60 (crisis points of maturation)
 
 ### Human Design
 - **Defined Root Center** — Consistent pressure to mature, master, complete

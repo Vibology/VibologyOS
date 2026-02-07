@@ -135,9 +135,9 @@ Another Shadow trap: manic clinging to the peak. Addiction to high states—whet
 
 ### Cross-Pillar Synthesis
 - [[Solar Plexus]] — Emotional wave, chemistry of mood, spirit's relationship to feeling
-- [[Individual Knowing Circuit]] — Mutation through unique frequency, acoustic resonance, empowerment through experimentation
+- [[Channels#Individual Knowing Circuit|Individual Knowing Circuit]] — Mutation through unique frequency, acoustic resonance, empowerment through experimentation
 - [[Tiphareth]] — Qabalistic center balancing all extremes, the sun in the middle
-- [[The Dionysian Archetype]] — Ecstatic fullness, intoxication and wisdom, the god who gives and takes away
+- The Dionysian Archetype — Ecstatic fullness, intoxication and wisdom, the god who gives and takes away
 
 ---
 

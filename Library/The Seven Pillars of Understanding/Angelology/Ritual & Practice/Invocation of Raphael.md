@@ -377,4 +377,4 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 ### Ritual Practices
 - [[Contemplative Prayer]] — Non-petitionary prayer (contrasted with invocation's direct address)
 - [[Active Imagination]] — Jungian technique; dialogue with Raphael as autonomous archetypal figure
-- [[Qabalistic Cross]] — Foundational alignment practice (vertical/horizontal axis establishment)
+- [[Lesser Banishing Ritual of the Pentagram|Qabalistic Cross]] — Foundational alignment practice (vertical/horizontal axis establishment)

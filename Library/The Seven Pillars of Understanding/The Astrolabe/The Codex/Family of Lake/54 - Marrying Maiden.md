@@ -135,7 +135,7 @@ Another Shadow trap: rejecting ambition entirely. If desire to rise is greed, th
 
 ### Cross-Pillar Synthesis
 - [[Root]] — Pressure, stress, adrenaline; the drive to act and transform
-- [[Tribal Circuit]] — Survival through right relationship to resources, position, community
+- [[Channels#3. Tribal Circuit|Tribal Circuit]] — Survival through right relationship to resources, position, community
 - [[Netzach]] — Qabalistic sphere of desire, passion, drive toward achievement
 - [[Encounter with Anima-Animus]] — Jungian soul-image; projection of completion onto other or path
 

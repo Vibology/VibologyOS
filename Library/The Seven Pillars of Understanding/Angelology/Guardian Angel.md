@@ -220,7 +220,7 @@ This simple prayer (taught to Catholic children) establishes **conscious relatio
 
 Crowley's **Liber Samekh** (derived from the Greek Magical Papyri) is a ritual for invoking the HGA. It involves:
 
-1. **Preliminary Purifications** — Lesser Banishing Ritual of the Pentagram ([[LBRP]])
+1. **Preliminary Purifications** — Lesser Banishing Ritual of the Pentagram ([[Lesser Banishing Ritual of the Pentagram|LBRP]])
 2. **Assumption of God-forms** — Visualizing oneself as Horus, Osiris, or other solar deities
 3. **Invocation** — Calling the HGA by divine names:
    > *"Thou spiritual Sun! Satan, Thou Eye, Thou Lust!*
@@ -271,8 +271,8 @@ Jung's method for contacting the inner guardian:
 
 - **Astrology:** [[The Sun (XIX)]] (Tiphareth, the solar Self, True Will)
 - **Tarot:** [[The Sun (XIX)]] (Key XIX, Tiphareth), [[Temperance (XIV)]] (Key XIV, the angel as mediator)
-- **Human Design:** [[Strategy and Authority]] — following inner guidance (parallel to True Will)
-- **Alchemy:** [[The Philosophical Mercury]] — the inner guide through the Great Work
+- **Human Design:** [[Strategy]] and [[Authority]] — following inner guidance (parallel to True Will)
+- **Alchemy:** The Philosophical Mercury — the inner guide through the Great Work
 
 ---
 

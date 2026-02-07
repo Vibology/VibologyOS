@@ -21,7 +21,7 @@ question_type: {Life Transition / Decision / Archetypal Pattern / Shadow Work / 
 
 Reference the specific positions, gates, cards, or patterns as they become relevant to the argument you're building. For example: "The Sun at 15° Virgo in the 8th house speaks to..." rather than presenting a table of planetary positions.
 
-Use [[wikilinks]] liberally to connect to Library entries.
+Use wikilinks liberally to connect to Library entries.
 
 Each major section should represent a movement in the synthesis—a theme, a tension, a revelation. Name your sections based on the content, not on template structure (i.e., don't use "System 1 Name" as a heading; use "The Threshold Guardians" or "What the Stars Remember" or whatever captures the essence of that section's contribution).}
 

@@ -131,7 +131,7 @@ The conditioning pattern: "Nothing lasts, so why bother?" or "If I can't win, I 
 ### Cross-Pillar Synthesis
 - [[Spleen]] — The center of instinctual awareness and survival
 - [[Geburah]] — Severity, decisive action on the Tree of Life
-- [[The Warrior]] — Archetype of meaning through struggle
+- The Warrior — Archetype of meaning through struggle
 
 ---
 

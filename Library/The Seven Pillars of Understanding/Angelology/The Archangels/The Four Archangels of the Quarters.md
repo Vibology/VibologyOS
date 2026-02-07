@@ -305,9 +305,9 @@ The Observatory does not ask: *"Are the archangels real?"* It asks: *"What do th
 - **Golden Dawn materials** — Canonical modern system
 
 ### Within Astrology & Qabalah
-- [[Fixed Signs]] — Aquarius/Leo/Scorpio/Taurus correspond to Four Archangels
-- [[Elements]] — Air/Fire/Water/Earth classical system
-- [[Kerubim]] — Four Living Creatures as throne-bearers
+- Fixed Signs — Aquarius/Leo/Scorpio/Taurus correspond to Four Archangels
+- Elements — Air/Fire/Water/Earth classical system
+- [[Cherubim|Kerubim]] — Four Living Creatures as throne-bearers
 
 ### Within Personal Mythos (Jungian)
 - [[The Four Functions]] — Thinking/Intuition/Feeling/Sensation parallel to elements
