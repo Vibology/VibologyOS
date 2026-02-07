@@ -8,6 +8,7 @@ strategy: To Wait for the Invitation
 not_self_theme: Bitterness
 signature: Success
 date_created: 2026-01-08
+date_updated: 2026-02-07
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
@@ -35,6 +36,44 @@ This penetrating quality creates:
 - **Unconscious intensity** that can feel invasive if uninvited
 
 The Projector does not draw life toward them like the Generator, nor push outward like the Manifestor. They **focus** on what (or who) is before them, extracting insight through observation.
+
+---
+
+## The Three Subcategories
+
+Not all Projectors share the same mechanical configuration. The IHDS distinguishes three subcategories based on *where* definition exists in the design[^2]:
+
+### Classic Projector
+
+**Mechanical Definition:** Definition that does not include any motor center. No [[Heart]], [[Root]], [[Solar Plexus]], or [[Sacral]] defined.
+
+The Classic Projector is the purest expression of the non-energy archetype. Because they have no motors defined in their design, they are the most **objective** about the invitations they accept. They "taste" the energy fuel from the motors of others with complete clarity — sensing which person's energy is correct for them without any internal motor creating interference. They read energy more clearly because they are taking in all four motors from the other without their own motor coloring the experience[^2].
+
+This objectivity is their gift — and their challenge, since having no motor energy of their own makes them the most dependent on correct energy partnerships.
+
+**Authority Options:** [[Splenic Authority]], [[Self-Projected Authority]], [[Mental Authority]]
+
+### Energy Projector
+
+**Mechanical Definition:** One or more motor centers ([[Heart]], [[Root]], or [[Solar Plexus]]) defined — but **not** the [[Sacral]]. No motor connected to the [[Throat]].
+
+The Energy Projector carries motor energy without the capacity to generate or manifest it directly. This creates tremendous **internal pressure** to release the built-up energy. Because of this pressure, Energy Projectors are the most susceptible to becoming what Bunnell calls "the ultimate Not-Self slaves" — deeply dependent on and conditioned by the urgency to discharge their motor energy, accepting wrong invitations simply to have an outlet[^2].
+
+Energy Projectors must be especially careful about which invitations they accept. Their motor definition gives them the *feeling* of being an energy type, which makes it easy to override their Strategy. The motor pressure says *act now* while the Projector design says *wait for the invitation*.
+
+**Authority Options:** [[Emotional Authority]] (if Solar Plexus defined), [[Splenic Authority]], [[Ego Authority]]
+
+### Mental Projector
+
+**Mechanical Definition:** Definition includes any combination of the [[Head]], [[Ajna]], and [[Throat]] centers only — **no definition below the Throat Center**.
+
+The Mental Projector is the archetype of **Outer Authority**. With an entirely open design below the Throat, they have a deep reliance on the mind and tap into the environment through all their undefined centers, reading and reflecting the energy around them with remarkable sensitivity[^2].
+
+The central challenge for the Mental Projector is understanding that their mind — however brilliant and perceptive — **is not their Authority**. Their Authority is Environmental: they need to discuss decisions with trusted others, bouncing things off people so they can hear what they themselves are saying. Through this process, clarity emerges — not from the mind's analysis, but from the felt sense that arises in correct environments with correct people[^2].
+
+As Mental Projectors understand how others impact them through their undefined centers, their own strategy begins to work. Studying other people's designs becomes a path to self-understanding.
+
+**Authority:** [[Mental Authority]] (Environmental / Sounding Board)
 
 ---
 
@@ -179,13 +218,17 @@ The Projector's challenge is learning to value their **insight** over output, th
 
 ## Sources
 
-Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
+[^1]: Ra Uru Hu. *The Definitive Book of Human Design: The Science of Differentiation*. Carlsbad, CA: HDC Publishing, 2011.
 - Core text for all Human Design mechanics, Types, Centers, Channels, Gates, Profiles, Strategy, and Authority
+
+[^2]: Lynda Bunnell. *Living Your Design Student Manual*. International Human Design School, Jovian Archive Corporation, 2006/2010.
+- IHDS foundation curriculum. Source for Projector subcategory definitions (Classic, Energy, Mental), pp. 117–118. Based on the work of Ra Uru Hu.
 
 **Verification Notes:**
 - Human Design system synthesizes I-Ching (64 hexagrams → 64 Gates), Astrology (planetary activations), Kabbalah/Tree of Life (Sephiroth → 9 Centers), and Hindu-Brahmin Chakra system
 - Ra Uru Hu received the system in 1987 on Ibiza; he systematized and taught it, but did not "create" it
 - All mechanical definitions verified against *The Definitive Book of Human Design* (2011)
+- Projector subcategories verified against *Living Your Design Student Manual* (Bunnell, 2006/2010)
 - Cross-system correspondences (Jungian, Tarot, Qabalah) marked as Vibology Synthesis where applicable
 
 ---

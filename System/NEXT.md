@@ -79,12 +79,12 @@ VibologyOS/
 
 | # | Pillar | Item | Status |
 |---|--------|------|--------|
-| 11 | HD | Projector Subcategories (Classic/Energy/Mental) | On hold — pending IHDS source |
+| 11 | HD | Projector Subcategories (Classic/Energy/Mental) | **Complete** — added from LYD Student Manual |
 | 12 | HD | Deconditioning expansion | On hold — pending IHDS source |
 | 21 | Synthesis | First synthesis pieces | Ready when called |
 
 **Source-Dependent (On Hold):**
-- **IHDS Foundation Materials** (LYD manual, courses) — Definition Types complete; Projector Subcategories, Deconditioning depth pending
+- **IHDS Foundation Materials** (LYD manual, courses) — Definition Types complete; Projector Subcategories complete (LYD source); Deconditioning depth pending (LYD insufficient — needs advanced IHDS materials)
 
 **Astrological Tradition:** Traditional Archetypal / Psycho-Astrology — Hellenistic foundations (Ptolemy, Valens, Dorotheus) with Jungian archetypal synthesis (Greene, Sasportas). NOT evolutionary astrology. All Hellenistic technique tiers (1-3) complete from Brennan source.
 
