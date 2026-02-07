@@ -370,7 +370,31 @@ For those seeking a non-denominational, accessible daily practice:
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Healing Angels
+- [[Raphael]] — Primary healing archangel (physical, emotional, mental)
+- [[Invocation of Raphael]] — Detailed protocol for calling Raphael
+- [[Michael]] — Spiritual healing (removing curses, entities, attachments)
+- [[Virtues]] — Angelic order governing miracles and healing grace
+
+### Related Practices
+- [[The Four Quarters]] — Creating sacred space for healing prayer
+- [[Lesser Banishing Ritual of the Pentagram]] — Purification before prayer
+- [[Bedtime Shema]] — Nightly healing through angelic protection
+- [[Invocation]] — General invocation principles
+
+### Psychological Healing
+- [[The Shadow]] — Illness as symptom of splitting (ego vs. shadow)
+- [[Individuation Process]] — Healing as psychic integration
+- [[The Transcendent Function]] — Healing the split through symbol
+- [[Active Imagination]] — Prayer as dialogue with autonomous complex
+- [[Ego-Death]] — Surrender ("Thy will be done") as ego releasing control
+
+### Cross-Cultural Healing
+- [[The Magdalene Path]] — Christian healing through kenosis
+- [[Contemplative Prayer]] — Non-petitionary healing presence
+
+### Integration with Treatment
+- Threefold model: Physical (medicine), Psychological (therapy), Spiritual (prayer)
 
 ---
 

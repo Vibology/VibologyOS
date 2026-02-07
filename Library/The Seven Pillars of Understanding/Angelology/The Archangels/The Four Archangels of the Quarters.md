@@ -269,7 +269,37 @@ The Observatory does not ask: *"Are the archangels real?"* It asks: *"What do th
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The Four Archangels (Individual Entries)
+- [[Raphael]] — East, Air, healing and new beginnings
+- [[Michael]] — South, Fire, strength and protection
+- [[Gabriel]] — West, Water, intuition and dreams
+- [[Uriel]] — North, Earth, grounding and wisdom
+
+### Ritual Framework
+- [[The Four Quarters]] — The elemental/directional system
+- [[Lesser Banishing Ritual of the Pentagram]] — Primary ritual invoking the Four
+- [[Bedtime Shema]] — Jewish protective invocation (body-centered variant)
+- [[Invocation]] — General invocation principles
+
+### Relationship to the Seven
+- [[The Seven Angels Who Stand Before the Throne]] — The Four as subset of the Seven
+- [[The Seven Planetary Archangels]] — The Four bridge both planetary and elemental functions
+- [[Haniel]] — Fifth Presence Angel (Venus, not in Four Quarters)
+- [[Kamael]] — Sixth Presence Angel (Mars, not in Four Quarters)
+- [[Tzadkiel]] — Seventh Presence Angel (Jupiter, not in Four Quarters)
+
+### Enochian Connection
+- [[The Four Watchtowers]] — Vast hierarchies beneath the Four Archangels
+- Enochian Kings beneath each archangel
+
+### Ezekiel's Vision
+- Four Living Creatures (Kerubim): Man/Lion/Eagle/Bull
+- Fixed zodiac signs: Aquarius/Leo/Scorpio/Taurus
+
+### Psychological Correspondences
+- Jung's four functions: Thinking (Air), Intuition (Fire), Feeling (Water), Sensation (Earth)
+- [[Individuation Process]] — Balancing all four functions for wholeness
+- [[The Transcendent Function]] — Quaternity as symbol of completeness
 
 ---
 

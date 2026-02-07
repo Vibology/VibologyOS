@@ -224,7 +224,42 @@ The Lucifugi classification endures because the phenomena endure. Light-fleeing 
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Demonic Hierarchy
+- [[The Nine Orders of Fallen Angels]] — Higher demonic orders above Lucifugi
+- [[Lucifer]] — The chief of all fallen angels (Lucifugi under his dominion)
+- [[Samael]] — Another major fallen angel (severity vs. domestic mischief)
+
+### Governing Archangel
+- [[Gabriel]] — Archangel of the North and Moon (governs Lucifugi per Heywood)
+- [[The Seven Angels Who Stand Before the Throne]] — Gabriel's place among the seven
+
+### Subcategories of Lucifugi
+- Cobali (mine spirits) — Subterranean saboteurs
+- Treasure-guarding spirits — Demonic hoarding of wealth
+- Domestic spirits (Robin Good-fellow, Hob-goblins, Fairies) — Household hauntings
+- Buttry-Sprite — Feeds on ill-gotten goods
+
+### Psychological Parallels
+- [[The Shadow]] — Light-fleeing nature (aversion to consciousness)
+- Cobali as saboteur archetype (self-undermining)
+- Treasure-guardians as greed complexes
+- Domestic spirits as household neuroses/poltergeist phenomena
+- Buttry-Sprite as karma of fraud (ill-gotten gain feeds demons)
+
+### Biblical Foundation
+- Isaiah 13:21, 34:11 — Zijm, Ijim, Satyrs in desolate places
+- Ruins claimed by light-fleeing spirits
+
+### Discernment
+- [[Discernment of Spirits]] — Distinguishing good from evil
+- Sign of the Cross as apotropaic boundary
+- Good angels always human form; demons as animals (except lamb/dove forbidden)
+
+### Contemporary Manifestations
+- Workplace toxicity (modern Cobali)
+- Get-rich-quick schemes (modern treasure-guardians)
+- Smart home surveillance (modern domestic spirits)
+- Unethical business karma (modern Buttry-Sprite)
 
 ---
 

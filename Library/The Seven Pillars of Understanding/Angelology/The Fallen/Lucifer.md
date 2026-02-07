@@ -282,7 +282,41 @@ Integration requires the opposite Luciferian virtues: humility (Michael's questi
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The War in Heaven
+- [[Michael]] — Defeated Lucifer through humility and obedience
+- [[The Seven Angels Who Stand Before the Throne]] — Lucifer once above all seven
+- [[Seraphim]] — Lucifer as chief Seraph before the fall
+
+### Qabalistic Shadow
+- [[Kether]] — Crown (Lucifer as shadow of Kether)
+- [[Thaumiel]] — The Qlippah of Kether ("Dual Contending Forces")
+- [[Qlippoth]] — The shadow side of the Tree (Lucifer as king)
+- [[Da'at]] — Knowledge that separates (Lucifer's offer to Eve)
+
+### Related Fallen Figures
+- [[Samael]] — Jewish tradition sometimes identifies with Lucifer/Satan
+- [[Lucifugi - The Light-Fleeing Spirits]] — Lesser demons under Lucifer's dominion
+- [[The Nine Orders of Fallen Angels]] — Hierarchical structure Lucifer commands
+
+### Psychological Parallels
+- [[The Shadow]] — Lucifer as archetypal Shadow (rejected divine aspect)
+- [[Inflation]] — "I will be like the Most High" (ego identifying with Self)
+- [[Ego-Death]] — Lucifer's refusal to bow (refusal of incarnation/limitation)
+- [[The Transcendent Function]] — Lucifer as failure to integrate opposites
+
+### The Incarnation Refused
+- Pride vs. Humility
+- Envy of humanity (God choosing human nature over angelic)
+- Refusal to worship God-made-flesh
+
+### The Trinity Mirrored
+- Greatness (Father), Wisdom (Son), Beauty (Holy Spirit)
+- Three qualities in one being (creaturely echo of Trinitarian structure)
+
+### Sin Against the Holy Spirit
+- Malice (willful hatred) = unpardonable
+- Adam's weakness, Eve's ignorance = pardonable
+- Lucifer's pure malice = incapable of repentance
 
 ---
 

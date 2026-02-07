@@ -274,7 +274,34 @@ The Observatory does not ask: *"Is Samael evil?"* It asks: *"What does Samael's 
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Geburah and Severity
+- [[Geburah]] — The fifth Sephirah (Severity, Strength)
+- [[Kamael]] — The holy archangel of Geburah (balanced severity)
+- [[Golachab]] — The Qlippah of Geburah (Samael's dominion)
+- [[The Seven Planetary Archangels]] — Kamael as Tuesday/Mars archangel (not Samael)
+
+### Related Archangels
+- [[Michael]] — Defeated Samael in the war in Heaven
+- [[Gabriel]] — Contrast: revelation vs. severity
+- [[Raphael]] — Contrast: healing vs. wounding
+
+### The Fallen
+- [[Lucifer]] — Chief of the fallen; comparison of falls
+- [[Lucifugi - The Light-Fleeing Spirits]] — Lesser demonic classifications
+- [[The Nine Orders of Fallen Angels]] — Hierarchical structure of demons
+
+### Samael's Consort
+- [[Lilith]] — Paired with Samael in Zohar (demonic marriage vs. holy union)
+
+### Planetary & Astrological
+- [[Mars ♂]] — Planetary correspondence (Kamael holy, Samael demonic)
+- [[Astrology]] — Mars transits, severity vs. aggression
+
+### Psychological Integration
+- [[The Shadow]] — Samael as archetypal Shadow (repressed rage, denied boundaries)
+- [[Inflation]] — Shadow severity vs. inflated ego
+- [[Individuation Process]] — Integrating necessary severity (transforming Samael into Kamael)
+- [[The Transcendent Function]] — Union of opposites (mercy and severity balanced)
 
 ---
 

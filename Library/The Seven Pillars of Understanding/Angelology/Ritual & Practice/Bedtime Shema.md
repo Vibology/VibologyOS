@@ -253,7 +253,28 @@ Sleep is not unconsciousness—it is **deep consciousness**, where the instrumen
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The Four Archangels
+- [[Raphael]] — East (back), healing and safe passage during sleep
+- [[Michael]] — Right, strength and protection during night
+- [[Gabriel]] — Left, intuition and dreams during sleep
+- [[Uriel]] — Front, illumination through darkness ahead
+
+### Comparative Rituals
+- [[Lesser Banishing Ritual of the Pentagram]] — Ceremonial complement (room protection vs. body protection)
+- [[The Four Quarters]] — Elemental framework underlying both systems
+- [[The Four Archangels of the Quarters]] — The same four guardians, different orientations
+- [[Prayer for Healing]] — Complementary protective/healing prayers
+
+### Theological Concepts
+- [[Shekinah]] — The divine feminine presence sheltering above
+- [[Lilith]] — The night demon warded against
+- [[The Shadow]] — Nocturnal dangers as shadow material
+
+### Psychological & Psychoid Dimensions
+- [[Psychoid Archetype]] — Sleep as descent to psychoid layer (unus mundus)
+- [[Ego-Death]] — Sleep as nightly rehearsal of ego dissolution
+- [[The Collective Unconscious]] — The transpersonal ground accessed in sleep
+- [[Synchronicity]] — Dreams seeding synchronistic events
 
 ---
 

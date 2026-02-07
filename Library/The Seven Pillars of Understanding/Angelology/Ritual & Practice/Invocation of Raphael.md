@@ -333,7 +333,27 @@ Raphael is associated with **Mercury (Hermes)**, the god of alchemy, the psychop
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### Raphael's Correspondences
+- [[Raphael]] — The archangel of healing and guidance
+- [[Tiphareth]] — Primary Qabalistic sphere (Beauty, solar heart)
+- [[Hod]] — Secondary sphere (Glory, Mercury, intellect)
+- [[The Seven Planetary Archangels]] — Raphael as Mercury's intelligence
+
+### Related Rituals
+- [[The Four Quarters]] — Raphael as guardian of the East
+- [[The Four Archangels of the Quarters]] — Raphael's elemental role
+- [[Lesser Banishing Ritual of the Pentagram]] — Invokes Raphael in the East
+- [[Bedtime Shema]] — Jewish invocation of the four archangels
+- [[Prayer for Healing]] — General healing prayer framework
+
+### Other Healing Angels
+- [[Michael]] — Invoked for spiritual healing (clearing entities)
+- [[Virtues]] — Angelic order governing miracles and healing
+
+### Psychological Integration
+- [[The Transcendent Function]] — Raphael's caduceus as union of opposites
+- [[The Shadow]] — Illness as split requiring integration
+- [[Individuation Process]] — Healing as psychic wholeness
 
 ---
 

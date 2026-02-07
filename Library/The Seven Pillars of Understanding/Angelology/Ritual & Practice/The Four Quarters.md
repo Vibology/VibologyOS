@@ -243,7 +243,33 @@ Ritual is not superstition. The Four Quarters are the **grid lines** on the map 
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The Four Archangels
+- [[The Four Archangels of the Quarters]] — Detailed analysis of the four guardians
+- [[Raphael]] — East, Air, healing and new beginnings
+- [[Michael]] — South, Fire, strength and transformation
+- [[Gabriel]] — West, Water, intuition and reflection
+- [[Uriel]] — North, Earth, grounding and wisdom
+
+### Ritual Applications
+- [[Lesser Banishing Ritual of the Pentagram]] — Elaborate form using Four Quarters
+- [[Bedtime Shema]] — Jewish body-centered version
+- [[The Four Watchtowers]] — Enochian elemental hierarchies beneath the Four
+- [[Invocation]] — General invocation framework
+
+### Variant Systems
+- Golden Dawn (Raphael E, Michael S, Gabriel W, Uriel N)
+- Heptameron (Michael E, Raphael W, Gabriel N, Uriel S)
+- Hebraic (body-centered: Michael right, Gabriel left, Uriel front, Raphael back)
+
+### Psychological Correspondences
+- Jung's four functions (Thinking/Air, Intuition/Fire, Feeling/Water, Sensation/Earth)
+- [[Individuation Process]] — Balancing all four functions
+- [[The Transcendent Function]] — Quaternity as completeness symbol
+
+### Cross-Pillar Connections
+- [[Astrology]] — Four angles (ASC/MC/DESC/IC), four elements
+- [[The Tarot]] — Four suits (Wands/Cups/Swords/Pentacles)
+- [[Personal Mythos]] — Jungian quaternity symbol
 
 ---
 

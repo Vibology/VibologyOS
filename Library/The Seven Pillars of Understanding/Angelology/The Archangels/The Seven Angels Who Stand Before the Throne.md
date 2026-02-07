@@ -227,7 +227,39 @@ The Observatory does not ask: *"Are the Seven real?"* It asks: *"What do the ins
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The Seven Presence Angels (Individual Entries)
+- [[Michael]] — Sun, Sunday, protection and solar consciousness
+- [[Gabriel]] — Moon, Monday, revelation and dreams
+- [[Raphael]] — Mercury, Wednesday, healing and intellect
+- [[Haniel]] — Venus, Friday, love and beauty
+- [[Kamael]] — Mars, Tuesday, courage and boundaries
+- [[Tzadkiel]] — Jupiter, Thursday, wisdom and expansion
+- [[Tzaphkiel]] — Saturn, Saturday, limitation and structure
+
+### Relationship to the Four
+- [[The Four Archangels of the Quarters]] — Raphael, Michael, Gabriel, Uriel as elemental subset
+- [[The Four Quarters]] — Spatial/elemental vs. planetary/temporal functions
+- Why only four in quarters (elemental correspondence vs. all seven planetary)
+
+### Qabalistic Correspondences
+- [[The Seven Planetary Archangels]] — Same seven, planetary framework
+- [[Sephiroth]] — The seven lower Sephiroth (Chesed through Yesod + Binah)
+- [[Kether]] — Beyond the seven (Fixed Stars, Primum Mobile)
+
+### Scriptural Sources
+- Tobit 12:15 — Raphael's self-identification
+- Revelation 8:2 — Seven angels given seven trumpets
+- 1 Enoch 20 — Complete enumeration with functions
+
+### The Seven Trumpets (Apocalyptic Function)
+- Revelation 8-11 — Seven judgments dismantling creation (one-third destroyed)
+- [[Individuation Process]] — Psychological parallel: ego's world dissolved by Self
+
+### Seven as Symbol
+- Seven days of creation (Genesis)
+- Seven-branched menorah
+- Seven eyes of the Lord (Zechariah 4:10)
+- Seven classical planets
 
 ---
 

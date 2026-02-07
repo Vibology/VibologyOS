@@ -259,7 +259,32 @@ Ritual is not superstition—it is technology. The LBRP is the **on switch** for
 
 ## Cross-References
 
-*See related entries within this pillar.*
+### The Four Archangels
+- [[The Four Archangels of the Quarters]] — The four guardians invoked
+- [[Raphael]] — East, Air, healing and intellect
+- [[Michael]] — South, Fire, strength and protection
+- [[Gabriel]] — West, Water, intuition and dreams
+- [[Uriel]] — North, Earth, grounding and wisdom
+
+### Related Practices
+- [[The Four Quarters]] — The directional framework
+- [[Bedtime Shema]] — Jewish protective invocation (body-centered vs. compass-oriented)
+- [[Invocation]] — General invocation principles
+- [[Discernment of Spirits]] — Creating protected space for discernment
+
+### Qabalistic Components
+- [[Divine Names]] — IHVH, ADNI, AHIH, AGLA vibrated at quarters
+- [[Kether]] — Crown (touched in Qabalistic Cross)
+- [[Malkuth]] — Kingdom (touched in Qabalistic Cross)
+- [[Geburah]] — Power (right shoulder)
+- [[Chesed]] — Glory/Mercy (left shoulder)
+- [[Tiphareth]] — Beauty, heart center (six-rayed star)
+
+### Psychological Function
+- [[The Transcendent Function]] — Balancing opposites through ritual
+- [[Active Imagination]] — Protected container for inner work
+- [[Psychoid Archetype]] — Ritual as psychoid technology
+- [[The Shadow]] — Banishing intrusive shadow material
 
 ---
 
