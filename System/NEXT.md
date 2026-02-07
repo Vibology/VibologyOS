@@ -17,6 +17,7 @@
 | YAML Compliance | 100% |
 | Inline Footnotes Coverage | 98.4% (789/802 files) |
 | Complete Footnotes | 92.0% (738/802 files) |
+| **Endmatter Standardization** | **100% (802/802 files)** |
 | Stub Files | 0 |
 
 **Dead link maintenance complete (4 rounds):** ~749 → 5. Round 1: 429 automated fixes. Round 2: 35 mechanical fixes + Qabalah.md overview. Round 3: 217 fixes (86 alias rewrites, 110 bracket removals, 4 compound fixes, 8 piped-link corrections). Round 4: 19 Category B entries created + 173 alias fixes (148 rewrites, 25 unbracketed). Effective dead links: **0**. Scanner: `scan_dead_links.py`.
@@ -48,7 +49,7 @@ VibologyOS/
 │   ├── NEXT.md (this file)
 │   ├── Protocols (6 active)
 │   ├── Templates (manifests + semantic system)
-│   ├── Scripts (10 tools: chart calculation + link maintenance)
+│   ├── Scripts (11 tools: chart calculation + link maintenance + endmatter)
 │   └── Audit Logs/
 └── .archive/ (128 KB — two NEXT.md archives)
 ```
@@ -101,6 +102,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Endmatter standardization 100% | 2026-02-07 | All 802 Library files standardized to scholarly format: ## Cross-References → --- → ## Notes → [^N]: citations → ---. Removed 11,278 lines of redundancy (duplicate Sources sections, Footnotes headers). 3 commits: Astrolabe 89, HD 346, All remaining 367 |
 | Inline footnotes 98.4% coverage | 2026-02-07 | 146 files added footnotes across 4 pillars (Tarot, HD, Angelology, Personal Mythos); 789/802 files now have inline citations |
 | References/Sources 100% coverage | 2026-02-07 | 67 files updated across 5 pillars; 802/802 files now have References or Sources sections |
 | Deconditioning expansion complete (#12) | 2026-02-07 | Wisdom Poles x9 centers, hierarchy of conditioning, Four Transformations section (PHS→Environment→Perspective→Motivation), Parkyn framing callout. Sources: Definitive Book, LYD, Book of Destinies |
@@ -137,6 +139,19 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 7):** Endmatter standardization — 100% Library coverage (802 files)
+- **Objective:** Eliminate duplicate Sources sections, apply scholarly "Notes" convention
+- **Structure applied:** ## Cross-References → --- → ## Notes → [^N]: citations → ---
+- **Rationale:** Footnotes already contain full bibliographic citations; separate Sources section was redundant
+- **Scholarly convention:** "Notes" is standard term (Chicago Manual of Style) for end-of-document citations
+- **Three-commit execution:**
+  1. The Astrolabe (89 files) - tested structure, added "## Notes" header
+  2. Human Design (346 files) - largest pillar, all subsystems
+  3. All remaining (367 files) - Tarot 115, Personal Mythos 125, Angelology 55, Astrology 50, Magdalene Path 12, Core Foundations 9, Welcome 1
+- **Impact:** Removed 11,278 lines of redundancy across entire Library
+- **Tool created:** `System/Scripts/standardize_endmatter.py`
+- **Result:** 802/802 files (100%) standardized, zero errors
 
 **2026-02-07 (session 6):** Inline footnotes — 0% → 98.4% (3 phases, 4 batches)
 - **Phase 1 (96 files):** Fixed orphaned footnote definitions (definitions without inline refs)
