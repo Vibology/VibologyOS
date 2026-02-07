@@ -594,7 +594,35 @@ Clients never see:
 
 ## Cross-References
 
-*See related entries within this pillar.*
+**Core Magdalene Path Framework:**
+- [[The Eight Boughs of Ascent]] — Vertical axis map (weekly check-in foundation)
+- [[Kenosis - The Path of Self-Emptying]] — Central practice of releasing grip (monthly depth check)
+- [[Contemplative Prayer]] — Daily silence practice (monthly consistency tracking)
+- [[The Gospel of Mary]] — Source text for Bough structure and apophatic practice
+- [[Practices and the Lunar Cycle]] — Daily/lunar rhythm practices
+
+**Relational Practices (Fifth Way):**
+- [[The Bridal Chamber and Sacred Union]] — Sacred union vs. codependency distinction
+- [[Anointing and Substituted Love]] — "Laying down your life" practice; standing in beloved's place
+- [[Mary Magdalene - Apostle and Beloved]] — Relational model and apostolic authority
+
+**Shadow Work & Pitfalls:**
+- [[The Shadow]] — Jungian concept; parallel to Lower Astral purification and open center conditioning
+- [[Sources, Shadows, and Contemporary Practice]] — Four shadows of The Magdalene Path (bypassing, penitent whore, codependency, premature Abyss)
+- [[The Dark Night of the Soul]] — Purgative stage distinction from emotional wave
+
+**HD Mechanics Integration:**
+- [[Strategy]] — Generator "Wait to Respond" aligns with kenosis/waiting
+- [[Authority]] — Emotional wave requires time; cannot rush spiritual decisions
+- [[Profile]] — 4/6 specific: relational learning (4th line), observation phase (6th line on roof)
+- [[Definition]] — Understanding splits and bridging dynamics in relationships
+- [[Conditioning]] — Open centers (Head, Ajna, Throat, Heart, Root) create specific Not-Self patterns
+
+**Jungian Integration:**
+- [[Individuation Process]] — Parallel to Eight Boughs ascent; lifelong integration
+- [[The Transcendent Function]] — Reconciliation of opposites through kenosis
+- [[Inflation]] — Spiritual bypassing and false advancement claims
+- [[The Collective Unconscious]] — Archetypal patterns underlying the path
 
 ---
 

@@ -184,7 +184,30 @@ Definition is not destiny—it is structure. The quality of your life depends no
 
 ## Cross-References
 
-*See related entries within this pillar.*
+**Core HD Architecture:**
+- [[The BodyGraph]] — Visual representation of Definition structure
+- [[Centers]] — The nine energy hubs that create Definition when connected
+- [[Channels]] — The 36 defined connections that form Definition
+
+**Types and Definition Patterns:**
+- [[Manifestor]] — Can be Single or Split; motor-to-Throat creates strong central column
+- [[Generator]] — Can be any Definition type (most common: Simple Split)
+- [[Projector]] — Can be Single, Simple Split, or Triple Split (no Sacral, no motor-to-Throat)
+- [[Reflector]] — Always No Definition (all Centers open)
+
+**Decision-Making Mechanics:**
+- [[Strategy]] — How Definition type affects timing of correct action
+- [[Authority]] — Decision-making authority interacts with Definition (Singles process faster unless Emotional; Splits require time/space)
+
+**Relationship Dynamics:**
+- [[The Syzygy]] — Jungian parallel to Simple Split's "you complete me" projection
+- [[Conditioning]] — Bridging Gates as primary conditioning source for Splits
+
+**Jungian Parallels:**
+- [[The Shadow]] — Disowned parts projected onto others (parallel to bridging Gates)
+- [[The Self]] — Single Definition as integrated wholeness within own circuitry
+- [[The Transcendent Function]] — Reconciliation of opposites (insufficient for Triple/Quad Splits requiring multiple bridging perspectives)
+- [[Individuation Process]] — Quad Split's mechanical requirement for extended integration time
 
 ---
 

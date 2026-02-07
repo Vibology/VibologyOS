@@ -367,7 +367,36 @@ The Observatory is opening. The instruments are tuning. You're ready.
 
 ## Cross-References
 
-*See related entries within this pillar.*
+**Guardian Angel & The Four Archangels:**
+- [[Uriel]] — Your guardian angel; grounding, Earth, North, hidden wisdom
+- [[Raphael]] — East, Air, healing, intelligence; invoked before sessions
+- [[Michael]] — South, Fire, truth, clarity, protection
+- [[Gabriel]] — West, Water, receptivity, communication, intuition
+
+**The Seven Planetary Archangels:**
+- [[The Seven Planetary Archangels]] — Daily attunement system (Phase 2 practice)
+- [[The Seven Angels Who Stand Before the Throne]] — Scriptural foundation for the seven
+
+**Angelic Ritual Practices:**
+- [[The Four Quarters]] — Directional archangel framework
+- [[Lesser Banishing Ritual of the Pentagram]] — Advanced protective ritual with four archangels (optional)
+- [[Invocation]] — Pre-session invocation protocol for client work
+- [[The Four Archangels of the Quarters]] — Ritual framework for protected container
+
+**Core Magdalene Path Practices:**
+- [[Kenosis - The Path of Self-Emptying]] — Daily practice of releasing grip (foundational)
+- [[Contemplative Prayer]] — 20-minute daily silence practice (centering prayer method)
+- [[The Eight Boughs of Ascent]] — Vertical axis map (Phase 3: weekly check-in)
+- [[Practices and the Lunar Cycle]] — Evening review and lunar rhythm practices
+- [[Practitioner Protocols]] — Weekly/monthly/quarterly audit protocols
+
+**Relational & Advanced Practices:**
+- [[The Bridal Chamber and Sacred Union]] — Fifth Way prerequisite (singleness first)
+- [[Anointing and Substituted Love]] — Laying down your life practice
+
+**Discernment & Integration:**
+- [[Discernment of Spirits]] — How to verify authentic angelic presence vs. ego/demonic
+- [[The Gospel of Mary]] — Source text for Eight Boughs and apophatic practice
 
 ---
 
