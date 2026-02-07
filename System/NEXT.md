@@ -16,7 +16,7 @@
 | Cross-References Coverage | 99.9% |
 | Dead Wikilinks | 0 |
 | YAML Compliance | 100% |
-| Stub Files | 16 (intentional scaffolding) |
+| Stub Files | 4 (intentional scaffolding) |
 
 **All core practice content is 100% complete:**
 - 78 Tarot cards (Major + Minor Arcana)
@@ -120,7 +120,7 @@ Old Window content (76 files) archived at `.archive/Library/The Window/`. The wo
 | ~~16~~ | ~~Astrology~~ | ~~Firdaria~~ | ~~Low~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~17~~ | ~~Astrology~~ | ~~Primary Directions~~ | ~~Medium~~ | ~~COMPLETE 2026-02-06~~ |
 | ~~18~~ | ~~Tarot/Qabalah~~ | ~~32 Qabalah entries~~ | ~~Large~~ | ~~COMPLETE 2026-02-06 (Batches 1-4)~~ |
-| 19 | Personal Mythos | 17 deity stubs (Greek/Egyptian/Mesopotamian) | Large | Reference value; not blocking synthesis |
+| 19 | Personal Mythos | 16 deity stubs (12/16 COMPLETE — 4 Greek Olympians pending) | Large | Reference value; not blocking synthesis |
 | 20 | Core Foundations | Vibology overview entries (stubs) | Medium | Articulates meta-framework |
 | 21 | Synthesis | First synthesis pieces (Tree of Return, others) | Variable | The practice of synthesizing is the point |
 
@@ -144,7 +144,7 @@ Acquiring LYD manual ($50) and planning foundation course sequence (LYD $300, Ra
 - ~~Foundational entries (4 stubs) — COMPLETE 2026-02-06 (Core Foundations, BodyGraph, Deconditioning, Channels)~~
 - ~~Tarot overview (3 stubs) — COMPLETE 2026-02-06 (Divination, Fool's Journey, Pathworking)~~
 - ~~Personal Mythos practice/overview (4 stubs) — COMPLETE 2026-02-07 (Active Imagination, Numinous Experience, Heart Chakra Meditation, Hero's Journey)~~
-- Mythology deities (16 stubs) — archetypal anchors (Egyptian 3, Greek 13)
+- Mythology deities (16 → 4 remaining) — **12/16 COMPLETE 2026-02-06** (Egyptian 3/3 ✅, Mesopotamian 1/1 ✅, Specialized 4/4 ✅, Greek Olympians 4/8: Zeus, Poseidon, Hades, Apollo complete; Artemis, Hermes, Aphrodite, Ares pending)
 
 **Dignity system: COMPLETE (2026-02-04)**
 - **Data extraction:** All 384 line exaltations/detriments extracted from "The Definitive Book of Human Design" (IHDS 2011 edition)
