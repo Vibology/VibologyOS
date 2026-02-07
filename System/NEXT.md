@@ -7,18 +7,20 @@
 
 ## System Health Summary
 
-### Library (807 files)
+### Library (805 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 807 (802 Library + 5 Synthesis) |
-| **Cross-References Coverage** | **100% (802/802 files)** |
+| Total Files | 805 (800 Library + 5 Synthesis) |
+| **Cross-References Coverage** | **100% (800/800 files)** |
 | Dead Wikilinks | 5 (all `[[Relevant Entry]]` template placeholders) |
 | YAML Compliance | 100% |
-| **Inline Footnotes Coverage** | **100% (802/802 files)** |
-| Complete Footnotes | 90.5% (726/802 files) |
-| **Endmatter Standardization** | **100% (802/802 files)** |
+| **Inline Footnotes Coverage** | **100% (800/800 files)** |
+| Complete Footnotes | 90.4% (724/800 files) |
+| **Endmatter Standardization** | **100% (800/800 files)** |
 | Stub Files | 0 |
+
+**Practitioner-specific content separated (2026-02-07):** 2 Magdalene Path files moved to `~/Personal/Practice/` (Daily Practice Quick Reference, Practitioner Protocols). VibologyOS is now a pure universal reference library.
 
 **Dead link maintenance complete (4 rounds):** ~749 → 5. Round 1: 429 automated fixes. Round 2: 35 mechanical fixes + Qabalah.md overview. Round 3: 217 fixes (86 alias rewrites, 110 bracket removals, 4 compound fixes, 8 piped-link corrections). Round 4: 19 Category B entries created + 173 alias fixes (148 rewrites, 25 unbracketed). Effective dead links: **0**. Scanner: `scan_dead_links.py`.
 
@@ -142,6 +144,16 @@ VibologyOS/
 
 ## Session History
 
+**2026-02-07 (session 8):** Practitioner-specific content separated — VibologyOS is now pure reference
+- **Objective:** Separate practitioner-specific content from universal reference library
+- **Files moved to ~/Personal/Practice/:**
+  - Daily Practice Quick Reference.md (21KB) - tailored to practitioner's design (Uriel, 5 open centers, 4/6 profile)
+  - Practitioner Protocols.md (33KB) - weekly/monthly/quarterly personal audits
+- **Cross-references cleaned:** Removed 2 wikilinks to moved files (The Dark Night of the Soul.md, Middle Pillar.md)
+- **Files remaining:** 10 universal Magdalene Path teachings (Kenosis, Eight Boughs, Contemplative Prayer, etc.)
+- **Result:** 802 → 800 Library files; VibologyOS is now a pure universal reference tool
+- **Impact:** Clear separation of concerns — reference library vs. personal practice workspace
+
 **2026-02-07 (session 7, continued):** Cross-references 100% — replaced all placeholder text
 - **Objective:** Replace placeholder text "*See related entries within this pillar.*" with comprehensive cross-references in 21 files
 - **Batches:**
@@ -172,7 +184,7 @@ VibologyOS/
 - **Three-commit execution:**
   1. The Astrolabe (89 files) - tested structure, added "## Notes" header
   2. Human Design (346 files) - largest pillar, all subsystems
-  3. All remaining (367 files) - Tarot 115, Personal Mythos 125, Angelology 55, Astrology 50, Magdalene Path 12, Core Foundations 9, Welcome 1
+  3. All remaining (367 files) - Tarot 115, Personal Mythos 125, Angelology 55, Astrology 50, Magdalene Path 10, Core Foundations 9, Welcome 1
 - **Impact:** Removed 11,278 lines of redundancy across entire Library
 - **Tool created:** `System/Scripts/standardize_endmatter.py`
 - **Result:** 802/802 files (100%) standardized, zero errors

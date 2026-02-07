@@ -155,7 +155,6 @@ The Dark Night may be occurring when:
 - [[The Eight Boughs of Ascent]] (the Dark Night as transition between lower and higher boughs)
 - [[Contemplative Prayer]] (the practice that the Night transforms)
 - [[The Bridal Chamber and Sacred Union]] (what lies beyond the Night: the spiritual marriage)
-- [[Practitioner Protocols]] (guidance for practitioners encountering the Night)
 
 ### Cross-System Integration
 - **Astrology:** [[Saturn ♄|Saturn]] transits (especially Saturn return, Saturn conjunct Moon/Sun), [[Pluto ♇|Pluto]] transits (death-rebirth), [[12th House]] (dissolution, surrender)
