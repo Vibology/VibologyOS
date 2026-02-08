@@ -5,6 +5,7 @@ date_created: 2026-01-26
 date_expanded: 2026-02-05
 category: Practice
 verified: true
+source_verified: true
 verification_source: Multiple traditional sources (Teresa of Ávila, John of the Cross, Thomas Keating, Cloud of Unknowing, Philokalia)
 verification_notes: Comprehensive contemplative prayer framework compiled from Christian mystical tradition (Desert Fathers, Carmelite mystics, Trappist Centering Prayer, Eastern Orthodox Hesychasm) with Magdalene Path integration. Three major methods detailed with practical instruction.
 ---

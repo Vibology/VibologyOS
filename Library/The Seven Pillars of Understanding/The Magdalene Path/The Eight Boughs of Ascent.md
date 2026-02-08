@@ -4,6 +4,7 @@ system: The Magdalene Path
 date_created: 2026-01-18
 date_updated: 2026-01-24
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 category: Stages
 ---
@@ -13,7 +14,7 @@ category: Stages
 ---
 ## Core Teaching
 
-**The Eight Boughs of Ascent** are the core teaching of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] as revealed in **The Gospel of the Beloved Companion** (Chapter 42)[^1]—a visionary text that preserves her instruction to the disciples on the soul's vertical journey from material bondage to divine union (de Quillan, Ch. 42).
+**The Eight Boughs of Ascent** are the core teaching of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] as revealed in **The Gospel of the Beloved Companion** (Chapter 42)[^1]—an ancient gospel text translated by Jehanne de Quillan from manuscripts preserved in France, recording Mary's instruction to the disciples on the soul's vertical journey from material bondage to divine union (de Quillan, Ch. 42).
 
 **The Structure:** The Master (Yeshua) presents a vision of a tree that exists within the self, which "does not change, summer or winter." The roots are in the earth (the body), the trunk extends through the five regions of humanity, and the crown reaches the heavens—the kingdom of the Spirit (de Quillan, Ch. 42). Unlike concentric spheres (as in traditional Gnosticism) or abstract stages, Mary presents the ascent as **climbing a Great Tree**:
 

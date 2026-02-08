@@ -4,6 +4,7 @@ system: The Magdalene Path
 date_created: 2026-01-18
 date_updated: 2026-01-24
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 category: Overview
 ---
@@ -59,6 +60,12 @@ The **Nag Hammadi** texts (discovered 1945) and the **Berlin Codex** reveal a di
 
 **Gospel of Thomas (1st–2nd century):** Found in Nag Hammadi Codex II,2; considered one of the earliest non-canonical texts, potentially contemporaneous with the "Q" source (50–125 CE).
 - Logion 114: Jesus will "make Mary male" so she can enter the Kingdom—interpreted as achieving **singleness** (the integration of masculine and feminine within), not a literal sex change but transformation into a "living spirit" or *anthropos*[^5] (Bourgeault, 97)
+
+**Gospel of the Beloved Companion (1st century):** Translated by Jehanne de Quillan (2010) from ancient manuscripts preserved in France since Mary Magdalene's time; identified internally as the testimony of "Miryam the Migdalah" (Mary Magdalene), sister of Martha and Eleazar (Lazarus) of Bethany.
+- Presents Mary's teaching of the **Great Tree** with **Eight Boughs of Ascent**—a detailed map of the soul's vertical journey from material bondage to divine union (Ch. 42)
+- Each bough has specific **fruit** (virtue), **shadow** (obstacle), and **guardian** (power) that must be overcome through apophatic denial: *"I deny you. You have no part in me."*
+- Culminates at the Eighth Bough where the soul realizes **"I AM"** and is named by the Master as **"The Migdalah"** (The Tower/Watchtower)
+- Provides the most detailed visionary map of soul ascent in the Magdalene corpus, complementing the Gospel of Mary's teaching of the **Seven Powers of Wrath**
 
 **The Pattern:** The Wisdom tradition portrays Mary Magdalene as the **exemplar of gnosis**—knowledge gained through direct experience and relationship, not through dogma or hierarchy.
 

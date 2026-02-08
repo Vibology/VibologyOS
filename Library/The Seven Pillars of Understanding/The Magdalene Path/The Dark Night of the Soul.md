@@ -3,6 +3,7 @@ tags: [magdalene-path, dark-night, mysticism, contemplative, purgation, john-of-
 system: The Magdalene Path
 date_created: 2026-02-07
 verified: true
+source_verified: true
 verification_source: "Esoteric Grimoire (St. John of the Cross, Teresa of Avila, contemplative mysticism sources)"
 category: Mystical Concept
 ---
