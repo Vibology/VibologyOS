@@ -281,11 +281,11 @@ The twelve zodiac signs correspond to specific **Major Arcana** cards:
 - **Taurus ♉** — [[The Hierophant (V)]]
 - **Gemini ♊** — [[The Lovers (VI)]]
 - **Cancer ♋** — [[The Chariot (VII)]]
-- **Leo ♌** — [[Strength (VIII)]] / [[Lust (XI)]] (Thoth)
+- **Leo ♌** — [[Strength (VIII)]] (Thoth: Lust XI)
 - **Virgo ♍** — [[The Hermit (IX)]]
-- **Libra ♎** — [[Justice (XI)]] / [[Adjustment (VIII)]] (Thoth)
+- **Libra ♎** — [[Justice (XI)]] (Thoth: Adjustment VIII)
 - **Scorpio ♏** — [[Death (XIII)]]
-- **Sagittarius ♐** — [[Temperance (XIV)]] / [[Art (XIV)]] (Thoth)
+- **Sagittarius ♐** — [[Temperance (XIV)]] (Thoth: Art XIV)
 - **Capricorn ♑** — [[The Devil (XV)]]
 - **Aquarius ♒** — [[The Star (XVII)]]
 - **Pisces ♓** — [[The Moon (XVIII)]]

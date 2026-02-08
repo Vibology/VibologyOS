@@ -198,8 +198,8 @@ The **seven classical planets** correspond to specific Major Arcana cards in the
 - **[[Venus ♀]]** — [[The Empress (III)]]
 - **[[Sun ☉]]** — [[The Sun (XIX)]]
 - **[[Mars ♂]]** — [[The Tower (XVI)]]
-- **[[Jupiter ♃]]** — [[The Wheel of Fortune (X)]]
-- **[[Saturn ♄]]** — [[The World (XXI)]] or [[The Universe]]
+- **[[Jupiter ♃]]** — [[Wheel of Fortune (X)]]
+- **[[Saturn ♄]]** — [[The World (XXI)]] (Thoth: The Universe)
 
 ### Angelology
 
@@ -208,10 +208,10 @@ The **seven classical planets** are ruled by specific archangels in the Hermetic
 - **[[Sun ☉]]** — [[Michael]] (Solar archangel, light)
 - **[[Moon ☽]]** — [[Gabriel]] (Lunar archangel, revelation)
 - **[[Mercury ☿]]** — [[Raphael]] (Healing, communication)
-- **[[Venus ♀]]** — [[Anael (Haniel)]] (Love, beauty)
-- **[[Mars ♂]]** — [[Samael (Camael)]] (Severity, strength)
-- **[[Jupiter ♃]]** — [[Sachiel (Zadkiel)]] (Mercy, abundance)
-- **[[Saturn ♄]]** — [[Cassiel (Tzaphkiel)]] (Time, limitation)
+- **[[Venus ♀]]** — [[Haniel]] (Love, beauty; also called Anael)
+- **[[Mars ♂]]** — [[Kamael]] (Severity, strength; also called Camael, Samael)
+- **[[Jupiter ♃]]** — [[Tzadkiel]] (Mercy, abundance; also called Sachiel, Zadkiel)
+- **[[Saturn ♄]]** — [[Tzaphkiel]] (Time, limitation; also called Cassiel)
 
 ---
 
