@@ -3,7 +3,7 @@ tags: [folklore, heros-journey, campbell, return, magic-flight, pursuit, commitm
 system: Personal Mythos
 entity_id: HJ-10-RoadBack
 date_created: 2026-01-17
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Joseph Campbell The Hero with a Thousand Faces, Jung CW, Mythology sources"

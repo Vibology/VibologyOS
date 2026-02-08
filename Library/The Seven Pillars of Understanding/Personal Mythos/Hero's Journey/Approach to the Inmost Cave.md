@@ -3,7 +3,7 @@ tags: [folklore, heros-journey, campbell, threshold, preparation, fear, shadow, 
 system: Personal Mythos
 entity_id: HJ-07-ApproachInmostCave
 date_created: 2026-01-17
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Joseph Campbell The Hero with a Thousand Faces, Jung CW, Mythology sources"
