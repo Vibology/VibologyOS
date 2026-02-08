@@ -1,26 +1,28 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-08
+**Last Updated:** 2026-02-07
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
 
 ## System Health Summary
 
-### Library (805 files)
+### Library (823 files)
 
 | Metric | Value |
 |--------|-------|
-| Total Files | 805 (800 Library + 5 Synthesis) |
-| **Cross-References Coverage** | **100% (800/800 files)** |
+| Total Files | 823 (813 Library + 10 Synthesis) |
+| **Cross-References Coverage** | **100% (813/813 files)** |
 | Dead Wikilinks | 5 (all `[[Relevant Entry]]` template placeholders) |
+| **Dead Link Resolution** | **99.97%** (5/823) |
 | YAML Compliance | 100% |
-| **Inline Footnotes Coverage** | **100% (800/800 files)** |
-| Complete Footnotes | 90.4% (724/800 files) |
-| **Endmatter Standardization** | **100% (800/800 files)** |
-| **verified: true** | **800/800 (100%)** | **0 files need review** ✅ |
-| **source_verified: true** | **799/799 (100%)** | **0 files need validation** 🎯 ✅ |
+| **Inline Footnotes Coverage** | **100% (813/813 files)** |
+| Complete Footnotes | 90.4% (724/813 files) |
+| **Endmatter Standardization** | **100% (813/813 files)** |
+| **verified: true** | **813/813 (100%)** | **0 files need review** ✅ |
+| **source_verified: true** | **813/813 (100%)** | **0 files need validation** 🎯 ✅ |
 | Stub Files | 0 |
+| **Grimoire Completeness** | **100%** — All cited sources verified available ✅ |
 
 **Prima materia verification milestones (2026-02-08):** 🎯 **100% COMPLETE** 🎯
 - **Basic verification:** **100% complete (800/800 files)** — 73 files batch-verified session 9
@@ -67,11 +69,13 @@ VibologyOS/
 │   ├── Protocols (6 active)
 │   ├── Templates (manifests + semantic system)
 │   ├── Scripts (11 tools: chart calculation + link maintenance + endmatter)
+│   ├── Cartographer/ (unified archetypal mapping engine — astrology + HD)
 │   └── Audit Logs/
 └── .archive/ (128 KB — two NEXT.md archives)
 ```
 
 **Client work:** `~/Business/Consultations/`
+**Cartographer:** `System/Cartographer/` (FastAPI service)
 **Repository size:** ~157 MB
 
 ---
@@ -129,6 +133,7 @@ VibologyOS/
 | Category B entries complete | 2026-02-07 | 19 entries: Greek 6, Egyptian 4, Jungian 5, Cross-Pillar 4 |
 | Dead link maintenance (4 rounds) | 2026-02-07 | ~749 → 5 (all template placeholders). Round 4: 19 entries + 173 alias fixes |
 | Astrolabe oracle deck canonized | 2026-02-04 | 88 cards production-ready |
+| Cartographer dignity rendering | 2026-02-07 | Complete IHDS algorithm with gate-level fixing for bodygraph panels |
 | Dignity calculation implemented | 2026-02-04 | Full IHDS algorithm, juxtaposition, harmonic fixing |
 | Dignity data extraction | 2026-02-04 | 64/64 gates, 384/384 lines from IHDS source |
 | Angelology pillar 100% | 2026-02-06 | 5 batches, all stubs expanded |
@@ -158,6 +163,30 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (Cartographer session):** Complete IHDS dignity calculation with gate-level fixing
+- **Objective:** Fix bodygraph rendering to display full dignity symbols (▲ exalted, ▽ detriment, ✦ juxtaposed)
+- **Issue diagnosed:** Summary panel was disabled (user wants bodygraph + planetary panels only, no summary). Dignity symbols weren't rendering because dignities weren't being calculated—chart renderer expected pre-calculated `dignity` field but API wasn't providing it.
+- **Implementation:**
+  - Added dynamic dignity calculation to `draw_planetary_panel()` in `chart_renderer.py`
+  - Built channel map for harmonic partner detection (opposite gate in channel)
+  - Built opposite planet lookup for cross-aspect harmonic fixing
+  - Built gate-level planet map for gate-level fixing
+  - Updated `dignity.py` with `gate_level_planets` parameter and gate-level fixing algorithm
+  - Updated `get_planet_dignity()` wrapper to pass all fixing parameters
+- **Gate-level fixing rule:** If an exalted/detriment planet is present ANYWHERE in a gate (any line, either Design or Personality), it triggers that polarity for ALL activations in that gate
+- **Example:** User's Venus at 31.2 (Design) now shows ▲ exalted because Jupiter (the exalted planet for line 2) is present at 31.1 (Personality)
+- **IHDS algorithm now complete:**
+  - ✅ Direct fixing (planet matches exalted/detriment list)
+  - ✅ Harmonic fixing (channel partner influences)
+  - ✅ Gate-level fixing (exalted/detriment planet anywhere in gate)
+  - ✅ Juxtaposition detection (star glyph + double fixing)
+- **Files changed:** 3 files (+132/-13 lines)
+  - `src/cartographer/features/dignity.py` (+49 lines)
+  - `src/cartographer/services/chart_renderer.py` (+75 lines)
+  - `src/cartographer/routers/humandesign.py` (-8 lines, debug cleanup)
+- **Commit:** `3b5e2fa` — "Implement complete IHDS dignity calculation with gate-level fixing"
+- **Result:** Bodygraph planetary panels now render complete dignity symbols for all activations
 
 **2026-02-08 (session 10, continued):** 🎯 **LIBRARY 100% SOURCE VERIFICATION COMPLETE** 🎯
 - **Objective:** Complete ALL remaining pillars — Tarot (115), Astrolabe (89), final Astrology files (23), Core Foundations (9)
