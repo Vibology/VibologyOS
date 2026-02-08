@@ -12,7 +12,7 @@ keynote: Focused on Reproduction - Breaking Barriers to Achieve Union
 type: Generated Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 6-59
 *Intimacy (Mating)*

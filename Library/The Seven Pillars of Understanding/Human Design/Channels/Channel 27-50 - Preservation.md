@@ -13,7 +13,7 @@ gates: [27, 50]
 gene_keys: Selfishness/Corruption → Altruism/Equilibrium → Selflessness/Harmony
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 27-50
 *Preservation*

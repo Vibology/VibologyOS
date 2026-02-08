@@ -12,7 +12,7 @@ keynote: Being in the Flow - Fixed Patterns and Universal Love
 type: Generated Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 5-15
 *Rhythm (Being in the Flow)*

@@ -13,7 +13,7 @@ gates: [26, 44]
 gene_keys: Pride/Interference → Artfulness/Teamwork → Invisibility/Synarchy
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 26-44
 *Surrender*

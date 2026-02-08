@@ -4,6 +4,7 @@ system: Human Design
 date_created: 2026-01-26
 date_updated: 2026-02-07
 verified: true
+source_verified: true
 verification_source: The Definitive Book of Human Design (Bunnell/Ra), Living Your Design Student Manual (Bunnell), The Book of Destinies (Parkyn), Definition.md, Centers entries
 status: comprehensive
 ---

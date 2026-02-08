@@ -13,7 +13,7 @@ gates: [32, 54]
 gene_keys: Failure/Greed → Preservation/Aspiration → Veneration/Ascension
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 32-54
 *Transformation*

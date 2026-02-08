@@ -7,6 +7,7 @@ signature: Satisfaction
 not_self_theme: Frustration
 date_created: 2026-01-20
 verified: true
+source_verified: true
 ---
 
 # To Respond: The Generator's Strategy

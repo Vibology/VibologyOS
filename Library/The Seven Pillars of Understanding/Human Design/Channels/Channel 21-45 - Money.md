@@ -13,7 +13,7 @@ gates: [21, 45]
 gene_keys: Control/Dominance → Authority/Synergy → Valour/Communion
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 21-45
 *Money (The Materialist)*

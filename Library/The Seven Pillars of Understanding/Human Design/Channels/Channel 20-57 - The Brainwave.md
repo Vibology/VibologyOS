@@ -13,7 +13,7 @@ gates: [20, 57]
 gene_keys: Superficiality/Unease → Self-Assurance/Intuition → Presence/Clarity
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 20-57
 *The Brainwave (Penetrating Awareness)*

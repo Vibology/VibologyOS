@@ -13,7 +13,7 @@ gates: [19, 49]
 gene_keys: Co-dependence/Reaction → Sensitivity/Revolution → Sacrifice/Rebirth
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 19-49
 *Synthesis (Sensitivity)*

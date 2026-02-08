@@ -12,7 +12,7 @@ keynote: Following One's Convictions - Self-Love Empowered by Life Force
 type: Generated Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 10-34
 *Exploration (Following One's Convictions)*

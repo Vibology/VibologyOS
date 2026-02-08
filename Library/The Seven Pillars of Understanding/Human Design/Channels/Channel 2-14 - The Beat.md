@@ -12,7 +12,7 @@ keynote: Keeper of Keys - Direction Fueled by Power
 type: Generated Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 2-14 
 *The Beat (The Keeper of Keys)*

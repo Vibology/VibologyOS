@@ -13,7 +13,7 @@ gates: [20, 34]
 gene_keys: Superficiality/Force → Self-Assurance/Strength → Presence/Majesty
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 20-34
 *Charisma (Thoughts Must Become Deeds)*

@@ -13,7 +13,7 @@ gates: [47, 64]
 gene_keys: Oppression/Confusion → Transmutation/Imagination → Transfiguration/Illumination
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 47-64
 *Abstraction*

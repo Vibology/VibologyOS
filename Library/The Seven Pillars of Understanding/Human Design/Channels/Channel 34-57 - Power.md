@@ -13,7 +13,7 @@ gates: [34, 57]
 gene_keys: Force/Unease → Strength/Intuition → Majesty/Clarity
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 34-57
 *Power*

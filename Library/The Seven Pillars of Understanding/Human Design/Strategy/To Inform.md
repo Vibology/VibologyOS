@@ -7,6 +7,7 @@ signature: Peace
 not_self_theme: Anger
 date_created: 2026-01-20
 verified: true
+source_verified: true
 ---
 
 # To Inform: The Manifestor's Strategy

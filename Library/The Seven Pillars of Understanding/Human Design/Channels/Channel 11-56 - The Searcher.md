@@ -12,7 +12,7 @@ keynote: A Searcher - Ideas and Stimulation Through Storytelling
 type: Projected Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 11-56
 *The Searcher (Curiosity)*

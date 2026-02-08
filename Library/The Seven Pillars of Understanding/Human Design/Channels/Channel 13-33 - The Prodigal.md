@@ -14,7 +14,7 @@ definition_type: Single Definition (G to Throat)
 gene_keys: Gate 13 (Discord → Discernment → Empathy), Gate 33 (Forgetting → Mindfulness → Revelation)
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 13-33
 *The Prodigal (A Witness)*

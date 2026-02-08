@@ -13,7 +13,7 @@ gates: [29, 46]
 gene_keys: Half-Heartedness/Seriousness → Commitment/Delight → Devotion/Ecstasy
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 29-46
 *Discovery*

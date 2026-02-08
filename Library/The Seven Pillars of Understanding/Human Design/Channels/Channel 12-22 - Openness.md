@@ -14,7 +14,7 @@ definition_type: Single Definition (connects two motor centers via manifestation
 gene_keys: Gate 12 (Vanity → Discrimination → Purity), Gate 22 (Dishonour → Graciousness → Grace)
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 12-22
 *Openness (A Social Being)*

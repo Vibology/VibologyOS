@@ -13,7 +13,7 @@ gates: [37, 40]
 gene_keys: Weakness/Exhaustion → Equality/Resolve → Tenderness/Divine Will
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 37-40
 *Community*

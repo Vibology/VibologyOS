@@ -12,7 +12,7 @@ keynote: Energy Which Initiates and Fluctuates - The Pulse
 type: Generated Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 3-60
 *Mutation (Energy Which Initiates and Fluctuates)*

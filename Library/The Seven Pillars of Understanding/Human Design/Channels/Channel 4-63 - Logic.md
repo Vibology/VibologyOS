@@ -12,7 +12,7 @@ keynote: Mental Ease Mixed with Doubt - Questioning the Pattern
 type: Projected Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 4-63
 *Logic (Mental Ease Mixed with Doubt)*

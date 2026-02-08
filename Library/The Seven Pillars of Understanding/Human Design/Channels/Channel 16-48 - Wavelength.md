@@ -13,7 +13,7 @@ gates: [16, 48]
 gene_keys: Indifference/Inadequacy → Versatility/Resourcefulness → Mastery/Wisdom
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 16-48
 *Wavelength (Talent)*

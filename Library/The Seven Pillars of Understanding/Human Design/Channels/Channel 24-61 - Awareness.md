@@ -13,7 +13,7 @@ gates: [24, 61]
 gene_keys: Addiction/Psychosis → Invention/Inspiration → Silence/Sanctity
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 24-61
 *Awareness (A Thinker)*

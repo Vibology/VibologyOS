@@ -13,7 +13,7 @@ gates: [17, 62]
 gene_keys: Opinion/Intellect → Far-Sightedness/Precision → Omniscience/Impeccability
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 17-62
 *Acceptance (The Organizational Being)*

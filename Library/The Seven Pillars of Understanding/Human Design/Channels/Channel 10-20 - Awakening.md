@@ -12,7 +12,7 @@ keynote: Commitment to Higher Principles - "I Am" Self-Love
 type: Projected Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 10-20
 *Awakening (Commitment to Higher Principles)*

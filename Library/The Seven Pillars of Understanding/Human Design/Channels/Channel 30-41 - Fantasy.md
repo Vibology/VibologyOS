@@ -13,7 +13,7 @@ gates: [30, 41]
 gene_keys: Desire/Fantasy → Lightness/Anticipation → Rapture/Emanation
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 30-41
 *Fantasy (Recognition)*

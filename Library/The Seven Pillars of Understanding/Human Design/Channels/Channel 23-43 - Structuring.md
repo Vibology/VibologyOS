@@ -13,7 +13,7 @@ gates: [23, 43]
 gene_keys: Complexity/Deafness → Simplicity/Insight → Quintessence/Epiphany
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 23-43
 *Structuring (Individuality)*

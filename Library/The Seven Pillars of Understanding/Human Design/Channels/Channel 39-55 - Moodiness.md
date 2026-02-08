@@ -13,7 +13,7 @@ gates: [39, 55]
 gene_keys: Provocation/Victimisation → Dynamism/Freedom → Liberation/Freedom
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 39-55
 *Moodiness (Emoting)*

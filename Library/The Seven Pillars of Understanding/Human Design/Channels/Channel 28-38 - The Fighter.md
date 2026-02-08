@@ -13,7 +13,7 @@ gates: [28, 38]
 gene_keys: Purposelessness/Struggle → Totality/Perseverance → Immortality/Honour
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 28-38
 *The Fighter (Struggle)*

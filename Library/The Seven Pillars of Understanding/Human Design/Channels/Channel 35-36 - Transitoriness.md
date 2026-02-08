@@ -13,7 +13,7 @@ gates: [35, 36]
 gene_keys: Hunger/Turbulence → Adventure/Humanity → Boundlessness/Compassion
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 35-36
 *Transitoriness*

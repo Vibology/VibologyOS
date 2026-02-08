@@ -12,7 +12,7 @@ keynote: Creative Role Model - Leading by Example
 type: Projected Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 1-8: Inspiration
 *The Creative Role Model*

@@ -12,7 +12,7 @@ keynote: Leadership (Good or Bad) - Democratic Election by the Majority
 type: Projected Channel
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 7-31
 *The Alpha (Leadership)*

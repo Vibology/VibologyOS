@@ -13,7 +13,7 @@ gates: [18, 58]
 gene_keys: Judgement/Dissatisfaction → Integrity/Vitality → Perfection/Bliss
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 18-58
 *Judgment (Insatiability)*

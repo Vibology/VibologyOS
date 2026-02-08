@@ -13,7 +13,7 @@ gates: [25, 51]
 gene_keys: Constriction/Agitation → Acceptance/Initiative → Universal Love/Awakening
 verified: true
 verification_date: 2026-01-25
-source_verified: Esoteric Grimoire
+source_verified: true
 ---
 # Channel 25-51
 Initiation
