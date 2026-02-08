@@ -5,7 +5,7 @@ tale_origin: French literary fairy tale (Charles Perrault, 1697)
 core_archetype: The Natural Predator / Negative Animus
 themes: [contra-naturam, predation, intuition, obedience-vs-consciousness, death-of-creative-life, animus-possession, shadow-recognition]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

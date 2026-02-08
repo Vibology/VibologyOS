@@ -5,7 +5,7 @@ tale_origin: French literary fairy tale (Gabrielle-Suzanne Barbot de Villeneuve,
 core_archetype: The Shadow Integration / Sacred Marriage
 themes: [acceptance, instinct-redemption, inner-beauty, eros, transformation, death-rebirth, masculine-feminine-union]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

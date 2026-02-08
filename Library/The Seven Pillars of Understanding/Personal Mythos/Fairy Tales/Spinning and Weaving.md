@@ -5,7 +5,7 @@ motif_type: Universal fairy tale motif (cross-cultural)
 core_archetype: The Fates / Manifestation / Mind of Nature
 themes: [spinning, weaving, fate, destiny, manifestation, thread-of-life, creation, transformation, fixation-of-fantasy, rumpelstiltskin, sleeping-beauty, sacred-feminine-work]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

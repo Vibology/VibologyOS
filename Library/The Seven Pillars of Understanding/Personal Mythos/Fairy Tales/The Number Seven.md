@@ -5,7 +5,7 @@ motif_type: Sacred Number / Symbolic Pattern
 core_archetype: The Evolutionary Cycle / The Seven-Stage Process
 themes: [evolution, incubation, seven-year-cycle, seven-stages, transformation, patience, moon-rhythm, planetary-ladder, completion, ogdoad, cannot-rush, gestation]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

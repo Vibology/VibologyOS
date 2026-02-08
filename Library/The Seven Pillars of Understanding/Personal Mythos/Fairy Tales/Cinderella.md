@@ -5,7 +5,7 @@ tale_origin: Universal motif (Greek "Rhodopis" 1st c. BCE, Chinese "Ye Xian" 9th
 core_archetype: Death-Initiation-Rebirth / Development of Discrimination
 themes: [good-mother-death, intuition-as-guide, nigredo-ashes, shadow-family, impossible-tasks, inner-nobility, self-worth, unique-identity, soul-recognition]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

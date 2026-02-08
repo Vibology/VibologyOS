@@ -5,7 +5,7 @@ tale_origin: Universal motif across Egyptian, Biblical, Greek, Roman, Norse, and
 core_archetype: The Shadow / Ego-Shadow Dyad
 themes: [separation, divergence, hostile-brothers, light-dark-polarity, shadow-work, interdependence, reconciliation, unity-through-conflict]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

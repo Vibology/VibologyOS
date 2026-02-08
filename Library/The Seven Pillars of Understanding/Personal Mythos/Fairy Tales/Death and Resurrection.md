@@ -5,7 +5,7 @@ motif_type: Universal transformative pattern
 core_archetype: Death-Initiation-Rebirth / Life-Death-Life Cycle
 themes: [ego-death, night-sea-journey, dismemberment, skeleton-woman, metanoia, nigredo-albedo, surrender, renewal, trust, form-changing, consciousness-ascent]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

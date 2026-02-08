@@ -5,7 +5,7 @@ motif_type: Universal Quest Pattern / Archetypal Goal Symbol
 core_archetype: The Self as Treasure / The Hard-to-Attain Goal
 themes: [self-realization, individuation, libido-mobilization, call-to-adventure, dragon-guarded-treasure, shadow-confrontation, meaning-center, wholeness, alchemical-gold]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

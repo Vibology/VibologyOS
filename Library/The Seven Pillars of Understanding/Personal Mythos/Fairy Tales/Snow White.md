@@ -5,7 +5,7 @@ tale_origin: Germanic folk tale (Brothers Grimm, 1812; medieval oral traditions)
 core_archetype: The Senescent Mother / Puella's Awakening
 themes: [envy, vanity, death-sleep, awakening, mother-daughter conflict, mirror-self, poisoned-knowledge, dormancy, resurrection]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

@@ -5,7 +5,7 @@ tale_type: Universal Fairy Tale Motif
 core_archetype: The Unconscious / The Wild Feminine / The Great Mother's Realm
 themes: [wilderness, getting-lost, no-paths, isolation, introversion, persona-dissolution, natural-healing, instinct, vegetative-psyche, initiation-space]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

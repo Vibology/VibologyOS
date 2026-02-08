@@ -5,7 +5,7 @@ tale_origin: German fairy tale (Giambattista Basile, 1634; Brothers Grimm, 1812)
 core_archetype: The Negative Mother Complex / Separation-Individuation
 themes: [mother-complex, imprisonment, golden-hair, eros-bridge, animus-development, exile, blindness, healing-tears, wild-woman, tower-consciousness]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

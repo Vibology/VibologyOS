@@ -2,7 +2,7 @@
 tags: [folklore, fairy-tale, jungian, archetype, motif, shadow-mother, negative-mother-complex, separation, individuation, forced-maturation]
 system: Personal Mythos
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

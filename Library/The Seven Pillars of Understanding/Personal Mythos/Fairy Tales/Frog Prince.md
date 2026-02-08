@@ -5,7 +5,7 @@ tale_origin: German fairy tale (Brothers Grimm, "Der Froschkönig oder der eiser
 core_archetype: Transformation Through Shock / Adolescent Initiation
 themes: [confrontation, instinct-integration, puberty, shadow-crisis, passion, will, death-rebirth, masculine-feminine-union]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"

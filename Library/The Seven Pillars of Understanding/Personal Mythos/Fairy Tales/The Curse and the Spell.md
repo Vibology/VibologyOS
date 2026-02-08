@@ -5,7 +5,7 @@ motif_type: Universal Fairy Tale Pattern
 core_archetype: Psychic Petrification / Protective Shutdown
 themes: [repression, neurosis, frozen-development, excluded-feminine, nature-avenging, dormancy, waiting-for-maturity, enchantment-breaking]
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Marie-Louise von Franz, Bruno Bettelheim, Jung CW, Grimm Brothers, Perrault"
