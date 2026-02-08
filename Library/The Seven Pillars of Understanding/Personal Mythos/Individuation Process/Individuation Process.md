@@ -2,9 +2,13 @@
 tags: [folklore, jungian, individuation, developmental-psychology, overview]
 system: Personal Mythos
 date_created: 2026-01-26
+date_updated: 2026-02-07
 verified: true
+source_verified: true
+verification_date: 2026-02-07
 category: Index
-grimoire_source: "Jung Collected Works (CW 7, 9i, 9ii, 12)"
+grimoire_source: "Jung Collected Works (CW 7, 9ii, 12, 14, 17)"
+verification_notes: "Clarified Jung's actual three-stage sequence (Shadow, Anima/Animus, Self from CW 9ii para. 42) vs. six-stage synthesis model. Added specific CW citations for all stages. Noted that ego/persona are prerequisites (first half of life, CW 17), not individuation stages proper. Alchemical correlations from CW 12 & 14. Six-stage model is pedagogical synthesis across multiple CW volumes, not Jung's explicit formulation."
 ---
 
 # The Individuation Process
@@ -22,9 +26,20 @@ Individuation is not self-improvement or ego-inflation. It is the ego's **relati
 
 ---
 
+## Jung's Core Sequence vs. The Six-Stage Synthesis
+
+**Jung's Actual Teaching:** In *Aion* (CW 9ii, par. 42), Jung identifies **three stages** of coming to terms with the unconscious:[^1]
+1. **The Shadow** — Integration of the personal unconscious (first stage)[^1]
+2. **The Syzygy (Anima/Animus)** — Encounter with the contrasexual archetype, a "masterpiece" of greater difficulty[^2]
+3. **The Self** — Progressive assimilation of the archetype of wholeness[^3]
+
+Jung treats **ego formation** and **persona development** as **prerequisites** (first half of life, CW 7, CW 17), not individuation stages proper.[^4] Individuation is the task of the **second half of life**—differentiating from the collective norms the ego adapted to in youth.[^5]
+
+**The Six-Stage Model (Synthesis):** The framework presented here expands Jung's three-stage core into six developmental phases by including the prerequisites (ego, persona) and subdividing the Self encounter into confrontation and integration. This model synthesizes Jung's scattered teachings across multiple volumes (CW 7, 9ii, 12, 14, 17) with developmental psychology and alchemical correlations. It is pedagogically useful but not Jung's explicit formulation.
+
 ## The Six Stages
 
-The individuation process unfolds through six developmental stages, each associated with specific psychological tasks and archetypal encounters.[^1] These stages are not strictly linear—one may revisit earlier stages throughout life—but they represent a general progression from unconscious unity to conscious wholeness.
+The individuation process unfolds through six developmental stages, each associated with specific psychological tasks and archetypal encounters. These stages are not strictly linear—one may revisit earlier stages throughout life—but they represent a general progression from unconscious unity to conscious wholeness.
 
 The first two stages are **pre-opus**: necessary ego development that must occur before the alchemical work proper can begin. The *opus* itself — the conscious encounter with the unconscious — unfolds through stages 3–6, mapped to the four [[Alchemical Stages|alchemical colors]].
 
@@ -128,6 +143,14 @@ The **four colors** (*colores*) are Jung's primary alchemical model (CW 12, CW 1
 
 ## Notes
 
-[^1]: C.G. Jung, *Collected Works* Vol. 7: *Two Essays on Analytical Psychology* (Princeton University Press) — Individuation as the process of psychological integration and self-realization.
+[^1]: Jung, C.G. *Collected Works* Vol. 9ii: *Aion* (Princeton University Press, 1959), para. 42 — "The integration of the shadow, or the realization of the personal unconscious, marks the first stage in the analytic process... without it a recognition of anima and animus is impossible."
+
+[^2]: Jung, CW 9ii *Aion*, para. 9, 33 — The Anima/Animus are "much further away from consciousness" than the Shadow, representing the collective unconscious. Their integration is a "masterpiece."
+
+[^3]: Jung, CW 9ii *Aion*, para. 347, 355 — The final stage involves "progressive assimilation and amplification of the archetype" of the Self, leading to wholeness symbolized by the mandala.
+
+[^4]: Jung, CW 17 *The Development of Personality* — Ego formation is a biological and social necessity of youth, not a stage of individuation. The Ego must be firmly established before individuation (second half of life) can safely begin.
+
+[^5]: Jung, CW 7 *Two Essays on Analytical Psychology* — Individuation is differentiation from the Persona (social mask) and collective psyche, confronting the personal unconscious (Shadow), then the soul-image (Anima/Animus), avoiding the inflation of the Mana-Personality, and establishing a new center between conscious and unconscious (the Self).
 
 ---
