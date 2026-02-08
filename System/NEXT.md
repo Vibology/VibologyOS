@@ -87,17 +87,7 @@ VibologyOS/
 - Library verified and cross-referenced
 - Follow `PROTOCOL - Client Work.md`
 
-### 2. Oracle Deck — The Astrolabe (Canon)
-
-**The Astrolabe — 88-card Oracle Deck (Production-Ready)**
-
-**Structure (88 cards):**
-- **The Athanor** (24 cards): The Materia (5) + The Furnace (7) + The Archetypes (12)
-- **The Codex** (64 cards): 8 trigram families x 8 cards, each named for what the gate/hexagram/key actually is
-
-**Status:** Canonized 2026-02-04. Production-ready.
-
-### 3. Library Expansion — Remaining Roadmap Items
+### 2. Library Expansion — Remaining Roadmap Items
 
 **Category B content gaps: COMPLETE** (2026-02-07). All 19 entries created (20 items, 1 combined). See Completed Milestones.
 
@@ -113,11 +103,11 @@ VibologyOS/
 
 **Astrological Tradition:** Traditional Archetypal / Psycho-Astrology — Hellenistic foundations (Ptolemy, Valens, Dorotheus) with Jungian archetypal synthesis (Greene, Sasportas). NOT evolutionary astrology. All Hellenistic technique tiers (1-3) complete from Brennan source.
 
-### 4. New Synthesis Work
+### 3. New Synthesis Work
 - `Synthesis/General/` ready for new pieces
 - Template: `_TEMPLATE - Cross-System Synthesis.md`
 
-### 5. MacOS Application — Unified Interface
+### 4. MacOS Application — Unified Interface
 
 **Next Priority:** Build native MacOS app integrating VibologyOS library with Cartographer API
 
