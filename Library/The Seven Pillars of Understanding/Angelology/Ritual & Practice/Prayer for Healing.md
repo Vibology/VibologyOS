@@ -4,6 +4,7 @@ system: Angelology
 subsystem: Ritual & Practice
 date_created: 2026-01-26
 date_updated: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Scripture (James 5:14-15, Psalms 6/67/102), Catholic tradition, Golden Dawn angelology, empirical prayer research"

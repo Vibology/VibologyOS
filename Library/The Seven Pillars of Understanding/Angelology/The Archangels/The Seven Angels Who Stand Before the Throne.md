@@ -4,6 +4,7 @@ system: Angelology
 subsystem: The Archangels
 date_created: 2026-01-26
 date_updated: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Tobit 12:15, Revelation 8:2, 1 Enoch 20, Pseudo-Dionysius, Zohar, Davidson A Dictionary of Angels"

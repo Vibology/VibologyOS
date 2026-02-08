@@ -4,6 +4,7 @@ system: Angelology
 subsystem: Ritual & Practice
 date_created: 2026-01-26
 date_updated: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jewish liturgical tradition, Talmud, Kabbalistic sources"
