@@ -6,6 +6,7 @@ date_created: 2026-01-18
 date_updated: 2026-01-25
 category: Heptarchia
 verified: true
+source_verified: true
 verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision Magick), Dee's manuscripts (Mysteriorum Libri Quinque)"
 ---
 # Heptarchia Mystica

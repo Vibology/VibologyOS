@@ -4,6 +4,7 @@ system: Angelology
 subsystem: Enochian
 date_created: 2026-01-26
 verified: true
+source_verified: true
 date_expanded: 2026-02-06
 status: complete
 ---

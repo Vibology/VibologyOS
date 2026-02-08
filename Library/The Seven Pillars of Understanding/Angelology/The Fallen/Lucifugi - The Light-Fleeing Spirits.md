@@ -4,6 +4,7 @@ system: Angelology
 related_figures: [[The Nine Orders of Fallen Angels]], [[Gabriel]]
 date_created: 2026-02-05
 verified: true
+source_verified: true
 ---
 
 # Lucifugi: The Light-Fleeing Spirits

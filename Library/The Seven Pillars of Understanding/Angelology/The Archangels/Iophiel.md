@@ -13,6 +13,7 @@ function: Illumination of Divine Unity, Revealer of Monotheistic Truth, Expeller
 planetary: Uranus (secondary attribution - illumination, revelation)
 tarot: The High Priestess (II), The Magician (I)
 verified: true
+source_verified: true
 verification_source: The Hierarchie of the Blessed Angells (Heywood, 1635)
 verification_notes: Heywood assigns Iophiel to Book 2 (Monotheism/Divine Unity) and explicitly identifies him with the Cherubim order (marginal note "CHERVE, Iophiel"). Traditional Cherubim = Chokmah = Wisdom correspondence applied.
 ---

@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-26
 date_updated: 2026-02-06
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 verification_notes: Davidson Dictionary, Wang Qabalistic Tarot, Zohar references
 category: Concept/Function

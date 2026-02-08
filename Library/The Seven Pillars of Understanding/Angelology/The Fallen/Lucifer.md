@@ -5,6 +5,7 @@ related_figures: [[Michael]], [[Seraphim]], [[The Nine Orders of Fallen Angels]]
 related_concepts: [[Kether]], [[Qlippoth]], Pride, Envy
 date_created: 2026-01-26
 verified: true
+source_verified: true
 date_expanded: 2026-02-05
 ---
 

@@ -6,6 +6,7 @@ category: Angelic Correspondences
 structure_type: Zodiacal Classification
 cross_pillar: Astrology
 verified: true
+source_verified: true
 verification_source: The Hierarchie of the Blessed Angells (Heywood, 1635)
 verification_notes: Complete twelve-sign zodiacal angel system extracted from Heywood Book 5 (Haniel), lines 10036-10087. Organized by four quaternions (triplicities) corresponding to elements.
 ---

@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-17
 date_updated: 2026-01-25
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 category: Angelic Order
 order_number: 9

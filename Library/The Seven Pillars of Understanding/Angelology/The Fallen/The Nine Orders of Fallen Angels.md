@@ -5,6 +5,7 @@ date_created: 2026-02-05
 category: Fallen Angels
 structure_type: Hierarchical Classification
 verified: true
+source_verified: true
 verification_source: The Hierarchie of the Blessed Angells (Heywood, 1635)
 verification_notes: Complete nine-order demonic hierarchy extracted from Heywood Book 7 (Camael), lines 18543-18594. Parallel structure to angelic nine orders explicitly stated.
 ---

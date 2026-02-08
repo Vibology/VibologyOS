@@ -5,6 +5,7 @@ date_created: 2026-01-17
 date_updated: 2026-01-25
 expanded: 2026-01-25
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 category: Individual Archangel
 archangel_name: Kamael

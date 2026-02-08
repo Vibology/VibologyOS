@@ -4,6 +4,7 @@ system: Angelology
 date_created: 2026-01-18
 date_updated: 2026-01-24
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire
 category: Overview
 ---

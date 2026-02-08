@@ -19,6 +19,7 @@ angelic_order: Ishim (Souls of Fire)
 biblical_appearances: Non-canonical (identified with Elijah in mystical tradition)
 aliases: The Tall Angel, Ha-Gadol, Prince of Prayer, Elijah Transformed
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: Verified per Davidson pp.111,257; Wang pp.115,266; Zohar Pritzker pp.1245,1296. Elijah transformation, prayer-weaving, Malkuth attribution, Ishim choir all confirmed. Unverified Fortune quotes removed. Vibology Synthesis flagged.
 ---

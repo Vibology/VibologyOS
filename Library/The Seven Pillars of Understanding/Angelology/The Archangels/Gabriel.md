@@ -20,6 +20,7 @@ biblical_appearances: [Daniel 8:16, Daniel 9:21, Luke 1:19, Luke 1:26]
 invocation: Ave Gabriel (LBRP, Qabalistic Cross)
 aliases: [Jibril (Islamic), Gavri'el]
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: Biblical quotes verified (Davidson pp.117-119). Qabalistic correspondences verified (Wang p.109). Unverified Fortune/Knight/Pollack quotes removed. Islamic references noted but not verified in Grimoire. Vibology Synthesis flagged.
 ---

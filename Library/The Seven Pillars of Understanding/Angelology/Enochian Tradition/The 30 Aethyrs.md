@@ -6,6 +6,7 @@ date_created: 2026-01-18
 date_updated: 2026-01-25
 category: Aethyrs
 verified: true
+source_verified: true
 verification_source: "Davidson (Dictionary of Angels), Crowley (Vision and the Voice - PRIMARY SOURCE), DuQuette (Enochian Vision Magick)"
 ---
 # The 30 Aethyrs

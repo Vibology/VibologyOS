@@ -5,6 +5,7 @@ date_created: 2026-01-26
 date_expanded: 2026-02-05
 category: Ritual & Practice
 verified: true
+source_verified: true
 verification_source: Multiple traditional sources (Ignatius of Loyola, Teresa of Ávila, John of the Cross, 1 Corinthians 12:10)
 verification_notes: Comprehensive discernment framework compiled from Christian mystical tradition (Ignatian Rules, Carmelite criteria) with Observatory/mechanical verification integration. Three-fold test expanded with psychological and chart-grounding protocols.
 ---

@@ -18,6 +18,7 @@ function: Presider over Tartarus, Interpreter of Prophecy, Light in Darkness, Gu
 invocation: LBRP (North Quarter), Prayer to Uriel for illumination in shadow
 angelic_order: Ishim (Souls of Fire) or Tarshishim (Brilliant Ones)
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: Verified per Davidson pp.17,30,153; DuQuette p.861; Wang p.192; Agrippa p.100; Book of Enoch. Apocryphal references (1 Enoch, 2 Esdras) confirmed. LBRP North/Auriel positioning verified. Regent of Sun, Presider over Tartarus, guide of luminaries all confirmed. Unverified Fortune/Knight quotes removed. Daath attribution noted as synthesis. Vibology Synthesis flagged.
 ---

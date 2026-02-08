@@ -6,6 +6,7 @@ category: Angelic Correspondences
 structure_type: Planetary Classification
 cross_pillar: Astrology
 verified: true
+source_verified: true
 verification_source: Multiple traditional sources (Agrippa, Golden Dawn, Davidson, Heywood)
 verification_notes: Seven classical planets and their archangelic rulers per Western esoteric tradition. Correspondences compiled from Hermetic Qabalah, Three Books of Occult Philosophy (Agrippa, 1533), Golden Dawn system, and validated against Heywood (1635).
 ---

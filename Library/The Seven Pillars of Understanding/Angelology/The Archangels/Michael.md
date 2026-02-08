@@ -17,6 +17,7 @@ tarot: Temperance (XIV), Judgement (XX), Six of Wands
 function: Warrior of God, Prince of Splendor, Defender, Dragon-Slayer
 invocation: St. Michael Prayer, LBRP
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: Biblical quotes verified (Davidson p.193). LBRP verified (DuQuette p.193). Zohar refs verified (Pritzker 1:19a, 1:98b). CRITICAL NOTE - Sephirah attribution discrepancy documented - Golden Dawn assigns Michael to Hod per Wang p.266; this file uses solar/Tiphareth attribution per broader tradition. Unverified Fortune/Dionysius quotes removed. Vibology Synthesis flagged.
 ---

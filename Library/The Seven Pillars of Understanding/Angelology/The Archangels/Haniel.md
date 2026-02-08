@@ -17,6 +17,7 @@ function: Love, harmony, beauty, grace, divine desire
 angelic_order: Principalities (Elohim)
 aliases: [Anael, Hamiel, Hanael, Aniel]
 verified: true
+source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: All quotes verified against Agrippa, Davidson, Jung, Peterson (Dee), Wang. Unverified Fortune/Pollack/Knight quotes removed. Secondary citations marked. Cross-system synthesis flagged.
 ---
