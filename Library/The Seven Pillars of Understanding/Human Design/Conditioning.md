@@ -273,15 +273,15 @@ Conditioning is not the enemy—it's the medium through which you learn. But you
 
 ### Individual Centers
 
-- [[Head Center]] — Mental pressure conditioning
-- [[Ajna Center]] — Mental certainty conditioning
-- [[Throat Center]] — Expression/action conditioning
+- [[Head]] — Mental pressure conditioning
+- [[Ajna]] — Mental certainty conditioning
+- [[Throat]] — Expression/action conditioning
 - [[G Center]] — Identity/direction conditioning
-- [[Heart Center]] — Willpower/worth conditioning
-- [[Solar Plexus Center]] — Emotional conditioning
-- [[Sacral Center]] — Life force conditioning
-- [[Spleen Center]] — Survival/fear conditioning
-- [[Root Center]] — Stress/pressure conditioning
+- [[Heart]] — Willpower/worth conditioning
+- [[Solar Plexus]] — Emotional conditioning
+- [[Sacral]] — Life force conditioning
+- [[Spleen]] — Survival/fear conditioning
+- [[Root]] — Stress/pressure conditioning
 
 ### Cross-Pillar
 

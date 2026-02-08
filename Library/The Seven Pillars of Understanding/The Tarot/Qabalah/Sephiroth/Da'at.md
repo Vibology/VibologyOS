@@ -208,7 +208,7 @@ From the Observatory, Da'at is the **instrument of reflection**—the mirror tha
 ### Qabalah Structures
 
 - [[The Abyss]] — The void Da'at occupies; crossing required for mystical ascent
-- [[Tree of Life]] — The overall structure; Da'at as invisible 11th Sephirah
+- [[The Tree of Life]] — The overall structure; Da'at as invisible 11th Sephirah
 - [[Four Worlds]] — Da'at's manifestation across archetypal, creative, formative, material realms
 
 ### Shadow System

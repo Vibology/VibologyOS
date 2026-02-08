@@ -201,7 +201,7 @@ From the Observatory, Thaumiel is a **calibration error**—the practitioner's i
 
 ### Qabalah Structures
 
-- [[Tree of Life]] — The structure Thaumiel inverts
+- [[The Tree of Life]] — The structure Thaumiel inverts
 - [[Qlippoth]] — The shadow Tree; Thaumiel as first/highest Qlippah
 - [[The Abyss]] — The gulf where Thaumiel arises if crossing fails
 - [[Da'at]] — The invisible Sephirah in the Abyss; Thaumiel as its shadow
