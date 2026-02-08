@@ -3,7 +3,7 @@ tags: [folklore, mythology, norse, archetypes, odin, ragnarok]
 system: Personal Mythos
 date_created: 2026-01-18
 date_updated: 2026-01-25
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Mythology reference sources (tradition-specific)"

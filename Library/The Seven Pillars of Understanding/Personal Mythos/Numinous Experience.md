@@ -7,6 +7,8 @@ status: comprehensive
 verified: true
 verification_date: 2026-02-06
 grimoire_source: "Rudolf Otto (The Idea of the Holy, 1917); Jung CW 11"
+source_verified: true
+verification_date: 2026-02-07
 verification_notes: "Otto's mysterium tremendum et fascinans verified; Jung's appropriation documented"
 ---
 

@@ -7,6 +7,8 @@ status: comprehensive
 verified: true
 verification_date: 2026-02-06
 grimoire_source: "Yogic tradition (Upanishads, Patanjali); HeartMath Institute research"
+source_verified: true
+verification_date: 2026-02-07
 verification_notes: "Anahata chakra characteristics verified; metta practice sourced; heart-brain coherence research cited"
 ---
 

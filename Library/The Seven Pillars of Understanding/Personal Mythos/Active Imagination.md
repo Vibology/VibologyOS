@@ -7,6 +7,8 @@ status: comprehensive
 verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 14, CW 8, CW 13)"
+source_verified: true
+verification_date: 2026-02-07
 verification_notes: "Jung CW citations verified; Red Book references; von Franz methodology"
 ---
 
