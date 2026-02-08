@@ -8,6 +8,7 @@ hebrew_letter: Resh (ר)
 qabalistic_path: 30 (Hod → Yesod)
 astrological: Sun
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

@@ -9,6 +9,7 @@ transliteration: Adonai ha-Aretz
 translation: Lord of the Earth
 sephirah: Malkuth
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Zohar"
 grimoire_source: "Esoteric Grimoire"

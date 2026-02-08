@@ -8,6 +8,7 @@ hebrew_letter: Daleth (ד)
 qabalistic_path: 14 (Chokmah → Binah)
 astrological: Venus
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

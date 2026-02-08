@@ -9,6 +9,7 @@ cultural_icon: "Sarah Connor (Terminator 2, 1991)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Neumann The Great Mother"
 grimoire_source: "Jung CW 9i, Neumann The Great Mother, von Franz Shadow and Evil in Fairy Tales"

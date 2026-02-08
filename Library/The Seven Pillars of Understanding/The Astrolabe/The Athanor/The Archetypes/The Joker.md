@@ -9,6 +9,7 @@ cultural_icon: "The Joker (The Dark Knight, 2008)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Radin The Trickster, Hyde Trickster Makes This World"
 grimoire_source: "Jung CW 9i, Radin The Trickster, Hyde Trickster Makes This World"

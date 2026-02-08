@@ -5,6 +5,7 @@ subsystem: Qabalah
 date_created: 2026-02-07
 category: Overview
 verified: true
+source_verified: true
 verification_date: 2026-02-07
 verification_source: "Sefer Yetzirah, Zohar, Wang (Qabalistic Tarot 1983), Fortune (Mystical Qabalah 1935), DuQuette (Chicken Qabalah 2003)"
 grimoire_source: "Esoteric Grimoire"

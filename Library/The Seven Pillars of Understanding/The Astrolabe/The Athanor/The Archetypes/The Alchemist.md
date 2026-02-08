@@ -9,6 +9,7 @@ cultural_icon: "Prince"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Jung CW 14 (Mysterium Coniunctionis), Edinger Ego and Archetype"
 grimoire_source: "Jung CW 9i, Jung CW 14, Edinger Ego and Archetype"

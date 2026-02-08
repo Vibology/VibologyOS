@@ -5,6 +5,7 @@ date_created: 2026-01-09
 date_updated: 2026-01-25
 source: NotebookLM Esoteric Grimoire
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 suit: Swords

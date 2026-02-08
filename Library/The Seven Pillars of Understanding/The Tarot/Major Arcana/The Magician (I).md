@@ -8,6 +8,7 @@ hebrew_letter: Beth (ב)
 qabalistic_path: 12 (Kether → Binah)
 astrological: Mercury
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

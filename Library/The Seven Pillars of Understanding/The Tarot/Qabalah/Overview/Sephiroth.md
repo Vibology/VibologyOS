@@ -5,6 +5,7 @@ subsystem: Qabalah
 date_created: 2026-01-26
 date_expanded: 2026-02-06
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Sefer Yetzirah, Zohar, Wang (Qabalistic Tarot), Dion Fortune (Mystical Qabalah)"
 grimoire_source: "Esoteric Grimoire"

@@ -9,6 +9,7 @@ cultural_icon: "E.T. (1982)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Neumann The Child"
 grimoire_source: "Jung CW 9i, Neumann The Child, von Franz Puer Aeternus"

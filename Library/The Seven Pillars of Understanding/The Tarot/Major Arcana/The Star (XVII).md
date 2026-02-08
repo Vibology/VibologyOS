@@ -8,6 +8,7 @@ hebrew_letter: Tzaddi (צ)
 qabalistic_path: 28 (Netzach → Yesod)
 astrological: Aquarius
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

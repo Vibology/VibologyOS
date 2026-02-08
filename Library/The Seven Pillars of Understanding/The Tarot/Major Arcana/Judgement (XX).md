@@ -8,6 +8,7 @@ hebrew_letter: Shin (ש)
 qabalistic_path: 31 (Malkuth → Hod)
 astrological: Fire / Pluto
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

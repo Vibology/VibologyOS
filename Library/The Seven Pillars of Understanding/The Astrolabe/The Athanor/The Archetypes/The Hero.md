@@ -9,6 +9,7 @@ cultural_icon: "Superman"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Campbell Hero with a Thousand Faces"
 grimoire_source: "Jung CW 9i, Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"

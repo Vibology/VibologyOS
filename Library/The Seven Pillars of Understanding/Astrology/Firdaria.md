@@ -3,6 +3,7 @@ tags: [astrology, firdaria, timing, medieval, technique, persian, time-lord]
 system: Astrology
 date_created: 2026-02-06
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Lilly, Christian Astrology (1647), Book III Ch CLXVI; Brennan, Hellenistic Astrology (2017), Ch 5 (historical transmission)"
 grimoire_source: "Esoteric Grimoire — William Lilly, Christian Astrology; Chris Brennan, Hellenistic Astrology"

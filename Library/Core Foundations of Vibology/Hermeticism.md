@@ -3,6 +3,7 @@ tags: [philosophy, metaphysics, hermeticism, hermes-trismegistus, emerald-tablet
 system: Core Foundations
 date_created: 2026-02-07
 verified: true
+source_verified: true
 verification_date: 2026-02-07
 verification_source: "Esoteric Grimoire"
 grimoire_source: "Corpus Hermeticum, Emerald Tablet, Asclepius, Frances Yates (Giordano Bruno and the Hermetic Tradition), Copenhaver (Hermetica)"

@@ -4,7 +4,7 @@ system: Astrology
 date_created: 2026-01-08
 glyph: ☿
 alchemical: Quicksilver, Philosophic Mercury
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"

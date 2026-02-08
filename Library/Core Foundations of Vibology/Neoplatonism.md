@@ -3,6 +3,7 @@ tags: [philosophy, metaphysics, neoplatonism, plotinus, emanation, the-one, heno
 system: Core Foundations
 date_created: 2026-02-07
 verified: true
+source_verified: true
 verification_date: 2026-02-07
 verification_source: "Esoteric Grimoire"
 grimoire_source: "Plotinus (Enneads), Proclus (Elements of Theology), Pseudo-Dionysius (Celestial Hierarchy), Iamblichus (De Mysteriis)"

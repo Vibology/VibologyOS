@@ -9,6 +9,7 @@ sequence: 7
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 14"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 14 (Mysterium Coniunctionis)"

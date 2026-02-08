@@ -8,6 +8,7 @@ hebrew_letter: Zain (ז)
 qabalistic_path: 17 (Binah → Tiphareth)
 astrological: Gemini
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

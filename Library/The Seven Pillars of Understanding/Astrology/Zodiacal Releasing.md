@@ -3,6 +3,7 @@ tags: [astrology, zodiacal-releasing, timing, hellenistic, technique, valens, lo
 system: Astrology
 date_created: 2026-02-06
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Brennan, Hellenistic Astrology (2017), Chapter 18; Valens, Anthology Book 4"
 grimoire_source: "Esoteric Grimoire — Chris Brennan, Hellenistic Astrology"

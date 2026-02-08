@@ -9,6 +9,7 @@ cultural_icon: "Michael Myers (Halloween, 1978)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9ii (Aion), Jung CW 10 (Civilization in Transition), Neumann Depth Psychology"
 grimoire_source: "Jung CW 9ii, Jung CW 10, Neumann Depth Psychology and a New Ethic"

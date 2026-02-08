@@ -24,6 +24,7 @@ hd_circuit: "Individual - Knowing Circuit"
 # Status
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Wilhelm I-Ching, Ra Uru Hu Definitive Book, Rudd Gene Keys"
 grimoire_source: "I-Ching, Human Design/Gates, Gene Keys"

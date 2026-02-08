@@ -8,6 +8,7 @@ hebrew_letter: Heh (ה)
 qabalistic_path: 15 (Chokmah → Tiphareth)
 astrological: Aries / Mars
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

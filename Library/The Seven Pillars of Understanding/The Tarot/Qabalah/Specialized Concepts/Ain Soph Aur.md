@@ -8,6 +8,7 @@ hebrew: אין סוף אור
 transliteration: Ain Soph Aur
 translation: Limitless Light
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Sefer Yetzirah, Sefer ha-Bahir, Zohar"
 grimoire_source: "Esoteric Grimoire"

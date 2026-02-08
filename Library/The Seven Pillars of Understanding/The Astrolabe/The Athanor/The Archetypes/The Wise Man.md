@@ -9,6 +9,7 @@ cultural_icon: "Mr. Miyagi (The Karate Kid, 1984)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"
 grimoire_source: "Jung CW 9i, Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"

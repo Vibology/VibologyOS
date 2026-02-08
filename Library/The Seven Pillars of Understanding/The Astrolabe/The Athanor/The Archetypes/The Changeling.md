@@ -9,6 +9,7 @@ cultural_icon: "The Thing (1982)"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Jung CW 8 (Structure and Dynamics)"
 grimoire_source: "Jung CW 9i, Jung CW 8, von Franz Interpretation of Fairy Tales"

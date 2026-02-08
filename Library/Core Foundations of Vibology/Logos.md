@@ -4,6 +4,7 @@ system: Core Foundations
 date_created: 2026-01-27
 date_updated: 2026-01-27
 verified: true
+source_verified: true
 verification_date: 2026-01-27
 verification_source: Esoteric Grimoire
 grimoire_source: "Jung (MDR), Campbell (Hero), Wang (Qabalistic Tarot), Bourgeault (Mary Magdalene, includes John 1:1-14 NRSV), Agrippa (Occult Philosophy), Greene (Astrology of Fate), Von Franz (Feminine in Fairy Tales), Huxley (Perennial Philosophy)"

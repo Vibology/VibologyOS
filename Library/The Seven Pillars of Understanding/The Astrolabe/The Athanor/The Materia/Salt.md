@@ -8,6 +8,7 @@ alchemical_principle: "Body — form, crystallization, fixity"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Paracelsus Opus Paramirum; Jung CW 12, CW 14; Edinger Anatomy of the Psyche"
 grimoire_source: "Paracelsus Hermetic and Alchemical Writings, Jung CW 12, Jung CW 14, Edinger Anatomy of the Psyche"

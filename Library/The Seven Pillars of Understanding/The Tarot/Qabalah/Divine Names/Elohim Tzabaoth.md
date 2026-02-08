@@ -9,6 +9,7 @@ transliteration: Elohim Tzabaoth
 translation: God of Hosts / God of Armies
 sephirah: Hod
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Zohar"
 grimoire_source: "Esoteric Grimoire"

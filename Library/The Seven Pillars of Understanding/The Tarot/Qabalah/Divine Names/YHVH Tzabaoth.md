@@ -9,6 +9,7 @@ transliteration: YHVH Tzabaoth
 translation: Lord of Hosts
 sephirah: Netzach
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Zohar, Sefer Yetzirah"
 grimoire_source: "Esoteric Grimoire"

@@ -8,6 +8,7 @@ alchemical_principle: "The perfected result; integration"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 12, CW 14; Edinger Ego and Archetype; von Franz Alchemy"
 grimoire_source: "Jung CW 12, Jung CW 14, Edinger Ego and Archetype, von Franz Alchemy, Fabricius Alchemy"

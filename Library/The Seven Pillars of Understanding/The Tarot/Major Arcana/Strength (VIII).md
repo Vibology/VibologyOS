@@ -8,6 +8,7 @@ hebrew_letter: Teth (ט)
 qabalistic_path: 19 (Chesed → Geburah)
 astrological: Leo
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

@@ -4,7 +4,7 @@ system: Astrology
 date_created: 2026-01-08
 glyph: ♇
 alchemical: Radioactive Nemesis
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Greek/Roman mythology (Hades the Invisible, Pluto from ploutos 'riches', Persephone abduction), Modern psychological astrology (Liz Greene - Moira/Fate, Erinyes), Human Design"

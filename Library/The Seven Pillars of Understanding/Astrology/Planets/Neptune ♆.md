@@ -4,7 +4,7 @@ system: Astrology
 date_created: 2026-01-08
 glyph: ♆
 alchemical: Universal Solvent
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Greek/Roman mythology (Poseidon as Earthshaker and Lord of the Sea), Modern esoteric astrology (post-1846), Human Design, Psychological astrology (Liz Greene - Dionysus archetype)"

@@ -8,6 +8,7 @@ hebrew_letter: Qoph (ק)
 qabalistic_path: 29 (Netzach → Malkuth)
 astrological: Pisces
 verified: true
+source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---

@@ -9,6 +9,7 @@ cultural_icon: "Ziggy Stardust / David Bowie"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 7 (Two Essays), Jung CW 9i (Archetypes), Campbell Hero with a Thousand Faces"
 grimoire_source: "Jung CW 7, Jung CW 9i, Campbell Hero with a Thousand Faces"

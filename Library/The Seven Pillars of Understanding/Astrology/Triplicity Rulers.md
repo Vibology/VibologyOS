@@ -3,6 +3,7 @@ tags: [astrology, triplicity, dignity, hellenistic, technique, sect, eminence]
 system: Astrology
 date_created: 2026-02-05
 verified: true
+source_verified: true
 verification_date: 2026-02-05
 verification_source: "Brennan, Hellenistic Astrology (2017), Chapters 8 & 15"
 grimoire_source: "Esoteric Grimoire — Chris Brennan, Hellenistic Astrology"

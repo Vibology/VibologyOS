@@ -4,7 +4,7 @@ system: Astrology
 date_created: 2026-01-08
 glyph: ♅
 alchemical: Technology, Uranium
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Greek mythology (Hesiod's Theogony - Ouranos cosmogony), Modern esoteric astrology (post-1781), Human Design, Qabalistic correspondences"

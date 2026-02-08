@@ -9,6 +9,7 @@ cultural_icon: "Madonna"
 
 status: Complete
 verified: true
+source_verified: true
 verification_date: 2026-02-03
 verification_source: "Jung CW 7 (Anima/Animus), Jung CW 9i (Archetypes), Emma Jung Animus and Anima"
 grimoire_source: "Jung CW 7, Jung CW 9i, Emma Jung Animus and Anima"

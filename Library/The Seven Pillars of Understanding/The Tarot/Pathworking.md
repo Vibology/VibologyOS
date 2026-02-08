@@ -6,6 +6,7 @@ date_created: 2026-01-26
 date_updated: 2026-02-06
 status: comprehensive
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Esoteric Grimoire (Wang 1983, DuQuette 2008); Golden Dawn tradition"
 ---

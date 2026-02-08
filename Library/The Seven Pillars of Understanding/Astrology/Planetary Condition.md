@@ -3,6 +3,7 @@ tags: [astrology, planetary-condition, hellenistic, technique, bonification, mal
 system: Astrology
 date_created: 2026-02-06
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Brennan, Hellenistic Astrology (2017), Chapters 7, 9, 14"
 grimoire_source: "Esoteric Grimoire — Chris Brennan, Hellenistic Astrology"

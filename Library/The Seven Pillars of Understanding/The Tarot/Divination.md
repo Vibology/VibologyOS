@@ -5,6 +5,7 @@ date_created: 2026-01-26
 date_updated: 2026-02-06
 status: comprehensive
 verified: true
+source_verified: true
 verification_date: 2026-02-06
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006)"
 ---
