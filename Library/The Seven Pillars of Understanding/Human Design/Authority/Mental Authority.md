@@ -5,6 +5,7 @@ authority_type: Mental (Environmental)
 compatible_types: [Projector]
 hierarchy: Sixth (lowest inner authority)
 date_created: 2026-01-08
+verified: true
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"

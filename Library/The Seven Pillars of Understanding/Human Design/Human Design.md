@@ -3,6 +3,7 @@ tags: [human-design, overview, system, mechanics, vibology]
 system: Human Design
 date_created: 2026-01-08
 date_updated: 2026-01-25
+verified: true
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"

@@ -3,6 +3,7 @@ tags: [human-design, authority, overview, decision-making, inner-authority]
 system: Human Design
 date_created: 2026-01-27
 category: Index
+verified: true
 source_verified: true
 verification_date: 2026-01-27
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"

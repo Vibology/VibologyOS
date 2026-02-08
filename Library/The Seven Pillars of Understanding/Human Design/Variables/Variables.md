@@ -4,6 +4,7 @@ system: Human Design
 date_created: 2026-01-18
 date_updated: 2026-01-25
 category: Variables
+verified: true
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"

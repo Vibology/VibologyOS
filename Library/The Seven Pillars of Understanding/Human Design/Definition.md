@@ -2,6 +2,7 @@
 tags: [human-design, definition, centers, channels, relationships, mechanics]
 system: Human Design
 date_created: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011), Section Five & Six"

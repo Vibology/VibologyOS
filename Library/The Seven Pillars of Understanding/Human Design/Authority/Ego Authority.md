@@ -6,6 +6,7 @@ compatible_types: [Manifestor, Projector]
 subtypes: [Ego-Manifested, Ego-Projected]
 hierarchy: Fourth (after Emotional, Sacral, Splenic)
 date_created: 2026-01-08
+verified: true
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"

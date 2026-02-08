@@ -8,6 +8,7 @@ strategy: To Wait to Respond
 not_self_theme: Frustration
 signature: Satisfaction
 date_created: 2026-01-08
+verified: true
 source_verified: true
 verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
