@@ -1067,7 +1067,7 @@ Where additional correspondences exist (e.g., Hebrew letters, Minor Arcana Sephi
 - [[Gate 16 - Enthusiasm]] — Skills, experimentation (Moon, High Priestess II)
 - [[Gate 20 - Contemplation]] — Present-moment awareness (Venus, Empress III)
 - [[Gate 25 - Innocence]] — Spirit of self (Moon, The Moon XVIII)
-- [[Gate 46 - Serendipity]] — Body love, delight (Venus)
+- [[Gate 46 - Pushing Upward]] — Body love, delight (Venus)
 - [[Gate 51 - The Arousing]] — Shock, initiation (Mars)
 - [[Gate 54 - The Marrying Maiden]] — Ambition, drive for success (Saturn)
 - [[Gate 56 - The Wanderer]] — Storytelling (Jupiter, Wheel X)

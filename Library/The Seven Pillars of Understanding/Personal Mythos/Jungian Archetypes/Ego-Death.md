@@ -219,7 +219,7 @@ The practitioner who has integrated ego-death no longer clings to the ego (infla
 ### Esoteric Initiation
 - [[The Abyss]] — Qabalistic crossing requiring ego-dissolution
 - [[The Dark Night of the Soul]] — Christian mystical parallel to unintegrated ego-death
-- [[Kenosis]] — Self-emptying in Christian mysticism
+- [[Kenosis - The Path of Self-Emptying]] — Self-emptying in Christian mysticism
 
 ### Related Phenomena
 - [[Synchronicity]] — Increases during liminal ego-death states
