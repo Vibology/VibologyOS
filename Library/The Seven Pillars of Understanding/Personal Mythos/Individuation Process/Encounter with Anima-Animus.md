@@ -2,11 +2,11 @@
 tags: [folklore, jungian, individuation, developmental-stage, anima, animus, soul-work, albedo]
 system: Personal Mythos
 date_created: 2026-01-18
-source_verified: synthesis
+source_verified: true
 verified: true
-verification_date: 2026-01-23
 grimoire_source: "Jung CW (Two Essays, Archetypes, Psychology and Alchemy, Aion)"
-verification_notes: "Jung's individuation framework verified. Six-stage developmental model (Ego Formation → Persona → Shadow → Anima/Animus → Self → Integration) follows Jung's CW writings. Psychological concepts accurate; specific applications to life stages are scholarly synthesis."
+verification_date: 2026-02-07
+verification_notes: "Jung's six-stage developmental model is pedagogical synthesis. Jung's actual teaching (CW 9ii para. 42): three stages (Shadow, Anima/Animus, Self). Ego/Persona are prerequisites (first half of life, CW 7/17), not individuation stages proper. This stage is part of the synthesis framework expanding Jung's core across CW 7, 9ii, 12, 14, 17."
 category: Individuation Process
 stage_name: Encounter with Anima/Animus
 life_phase: Midlife to Elder (40-65 years)
