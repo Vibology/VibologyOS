@@ -1,0 +1,6 @@
+[submodule "System/Cartographer"]
+	path = System/Cartographer
+	url = github-vibology:Vibology/Cartographer.git
+[submodule "System/Observatory"]
+	path = System/Observatory
+	url = github-vibology:Vibology/Observatory.git
