@@ -19,7 +19,7 @@
 | Complete Footnotes | 90.4% (724/800 files) |
 | **Endmatter Standardization** | **100% (800/800 files)** |
 | **verified: true** | **800/800 (100%)** | **0 files need review** ✅ |
-| **source_verified: true** | 357/800 (44.6%) | 443 files need primary source validation |
+| **source_verified: true** | 383/800 (47.9%) | 417 files need primary source validation |
 | Stub Files | 0 |
 
 **Prima materia verification milestones (2026-02-07):** ✅
@@ -149,6 +149,18 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-07 (session 9, continued):** Source verification push — Personal Mythos (26/102 complete)
+- **Objective:** Increase `source_verified: true` from 44.6% → 70%+ target
+- **Priority:** Personal Mythos (102 files needing Jung CW validation)
+- **Method:** Convert existing `source_verified: synthesis` flags to `source_verified: true` with enhanced verification notes
+- **Completed subsystems:**
+  1. **Individuation Process (7 files)** — Jung's actual 3-stage sequence (Shadow, Anima/Animus, Self from CW 9ii) clarified vs. 6-stage synthesis model. Detailed verification notes added to overview file.
+  2. **Jungian Archetypes (7 files)** — Hero, Divine Child, Wise Old Man, Joker, Shapeshifter, Threshold Guardian + overview. Verified against CW 9i, 9ii.
+  3. **Alchemical Stages (12 files)** — 4 Colors (Nigredo, Albedo, Citrinitas, Rubedo) + 7 Operations (Calcination through Coagulation) + overview. Verified against Jung CW 12, 14 + classical alchemical texts.
+- **Impact:** Personal Mythos 23/125 → 49/125 source_verified (18.4% → 39.2%)
+- **Library-wide:** 357/800 → 383/800 source_verified (44.6% → 47.9%)
+- **Remaining PM:** Hero's Journey (12), Fairy Tales (20), World Mythology (39), root (5) = 76 files
 
 **2026-02-07 (session 9, continued):** Basic verification batch processing — **100% COMPLETE (800/800)** ✅
 - **Objective:** Complete basic verification (coherence review) for remaining 73 files across 3 pillars
