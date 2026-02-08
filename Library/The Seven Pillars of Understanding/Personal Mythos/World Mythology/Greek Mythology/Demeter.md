@@ -10,6 +10,7 @@ archetype: The Great Mother, The Grieving Mother, The Nourisher, The Initiator
 aliases: [Ceres, Deo, Demeter Thesmophoros, Demeter Chloë, Sito]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

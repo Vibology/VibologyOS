@@ -5,6 +5,8 @@ date_created: 2026-01-31
 verified: true
 category: Index
 grimoire_source: "Jung CW 12, CW 14; Edinger Anatomy of the Psyche; von Franz Alchemy"
+source_verified: true
+verification_date: 2026-02-07
 ---
 # The Alchemical Stages
 *Two Systems, One Opus*

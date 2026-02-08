@@ -11,6 +11,7 @@ archetype: The Virgin Huntress, The Wild Feminine, The Autonomous Woman, The Lun
 aliases: [Artemis Potnia Theron, Artemis Agrotera, Artemis Locheia, Diana]
 verified: true
 verification_date: 2026-02-06
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

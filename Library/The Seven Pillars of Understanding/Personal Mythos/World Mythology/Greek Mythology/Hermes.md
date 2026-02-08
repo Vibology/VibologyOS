@@ -11,6 +11,7 @@ archetype: The Trickster, The Messenger, The Psychopomp, The Boundary-Crosser, T
 aliases: [Hermes Trismegistus, Hermes Psychopompos, Hermes Argeiphontes, Hermes Logios, Mercury]
 verified: true
 verification_date: 2026-02-06
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

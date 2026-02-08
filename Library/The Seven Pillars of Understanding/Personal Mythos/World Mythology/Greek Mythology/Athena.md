@@ -10,6 +10,7 @@ archetype: The Wise Woman, The Strategist, The Father's Daughter, The Virgin War
 aliases: [Pallas Athena, Pallas, Athene, Minerva, Tritogeneia, Glaukopis, Parthenos]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

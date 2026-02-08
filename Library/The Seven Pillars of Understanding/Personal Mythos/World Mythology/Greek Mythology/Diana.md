@@ -11,6 +11,7 @@ archetype: The Virgin Huntress, Triple Goddess, Autonomous Feminine
 aliases: [Diana Nemorensis, Diana Trivia, Diana Lucina, Djana, Jana]
 verified: true
 verification_date: 2026-02-06
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Frazer Golden Bough, Guirand New Larousse Encyclopedia of Mythology, Agrippa Occult Philosophy)"
 ---
 

@@ -10,6 +10,7 @@ archetype: The Keeper of the Flame, The Still Center, The Introverted Feminine, 
 aliases: [Vesta, Histia]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

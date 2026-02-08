@@ -10,6 +10,7 @@ archetype: The Primordial Force of Desire, The Wounded Lover, The Connector of O
 aliases: [Cupid, Amor, Phanes, Protogonos, Himeros, Pothos]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

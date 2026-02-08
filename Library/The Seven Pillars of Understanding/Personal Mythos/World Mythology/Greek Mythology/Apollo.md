@@ -11,6 +11,7 @@ archetype: The Solar God, Divine Reason, The Healer, The Musagetes, The Far-Shoo
 aliases: [Phoebus Apollo, Apollo Musagetes, Apollo Alexikakos, Apollo Hecatebolos]
 verified: true
 verification_date: 2026-02-06
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

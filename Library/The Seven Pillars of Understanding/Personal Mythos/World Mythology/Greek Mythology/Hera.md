@@ -10,6 +10,7 @@ archetype: The Queen, The Wife, The Sovereign Feminine, The Jealous Goddess
 aliases: [Hera Teleia, Hera Gamelia, Juno, Juno Regina, Cow-Eyed, White-Armed]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 

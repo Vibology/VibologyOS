@@ -11,6 +11,7 @@ archetype: The Earth-Shaker, Lord of the Depths, The Terrible Father, Primal Ins
 aliases: [Enosichthon, Poseidon Hippios, Neptune]
 verified: true
 verification_date: 2026-02-06
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Guirand New Larousse Encyclopedia of Mythology, Frazer Golden Bough, Greene Astrology of Fate)"
 ---
 

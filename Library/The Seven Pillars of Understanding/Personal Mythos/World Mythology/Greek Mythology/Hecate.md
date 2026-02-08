@@ -10,6 +10,7 @@ archetype: The Liminal Guide, The Triple Goddess, The Keeper of the Keys, The Da
 aliases: [Hekate, Trivia, Trioditis, Brimo, Enodia, Phosphoros, Trimorphe]
 verified: true
 verification_date: 2026-02-07
+source_verified: true
 verification_source: "NotebookLM Esoteric Grimoire (Classical mythology sources)"
 ---
 
