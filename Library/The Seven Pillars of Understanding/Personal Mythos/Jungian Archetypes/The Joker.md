@@ -7,7 +7,7 @@ archetype_name: The Joker
 jungian_function: Mediator between consciousness and the unconscious; disruptor of stagnant psychic order
 developmental_stage: Adolescence (12-25) for initial encounter; midlife (35-50) for integration; recurs at all thresholds
 collective_unconscious: Universal pattern of creative chaos, boundary dissolution, and the Sacred Fool
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

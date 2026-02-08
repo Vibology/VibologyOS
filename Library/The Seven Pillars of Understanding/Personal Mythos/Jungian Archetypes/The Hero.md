@@ -7,7 +7,7 @@ archetype_name: The Hero
 jungian_function: Ego-consciousness freeing itself from the unconscious; birth of individual will
 developmental_stage: Adolescence to young adulthood (15-35), though archetypal pattern recurs across lifespan
 collective_unconscious: Universal pattern of separation, ordeal, and return; ego's struggle for autonomy
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

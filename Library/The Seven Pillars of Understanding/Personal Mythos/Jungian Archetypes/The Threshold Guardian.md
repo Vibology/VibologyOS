@@ -7,7 +7,7 @@ archetype_name: The Threshold Guardian
 jungian_function: Personifies the psychic resistance that prevents transformation; custodian of boundaries between known and unknown
 developmental_stage: All stages; intensifies at major life transitions (adolescence, midlife, elderhood)
 collective_unconscious: Universal pattern of testing, protection, and initiation at boundaries
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

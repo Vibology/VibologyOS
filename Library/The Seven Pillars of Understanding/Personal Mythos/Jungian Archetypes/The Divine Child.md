@@ -7,7 +7,7 @@ archetype_name: The Divine Child
 jungian_function: Symbol of futurity, rebirth, and the Self's potential; the promise of wholeness
 developmental_stage: All stages (manifests differently across lifespan)
 collective_unconscious: Universal pattern of renewal, innocence, and the unborn future
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

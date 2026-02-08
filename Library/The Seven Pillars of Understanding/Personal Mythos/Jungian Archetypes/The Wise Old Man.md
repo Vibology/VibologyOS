@@ -7,7 +7,7 @@ archetype_name: The Wise Old Man (Senex)
 jungian_function: Personification of meaning, spirit, and the superior personality
 developmental_stage: Elderhood (60+), though appears at crisis points across lifespan
 collective_unconscious: Universal pattern of accumulated wisdom and spiritual authority
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

@@ -7,7 +7,7 @@ archetype_name: The Shapeshifter
 jungian_function: Creates uncertainty and ambiguity; tests perception and discernment; catalyst for transformation
 developmental_stage: Adolescence to midlife (13-50); peak intensity during individuation crises
 collective_unconscious: Universal pattern of mutability, liminality, and the dissolution of fixed identity
-source_verified: synthesis
+source_verified: true
 verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

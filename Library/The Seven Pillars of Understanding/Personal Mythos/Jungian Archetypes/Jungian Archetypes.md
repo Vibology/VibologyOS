@@ -5,6 +5,8 @@ date_created: 2026-01-26
 verified: true
 category: Index
 grimoire_source: "Jung Collected Works (CW 9i, 9ii)"
+source_verified: true
+verification_date: 2026-02-07
 ---
 
 # The Jungian Archetypes
