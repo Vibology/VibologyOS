@@ -4,6 +4,7 @@ system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-01-26
 date_updated: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 8), The Transcendent Function (1916/1958)"

@@ -7,6 +7,7 @@ archetype_name: The Syzygy
 jungian_function: The divine pairing of opposites—anima/animus union, the coniunctio, and the archetype of sacred marriage
 developmental_stage: Midlife onward (40-60), intensifies after Shadow integration
 collective_unconscious: Universal pattern of the union of opposites and the sacred marriage within the psyche
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 14, CW 9ii, CW 16), von Franz, Edinger, alchemical texts"

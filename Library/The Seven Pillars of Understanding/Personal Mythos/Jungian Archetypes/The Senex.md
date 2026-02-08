@@ -7,6 +7,7 @@ archetype_name: The Senex
 jungian_function: The Wise Elder—earned authority, discipline, structure, and the wisdom of limitation
 developmental_stage: Elderhood (50+), though the Senex archetype can constellate at any age during crises of limitation
 collective_unconscious: Universal pattern of the elder, the father, time, authority, and the wisdom earned through suffering
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works, James Hillman (Puer Papers), mythology (Chronos, Saturn, Odin), astrological Saturn literature"

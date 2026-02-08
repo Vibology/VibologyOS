@@ -3,6 +3,7 @@ tags: [personal-mythos, jung, unus-mundus, psychoid, synchronicity, wholeness, m
 system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-02-07
+verified: true
 source_verified: true
 verification_date: 2026-02-07
 grimoire_source: "Jung CW 14 (Mysterium Coniunctionis), CW 8 (Synchronicity), Pauli-Jung Letters; Dorn (alchemist)"

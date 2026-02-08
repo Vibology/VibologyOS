@@ -3,6 +3,7 @@ tags: [personal-mythos, jung, mandala, self, wholeness, centering, quaternio, ci
 system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-02-07
+verified: true
 source_verified: true
 verification_date: 2026-02-07
 grimoire_source: "Jung CW 9i (Archetypes and the Collective Unconscious), CW 12 (Psychology and Alchemy), CW 13 (Alchemical Studies), The Secret of the Golden Flower (CW 13 commentary)"

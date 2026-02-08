@@ -3,6 +3,7 @@ tags: [personal-mythos, jung, psychological-types, four-functions, thinking, fee
 system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-02-07
+verified: true
 source_verified: true
 verification_date: 2026-02-07
 grimoire_source: "Jung, Psychological Types (CW 6); von Franz, Lectures on Jung's Typology; Beebe, Energies and Patterns in Psychological Type"

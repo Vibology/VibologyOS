@@ -7,6 +7,7 @@ archetype_name: The Persona
 jungian_function: Social mask and system of adaptation to collective expectations
 developmental_stage: Childhood/Adolescence formation (8-25); rigidity crisis in midlife (35-50)
 collective_unconscious: Universal pattern of social identity and adaptive self-presentation
+verified: true
 source_verified: true
 verification_date: 2026-01-24
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

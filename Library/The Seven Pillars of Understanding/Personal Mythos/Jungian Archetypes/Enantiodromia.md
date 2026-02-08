@@ -3,6 +3,7 @@ tags: [personal-mythos, jung, enantiodromia, opposites, reversal, heraclitus, co
 system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-02-07
+verified: true
 source_verified: true
 verification_date: 2026-02-07
 grimoire_source: "Jung CW 6 (Psychological Types), CW 7 (Two Essays), CW 9ii (Aion); Heraclitus fragments"

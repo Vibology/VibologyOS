@@ -3,6 +3,7 @@ tags: [personal-mythos, jungian, archetype, craftsman, hephaestus, mastery, skil
 system: Personal Mythos
 date_created: 2026-01-27
 date_updated: 2026-02-06
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Gene Keys, Marie-Louise von Franz, Aldous Huxley The Perennial Philosophy, Erik Davis Techgnosis"

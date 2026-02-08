@@ -3,6 +3,7 @@ tags: [personal-mythos, jung, alchemy, coniunctio, sacred-marriage, union-of-opp
 system: Personal Mythos
 subsystem: Jungian Archetypes
 date_created: 2026-02-07
+verified: true
 source_verified: true
 verification_date: 2026-02-07
 grimoire_source: "Jung, Mysterium Coniunctionis (CW 14); Jung, Psychology of the Transference (CW 16); Rosarium Philosophorum"

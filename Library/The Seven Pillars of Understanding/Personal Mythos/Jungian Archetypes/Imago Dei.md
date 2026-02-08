@@ -7,6 +7,7 @@ archetype_name: Imago Dei
 jungian_function: The God-image within the psyche; the archetypal representation of the divine as experienced in human consciousness
 developmental_stage: Midlife onward (50+), though the God-image constellates during spiritual crisis at any age
 collective_unconscious: Universal pattern of the numinous, the transcendent, and the experience of the holy
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 11, CW 9ii, CW 12, Answer to Job)"

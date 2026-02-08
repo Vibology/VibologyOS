@@ -7,6 +7,7 @@ archetype_name: The Animus
 jungian_function: Masculine soul-image in women; personifies Logos, spirit, and capacity for reflective consciousness
 developmental_stage: Midlife (35-50), though animus work intensifies after shadow integration
 collective_unconscious: Universal pattern of the inner masculine as guide, adversary, or spiritual authority
+verified: true
 source_verified: true
 verification_date: 2026-01-24
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

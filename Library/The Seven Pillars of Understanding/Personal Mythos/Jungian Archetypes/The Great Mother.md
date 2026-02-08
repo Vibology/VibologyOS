@@ -7,6 +7,7 @@ archetype_name: The Great Mother
 jungian_function: Primordial feminine principle governing nourishment, containment, transformation, and death-rebirth
 developmental_stage: All stages (especially birth-3, mother separation crisis 3-7, midlife 35-50)
 collective_unconscious: Universal pattern of the nurturing and devouring feminine
+verified: true
 source_verified: true
 verification_date: 2026-01-24
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

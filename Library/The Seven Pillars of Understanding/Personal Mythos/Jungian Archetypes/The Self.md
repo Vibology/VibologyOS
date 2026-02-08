@@ -7,6 +7,7 @@ archetype_name: The Self
 jungian_function: Central archetype representing the totality of the psyche and the goal of individuation
 developmental_stage: Midlife onward (50+), though the Self is present from birth as potential
 collective_unconscious: Universal pattern of wholeness, unity, and the God-image within
+verified: true
 source_verified: true
 verification_date: 2026-01-24
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

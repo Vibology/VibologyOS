@@ -7,6 +7,7 @@ archetype_name: The Anima
 jungian_function: Feminine soul-image in men; bridge to collective unconscious and capacity for Eros
 developmental_stage: Midlife (35-50), though anima projections begin in adolescence
 collective_unconscious: Universal pattern of the eternal feminine and mediator of the psyche
+verified: true
 source_verified: true
 verification_date: 2026-01-24
 grimoire_source: "Jung Collected Works, Memories Dreams Reflections Glossary"

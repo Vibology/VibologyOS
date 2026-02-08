@@ -7,6 +7,7 @@ archetype_name: The Shadow
 jungian_function: Repository of repressed and unlived aspects of personality
 developmental_stage: Midlife (35-50), though shadow work begins in adolescence
 collective_unconscious: Universal pattern of the rejected and hidden self
+verified: true
 source_verified: true
 verification_date: 2026-01-23
 grimoire_source: "Jung Collected Works (CW 7, 9i, 9ii, 11, 12, 14, 16, 17), von Franz, Campbell, Edinger, Grimm, classical mythology"

@@ -7,6 +7,7 @@ archetype_name: Puer and Puella
 jungian_function: The Eternal Youth—spontaneity, play, refusal of limitation, and the spirit that refuses to grow old
 developmental_stage: Adolescence through young adulthood (12-35); integration required by midlife (35-50)
 collective_unconscious: Universal pattern of the divine youth, eternal potentiality, and the spirit of ascent
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works, Marie-Louise von Franz (Puer Aeternus), James Hillman (Puer Papers), mythology"

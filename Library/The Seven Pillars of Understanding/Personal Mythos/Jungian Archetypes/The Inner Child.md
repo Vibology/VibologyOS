@@ -7,6 +7,7 @@ archetype_name: The Inner Child
 jungian_function: The psychological self that contains childhood wounding, spontaneity, play, and authentic emotional truth
 developmental_stage: All stages—childhood imprinting (0-12), reparenting work typically begins in midlife (35-50)
 collective_unconscious: Personal rather than archetypal; rooted in individual childhood experience, not universal patterns
+verified: true
 source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "John Bradshaw (Homecoming), Alice Miller (Drama of the Gifted Child, For Your Own Good), Donald Winnicott, Marion Woodman, Jungian literature"
