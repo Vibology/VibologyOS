@@ -117,6 +117,25 @@ VibologyOS/
 - `Synthesis/General/` ready for new pieces
 - Template: `_TEMPLATE - Cross-System Synthesis.md`
 
+### 5. MacOS Application — Unified Interface
+
+**Next Priority:** Build native MacOS app integrating VibologyOS library with Cartographer API
+
+**Foundation complete:**
+- VibologyOS reference library: 800 files, 100% verified, 100% source-verified
+- Cartographer API: FastAPI service with complete astrology + Human Design calculation
+- Chart generation: Natal charts (Kerykeion), Bodygraphs (IHDS with full dignity symbols)
+- All local calculation tools operational
+
+**MacOS app requirements:**
+- Native Swift/SwiftUI interface
+- Integrated chart calculation (birth data → visualization)
+- Library browser/search (800 files of archetypal reference)
+- Client synthesis workflow
+- Local-first architecture (Cartographer runs locally)
+
+**Design philosophy:** The Observatory — instruments for seeing clearly, not pronouncements requiring faith. Transparent reasoning, calibrated tools, practitioner authority.
+
 ---
 
 ## Completed Milestones
