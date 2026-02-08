@@ -268,7 +268,7 @@ Conditioning is not the enemy—it's the medium through which you learn. But you
 - [[Definition]] — Single, Split, Triple Split, Quadruple Split; Bridging Gates
 - [[Strategy]] — Type-specific decision-making that bypasses conditioning
 - [[Authority]] — Inner decision-making tool that overrides Not-Self
-- [[The Not-Self]] — False identity built from conditioning
+- **The Not-Self** — False identity built from conditioning (explained throughout this entry)
 - [[Centers]] — The nine centers and their themes
 
 ### Individual Centers
