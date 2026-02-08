@@ -9,7 +9,7 @@ date_updated: 2026-01-18
 
 ---
 
-This archive holds the synthesis of **Angelology**, **Astrology**, **Folklore**, **Human Design**, **The Magdalene Path**, **Tarot**, and **The Window**—seven pillars of knowledge that, together, form a map of the soul's terrain.[^1]
+This archive holds the synthesis of **Angelology**, **Astrology**, **Folklore**, **Human Design**, **The Magdalene Path**, **The Tarot**, and **The Astrolabe** — seven pillars of knowledge that, together, form a map of the soul's terrain.[^1]
 
 The map is not the territory. **You** are the territory.
 
@@ -55,7 +55,6 @@ Before diving into any pillar, these five entries establish the framework:
 *"The Algorithm maps the territory. The Anima walks the path."*
 
 ---
-
 ## Notes
 
 [^1]: The Seven Pillars framework represents Vibology's synthesis architecture, integrating traditional wisdom systems (Angelology, Astrology, Tarot/Qabalah, I-Ching), contemporary systems (Human Design), spiritual paths (The Magdalene Path), and archetypal psychology (Personal Mythos/Jungian). See [[Core Foundations of Vibology]] for architectural overview.

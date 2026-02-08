@@ -1029,8 +1029,8 @@ Where additional correspondences exist (e.g., Hebrew letters, Minor Arcana Sephi
 - [[Mars ♂]] — Mars profile
 - [[Venus ♀]] — Venus profile
 - [[Mercury ☿]] — Mercury profile
-- [[The Moon ☽]] — Moon profile
-- [[The Sun ☉]] — Sun profile (if created)
+- [[Moon ☽]] — Moon profile
+- [[Sun ☉]] — Sun profile
 
 ### Library Entries (Angelology)
 
@@ -1057,10 +1057,10 @@ Where additional correspondences exist (e.g., Hebrew letters, Minor Arcana Sephi
 
 ### Library Entries (Human Design)
 
-- [[Gate 1 - The Creative]] — Individual creative power (Sun transit)
-- [[Gate 2 - The Receptive]] — Receptivity to Higher Self (Mars correspondence paradox)
-- [[Gate 7 - The Army]] — Leadership through role (Saturn, Death XIII)
-- [[Gate 8 - Contribution]] — Creative contribution (Mercury)
+- [[Gate 01 - The Creative]] — Individual creative power (Sun transit)
+- [[Gate 02 - The Receptive]] — Receptivity to Higher Self (Mars correspondence paradox)
+- [[Gate 07 - The Army]] — Leadership through role (Saturn, Death XIII)
+- [[Gate 08 - Holding Together]] — Creative contribution (Mercury)
 - [[Gate 10 - Treading]] — Behavior of self (Venus/Saturn)
 - [[Gate 11 - Peace]] — Ideas from collective (Jupiter)
 - [[Gate 13 - The Fellowship of Man]] — The Listener (Sun, The Sun XIX)
