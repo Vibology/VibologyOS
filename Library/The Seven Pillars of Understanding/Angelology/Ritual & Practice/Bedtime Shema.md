@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jewish liturgical tradition, Talmud, Kabbalistic sources"
 ---
+
 # Bedtime Shema
 *Kriat Shema al HaMitah — Jewish Evening Prayer for Divine Protection and Angelic Guardianship*
 

@@ -8,6 +8,7 @@ source_verified: true
 verification_source: Definition.md, BodyGraph entry, Blueprint entry
 status: comprehensive
 ---
+
 # The 36 Channels
 *Pathways of Defined Energy*
 

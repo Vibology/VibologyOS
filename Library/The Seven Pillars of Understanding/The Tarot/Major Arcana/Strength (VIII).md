@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Strength (VIII)
 *The Daughter of the Flaming Sword*
 
 ---
+
 ## Traditional Symbolism
 
 When Strength appears ***upright*** in a reading, it speaks to the realm of fortitude and mastery over the animal nature. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *power, energy, action, courage, magnanimity,* and *complete success*[^1].
@@ -37,6 +39,7 @@ The reversed Strength speaks to power misapplied—either through tyranny (using
 The key insight is that Strength always deals with **the relationship between higher consciousness and animal nature**—upright or reversed, it governs whether beast and beauty can coexist in productive partnership.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

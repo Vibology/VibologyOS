@@ -38,7 +38,6 @@ This energetic signature often creates unconscious resistance in others, a pheno
 ---
 
 
-
 **To Inform** is the Manifestor's alchemical key to transformation. Before initiating action, the Manifestor must inform those who will be impacted by their decision. This is not asking permission—it is declaration, a courtesy that eliminates resistance.
 
 ### The Paradox of Informing
@@ -130,6 +129,7 @@ The Manifestor's minority status is not accidental—their role is to **initiate
 ---
 
 ## Strategy Integration
+
 ### For the Manifestor
 
 1. **Inform, don't ask.** Your Strategy is not permission-seeking; it is transparency.

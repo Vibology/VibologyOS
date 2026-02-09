@@ -9,10 +9,12 @@ verification_date: 2026-02-07
 grimoire_source: "Brennan's Hellenistic Astrology, Ra Uru Hu's Definitive Book of Human Design, Jung's Collected Works"
 verification_notes: "Complete timing techniques content added (verified against Brennan). Hellenistic Time-Lord principle: chronokratōr (not all chart parts active simultaneously). Five major techniques: (1) Annual Profections—Lord of the Year, 12-year cycle; (2) Zodiacal Releasing—Lot of Spirit/Fortune, minor years, peak periods; (3) Transits—secondary to Time-Lords, trigger timing; (4) Solar Returns—annual snapshot; (5) Secondary Progressions—day-for-a-year, psychological development. Planetary return cycles: Saturn (29-30, 58-60), Jupiter (12-year), others. Integration with HD neutrino conditioning. Cross-references expanded."
 ---
+
 # Transits and Timing
 *The Neutrino Weather*
 
 ---
+
 ## What Are Transits?
 
 **Transits** are the real-time movement of planets through the zodiac, creating angular relationships ([[Aspects]]) to natal positions. Where the [[Natal Chart]] is the **blueprint**, transits are the **weather**—the conditioning field that activates, tests, or reveals latent potentials.

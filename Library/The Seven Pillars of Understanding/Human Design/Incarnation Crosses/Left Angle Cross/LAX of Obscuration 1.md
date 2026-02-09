@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Obscuration (1)
+
 ## Gates: 62/61/3/50 | Quarter of Civilization
 
 ### Ra's Keynote

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Rulership (2)
+
 ## Gates: 45/26/22/47 | Quarter of Civilization
 
 ### Ra's Keynote

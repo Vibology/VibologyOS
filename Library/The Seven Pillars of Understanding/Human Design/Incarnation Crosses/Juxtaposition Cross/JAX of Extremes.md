@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Extremes
+
 ## Gates: 15/10/17/18 | Quarter of Civilization
 
 ### Ra's Keynote

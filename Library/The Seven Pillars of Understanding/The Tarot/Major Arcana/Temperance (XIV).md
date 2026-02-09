@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Temperance (XIV)
 *The Daughter of the Reconcilers / The Bringer Forth of Life*
 
@@ -61,6 +62,7 @@ The core teaching: **Transformation is not violence but precision**. Temperance 
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Samekh (ס) – The Prop That Sustains
 
 **Samekh** means "prop" or "support"—the framework, the scaffolding, the structure that holds something in place during the ordeal. With a gematria value of **60**, Samekh resonates with the number of completion through cycles (60 seconds, 60 minutes—the return to beginning after traversing the circle).

@@ -163,6 +163,7 @@ The 4/1 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 4/1
 
 1. **Honor your fixed path.** You are a train on a track—do not let others derail you.

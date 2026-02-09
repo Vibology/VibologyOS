@@ -13,10 +13,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Classical mythology)"
 verification_notes: "All traditional dignities, decan rulers, mythological sources, medical correlations, and house correspondences cited inline. Synthesis interpretations clearly distinguished from traditional material."
 ---
+
 # Pisces ♓
 *The Dreamer and the Return to Source*
 
 ---
+
 ## Archetypal Essence
 
 Pisces is **The Dreamer**—the principle of **dissolution**, the final release of form before the cycle begins again ([[Aries ♈]]). Where [[Aquarius ♒]] distributes consciousness across the collective, Pisces **dissolves** the boundaries between self and other, returning all differentiation to the primordial ocean. This is the sign of mysticism, compassion, and the recognition that separation is illusion.
@@ -24,6 +26,7 @@ Pisces is **The Dreamer**—the principle of **dissolution**, the final release 
 In the esoteric tradition, Pisces is **Partnership**—not as relationship between two discrete entities, but as the recognition that *there is only one entity*, appearing as many. The two fish swim in opposite directions, bound by a single cord: the paradox of unity-in-multiplicity.
 
 ---
+
 ## Glyph & Symbolism
 
 **♓** — Two fish swimming in reverse, connected by a cord.
@@ -31,6 +34,7 @@ In the esoteric tradition, Pisces is **Partnership**—not as relationship betwe
 The fish represent the **dual currents** of existence: one toward incarnation ([[Virgo ♍]]), one toward transcendence. The cord signifies that these are not separate paths but **phases** of a single rhythm. In esoteric physiology, Pisces governs the **sense of Sleep**: the surrender of waking consciousness so the soul may return to its source.
 
 ---
+
 ## Element & Modality
 
 **Water** (emotion, instinct, the unconscious) | **Mutable** (dissolving, distributing)
@@ -38,6 +42,7 @@ The fish represent the **dual currents** of existence: one toward incarnation ([
 Pisces is **Mutable Water**—the ocean that receives all rivers, the mist that blurs all boundaries, the tears that dissolve the fiction of separation. Mutable signs *distribute*; Water signs *feel*. Pisces is the promise that all paths lead to the same sea.
 
 ---
+
 ## Planetary Ruler
 
 **[[Jupiter ♃]]** (traditional) and **[[Neptune ♆]]** (modern) — The benevolent king and the universal solvent.[^1]

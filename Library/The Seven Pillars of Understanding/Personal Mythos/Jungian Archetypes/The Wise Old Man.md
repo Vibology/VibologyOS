@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Wise Old Man: Spirit, Meaning, and the Senex Archetype
 
 ## Overview
+
 ### Jung's Definition
 
 The Wise Old Man—or **Senex** (Latin for "old man")—is one of Jung's most luminous and paradoxical archetypes. In *The Archetypes and the Collective Unconscious* (CW 9i, par. 398), Jung writes:
@@ -263,6 +264,7 @@ The Wise Old Man is often **projected onto external figures** before being integ
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Wise Old Man occupies a unique position in Jung's structural model of the psyche:

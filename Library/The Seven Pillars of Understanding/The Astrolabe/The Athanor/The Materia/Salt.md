@@ -13,10 +13,12 @@ verification_date: 2026-02-03
 verification_source: "Paracelsus Opus Paramirum; Jung CW 12, CW 14; Edinger Anatomy of the Psyche"
 grimoire_source: "Paracelsus Hermetic and Alchemical Writings, Jung CW 12, Jung CW 14, Edinger Anatomy of the Psyche"
 ---
+
 # Salt
 *The fixed principle — body, form, the ground that holds transformation in physical reality.*
 
 ---
+
 ## Alchemical Principle
 
 Salt is the third and most paradoxical member of the *Tria Prima*. Where [[Sulphur]] burns and [[Mercury]] flows, Salt **crystallizes** — it is the principle of fixity, structure, the body that receives spirit and gives it form. Paracelsus named Salt *corpus* (body), the densest manifestation of the prima materia, the container without which volatile spirit would simply evaporate (Paracelsus, *Opus Paramirum*)[^1].
@@ -26,6 +28,7 @@ The alchemists were explicit: Salt is what remains after fire and water have don
 In psychological alchemy, Salt represents the **ego-body complex** — not as obstacle to transcendence but as the necessary *ground* for it. Spirit that refuses embodiment is inflation. Transformation that does not land in the body is fantasy. Salt teaches that the goal of the work is not to escape matter but to make matter *conscious* — to crystallize insight into lived experience, to fix the volatile into enduring form.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -47,6 +50,7 @@ Salt is **Earth** — not the undifferentiated earth of [[Prima Materia]] but *c
 > *Vibology Synthesis: Salt appears when transformation needs to land. Spirit has moved, insight has arrived, but nothing has changed until it crystallizes into form. For a defined Sacral (life-force motor), Salt is the capacity to commit *sacral energy* to practice — not mental commitment but bodily commitment, the yes that shows up tomorrow and the day after. Salt asks: are you willing to give this vision a body? Transformation without embodiment is fantasy. Salt makes it real.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

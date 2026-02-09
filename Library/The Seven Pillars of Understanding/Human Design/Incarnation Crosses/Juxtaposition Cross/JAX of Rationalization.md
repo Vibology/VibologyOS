@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Rationalization
+
 ## Gates: 24/44/13/7 | Quarter of Initiation
 
 ### Ra's Keynote

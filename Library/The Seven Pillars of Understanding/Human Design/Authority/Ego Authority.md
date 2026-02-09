@@ -12,16 +12,19 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Heart Center source, below Emotional hierarchy, Willpower principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Ego Authority
 *The Intelligence of Willpower*
 
 ---
+
 ## Ra's Definition
 **Ego Authority** is defined by a **defined [[Heart]] Center** (also called the Ego or Will Center) *without* a defined [[Solar Plexus]], [[Sacral]], or [[Spleen]].[^1] If any of those centers is defined, they override the Heart in the authority hierarchy.
 
 Ego Authority is the domain of a small subset of **[[Manifestor]]s** and **[[Projector]]s**—those who make decisions through willpower, commitment, and self-interest.
 
 ---
+
 ## The Two Subtypes
 
 Ego Authority expresses differently depending on the Heart's connection:
@@ -39,6 +42,7 @@ Ego Authority expresses differently depending on the Heart's connection:
 - **Somatic Experience:** You articulate your desires through self-inquiry and dialogue
 
 ---
+
 ## The Mechanics: Willpower and Commitment
 
 Ego Authority operates through the **will to commit**. The Heart Center governs:[^4]
@@ -52,6 +56,7 @@ Decisions made through Ego Authority are rooted in:
 - **What serves my material and egoic well-being** (not what serves others' expectations)
 
 ---
+
 ## Decision-Making Process
 
 ### For Ego-Manifested (Manifestors)
@@ -68,6 +73,7 @@ Decisions made through Ego Authority are rooted in:
 4. **Commit only to what serves your will.** Do not accept invitations that require you to abandon your self-interest.
 
 ---
+
 ## Somatic Experience
 
 Individuals with Ego Authority experience:
@@ -79,6 +85,7 @@ Individuals with Ego Authority experience:
 The Heart speaks through **declaration** (Ego-Manifested) or **self-inquiry** (Ego-Projected), not through emotional waves or gut responses.
 
 ---
+
 ## Interaction with Strategy
 
 Ego Authority must be paired with [[Strategy]]:
@@ -89,6 +96,7 @@ Ego Authority must be paired with [[Strategy]]:
 Strategy positions you correctly; Ego Authority reveals *what* is correct for your will and material well-being.
 
 ---
+
 ## The Role of Rest
 
 The Heart Center is a **motor**, but it is not sustainable like the [[Sacral]].[^5] Ego Authority requires:
@@ -99,6 +107,7 @@ The Heart Center is a **motor**, but it is not sustainable like the [[Sacral]].[
 Burnout occurs when Ego Authority individuals commit beyond their will's capacity to sustain.
 
 ---
+
 ## Compatible Types
 
 Ego Authority can appear in:
@@ -108,6 +117,7 @@ Ego Authority can appear in:
 This is a **rare configuration**, as most Manifestors and Projectors have Emotional or Splenic Authority.
 
 ---
+
 ## Common Pitfalls
 
 ### 1. Confusing Will with "Should"
@@ -127,6 +137,7 @@ Ego Authority is designed to prioritize **self-interest** (what serves your mate
 Projectors with Ego Authority must wait for invitations, but not all invitations are correct. The question "What do I want for myself?" filters invitations through the will.
 
 ---
+
 ## The Gift of Ego Authority
 
 Individuals with Ego Authority bring:
@@ -145,7 +156,9 @@ Individuals with Ego Authority bring:
 - **Tarot:** [[The Emperor (IV)]] (willful sovereignty), [[The Chariot (VII)]] (commitment and control)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with Ego Authority
 
 1. **(Ego-Manifested) Speak to know.** Blurt out what you want; your truth is revealed through declaration.

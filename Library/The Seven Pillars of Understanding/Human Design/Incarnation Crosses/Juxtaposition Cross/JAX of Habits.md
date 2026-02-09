@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Habits
+
 ## Gates: 5/35/47/22 | Quarter of Mutation
 
 ### Ra's Keynote

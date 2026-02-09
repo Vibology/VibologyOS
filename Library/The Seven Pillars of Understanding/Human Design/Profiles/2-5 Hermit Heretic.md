@@ -159,6 +159,7 @@ The 2/5 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 2/5
 
 1. **Honor your hermitage.** You need solitude to develop your gifts—protect it fiercely.

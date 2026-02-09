@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Rulership (3)
+
 ## Gates: 47/22/45/26 | Quarter of Duality
 
 ### Ra's Keynote

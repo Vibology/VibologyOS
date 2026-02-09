@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Intuition
+
 ## Gates: 57/51/62/61 | Quarter of Duality
 
 ### Ra's Keynote

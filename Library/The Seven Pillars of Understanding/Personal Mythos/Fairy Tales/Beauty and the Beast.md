@@ -89,6 +89,7 @@ In alchemical terms, the rose is the **Philosopher's Stone in floral form**—th
 ---
 
 ## Jungian Analysis
+
 ### The Curse as Neurosis
 
 The Beast's enchantment is a **psychic dissociation**: the Prince (conscious ego, Spirit, civilized persona) has been severed from the Beast (instinct, body, shadow, animal vitality). This split is the root of neurosis—what Jung called the war between the "two personalities" within, the daylight self and the nocturnal, rejected self.
@@ -172,6 +173,7 @@ Von Franz frequently discusses the Bear or Beast as a **positive instinctual for
 ---
 
 ## Shadow Dynamics
+
 ### The Feminine Journey
 
 For women, **Beauty and the Beast** is often the **first Animus tale**:
@@ -270,6 +272,7 @@ This is the **alchemical wedding**, the *Coniunctio Oppositorum*, where **Solar 
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **For Women:**

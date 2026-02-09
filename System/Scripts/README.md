@@ -153,19 +153,19 @@ deactivate
 
 ## Human Design API
 
-The HD API must be running for Human Design calculations:
+The Cartographer API must be running for Human Design calculations:
 
 ```bash
-# Start API (port 9021)
-cd "◈ System/humandesign_api"
-source "../.venv/bin/activate"  # Use main VibologyOS venv
-uvicorn humandesign.api:app --host 127.0.0.1 --port 9021 &
+# Start API (port 8000)
+cd System/Cartographer/src
+source "../../Cartographer/.venv/bin/activate"
+uvicorn cartographer.api:app --host 127.0.0.1 --port 8000 &
 
 # Check status
-curl -s http://127.0.0.1:9021/health | python3 -m json.tool
+curl -s http://127.0.0.1:8000/health | python3 -m json.tool
 
 # Stop API
-pkill -f "uvicorn humandesign"
+pkill -f "uvicorn cartographer"
 ```
 
 ## Troubleshooting

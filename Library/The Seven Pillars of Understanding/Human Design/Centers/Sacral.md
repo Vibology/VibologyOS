@@ -13,15 +13,18 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 66%/34%, only sustainable Motor, Sacral Authority, Generator Type definition) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Sacral
 *The Well of Vital Life-Force*
 
 --- 
+
 ## Biological Correlation
 
 The **Sacral Center** corresponds to the **ovaries and testes**[^1], the organs of reproduction and generative power. This is the biological seat of **sustainable life force energy**, the capacity to create, sustain, and build.
 
 ---
+
 ## Ra's Definition
 The Sacral Center is the **only sustainable motor** in the BodyGraph[^2]. It governs:
 - **Life force energy** — Consistent, renewable vitality
@@ -33,6 +36,7 @@ The Sacral Center is the **only sustainable motor** in the BodyGraph[^2]. It gov
 - **34% of people** have an undefined Sacral ([[Manifestor]]s, [[Projector]]s, [[Reflector]]s)[^1]
 
 ---
+
 ## Themes & Functions
 
 The Sacral Center governs:
@@ -44,6 +48,7 @@ The Sacral Center governs:
 The Sacral is the **heartbeat of humanity**—the sustainable motor that powers civilization.
 
 ---
+
 ## Defined Sacral: Generators and Life Force
 
 ### Mechanics
@@ -68,6 +73,7 @@ When the Sacral is defined:
 - **Over-commitment** — Saying "yes" to everything because the energy is available
 
 ---
+
 ## Undefined Sacral: Non-Energy Types
 
 ### Mechanics
@@ -91,6 +97,7 @@ When the Sacral is undefined:
 - **Not-Self conditioning** — "I should be able to work as much as they do"
 
 ---
+
 ## Not-Self Theme: Not Knowing When Enough is Enough
 
 The **Not-Self** expression of the undefined Sacral is:
@@ -118,6 +125,7 @@ The undefined Sacral must learn to **rest before exhaustion**, not after collaps
 > — Bunnell, *Living Your Design Student Manual*, p. 88
 
 ---
+
 ## The Sacral as the Only Sustainable Motor
 
 The Sacral is one of four motors:
@@ -127,6 +135,7 @@ The Sacral is one of four motors:
 - **[[Root]]** — Adrenaline and pressure
 
 ---
+
 ## Relationship to Type & Authority
 
 The Sacral is the **defining feature** of [[Generator]]s[^3]:
@@ -137,6 +146,7 @@ The Sacral is also the source of **[[Sacral Authority]]**[^4] (for Generators wi
 - Decision-making through immediate gut response ("uh-huh" / "uhn-un")
 
 ---
+
 ## Cross-System Synthesis: Tarot
 
 ### The Fool (Key 0) & The World (Key 21): The Manifestation Gateway
@@ -216,7 +226,9 @@ The Sacral doesn't *think* about this journey; it *lives* it. "Uh-huh" = The Foo
 - **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Sacral (Generators)
 
 1. **Trust your gut response.** "Uh-huh" and "uhn-un" are somatic clarity, not mental decisions.

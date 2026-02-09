@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Environment
 *The correct external setting to eliminate resistance*
 
@@ -452,6 +453,7 @@ After age 30, if chronic exhaustion or "stuckness" persists, consider **relocati
 ---
 
 ## Correspondences
+
 ### Feng Shui and Vastu Shastra
 
 **Parallel:** Feng Shui (Chinese) and Vastu Shastra (Indian) both teach that **physical environment affects life force (Qi/Prana)**. Placement, orientation, and spatial design matter.

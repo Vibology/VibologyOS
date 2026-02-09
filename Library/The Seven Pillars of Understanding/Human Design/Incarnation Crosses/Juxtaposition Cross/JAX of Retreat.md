@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Retreat
+
 ## Gates: 33/19/2/1 | Quarter of Civilization
 
 ### Ra's Keynote

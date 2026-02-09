@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Perspective
 *How the Personality "sees" the world*
 
@@ -448,6 +449,7 @@ Perspective requires a full [[Human Design]] chart with **Tone/Color/Base** calc
 ---
 
 ## Correspondences
+
 ### Jungian Cognitive Functions
 
 **Parallel:** Jung's **cognitive functions** (Thinking, Feeling, Sensation, Intuition) describe how the psyche processes information—similar to Perspective's lens.

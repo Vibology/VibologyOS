@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Principles
+
 ## Gates: 49/4/14/8 | Quarter of Initiation
 
 ### Ra's Keynote

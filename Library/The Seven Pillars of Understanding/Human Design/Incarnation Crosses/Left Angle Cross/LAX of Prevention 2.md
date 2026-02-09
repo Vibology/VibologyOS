@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Prevention (2)
+
 ## Gates: 10/15/18/17 | Quarter of Mutation
 
 ### Ra's Keynote

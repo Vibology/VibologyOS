@@ -13,6 +13,7 @@ translation: "Venom of God" / "Poison of God"
 sephirah: Geburah (in some systems)
 planetary_correspondence: Mars ♂
 ---
+
 # Samael
 *The Venom of God — Angel of Severity, Death, and the Adversary*
 

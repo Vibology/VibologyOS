@@ -11,16 +11,19 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (Spleen Center source, below Emotional, Sacral, Ego, Self-Projected hierarchy, Instantaneous knowing principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Splenic Authority
 *The Intelligence of the Now*
 
 ---
+
 ## Ra's Definition
 **Splenic Authority** is defined by a **defined [[Spleen]] Center** *without* a defined [[Solar Plexus]] or [[Sacral]].[^1] If either of those centers is defined, they override the Spleen in the authority hierarchy.
 
 Splenic Authority is the domain of **[[Manifestor]]s** and **[[Projector]]s**—the non-Sacral Types who require instantaneous, survival-based knowing.[^4]
 
 ---
+
 ## The Mechanics: Existential Knowing in the Moment
 
 Splenic Authority operates through **instantaneous, non-repeating awareness** rooted in the body's survival intelligence. The Spleen is the oldest awareness center in the BodyGraph,[^2] responsible for:
@@ -31,6 +34,7 @@ Splenic Authority operates through **instantaneous, non-repeating awareness** ro
 Splenic knowing arrives as a **single impulse**—a soft, subtle alert that speaks *once* and does not repeat.
 
 ---
+
 ## The Core Principle: "It Only Speaks Once"
 
 The defining characteristic of Splenic Authority is its **ephemeral nature**:[^3]
@@ -41,6 +45,7 @@ The defining characteristic of Splenic Authority is its **ephemeral nature**:[^3
 This requires absolute **presence** and **trust** in the body's immediate intelligence.
 
 ---
+
 ## Decision-Making Process
 
 ### 1. Be Present in the Now
@@ -71,6 +76,7 @@ The Splenic impulse is:
 If you hesitate, question, or "think about it," you have likely missed the Splenic knowing and are now in the mind.
 
 ---
+
 ## Somatic Experience
 
 Individuals with Splenic Authority experience:
@@ -82,6 +88,7 @@ Individuals with Splenic Authority experience:
 The Spleen is the **body's guardian**—it knows what supports life and what threatens it, and it communicates this *in the moment*.
 
 ---
+
 ## Interaction with Strategy
 
 Splenic Authority must be paired with [[Strategy]]:
@@ -92,6 +99,7 @@ Splenic Authority must be paired with [[Strategy]]:
 Strategy positions you correctly; Splenic Authority reveals *what* is correct in the immediate now.
 
 ---
+
 ## Compatible Types
 
 Splenic Authority can appear in:
@@ -102,6 +110,7 @@ Splenic Authority can appear in:
 **Reflectors** cannot have Splenic Authority, as they have no defined centers.
 
 ---
+
 ## Common Pitfalls
 
 ### 1. Waiting for Confirmation
@@ -121,6 +130,7 @@ The Spleen's "no" is subtle and calm—a quiet sense of "not this." Fear (which 
 Because Splenic knowing is so quiet, it is easy to override with louder mental or emotional impulses. Learning to *value the subtle* is the practice.
 
 ---
+
 ## The Gift of Splenic Authority
 
 Individuals with Splenic Authority bring:
@@ -139,7 +149,9 @@ Individuals with Splenic Authority bring:
 - **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician (I)]] (acting in the present)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with Splenic Authority
 
 1. **Be present.** The Spleen speaks *now*; if you're distracted, you'll miss it.

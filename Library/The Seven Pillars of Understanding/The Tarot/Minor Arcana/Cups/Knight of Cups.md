@@ -15,6 +15,7 @@ element_primary: Air
 element_secondary: Water
 title: Lord of the Waves and Waters, King of the Hosts of the Sea
 ---
+
 # Knight of Cups
 *Lord of the Waves and Waters, King of the Hosts of the Sea*
 
@@ -88,6 +89,7 @@ Trickery, artifice, subtlety, swindling, duplicity, fraud. The reversal corrupts
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Air of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 12, CW 14"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 12 (Psychology and Alchemy), Jung CW 14 (Mysterium Coniunctionis)"
 ---
+
 # Calcination
 *Fire reduces the matter to ash — the first operation, burning away what is false to reveal what remains.*
 
 ---
+
 ## The Operation
 
 **Calcination** (*calcinatio*) is the first of the seven alchemical operations and the first work performed within [[Nigredo]], the blackening. The laboratory process is direct: heat the *prima materia* in the crucible until organic matter burns away, leaving only mineral ash — calcined earth, purified by fire. What combusts was never essential; what remains is the base for further work (Edinger, *Anatomy*, p. 17)[^1].
@@ -27,6 +29,7 @@ Psychologically, calcination is **ego death** — the burning away of inflated i
 The operation belongs to the element **Fire** — purifying, destructive, transformative. Where other operations dissolve or separate, calcination *burns*. The heat can come from external crisis (loss, failure, collapse) or internal pressure (the psyche's demand for transformation when the old form no longer fits). Either way, calcination is the moment when the false must be surrendered. What you thought you were burns. What you actually are remains as ash — raw, humbled, ready for the next stage.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Fire — not the warmth of the hearth but the crucible's flame, the furnace that
 > *Vibology Synthesis: Calcination appears when the old form must burn. For an undefined Heart Center, this operation is especially significant — the open Heart creates pressure to prove worth, to earn love through achievement, to build an identity from external validation. Calcination burns these structures away. The fire reveals that worth was never earned; it was always inherent. When this card appears, ask: what am I defending that is already dead? What false structure am I holding together that the fire wants to take? Calcination is not punishment; it is mercy disguised as destruction.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

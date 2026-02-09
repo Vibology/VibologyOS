@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (marriage, partnerships, open enemies), angular classification (Angle of the West), Libra correspondence, and Moon cosignificator verified via NotebookLM query against Lilly. No planetary joy for 7th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 7th House
 *Partnership and the Mirror of Relationship*
 
 ---
+
 ## Archetypal Theme
 
 The **7th House** is the **Descendant** (DSC)—the western horizon, the point where the Sun sets. This is the house of **partnership**: marriage, committed relationships, contracts, and all formal bonds that require two selves to negotiate as equals. It is **Libra's domain**: the quest for balance through the other.

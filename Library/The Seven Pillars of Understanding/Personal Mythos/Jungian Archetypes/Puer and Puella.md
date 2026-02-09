@@ -19,6 +19,7 @@ aliases: [Puer/Puella, The Eternal Youth, The Divine Youth, Puer Aeternus, Puell
 # Puer and Puella: The Eternal Youth
 
 ## Overview
+
 ### Jung's Definition
 
 **Puer aeternus** (masculine) and **Puella aeterna** (feminine)—Latin for "eternal boy" and "eternal girl"—are Jungian archetypes representing the **spirit of eternal youth**: spontaneity, creativity, play, freedom, and the refusal to accept limitation or aging. The Puer/Puella embodies the **divine youth** who lives in perpetual potentiality, resisting the descent into structure, commitment, and time-bound existence.
@@ -318,6 +319,7 @@ von Franz writes[^6]:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung and von Franz: The Puer Complex
 
 **Jung's Observation:**

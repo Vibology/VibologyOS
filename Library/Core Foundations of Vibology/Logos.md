@@ -11,10 +11,12 @@ grimoire_source: "Jung (MDR), Campbell (Hero), Wang (Qabalistic Tarot), Bourgeau
 category: Foundational Concept
 tradition: Pre-Socratic, Stoic, Christian, Jungian
 ---
+
 # Logos
 *The Divine Word — Reason, Order, and the Principle of Intelligibility*
 
 ---
+
 ## Overview
 
 **Logos** (Λόγος) is one of the most foundational concepts in Western philosophy and theology—the **principle of order, reason, and divine intelligence** that structures reality. In Greek, *logos* signifies reason, speech, and word, distinguishing between the "internal word" (conception of the mind) and the "uttered word" (spoken expression).[^1] The term carries multiple interrelated meanings:
@@ -28,6 +30,7 @@ tradition: Pre-Socratic, Stoic, Christian, Jungian
 Logos is the force that brings **cosmos from chaos**, intelligibility from confusion, meaning from noise. It is the ordering intelligence that makes the universe comprehensible.
 
 ---
+
 ## Historical Development
 
 ### **Heraclitus (c. 500 BCE): Logos as Cosmic Law**
@@ -78,6 +81,7 @@ This synthesis of Greek philosophy and Hebrew theology made Logos the bridge bet
 Huxley notes that in the Fourth Gospel (John), "the Word became flesh" to assist beings in passing from time into eternity—the **Eternal Gospel** incarnate (Huxley, pp. 59-60, 246).
 
 ---
+
 ## Jungian Psychology: Logos and Eros
 
 Jung distinguished **Logos** (masculine principle) from **Eros** (feminine principle) as complementary modes of consciousness:
@@ -105,6 +109,7 @@ Von Franz contrasts the Logos principle (mathematical, bird's-eye view, abstract
 **Integration:** Wholeness requires both principles—Logos without Eros becomes sterile rationalism; Eros without Logos becomes formless chaos. The individuated person integrates both.
 
 ---
+
 ## Astrological Correspondence
 
 ### **Jupiter ♃** — Logos Incarnate
@@ -120,6 +125,7 @@ Jupiter's exaltation in [[Cancer ♋]] at 15° reveals that **Logos operates thr
 Greene connects the sign of Leo and the god Apollo to the "realm of Logos," representing loftiness of spirit and the "masculine motivation" toward differentiation (Greene, pp. 210, 32).
 
 ---
+
 ## Cross-System Resonances
 
 ### **Within Philosophy**
@@ -144,6 +150,7 @@ Greene connects the sign of Leo and the god Apollo to the "realm of Logos," repr
 - **Solar consciousness:** Apollonian order (vs. Dionysian dissolution)
 
 ---
+
 ## Shadow of Logos
 
 **Unintegrated Logos:**
@@ -159,6 +166,7 @@ Greene connects the sign of Leo and the god Apollo to the "realm of Logos," repr
 - Law as **liberation** (structure that allows freedom)
 
 ---
+
 ## Practical Application
 
 **Living Kata Logon (According to Logos):**

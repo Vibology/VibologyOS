@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Lovers (VI)
 *The Children of the Voice*
 
 ---
+
 ## Traditional Symbolism
 
 When The Lovers appear ***upright*** in a reading, it speaks to the realm of sacred union and conscious choice. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *attraction, love, beauty, trials overcome,* and most significantly, *human love exhibited as part of the way, the truth, and the life*[^1].
@@ -37,6 +39,7 @@ The reversed Lovers speak to union thwarted—by external circumstance, internal
 The key insight is that The Lovers always deal with **the paradox of union through differentiation**—upright or reversed, they govern the mystery that true joining requires distinct identities, that love emerges from two who remain two yet become one.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

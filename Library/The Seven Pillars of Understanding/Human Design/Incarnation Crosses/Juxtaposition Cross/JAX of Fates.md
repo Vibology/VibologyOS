@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Fates
+
 ## Gates: 30/29/34/20 | Quarter of Initiation
 
 ### Ra's Keynote

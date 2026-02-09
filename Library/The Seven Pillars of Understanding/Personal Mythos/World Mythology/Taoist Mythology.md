@@ -488,6 +488,7 @@ Jung: *"The self is not only the center but also the whole circumference which e
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Taoist philosophy and Jungian psychology are **parallel languages** for the same reality—the psyche's journey from fragmentation to wholeness.

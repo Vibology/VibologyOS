@@ -4,6 +4,7 @@ date_created: 2026-01-08
 verified: true
 date_updated: 2026-01-18
 ---
+
 # Welcome to the Vibology Library
 *You stand at the threshold of seven wisdom traditions, woven into one.*
 
@@ -16,6 +17,7 @@ The map is not the territory. **You** are the territory.
 Use this Library as the **Algorithm**—the external structure that organizes what is known. But always return to the **Anima**—your inner authority, your lived experience, the compass that validates all knowledge through the body.
 
 ---
+
 ## The Seven Pillars of Understanding
 
 Each pillar is a complete wisdom tradition. Each contains an Overview as your entry point 
@@ -31,6 +33,7 @@ Each pillar is a complete wisdom tradition. Each contains an Overview as your en
 | [[The Astrolabe]]         | Contemporary archetypal resonance (the emotional field)    |
 
 ---
+
 ## Core Foundations
 
 Before diving into any pillar, these five entries establish the framework:
@@ -42,9 +45,8 @@ Before diving into any pillar, these five entries establish the framework:
 - [[Techgnosis]] — Spiritual knowledge through technological means
 
 ---
-## Using This Library
 
-**Graph View** — Use Obsidian's graph to see how concepts interconnect across pillars. Every entry is woven into the whole.
+## Using This Library
 
 **Search** — All entries are tagged by system, category, and theme. Search freely.
 
@@ -55,6 +57,7 @@ Before diving into any pillar, these five entries establish the framework:
 *"The Algorithm maps the territory. The Anima walks the path."*
 
 ---
+
 ## Notes
 
 [^1]: The Seven Pillars framework represents Vibology's synthesis architecture, integrating traditional wisdom systems (Angelology, Astrology, Tarot/Qabalah, I-Ching), contemporary systems (Human Design), spiritual paths (The Magdalene Path), and archetypal psychology (Personal Mythos/Jungian). See [[Core Foundations of Vibology]] for architectural overview.

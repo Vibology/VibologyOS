@@ -13,15 +13,18 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, center type, Authority status) verified against Grimoire with inline citations. Synthesis content (Jungian parallels, Tarot correspondences, practical guidance) clearly distinguished."
 ---
+
 # Ajna
 *The Loom for Structured Thought*
 
 ---
+
 ## Biological Correlation
 
 The **Ajna Center** corresponds to the **anterior and posterior pituitary glands**[^1], the "master glands" that regulate hormonal balance and biological rhythms. The pituitary is the physical seat of mental processing and conceptualization.
 
 ---
+
 ## Ra's Definition
 The Ajna Center is an **awareness center**[^2]—it processes mental pressure from the [[Head]] and conceptualizes ideas, theories, and opinions.
 
@@ -29,6 +32,7 @@ The Ajna Center is an **awareness center**[^2]—it processes mental pressure fr
 - **53% of people** have an undefined Ajna (flexible mental processing)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Ajna Center governs:
@@ -40,6 +44,7 @@ The Ajna Center governs:
 The Ajna is the **mind's processing center**, where inspiration becomes thought.
 
 ---
+
 ## Defined Ajna: Fixed Conceptualization
 
 ### Mechanics
@@ -62,6 +67,7 @@ When the Ajna is defined:
 - **Difficulty changing perspectives** — The defined Ajna resists new conceptual frameworks
 
 ---
+
 ## Undefined Ajna: Flexible Conceptualization
 
 ### Mechanics
@@ -84,6 +90,7 @@ When the Ajna is undefined:
 - **Not-Self conditioning** — Pretending to be certain to avoid appearing "stupid" or wrong
 
 ---
+
 ## Not-Self Theme: Pretending to Be Mentally Certain
 
 The **Not-Self** expression of the undefined Ajna is:
@@ -109,6 +116,7 @@ The undefined Ajna must learn to **honor uncertainty** as wisdom, not weakness.
 > — Bunnell, *Living Your Design Student Manual*, p. 87
 
 ---
+
 ## The Ajna is NOT an Authority
 
 **Critical distinction:** The Ajna is an **awareness center**, not an **authority**[^2].
@@ -128,6 +136,7 @@ Trusting the Ajna to make decisions is the root of mental suffering. The mind is
 It is **not** designed to decide what is correct for your life. That is the role of [[Authority]].
 
 ---
+
 ## Relationship to Type & Authority
 
 The Ajna:
@@ -138,6 +147,7 @@ The Ajna:
 All Types must learn to **trust their Authority**, not their Ajna, for decision-making.
 
 ---
+
 ## Cross-System Synthesis: Tarot
 
 ### The Fool (Key 0) & The World (Key 21): The Consciousness Gateway
@@ -203,7 +213,9 @@ This is the **double helix spiral** Eleanor Haspel-Portner describes: consciousn
 - **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Ajna
 
 1. **Own your fixed perspective.** Your way of thinking is reliable, not rigid.

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Spirit (2)
+
 ## Gates: 59/55/16/9 | Quarter of Duality
 
 ### Ra's Keynote

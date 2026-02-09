@@ -11,6 +11,7 @@ category: Archetype
 archetype_name: The Craftsman
 jungian_function: Mastery through repetition, discipline, and devotion to skill—the archetype of work as sacred practice
 ---
+
 # The Craftsman
 *Mastery Through Repetition — Work as Sacred Practice*
 

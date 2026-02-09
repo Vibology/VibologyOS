@@ -49,7 +49,6 @@ The Reflector is the barometer of community health, the "canary in the coal mine
 ---
 
 
-
 **To Wait a Full Lunar Cycle** is the Reflector's alchemical law. Because their design is entirely lunar (no fixed definition), they require a full 28-day cycle to experience clarity on major decisions.
 
 ### The Mechanics of the Lunar Cycle
@@ -159,6 +158,7 @@ The Reflector's challenge is accepting that their gift is **not to fit in** but 
 ---
 
 ## Strategy Integration
+
 ### For the Reflector
 
 1. **Honor the 28-day cycle.** Major decisions cannot be rushed; clarity requires time.

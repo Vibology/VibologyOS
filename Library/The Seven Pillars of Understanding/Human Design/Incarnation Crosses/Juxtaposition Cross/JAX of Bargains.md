@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Bargains
+
 ## Gates: 37/40/5/35 | Quarter of Initiation
 
 ### Ra's Keynote

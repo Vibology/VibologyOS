@@ -15,6 +15,7 @@ sephirah: Hod
 planetary: Mercury in Sagittarius
 title: Lord of Swiftness
 ---
+
 # Eight of Wands
 *Lord of Swiftness*
 
@@ -72,6 +73,7 @@ The key teaching: **Swiftness is not virtue in itself.** The Eight of Wands asks
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Hod as the Eight
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew, also translated as "Glory" or "Reverberation"). Hod occupies a crucial position on the Tree of Life—it is the second of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, and it stands opposite **Netzach** (Victory/Firmness) on the Pillar of Form (the left pillar).

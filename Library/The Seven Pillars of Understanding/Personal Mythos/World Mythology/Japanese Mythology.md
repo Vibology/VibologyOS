@@ -543,6 +543,7 @@ Susanoo's arc—from heavenly pest to earthly hero—is the **archetypal path of
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 **Shinto Mythology as Archetypal Process:**

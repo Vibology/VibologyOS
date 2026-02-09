@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Motivation
 *The underlying frequency driving awareness*
 
@@ -446,6 +447,7 @@ Motivation requires a full [[Human Design]] chart with **Tone/Color/Base** calcu
 ---
 
 ## Correspondences
+
 ### Jungian Psychology: The Self and Individuation
 
 **Parallel:** Jung's **Self** is the totality of the psyche—the unified center that emerges through **individuation** (becoming who you truly are). Correct Motivation is similar—the authentic drive that emerges through differentiation.

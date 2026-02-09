@@ -13,10 +13,12 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 53%/47%, dual Awareness/Motor classification, Emotional Authority as supreme authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Solar Plexus
 *The Ocean of Emotional Clarity*
 
 ---
+
 ## Biological Correlation
 
 The **Solar Plexus Center** corresponds to[^1]:
@@ -28,6 +30,7 @@ The **Solar Plexus Center** corresponds to[^1]:
 These systems govern **biochemical oscillation, emotional processing, and the body's wave-like rhythms**.
 
 ---
+
 ## Ra's Definition
 The Solar Plexus is both an **awareness center** and a **motor center**[^2]. It governs:
 - **Emotional intelligence** — Spirit awareness through feeling
@@ -38,6 +41,7 @@ The Solar Plexus is both an **awareness center** and a **motor center**[^2]. It 
 - **47% of people** have an undefined Solar Plexus (absorb and amplify emotions)[^1]
 
 ---
+
 ## Themes & Functions
 
 The Solar Plexus governs:
@@ -49,6 +53,7 @@ The Solar Plexus governs:
 The Solar Plexus is the **emotional engine** of human experience—the wave that moves us through connection, intimacy, and transformation.
 
 ---
+
 ## Defined Solar Plexus: Riding the Wave
 
 ### Mechanics
@@ -71,6 +76,7 @@ When the Solar Plexus is defined:
 - **Emotional overwhelm** — The wave can feel relentless
 
 ---
+
 ## Undefined Solar Plexus: Emotional Receptivity
 
 ### Mechanics
@@ -93,6 +99,7 @@ When the Solar Plexus is undefined:
 - **Mistaking amplified emotions for truth** — Believing intense feelings are "theirs"
 
 ---
+
 ## Not-Self Theme: Avoiding Confrontation and Truth
 
 The **Not-Self** expression of the undefined Solar Plexus is:
@@ -115,6 +122,7 @@ The undefined Solar Plexus must learn that **emotional intensity is not theirs**
 > — Bunnell, *Living Your Design Student Manual*, pp. 88–89
 
 ---
+
 ## The Solar Plexus as Motor
 
 The Solar Plexus is one of four motors:
@@ -126,6 +134,7 @@ The Solar Plexus is one of four motors:
 The Solar Plexus motor is **not sustainable**—it oscillates. When connected to the [[Throat]], it can manifest, but the wave must be honored.
 
 ---
+
 ## Relationship to Type & Authority
 
 The Solar Plexus is the **highest Authority** in Human Design[^3]. If the Solar Plexus is defined, the individual has **[[Emotional Authority]]**, regardless of what other centers are active.
@@ -152,7 +161,9 @@ For those with Emotional Authority[^4]:
 - **Tarot:** [[The Moon (XVIII)]] (emotional cycles), [[Death (XIII)]] (transformation through endings)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Solar Plexus
 
 1. **Never decide in the moment.** The wave distorts clarity—wait for stillness.

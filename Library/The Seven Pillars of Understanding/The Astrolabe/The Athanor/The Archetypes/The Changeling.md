@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Jung CW 8 (Structure and Dynamics)"
 grimoire_source: "Jung CW 9i, Jung CW 8, von Franz Interpretation of Fairy Tales"
 ---
+
 # The Changeling
 *The Thing — The Unstable Identity*
 
 ---
+
 ## Archetypal Identity
 
 The Changeling represents the archetypal **fluidity of form**—the terrifying and liberating recognition that identity is not fixed but perpetually beginning anew. This archetype embodies the mercurial duality of Gemini: the capacity to adapt to any environment by becoming anything, the horror of never knowing what is real beneath the mask.
@@ -29,6 +31,7 @@ In Jung's framework, The Changeling corresponds to the **mercurial quality of th
 The Changeling appears when **identity is in flux**, when the pressure to begin anew overwhelms the capacity to complete, when the question becomes: "Who am I now? And now? And now?" This is the archetype of perpetual becoming.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Changeling appears when **identity is in flux**, when the pressure to begin 
 | Season | Late Spring (transition toward summer) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Gemini Principle
@@ -74,6 +78,7 @@ The shadow is getting lost in perpetual becoming—never stabilizing long enough
 > *Vibology Synthesis: The Changeling appears when identity is dissolving, when the old self no longer fits and the new self has not yet arrived. The question is not "who am I really?" but "can I honor this state of becoming without clinging to false stability or collapsing into formless chaos?"*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

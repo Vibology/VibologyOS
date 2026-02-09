@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Identification (1)
+
 ## Gates: 16/9/63/64 | Quarter of Civilization
 
 ### Ra's Keynote

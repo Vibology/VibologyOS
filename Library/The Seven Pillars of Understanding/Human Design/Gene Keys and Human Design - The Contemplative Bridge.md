@@ -1,7 +1,7 @@
 ---
 tags: [gene-keys, human-design, contemplation, shadow-gift-siddhi, transformation, gates, consciousness, synthesis]
-system: The Window
-subsystem: Synthesis
+system: Human Design
+subsystem: Gene Keys
 date_created: 2026-02-08
 verified: true
 source_verified: true

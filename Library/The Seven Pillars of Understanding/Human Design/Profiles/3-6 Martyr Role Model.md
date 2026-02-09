@@ -189,6 +189,7 @@ The 3/6 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 3/6
 
 1. **Stage 1 (0-30):** Embrace trial and error. Your "mistakes" are necessary research.

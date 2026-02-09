@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Campbell Hero with a Thousand Faces"
 grimoire_source: "Jung CW 9i, Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"
 ---
+
 # The Hero
 *Superman — The First Responder*
 
 ---
+
 ## Archetypal Identity
 
 The Hero represents the archetypal **pioneer of moral action**—the one who possesses raw power and wields it in service to others. This archetype embodies the driven fire of Aries: the courage to lead the charge, to be first into danger, to respond to the call without hesitation.
@@ -29,6 +31,7 @@ In Jung's archetypal framework, The Hero represents the ego in its highest funct
 The Hero appears when **raw power seeks righteous direction**, when the individual must choose between dominance and empowerment, between force and strength. This is the call to adventure made personal—the moment when you recognize that you have the power to act and must decide how to wield it.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Hero appears when **raw power seeks righteous direction**, when the individu
 | Season | Spring Equinox (rebirth, new cycle) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Aries Principle
@@ -70,6 +74,7 @@ The Hero's fatal flaw is hubris—believing that ego power is sufficient without
 > *Vibology Synthesis: The Hero appears when you must act with power in service to what is right. This is not about possessing strength but about **how you wield what you have**. Force becomes strength when aligned with moral purpose; strength becomes majesty when ego serves something greater than itself. The test is always the same: will you dominate or will you empower?*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

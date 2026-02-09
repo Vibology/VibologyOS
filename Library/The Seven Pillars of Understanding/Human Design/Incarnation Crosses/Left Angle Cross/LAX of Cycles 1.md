@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Cycles (1)
+
 ## Gates: 53/54/42/32 | Quarter of Civilization
 
 ### Ra's Keynote

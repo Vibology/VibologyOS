@@ -14,6 +14,7 @@ element_primary: Fire
 element_secondary: Fire
 title: King of the Flame and the Lightning, Lord of the Flame and the Lightning
 ---
+
 # King of Wands
 *King of the Flame and the Lightning, Lord of the Flame and the Lightning*
 
@@ -104,6 +105,7 @@ The King of Wands as a **Process** or **Energy**: Visionary leadership in action
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Fire of Fire
 
 The King rank is **Fire**—the element of will, spirit, transformation, initiation, and sovereignty. Fire is the active, masculine, initiating principle—the spark that ignites creation, the flame that transforms.

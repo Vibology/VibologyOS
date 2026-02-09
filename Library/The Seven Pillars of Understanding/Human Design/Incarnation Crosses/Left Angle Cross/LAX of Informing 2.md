@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Informing (2)
+
 ## Gates: 47/22/12/11 | Quarter of Duality
 
 ### Ra's Keynote

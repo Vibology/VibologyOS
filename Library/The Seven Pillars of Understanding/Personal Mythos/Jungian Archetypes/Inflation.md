@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 7, CW 9i), Marie-Louise von Franz lectures"
 ---
+
 # Inflation
 *Psychic Inflation — Identification with Archetypal Forces*
 

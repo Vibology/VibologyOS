@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Consciousness (4)
+
 ## Gates: 5/35/64/63 | Quarter of Mutation
 
 ### Ra's Keynote

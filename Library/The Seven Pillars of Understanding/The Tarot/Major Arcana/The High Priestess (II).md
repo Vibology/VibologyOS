@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The High Priestess
 *The Priestess of the Silver Star*
 
 ---
+
 ## Traditional Symbolism
 
 When The High Priestess appears ***upright*** in a reading, it speaks to the realm of hidden knowledge and the mysteries yet to unfold. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *secrets, mystery, the future as yet unrevealed, wisdom, science,* and *tenacity*[^1]. She represents that which is known but not spoken, understood but not explained.
@@ -39,6 +41,7 @@ The reversed High Priestess speaks to gnosis degraded into mere information, mys
 The key insight is that The High Priestess always deals with the **threshold between knowing and unknowing**—upright or reversed, spiritual or material. The question is: are you willing to cross it with humility?
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

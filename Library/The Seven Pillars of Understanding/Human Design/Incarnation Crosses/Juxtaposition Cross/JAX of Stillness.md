@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Stillness
+
 ## Gates: 52/58/21/48 | Quarter of Civilization
 
 ### Ra's Keynote

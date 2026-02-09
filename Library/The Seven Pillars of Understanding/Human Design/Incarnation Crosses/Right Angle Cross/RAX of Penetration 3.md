@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Penetration (3)
+
 ## Gates: 57/51/53/54 | Quarter of Duality
 
 ### Ra's Keynote

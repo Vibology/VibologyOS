@@ -199,6 +199,7 @@ When the Generator abandons their strategy:
 ---
 
 ## Strategy Integration
+
 ### For Generators
 
 1. **Wait for something to respond to.** Don't initiate from the mind; let life present options.

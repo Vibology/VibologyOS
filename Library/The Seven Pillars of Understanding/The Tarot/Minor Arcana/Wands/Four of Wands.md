@@ -16,6 +16,7 @@ planetary: Venus in Aries
 decan: Aries 20°-30° (3rd Decan)
 title: Lord of Perfected Work
 ---
+
 # Four of Wands
 *The Lord of Perfected Work*
 
@@ -67,6 +68,7 @@ The key teaching: **Completion is itself a form of creation.** To finish well, t
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chesed as the Four
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew, also spelled Hesed). It is the first Sephirah below the Abyss—the first realm that is fully "manifest" in a structural sense. Where the Supernal Triad (Kether, Chokmah, Binah) exists in pure archetypal abstraction, Chesed begins the process of *concretization*.

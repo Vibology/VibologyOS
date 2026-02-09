@@ -110,6 +110,7 @@ The King represents the **healthy, conscious good-parent archetype** that pushes
 ---
 
 ## Jungian Analysis
+
 ### The Loss of the Golden Ball – The Descent into Puberty
 
 The tale begins with **loss**—the golden ball (childhood ego integrity) falls into the well (the unconscious). This is not an accident but a **necessary descent**, the onset of adolescence when:
@@ -251,6 +252,7 @@ Von Franz and Campbell both note the crucial difference:
 ---
 
 ## Shadow Dynamics
+
 ### The Feminine Journey
 
 For girls and women, **The Frog Prince** encodes:
@@ -394,6 +396,7 @@ Heinrich represents the **loyal unconscious**, the part of the psyche that **hol
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **For Adolescents (and those revisiting adolescent wounds):**

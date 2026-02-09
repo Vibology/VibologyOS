@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Wheel of Fortune (X)
 *The Lord of the Forces of Life*
 
 ---
+
 ## Traditional Symbolism
 
 When the Wheel of Fortune appears ***upright*** in a reading, it speaks to the realm of cyclical change and karmic consequence. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *destiny, fortune, success,* and *luck*[^1].
@@ -35,6 +37,7 @@ The reversed Wheel speaks to excess—fortune turned to overindulgence, expansio
 The key insight is that the Wheel always deals with **the paradox of change as the only constant**—upright or reversed, it governs whether we flow with cycles or fight against them.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

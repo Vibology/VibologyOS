@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Primary Health System
 *Practical experimentation with dietary regimen*
 
@@ -436,6 +437,7 @@ PHS consultations are typically high-investment ($200-$500+ per session) because
 ---
 
 ## Correspondences
+
 ### Ayurveda: Agni and Digestive Fire
 
 **Parallel:** Ayurveda teaches that **Agni (digestive fire)** is strengthened by eating at correct times, in calm environments, with proper food combinations.

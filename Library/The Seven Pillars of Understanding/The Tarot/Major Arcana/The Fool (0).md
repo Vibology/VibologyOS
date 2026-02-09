@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Fool (0)
 *The Spirit of Aether*
 
 ---
+
 ## Traditional Symbolism
 
 When The Fool appears ***upright*** in a reading, it speaks to the realm of pure potential and spiritual aspiration. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *folly, mania, extravagance, intoxication, delirium, frenzy*, and *bewrayment* (betrayal or exposure).[^1]
@@ -33,6 +35,7 @@ The reversed Fool speaks to a kind of spiritual or intellectual deflation. Where
 "Absence" and "nullity" suggest a void where presence should be—someone going through the motions without genuine engagement. "Distribution" implies energies spread too thin to be effective. This is The Fool's potential squandered through lack of focus or commitment. The key insight is that The Fool always carries risk—upright or reversed, in spiritual or material contexts. The question is whether that risk serves transcendence or simply leads to chaos.
 
 --- 
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

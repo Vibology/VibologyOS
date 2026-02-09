@@ -17,6 +17,7 @@ psychological_equivalent: Permanent ego reconfiguration, public demonstration of
 # The Resurrection
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Resurrection represents the **second death-rebirth cycle** of the heroic journey—the public proof that transformation is complete and permanent. Where [[The Ordeal]] (Stage 8) was the private, internal ego-death, the Resurrection is the **external demonstration** that the hero has truly changed. This is Campbell's Stage 11, positioned at the threshold between the Special World and the Ordinary World—the final gate before return.
@@ -170,6 +171,7 @@ If you successfully navigate the Resurrection, integration yields:
 **The Resurrection as Relational**: Sometimes the final test *is* relational—meeting the person/situation that used to trigger regression and **responding differently**. Proof: you are no longer reactive. You are free.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Resurrection as Penultimate Threshold
 
 The Resurrection (Stage 11) is the **second-to-last stage** of Campbell's 12-stage monomyth, positioned at the return threshold:
@@ -425,6 +427,7 @@ If the Resurrection is navigated successfully, it confers irreplaceable gifts:
 - Alchemically, the Resurrection is the Stone—transmutation complete. You are gold. Not metaphorically—**literally**. Your being radiates the integration. This is what others feel in your presence: *"They have been somewhere I have not. They know something I seek."*
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Resurrection: The Final Battle
 
 In patriarchal myth, the Resurrection is often **externalized as combat**—the hero must defeat the antagonist to prove transformation:

@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Neumann The Child"
 grimoire_source: "Jung CW 9i, Neumann The Child, von Franz Puer Aeternus"
 ---
+
 # The Divine Child
 *E.T. — The Vulnerable Miracle*
 
 ---
+
 ## Archetypal Identity
 
 The Divine Child represents the archetypal **innocence that heals**—the pure, vulnerable being whose very presence creates family, whose weakness evokes fierce protection, whose longing for home awakens the heart. This archetype embodies the watery emotional depth of Cancer: the capacity to create tribe through vulnerability, to bond through mutual need, to transform strangers into family.
@@ -29,6 +31,7 @@ In Jung's framework, The Divine Child represents **the potential for wholeness, 
 The Divine Child appears when **vulnerability creates connection**, when weakness becomes the foundation for equality, when the question is: "Can I allow myself to need? Can I let my frailty evoke care?"
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Divine Child appears when **vulnerability creates connection**, when weaknes
 | Season | Summer Solstice (peak vulnerability, maximum light) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Cancer Principle
@@ -74,6 +78,7 @@ The shadow is remaining child—the *puer aeternus*[^3] who refuses to grow, who
 > *Vibology Synthesis: The Divine Child appears when vulnerability must be honored as foundation for connection. Your need creates the bargain that forms family. Allow yourself to be helpless. Allow others to care. Offer wonder in exchange for protection. The tribe emerges around the treasure that must be defended.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

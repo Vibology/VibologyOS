@@ -159,6 +159,7 @@ The 1/3 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 1/3
 
 1. **Honor your need to investigate.** You are designed to research deeply before acting.

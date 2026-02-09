@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Empress (III)
 *The Daughter of the Mighty Ones*
 
 ---
+
 ## Traditional Symbolism
 
 When The Empress appears ***upright*** in a reading, it speaks to the realm of generative abundance and the materialization of potential. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *fruitfulness, action, initiative, length of days,* and in some contexts, *the unknown* or *clandestine*[^1].
@@ -39,6 +41,7 @@ The reversed Empress speaks to blocked creativity, fertility stifled, the genera
 The key insight is that The Empress always deals with **the relationship between potential and manifestation**—upright or reversed, she governs the threshold where spirit becomes matter.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

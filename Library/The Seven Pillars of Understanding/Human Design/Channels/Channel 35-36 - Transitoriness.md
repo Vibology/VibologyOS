@@ -15,10 +15,12 @@ verified: true
 verification_date: 2026-01-25
 source_verified: true
 ---
+
 # Channel 35-36
 *Transitoriness*
 
 ---
+
 ## Ra's Definition
 According to Ra Uru Hu, the **Channel of Transitoriness** is the **emotional experience channel**—the drive to experience **everything** through the lens of the emotional wave, learning through **crisis, change, and transition**[^1]. This channel connects the **Solar Plexus** (emotional awareness) to the **Throat** (manifestation), creating the **voice of feeling and experience**.
 
@@ -29,6 +31,7 @@ Ra taught that this channel embodies the **need for change and new experience**�
 The keynote is **transitoriness**—the understanding that all experience is temporary, that change is the only constant, and that emotional crisis is the catalyst for growth.
 
 ---
+
 ## Core Correspondences
 
 | Attribute | Correspondence |
@@ -48,6 +51,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 | **Signature** | Peace after the wave, wisdom from diverse experiences, compassionate voice |
 
 ---
+
 ## I-Ching and Abstract Circuit Analysis
 
 **Hexagram 35 (Progress):** Fire above, Earth below—light emerging from darkness. The need for **change, progress, and new experience**. Growth requires leaving the familiar.
@@ -59,6 +63,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 **The Crisis Teacher:** This channel learns through **emotional crisis**—not pathologically, but as the natural cycle of the wave. The darkness (36) gives way to progress (35), and the individual **shares the wisdom gained** from navigating the transitions.
 
 ---
+
 ## Channel Formation and Dynamics
 
 **Gate 36 (Solar Plexus):** "I experience emotional crisis and turbulence as part of the wave."
@@ -68,6 +73,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 **Manifested (Emotional) Nature:** This is a **Manifestor channel**, but because it connects to the Solar Plexus, it must **wait through the emotional wave** before initiating or speaking. Manifesting while in emotional highs or lows leads to regret.
 
 ---
+
 ## Strategy, Authority, and Deconditioning
 
 **For Emotional Manifestors with 35-36:** **Inform before initiating change**, and **wait through the wave** before speaking or acting on emotional experiences. The crisis is real, but the emotional clarity comes only after the wave.
@@ -80,6 +86,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 **Deconditioning:** Learn that **crisis is part of the cycle, not a problem**. Wait through the wave before sharing the experience—what you learned will be far clearer after the emotions settle.
 
 ---
+
 ## Gene Keys and Cross-System Synthesis
 
 **Gate 35 Shadow (Hunger):** Insatiable craving for new experiences, never satisfied.
@@ -95,6 +102,7 @@ The keynote is **transitoriness**—the understanding that all experience is tem
 **Jungian Theme:** The **Crisis Archetype**—the descent into the underworld that transforms the psyche. Integration requires **embracing the dark night as teacher**.
 
 ---
+
 ## The Gift of Correctness
 
 When aligned (waiting through the wave, informing before initiating), the 35-36 individual becomes the **experiential teacher**—the one who has lived through many transitions, navigated many crises, and **speaks the emotional truth** that comes only from direct experience. They embody **Adventure and Humanity**, and ultimately **Boundlessness and Compassion**—infinite openness born from navigating all emotional terrains.

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Unexpected (2)
+
 ## Gates: 31/41/27/28 | Quarter of Civilization
 
 ### Ra's Keynote

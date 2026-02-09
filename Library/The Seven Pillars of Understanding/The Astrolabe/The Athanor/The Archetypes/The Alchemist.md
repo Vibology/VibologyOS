@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Jung CW 14 (Mysterium Coniunctionis), Edinger Ego and Archetype"
 grimoire_source: "Jung CW 9i, Jung CW 14, Edinger Ego and Archetype"
 ---
+
 # The Alchemist
 *Prince — The Integrated Totality*
 
 ---
+
 ## Archetypal Identity
 
 The Alchemist represents the archetypal **individuated wholeness**—the transcendent unification of all internal dualities (gender, race, spirit, matter) into unique, complete totality of being. This archetype embodies the revolutionary air of Aquarius: the capacity to break through conventional categories, to mutate consciousness through insight that has never existed before, to become fully oneself by refusing all limiting definitions.
@@ -29,6 +31,7 @@ In Jung's framework, The Self (which The Alchemist embodies) is the central arch
 The Alchemist appears when **individuation demands breakthrough**, when wholeness requires mutation, when the question becomes: "What limiting category must I shatter to become wholly myself?" This is the archetype of completed integration.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Alchemist appears when **individuation demands breakthrough**, when wholenes
 | Season | Mid-Winter (vision in darkness, revolutionary potential) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Aquarius Principle
@@ -66,6 +70,7 @@ In the Astrolabe system, The Alchemist stands as the destination: The Hero's jou
 > *Vibology Synthesis: The Alchemist appears when breakthrough into totality is required. Trust the insight emerging. Become what has never been. Integrate opposites others keep separate. You are not becoming someone else—you are becoming wholly yourself.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

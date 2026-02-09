@@ -8,6 +8,7 @@ source_verified: true
 verification_source: Definition.md, Centers entries, Blueprint entry
 status: comprehensive
 ---
+
 # The BodyGraph
 *Visual Map of Human Differentiation*
 

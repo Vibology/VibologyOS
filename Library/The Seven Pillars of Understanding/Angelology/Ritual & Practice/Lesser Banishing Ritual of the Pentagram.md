@@ -10,6 +10,7 @@ verification_date: 2026-02-06
 grimoire_source: "Golden Dawn materials, Regardie The Golden Dawn, Crowley Liber O"
 aliases: [LBRP, Lesser Banishing Ritual of the Pentagram]
 ---
+
 # Lesser Banishing Ritual of the Pentagram
 *Foundation Ritual in Western Esotericism — Purification and Protection*
 

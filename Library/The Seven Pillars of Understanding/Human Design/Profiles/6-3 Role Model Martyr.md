@@ -204,6 +204,7 @@ The 6/3 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 6/3
 
 1. **Stage 1 (0-30):** Embrace the chaos. You are gathering more experience than anyone else.

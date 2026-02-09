@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Golden Dawn materials, Heptameron, Book of Tobit, Qabalistic angel invocations"
 ---
+
 # Invocation of Raphael
 *Calling the Healer — Prayer for Divine Healing, Guidance, and Safe Passage*
 

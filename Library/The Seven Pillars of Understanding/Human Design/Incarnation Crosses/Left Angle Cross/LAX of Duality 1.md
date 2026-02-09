@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Duality (1)
+
 ## Gates: 20/34/37/40 | Quarter of Civilization
 
 ### Ra's Keynote

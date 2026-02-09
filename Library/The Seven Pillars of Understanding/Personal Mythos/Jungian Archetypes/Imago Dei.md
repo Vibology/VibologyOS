@@ -18,6 +18,7 @@ status: comprehensive
 # Imago Dei: The God-Image in the Human Psyche
 
 ## Overview
+
 ### Jung's Definition
 
 **Imago Dei** (Latin: "image of God") is Jung's term for the God-image—not God as theological reality, but **the psychological experience of the divine** as it manifests within the human psyche. It is an **autonomous archetypal content**, numinous and capable of overwhelming consciousness, that represents the experience of totality, transcendence, and the sacred.
@@ -269,6 +270,7 @@ Before the God-image is consciously integrated, it is **projected outward**:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 **The Imago Dei vs. Theological God:**

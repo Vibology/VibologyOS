@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Tension (4)
+
 ## Gates: 38/39/48/21 | Quarter of Mutation
 
 ### Ra's Keynote

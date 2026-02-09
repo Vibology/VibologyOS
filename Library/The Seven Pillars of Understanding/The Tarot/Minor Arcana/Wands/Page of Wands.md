@@ -14,6 +14,7 @@ element_primary: Earth
 element_secondary: Fire
 title: Princess of the Shining Flame, Rose of the Palace of Fire
 ---
+
 # Page of Wands
 *Princess of the Shining Flame, Rose of the Palace of Fire*
 
@@ -87,6 +88,7 @@ Bad news, unwelcome announcements, anecdotes without substance. Indecision—una
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Earth of Fire
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

@@ -20,6 +20,7 @@ psychological_task: Adaptation to collective, establishing social role
 **Individuation Stage 2 | Adolescence–30s | Alchemical Operation: Calcination**
 
 ## Overview
+
 ### Jung's Theory of the Persona
 
 In *Two Essays on Analytical Psychology* (CW 7) and *The Archetypes and the Collective Unconscious* (CW 9i), Jung defines the Persona as **the individual's system of adaptation to the world**—the mask worn to navigate society:
@@ -111,6 +112,7 @@ A well-formed Persona demonstrates:
 Adaptation, Social mask, Achievement, Competence, Role, Status, Reputation, Willpower, Ascent, Outer world mastery
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: The Persona as Necessary Compromise
 
 The Persona is derived from the Latin word for "mask" (the theatrical masks worn by actors in Roman drama). Jung borrowed the term to describe the **functional identity** we present to the world.

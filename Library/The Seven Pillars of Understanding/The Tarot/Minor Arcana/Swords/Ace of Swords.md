@@ -14,6 +14,7 @@ qabalistic_world: Yetzirah (Formative World)
 sephirah: Kether
 title: Root of the Powers of Air
 ---
+
 # Ace of Swords
 
 *The Root of the Powers of Air*
@@ -67,6 +68,7 @@ The key teaching: **The Ace of Swords is a power, not a verdict**. The mental fo
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

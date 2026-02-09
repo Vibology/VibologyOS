@@ -17,6 +17,7 @@ psychological_equivalent: Ego resistance to transformation; Shadow avoidance
 # Refusal of the Call
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Refusal of the Call represents the **ego's terror of death**—not literal death, but the death of the known self, the comfortable persona, the predictable life. In Campbell's topology[^1], this is Stage 3 of the monomyth, occurring immediately after [[The Call to Adventure]] has sounded. It marks the first major crisis point in the hero's departure from the [[The Ordinary World]].
@@ -180,6 +181,7 @@ Once the Refusal is overcome (through choice or force), integration demands:
 **The Refusal as Relational Test**: Who supports your growth? Who needs you to stay small? The Refusal clarifies your true allies.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Refusal as Crossroads
 
 The Refusal (Stage 3) is the **first major decision point** of Campbell's monomyth[^1]:
@@ -472,6 +474,7 @@ If the Refusal is overcome (by choice or by force), it confers irreplaceable gif
 - This is the final stage: [[Return with the Elixir]]—the wisdom you bring back is not just knowledge but *lived proof that Refusal can be overcome*.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Refusal: Fear of Inadequacy
 
 In patriarchal myth, the masculine Refusal often centers on **fear of unworthiness**:

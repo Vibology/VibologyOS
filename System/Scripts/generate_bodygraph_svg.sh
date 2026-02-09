@@ -42,7 +42,7 @@ fi
 SCRIPT_DIR="$(cd "$(dirname "${BASH_SOURCE[0]}")" && pwd)"
 VIBOLOGY_ROOT="$(cd "$SCRIPT_DIR/../.." && pwd)"
 
-# Generate bodygraph using chart_renderer directly (no kerykeion dependency)
+# Generate bodygraph using Cartographer's chart_renderer
 echo "Generating bodygraph.svg from humandesign.json..."
 cd "$VIBOLOGY_ROOT"
 
@@ -51,10 +51,10 @@ import json
 import sys
 from pathlib import Path
 
-# Add humandesign_api to path
-sys.path.insert(0, '$VIBOLOGY_ROOT/System/humandesign_api/src')
+# Add Cartographer to path
+sys.path.insert(0, '$VIBOLOGY_ROOT/System/Cartographer/src')
 
-from humandesign.services.chart_renderer import generate_bodygraph_image
+from cartographer.services.chart_renderer import generate_bodygraph_image
 
 # Load humandesign.json
 hd_file = Path('$TARGET_DIR') / 'humandesign.json'
@@ -78,7 +78,7 @@ chart_data = {
         'prs': {'Planets': hd_data['gates']['personality']},
         'des': {'Planets': hd_data['gates']['design']}
     },
-    'channels': hd_data.get('channels', [])
+    'channels': {'Channels': hd_data.get('channels', [])}
 }
 
 # Generate bodygraph as SVG (protocol format)

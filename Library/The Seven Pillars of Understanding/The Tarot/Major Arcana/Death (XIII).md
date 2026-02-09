@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Death (XIII)
 *The Child of the Great Transformers / The Lord of the Gate of Death*
 
@@ -59,6 +60,7 @@ The core teaching: **What must die, dies**. The only variable is whether you con
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Nun (נ) – The Fish That Sprouts
 
 **Nun** carries a dual etymology: it means "fish" (the creature of the depths, swimming in the unconscious waters) and also "to sprout" or "to grow" (the seed breaking through soil). This dual meaning encapsulates the paradox of Death: **to sprout, the seed must first rot**.

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of the Alpha (2)
+
 ## Gates: 41/31/44/24 | Quarter of Mutation
 
 ### Ra's Keynote

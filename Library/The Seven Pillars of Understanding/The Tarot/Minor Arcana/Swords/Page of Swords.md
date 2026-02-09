@@ -13,6 +13,7 @@ element: Air
 court_rank: Page
 elemental_formula: Earth of Air
 ---
+
 # Page of Swords
 
 *The Throne of the Ace of Air*
@@ -63,6 +64,7 @@ The key teaching: **The sword must be learned before it can be mastered**. The P
 ---
 
 ## Esoteric Interpretation
+
 ### The Elemental Formula: Earth of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's element.

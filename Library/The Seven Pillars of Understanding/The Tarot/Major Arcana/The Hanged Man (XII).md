@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Hanged Man (XII)
 *The Spirit of the Mighty Waters*
 
@@ -58,6 +59,7 @@ The core gift of The Hanged Man is this: **what cannot be reached by climbing mu
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Mem (מ) – The Maternal Waters
 
 **Mem** means "Water"—the element that dissolves all form, erases all boundary, returns all differentiation to oceanic unity. With a gematria value of **40**, Mem carries the symbolism of **trial and purification**: the 40 days of the Flood, the 40 years in the wilderness, the 40 days of Christ's temptation. It is the number of necessary ordeal—the time required for transformation to complete.

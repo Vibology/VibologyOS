@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Grace
+
 ## Gates: 22/47/11/12 | Quarter of Initiation
 
 ### Ra's Keynote

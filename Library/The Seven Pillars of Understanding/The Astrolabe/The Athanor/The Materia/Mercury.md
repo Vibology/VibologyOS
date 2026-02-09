@@ -13,10 +13,12 @@ verification_date: 2026-02-03
 verification_source: "Paracelsus Archidoxis; Jung CW 6, CW 13; Edinger Anatomy of the Psyche"
 grimoire_source: "Paracelsus Hermetic and Alchemical Writings, Jung CW 6 (Psychological Types), Jung CW 13 (Spirit Mercurius), Edinger Anatomy of the Psyche"
 ---
+
 # Mercury
 *The volatile principle — spirit that mediates between above and below, the fluid intelligence that connects opposites.*
 
 ---
+
 ## Alchemical Principle
 
 Mercury is the trickster of the *Tria Prima* — neither fully active like [[Sulphur]] nor fully fixed like [[Salt]], but the **mediating, transformative principle** that moves between all states. Alchemical Mercury is not the metal but *Mercurius philosophorum*, the philosophical spirit: volatile, elusive, capable of taking any form. It is called *spiritus* (spirit) because it moves freely between matter and consciousness, body and soul, earth and heaven (Paracelsus, *Archidoxis*)[^1].
@@ -26,6 +28,7 @@ Where Sulphur burns and Salt crystallizes, Mercury *flows*. It is the principle 
 In the Great Work, Mercury is both *solve* (dissolution) and the substance that emerges from dissolution — the water that dissolves the old form and the spirit that carries the essence forward. Without Mercury, [[Sulphur]] and [[Salt]] remain locked in opposition. With Mercury, transformation becomes possible. But Mercury is dangerous: it evaporates, slips away, poisons if not handled with precision. The alchemist must learn to *fix* Mercury without killing its fluidity — to give spirit a container without trapping it.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -47,6 +50,7 @@ Mercury is **Water** in its volatile aspect — not the dissolving water of [[Di
 > *Vibology Synthesis: Mercury appears when you need to mediate between opposites — conscious and unconscious, self and other, matter and meaning. It is the card of translation, of holding two truths simultaneously without collapsing into either. For a defined Solar Plexus (emotional authority), Mercury teaches that the wave itself IS the mediator — certainty and doubt are not enemies but the two poles between which clarity emerges. Mercury asks: can you hold the paradox long enough for the third thing to appear?*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

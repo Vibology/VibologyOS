@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Service (3)
+
 ## Gates: 18/17/52/58 | Quarter of Duality
 
 ### Ra's Keynote

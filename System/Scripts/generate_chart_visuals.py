@@ -26,21 +26,21 @@ import json
 import sys
 from pathlib import Path
 
-# Add humandesign_api to path
+# Add Cartographer to path
 SCRIPT_DIR = Path(__file__).parent
-HUMANDESIGN_API = SCRIPT_DIR.parent / 'humandesign_api' / 'src'
-sys.path.insert(0, str(HUMANDESIGN_API))
+CARTOGRAPHER_SRC = SCRIPT_DIR.parent / 'Cartographer' / 'src'
+sys.path.insert(0, str(CARTOGRAPHER_SRC))
 
 try:
-    from humandesign.services.chart_renderer import generate_bodygraph_image
+    from cartographer.services.chart_renderer import generate_bodygraph_image
 except ImportError:
-    print("Error: humandesign_api not found. Check path configuration.", file=sys.stderr)
+    print("Error: Cartographer not found. Check path configuration.", file=sys.stderr)
     sys.exit(1)
 
 try:
-    from kerykeion import AstrologicalSubject, KerykeionChartSVG
+    from cartographer.services.astro_renderer import render_natal_chart
 except ImportError:
-    print("Error: kerykeion not installed. Run: pip install kerykeion", file=sys.stderr)
+    print("Error: Cartographer astro_renderer not found.", file=sys.stderr)
     sys.exit(1)
 
 
@@ -73,7 +73,7 @@ def generate_bodygraph(output_dir: Path) -> bool:
             'prs': {'Planets': hd_data['gates']['personality']},
             'des': {'Planets': hd_data['gates']['design']}
         },
-        'channels': hd_data.get('channels', [])
+        'channels': {'Channels': hd_data.get('channels', [])}
     }
 
     # Generate bodygraph as SVG
@@ -94,7 +94,7 @@ def generate_bodygraph(output_dir: Path) -> bool:
 
 
 def generate_natal_chart(output_dir: Path) -> bool:
-    """Generate natal chart SVG from astrology.json."""
+    """Generate natal_chart.svg from astrology.json using Cartographer."""
     astro_file = output_dir / 'astrology.json'
 
     if not astro_file.exists():
@@ -107,8 +107,8 @@ def generate_natal_chart(output_dir: Path) -> bool:
 
     meta = astro_data['meta']
 
-    # Create Kerykeion subject
-    subject = AstrologicalSubject(
+    # Use Cartographer's astro_renderer (includes SF Pro font injection)
+    svg_bytes, _ = render_natal_chart(
         name=meta['name'],
         year=int(meta['birth_date'].split('-')[0]),
         month=int(meta['birth_date'].split('-')[1]),
@@ -117,39 +117,17 @@ def generate_natal_chart(output_dir: Path) -> bool:
         minute=int(meta['birth_time'].split(':')[1]),
         lat=meta['coordinates']['lat'],
         lng=meta['coordinates']['lng'],
-        city=meta.get('city'),
-        nation=meta.get('nation'),
-        tz_str=meta['timezone']
+        tz_str=meta['timezone'],
+        output_format='svg',
+        city=meta.get('city')
     )
 
-    # Kerykeion generates in current directory by default
-    # We need to temporarily change directory or move the file
-    original_cwd = Path.cwd()
+    output_file = output_dir / 'natal_chart.svg'
+    with open(output_file, 'wb') as f:
+        f.write(svg_bytes)
 
-    try:
-        # Generate natal chart (Kerykeion generates SVG by default)
-        # Note: Kerykeion generates in user's home directory by default
-        chart = KerykeionChartSVG(subject, chart_type="Natal")
-        chart.makeSVG()
-
-        # Kerykeion names the file: "{name} - Natal Chart.svg" in home directory
-        import os
-        home_dir = Path.home()
-        generated_file = home_dir / f"{meta['name']} - Natal Chart.svg"
-
-        # Move to output directory if generated elsewhere
-        if generated_file.exists():
-            target_file = output_dir / f"{meta['name']} - Natal Chart.svg"
-            generated_file.rename(target_file)
-            print(f"✓ Natal chart: {target_file.relative_to(original_cwd) if target_file.is_relative_to(original_cwd) else target_file}")
-            return True
-        else:
-            print(f"Error: Kerykeion did not generate expected file: {generated_file}", file=sys.stderr)
-            return False
-
-    finally:
-        # Restore original working directory
-        pass
+    print(f"✓ Natal chart: {output_file.relative_to(Path.cwd()) if output_file.is_relative_to(Path.cwd()) else output_file}")
+    return True
 
 
 def main():

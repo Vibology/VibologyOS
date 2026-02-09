@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Service (2)
+
 ## Gates: 52/58/17/18 | Quarter of Civilization
 
 ### Ra's Keynote

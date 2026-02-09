@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Obscuration (2)
+
 ## Gates: 61/62/50/3 | Quarter of Mutation
 
 ### Ra's Keynote

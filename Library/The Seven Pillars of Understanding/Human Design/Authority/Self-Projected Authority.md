@@ -11,16 +11,19 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (G Center Center source, Projectors only hierarchy, Truth through voice principle) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Self-Projected Authority
 *The Intelligence of the Voice*
 
 ---
+
 ## Ra's Definition
 **Self-Projected Authority** is defined by a **defined [[G Center]]** (Identity Center) connected to the [[Throat]] *without* any motors or higher authorities present (Solar Plexus, Sacral, Spleen, or Heart).[^1]
 
 Self-Projected Authority is **exclusive to [[Projector]]s**—it cannot appear in other Types.[^2]
 
 ---
+
 ## The Mechanics: Hearing Your Own Voice
 
 Self-Projected Authority operates through the **sound of your own voice**. Truth is not known internally through sensation, emotion, or instinct—it is **heard externally** through the act of speaking.
@@ -33,6 +36,7 @@ The G Center governs:[^3]
 When the G Center is connected to the Throat, **identity and direction are articulated**, and clarity emerges through *listening to what you say*.
 
 ---
+
 ## The Core Principle: "You Must Hear Yourself Speak"
 
 The defining characteristic of Self-Projected Authority is that **truth is revealed through articulation**:[^4]
@@ -43,6 +47,7 @@ The defining characteristic of Self-Projected Authority is that **truth is revea
 This is not "thinking out loud"—it is **self-recognition through sound**.
 
 ---
+
 ## Decision-Making Process
 
 ### 1. Wait for the Invitation (Projector Strategy)
@@ -69,6 +74,7 @@ Your truth is heard through:
 - The **recognition** that "this sounds right"
 
 ---
+
 ## Somatic Experience
 
 Individuals with Self-Projected Authority experience:
@@ -80,6 +86,7 @@ Individuals with Self-Projected Authority experience:
 The Self-Projected person is **hearing themselves**, not seeking advice. The other person is a mirror, not a guide.
 
 ---
+
 ## Interaction with Strategy
 
 Self-Projected Authority must be paired with [[Projector]] [[Strategy]]:
@@ -91,6 +98,7 @@ Self-Projected Authority must be paired with [[Projector]] [[Strategy]]:
 Strategy positions you correctly (the invitation); Authority reveals *what* is correct (your articulated truth).
 
 ---
+
 ## The Role of Sounding Boards
 
 Self-Projected Authority requires **trusted others** who can:
@@ -110,6 +118,7 @@ Self-Projected individuals must select sounding boards who:
 Incorrect sounding boards (those who advise, pressure, or project) distort the process.
 
 ---
+
 ## Compatible Types
 
 Self-Projected Authority appears **only** in:
@@ -118,6 +127,7 @@ Self-Projected Authority appears **only** in:
 This is a **rare configuration** within the Projector population.
 
 ---
+
 ## Common Pitfalls
 
 ### 1. Seeking Advice Instead of Sounding Boards
@@ -137,6 +147,7 @@ The mind may disagree with what you hear yourself say. Trusting the *sound* over
 If your sounding board is invested in a particular outcome, their presence will distort your clarity. Choose neutral witnesses.
 
 ---
+
 ## The Gift of Self-Projected Authority
 
 Individuals with Self-Projected Authority bring:
@@ -158,7 +169,9 @@ ed Identity** — They know who they are through speaking
 - **Tarot:** [[The High Priestess (II)]] (inner knowing articulated), [[The Hierophant (V)]] (speaking truth)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with Self-Projected Authority
 
 1. **Speak to know.** You cannot hear your truth in silence; articulate your thoughts aloud.

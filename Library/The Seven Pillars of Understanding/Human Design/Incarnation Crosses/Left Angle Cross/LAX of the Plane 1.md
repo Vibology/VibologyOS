@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of the Plane (1)
+
 ## Gates: 36/6/10/15 | Quarter of Initiation
 
 ### Ra's Keynote

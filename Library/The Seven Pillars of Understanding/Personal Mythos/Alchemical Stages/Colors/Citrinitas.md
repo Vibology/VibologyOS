@@ -28,6 +28,7 @@ psychological_function: Wisdom, ripening, spiritualization, philosophical outloo
 ---
 
 ## Overview
+
 ### Jungian Definition
 
 The **Citrinitas** is Jung's most overlooked alchemical stage, yet he emphasized its critical importance as the transition from lunar (unconscious) to solar (conscious) wisdom.[^1] In *Psychology and Alchemy* (CW 12), Jung identifies Citrinitas as the stage where the **Wise Old Man or Wise Old Woman archetype** emerges from the depths:
@@ -253,6 +254,7 @@ The Citrinitas has a distinct feeling—not the darkness of Nigredo, not the coo
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 For Jung, the **Citrinitas is the stage where the Self begins to emerge consciously**, but not yet in its full red totality (Rubedo). It is the **transition from lunar to solar consciousness**—from the unconscious, reflective wisdom of the Anima/Animus (Albedo) to the conscious, active wisdom of the Self.

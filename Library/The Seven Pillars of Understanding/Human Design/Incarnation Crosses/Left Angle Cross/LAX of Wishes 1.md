@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Wishes (1)
+
 ## Gates: 3/50/41/31 | Quarter of Initiation
 
 ### Ra's Keynote

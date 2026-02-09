@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # The Ordinary World
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Ordinary World represents the **ego-persona equilibrium** before the disruptive summons of the [[The Self]]. In Campbell's topology[^1], this is Stage 1 of the monomyth—the opening frame that establishes the hero's mundane existence, the baseline against which all transformation will be measured. It is the world of known quantities, established roles, and unconscious habits.
@@ -186,6 +187,7 @@ After completing a hero's journey (or multiple journeys), perspective shifts:
 **Solitude**: For introverts and mystics, the Ordinary World may be solitude—comfortable but isolating. The Call will often demand **engagement** (with people, with the world, with risk).
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Ordinary World as Narrative Foundation
 
 The Ordinary World (Stage 1) establishes the **baseline reality** against which all subsequent transformation is measured. Without it, the journey lacks stakes.
@@ -439,6 +441,7 @@ The Ordinary World, for all its limitations, offers irreplaceable gifts:
 - This is the hero's ultimate gift: recognizing that the Ordinary World and the Special World are **one**—the sacred whole.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Ordinary World: Duty and Restlessness
 
 In patriarchal myth, the masculine Ordinary World is often structured around **obligation**:

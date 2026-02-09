@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Need
+
 ## Gates: 19/33/1/2 | Quarter of Mutation
 
 ### Ra's Keynote

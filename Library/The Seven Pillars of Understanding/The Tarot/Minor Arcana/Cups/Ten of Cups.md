@@ -17,6 +17,7 @@ planetary: Mars in Pisces
 decan: Pisces 20°-30° (3rd Decan)
 title: Lord of Perfected Success
 ---
+
 # Ten of Cups
 *The Lord of Perfected Success*
 
@@ -84,6 +85,7 @@ In practical readings, the Ten of Cups indicates:
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Malkuth as the Ten
 
 **Malkuth** is the tenth Sephirah, titled **Kingdom** (*Malkuth* in Hebrew). It is the final station on the Tree of Life—the point where all the higher forces crystallize into material reality. Malkuth is the body, the earth, the physical world, the Kingdom where spirit finally *lands*.

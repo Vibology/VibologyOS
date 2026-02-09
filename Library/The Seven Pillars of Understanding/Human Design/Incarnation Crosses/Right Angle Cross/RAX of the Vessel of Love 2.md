@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Vessel of Love (2)
+
 ## Gates: 15/10/25/46 | Quarter of Civilization
 
 ### Ra's Keynote

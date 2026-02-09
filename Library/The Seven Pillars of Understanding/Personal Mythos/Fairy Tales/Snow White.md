@@ -160,6 +160,7 @@ The Prince's **request to take the coffin** (to gaze upon Snow White eternally) 
 ---
 
 ## Jungian Analysis
+
 ### The Mother-Daughter Conflict
 
 At the tale's core is the **archetypal mother-daughter split**, the moment when the aging mother perceives the maturing daughter not as continuation but as **replacement**. This is not personal psychology but **archetypal envy**: the old order sensing the new order's arrival, the winter queen raging against the coming spring.
@@ -299,6 +300,7 @@ Psychologically, this represents **the moment when the psyche is ready to releas
 ---
 
 ## Shadow Dynamics
+
 ### The Feminine Journey
 
 For young women, **Snow White** is the **mother-wound tale**:
@@ -396,6 +398,7 @@ The tale asks mothers: **Can you celebrate your daughter's blossoming, or does i
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **For Women:**

@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Beginnings
+
 ## Gates: 53/54/42/32 | Quarter of Civilization
 
 ### Ra's Keynote

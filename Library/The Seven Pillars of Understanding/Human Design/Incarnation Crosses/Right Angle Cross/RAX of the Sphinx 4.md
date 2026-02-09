@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Sphinx (4)
+
 ## Gates: 1/2/7/13 | Quarter of Mutation
 
 ### Ra's Keynote

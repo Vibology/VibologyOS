@@ -9,10 +9,12 @@ verification_date: 2026-02-07
 grimoire_source: "Brennan's Hellenistic Astrology, Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Greene's The Astrology of Fate"
 verification_notes: "Pillar overview file. Complete Traditional vs. Modern Astrology section added (verified against Brennan's comprehensive comparison). Traditional framework: Stoic determinism, prediction of external events, essential dignities, sect, whole sign houses, benefic/malefic distinction. Modern framework: Jungian psychology, character analysis, synchronicity, quadrant houses, free will emphasis. Synthesis section bridges both traditions per Brennan + Greene. Cross-references expanded to include planets, signs, houses, Jungian concepts."
 ---
+
 # Astrology
 *The Language of Planetary Timing and Cosmic Positioning*
 
 ---
+
 ## Archetypal Essence
 **Astrology** is the ancient practice of reading meaning from celestial patterns—a symbolic language that correlates the positions and movements of planets, luminaries, and stars with terrestrial events and human consciousness. At its core, astrology operates on the principle of **"as above, so below"**—the Hermetic axiom that the macrocosm (celestial sphere) mirrors the microcosm (individual soul, collective culture, earthly events).
 
@@ -27,6 +29,7 @@ The natal chart—a snapshot of the sky at the moment of birth—is not a determ
 Astrology is one of humanity's oldest sciences, practiced for over 4,000 years across Mesopotamia, Egypt, Greece, India, Persia, China, and the Islamic Golden Age. It was the foundation of astronomy, medicine, and natural philosophy—only in the post-Enlightenment West was it severed from "legitimate" knowledge. Yet it endures because it speaks to something astronomy cannot: the **meaning** of the heavens, not merely their mechanics.
 
 ---
+
 ## The Language of the Cosmos
 
 Astrology is a **symbolic language** composed of three primary elements:
@@ -45,6 +48,7 @@ These three components interact dynamically:
 The chart is read not as isolated symbols but as a **living mandala**—a unified field where every element modifies and qualifies every other.
 
 ---
+
 ## Traditional vs. Modern Astrology
 
 Astrology is not a monolithic system—it has evolved through distinct historical phases, and modern practitioners draw from multiple traditions:

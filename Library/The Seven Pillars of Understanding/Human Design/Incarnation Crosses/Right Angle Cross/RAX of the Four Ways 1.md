@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Four Ways (1)
+
 ## Gates: 24/44/19/33 | Quarter of Initiation
 
 ### Ra's Keynote

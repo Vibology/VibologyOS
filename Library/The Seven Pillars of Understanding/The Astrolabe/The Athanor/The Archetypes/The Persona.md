@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 7 (Two Essays), Jung CW 9i (Archetypes), Campbell Hero with a Thousand Faces"
 grimoire_source: "Jung CW 7, Jung CW 9i, Campbell Hero with a Thousand Faces"
 ---
+
 # The Persona
 *Ziggy Stardust — The Constructed Mask*
 
 ---
+
 ## Archetypal Identity
 
 The Persona represents the archetypal **theatrical self**—the artificially constructed identity designed for performance, the mask worn to navigate the material world while shielding true essence. This archetype embodies the radiant creativity of Leo: the capacity to imagine an ideal self and then become it, to withdraw into fantasy and emerge as star.
@@ -29,6 +31,7 @@ In Jung's framework, The Persona is **the mask we wear for social adaptation**�
 The Persona appears when **identity is performance**, when the question becomes: "Who do I need to be for this stage? What mask serves this moment?" This is the archetype of conscious self-construction.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Persona appears when **identity is performance**, when the question becomes:
 | Season | Mid-Summer (peak expression, maximum visibility) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Leo Principle
@@ -66,6 +70,7 @@ The integration requires **conscious relationship**: wearing the Persona skillfu
 > *Vibology Synthesis: The Persona appears when identity must be performed rather than revealed. Withdraw into imagination. Design the character the moment requires. Then perform brilliantly, with full commitment. But never forget: the mask is tool, not truth. Wear it consciously. Remove it gracefully.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

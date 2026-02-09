@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # Tests, Allies, and Enemies
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 Tests, Allies, and Enemies constitute the **preparation phase** of the heroic journey—Stage 6 in Campbell's monomyth[^1]. Having crossed the Threshold, the hero enters what Campbell calls the **Road of Trials**, a gauntlet of challenges that train consciousness for the supreme crisis ahead: [[The Ordeal]].
@@ -239,6 +240,7 @@ Once you have navigated this stage successfully (and "success" does not mean vic
 **The Test of Loyalty**: This stage imposes a brutal test—**who remains when the cost is high?** Many who proclaimed alliance will vanish when the journey demands sacrifice. This is not betrayal; it is revelation. Let them go without bitterness.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: Tests, Allies, and Enemies as Skill-Building
 
 In Campbell's 12-stage monomyth, Tests, Allies, and Enemies (Stage 6) follows the [[Crossing the First Threshold]] (Stage 5) and precedes [[Approach to the Inmost Cave]] (Stage 7). Its placement is structural:
@@ -478,6 +480,7 @@ If navigated successfully, Tests, Allies, and Enemies confers irreplaceable gift
 - You are now **prepared**. The tests trained you; the allies stabilized you; the enemies clarified your purpose. When the Ordeal arrives, you will face it—not because you are fearless, but because you are **ready**.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Tests: Combat and Competition
 
 In patriarchal myth, tests often manifest as **battle** or **conquest**:

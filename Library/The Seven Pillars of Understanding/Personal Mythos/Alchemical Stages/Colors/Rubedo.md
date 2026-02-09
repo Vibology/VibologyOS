@@ -28,6 +28,7 @@ psychological_function: Incarnation, embodiment, wisdom made flesh, living the p
 ---
 
 ## Overview
+
 ### Jungian Definition
 
 The **Rubedo** is Jung's alchemical culmination—the realization of the Self and the lived experience of wholeness.[^1] In *Psychology and Alchemy* (CW 12), Jung identifies the Rubedo as the final stage where spirit is "fixed" in matter, where the transcendent function becomes embodied in daily life:
@@ -276,6 +277,7 @@ The Rubedo is unmistakable—but not dramatic. It feels like *rightness*:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 For Jung, the **Rubedo is the realization of the Self**—the goal of individuation. In *Psychology and Alchemy* (CW 12) and *Mysterium Coniunctionis* (CW 14), he analyzes the Rubedo as the alchemists' symbol for the ultimate union of opposites and the manifestation of totality.

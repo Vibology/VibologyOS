@@ -13,10 +13,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 12, CW 14; Edinger Ego and Archetype; von Franz Alchemy"
 grimoire_source: "Jung CW 12, Jung CW 14, Edinger Ego and Archetype, von Franz Alchemy, Fabricius Alchemy"
 ---
+
 # The Philosopher's Stone
 *The *lapis philosophorum* — not a thing to be found but a state to be lived, the completion of the Great Work.*
 
 ---
+
 ## Alchemical Principle
 
 The Philosopher's Stone is alchemy's ultimate symbol and ultimate paradox. The texts promise that it transmutes base metals into gold, cures all disease, grants immortality — yet no alchemist who claimed to possess it could produce it on demand, and no two descriptions of it agree. Some said it was red, others white, others golden; some said it was a powder, others a liquid, others a stone the size of a hazelnut. The truth is simpler and more devastating: **the Philosopher's Stone is not an object**. It is a *state of being* — the Self realized, spirit fixed in matter, the *opus* completed (Jung, CW 12, §334)[^1].
@@ -26,6 +28,7 @@ The stone is called *lapis* (stone) because it endures — it is the incorruptib
 In the Great Work's arc, the Philosopher's Stone represents the endpoint: [[Prima Materia]] has been separated into [[Sulphur]], [[Mercury]], and [[Salt]], purified through the seven operations, and reunited into a form that transcends its origin. The stone is not any one of the Tria Prima but their *integration* — soul, spirit, and body reconciled into a single living whole. It is the Self, no longer split into conscious and unconscious, but fully embodied and awake.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -53,6 +56,7 @@ Most traditions identify the *Red Stone* as the true Philosopher's Stone — the
 > *Vibology Synthesis: The Philosopher's Stone is not a future attainment but a present recognition. For a 4/6 profile (Opportunist/Role Model), the stone's teaching is especially precise: the 4th line builds the network through which wisdom is shared; the 6th line lives *on the roof*, embodying what has been learned. The stone is not private enlightenment but *lived example* — wisdom made visible, the Self incarnate. When this card appears, ask: am I seeking the stone as an object to possess, or am I willing to become what the stone represents? The work is the worker.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

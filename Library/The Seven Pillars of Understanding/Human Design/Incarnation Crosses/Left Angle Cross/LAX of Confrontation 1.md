@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Confrontation (1)
+
 ## Gates: 45/26/36/6 | Quarter of Civilization
 
 ### Ra's Keynote

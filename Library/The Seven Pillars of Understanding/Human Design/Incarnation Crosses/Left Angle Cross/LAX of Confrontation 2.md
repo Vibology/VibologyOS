@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Confrontation (2)
+
 ## Gates: 26/45/6/36 | Quarter of Mutation
 
 ### Ra's Keynote

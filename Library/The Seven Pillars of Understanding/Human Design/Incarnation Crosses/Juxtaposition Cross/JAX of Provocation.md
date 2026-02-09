@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Provocation
+
 ## Gates: 39/38/51/57 | Quarter of Civilization
 
 ### Ra's Keynote

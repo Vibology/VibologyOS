@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Tower (XVI)
 *The Lord of the Hosts of the Mighty / The House of God*
 
@@ -58,6 +59,7 @@ The core teaching: **The Tower does not destroy what is true. She destroys what 
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Peh (פ) – The Mouth That Speaks Truth
 
 **Peh** means "mouth"—the orifice for speech, breath, nourishment, and the utterance of the divine Word. With a gematria value of **80** (the word *Peh* itself totals **85**), Peh resonates with the number of **maturity, completion through cycles**, and the power of vibration.

@@ -13,6 +13,7 @@ myth_origin: Ancient Egypt
 central_figures: Ra, Osiris, Isis, Horus, Set, Thoth, Anubis
 core_theme: Resurrection and cosmic order
 ---
+
 # Egyptian Mythology
 
 ## Overview
@@ -636,6 +637,7 @@ Even the ego aligned with the Self must periodically **die and be reborn**—des
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Egyptian mythology, for Jung, represents the **Self's continuity through transformation**—the recognition that consciousness does not end with ego death but transmutes into new forms.

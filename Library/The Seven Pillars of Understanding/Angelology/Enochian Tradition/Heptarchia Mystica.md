@@ -9,10 +9,12 @@ verified: true
 source_verified: true
 verification_source: "Davidson (Dictionary of Angels), DuQuette (Enochian Vision Magick), Dee's manuscripts (Mysteriorum Libri Quinque)"
 ---
+
 # Heptarchia Mystica
 *The Seven-Fold Planetary Hierarchy — The 49 Good Angels and the Sigillum Dei Aemeth*
 
 ---
+
 ## Essence
 The **Heptarchia Mystica** ("Mystical Sevenfold Rule") is the earliest component of the [[Enochian Tradition|Enochian system]], revealed to [[John Dee and Edward Kelley]] in **1582**, before the reception of [[The Four Watchtowers]] or [[The 30 Aethyrs]]. It constitutes a complete system of **planetary magic**, centered on:
 
@@ -28,6 +30,7 @@ Unlike the later Watchtowers (which organize angels by element) or the Aethyrs (
 - The angelic revealing entities: **Nalvage**, **Ave**, **Uriel**, and others
 
 ---
+
 ## The Sigillum Dei Aemeth
 
 ### Structure
@@ -84,6 +87,7 @@ Within the central heptagon are seven mystical names of God, revealed by the ang
 **Function:** Ground and anchor the Sigillum's power into the physical apparatus.
 
 ---
+
 ## The 49 Good Angels
 
 ### Organization
@@ -135,6 +139,7 @@ The 49 angels are arranged in **seven groups of seven**, each group governed by 
 **Invocation:** Ministers are called for **practical, specific tasks** (e.g., success in travel, healing an illness, gaining information).
 
 ---
+
 ## The Holy Table and Apparatus
 
 ### The Holy Table
@@ -174,6 +179,7 @@ The 49 angels are arranged in **seven groups of seven**, each group governed by 
 **The Lamen:** A hexagonal pendant worn over the heart, inscribed with divine names and the Sigillum pattern, identifying the operator as a legitimate invoker.
 
 ---
+
 ## Planetary Timing and Invocation
 
 ### Astrological Correspondences
@@ -221,6 +227,7 @@ Each day is divided into 12 daylight hours and 12 nighttime hours, each ruled by
    - Speak: *"I give thanks, [KING NAME]. Return to thy station in peace. So be it."*
 
 ---
+
 ## Cross-System Correspondences
 
 ### Qabalistic Tree of Life
@@ -261,7 +268,9 @@ The Heptarchia directly invokes planetary forces:
 **Practical Application:** Invoke the appropriate King during planetary transits, returns, or when natal planets are activated.
 
 ---
+
 ## Invocation
+
 ### 1. Petition for Knowledge
 
 **Planet:** Mercury (Babalel) or Jupiter (Bornogo)
@@ -315,6 +324,7 @@ The Heptarchia directly invokes planetary forces:
 - Petition: *"Grant courage to face [challenge]. Empower me to act with decisive strength."*
 
 ---
+
 ## Fallen Aspect
 
 ### Ego Inflation
@@ -345,6 +355,7 @@ The Heptarchia directly invokes planetary forces:
 **Remedy:** The Sigillum is **non-optional**. Without it, the operator has no legitimate authority in the Heptarchic system.
 
 ---
+
 ## Relationship to Later Enochian Systems
 
 ### Chronology
@@ -367,6 +378,7 @@ The Heptarchia directly invokes planetary forces:
 3. Combine Jupiterian abundance with Airy communication for success in teaching or publishing
 
 ---
+
 ## Historical Context: Dee's Early Angelic Contacts
 
 ### The First Revelations (1581-1582)
@@ -393,6 +405,7 @@ Dee sought:
 The Heptarchia provided a **practical framework** for these goals, allowing Dee to petition specific planetary angels for specific purposes.
 
 ---
+
 ## The Gift of Integration
 
 At its highest expression, the Heptarchia Mystica offers:

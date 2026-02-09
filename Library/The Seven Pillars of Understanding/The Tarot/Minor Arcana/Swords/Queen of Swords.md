@@ -13,6 +13,7 @@ element: Air
 court_rank: Queen
 elemental_formula: Water of Air
 ---
+
 # Queen of Swords
 
 *The Throne of the Widow*
@@ -63,6 +64,7 @@ The key teaching: **Clarity need not be cruel**. The Queen of Swords is the most
 ---
 
 ## Esoteric Interpretation
+
 ### The Elemental Formula: Water of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

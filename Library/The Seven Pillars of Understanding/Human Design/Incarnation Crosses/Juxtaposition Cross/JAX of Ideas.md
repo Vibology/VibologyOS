@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Ideas
+
 ## Gates: 11/12/46/25 | Quarter of Mutation
 
 ### Ra's Keynote

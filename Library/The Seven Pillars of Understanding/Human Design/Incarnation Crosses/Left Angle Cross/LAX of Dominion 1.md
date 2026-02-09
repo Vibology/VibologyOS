@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Dominion (1)
+
 ## Gates: 63/64/26/45 | Quarter of Initiation
 
 ### Ra's Keynote

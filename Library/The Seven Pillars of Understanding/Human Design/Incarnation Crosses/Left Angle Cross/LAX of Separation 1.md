@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Separation (1)
+
 ## Gates: 35/5/22/47 | Quarter of Civilization
 
 ### Ra's Keynote

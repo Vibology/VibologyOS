@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (private enemies, imprisonment, self-undoing, great cattle), cadent classification, Pisces correspondence, and Saturn's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 12th House
 *Dissolution and the Return to Source*
 
 ---
+
 ## Archetypal Theme
 
 The **12th House** is the **"Evil Daemon"** (traditional name)—the place of hidden enemies, self-undoing, imprisonment, and all that dissolves form. But it is also the house of **mysticism**, spiritual retreat, and the direct encounter with the numinous. It is **Pisces's domain**: the ocean to which all rivers return, the dissolution that precedes rebirth.

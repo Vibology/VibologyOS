@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (long journeys, religion, learning, clergy), cadent classification, Sagittarius correspondence, and Sun's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 9th House
 *Philosophy and the Quest for Meaning*
 
 ---
+
 ## Archetypal Theme
 
 The **9th House** governs **higher learning**—not facts (3rd House), but *meaning*. This is the house of philosophy, religion, long journeys, and the search for the pattern that orders chaos. It is **Sagittarius's domain**: the ascent to the mountaintop where vision becomes available.

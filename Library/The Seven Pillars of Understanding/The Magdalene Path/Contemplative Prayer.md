@@ -9,10 +9,12 @@ source_verified: true
 verification_source: Multiple traditional sources (Teresa of Ávila, John of the Cross, Thomas Keating, Cloud of Unknowing, Philokalia)
 verification_notes: Comprehensive contemplative prayer framework compiled from Christian mystical tradition (Desert Fathers, Carmelite mystics, Trappist Centering Prayer, Eastern Orthodox Hesychasm) with Magdalene Path integration. Three major methods detailed with practical instruction.
 ---
+
 # Contemplative Prayer
 *Silent Prayer — Resting in the Divine Presence*
 
 ---
+
 ## Essence
 
 **Contemplative Prayer** is the Christian mystical practice of **wordless, receptive presence** before God—silence not as absence of noise, but as **openness to the Divine**. Unlike petitionary prayer (asking for things) or intercessory prayer (praying for others), contemplative prayer seeks **union with God** through surrender of thought, word, and image.
@@ -32,6 +34,7 @@ This is the prayer of **being, not doing**. It is the practice of **letting be**
 Contemplative prayer is not "advanced" practice reserved for monks. It is the **foundational discipline** for anyone walking The Magdalene Path—because the path is **intimacy with the Divine**, and intimacy requires presence.
 
 ---
+
 ## Historical Development
 
 ### The Desert Fathers and Mothers (3rd–5th Century)
@@ -132,6 +135,7 @@ In the 1970s, **Thomas Keating**, **Basil Pennington**, and **William Meninger**
 **Centering Prayer is the most accessible entry point for contemporary practitioners.**
 
 ---
+
 ## The Three Major Forms
 
 ### 1. Centering Prayer (Modern Trappist Method)
@@ -392,6 +396,7 @@ In Eastern Orthodox theology, the goal is **theosis** (deification)—becoming b
 - **Do not mix prayers frequently** — Choose one form and commit to it for months; switching weekly dilutes the practice
 
 ---
+
 ## Stages of Contemplative Prayer
 
 Across all Christian mystical traditions, contemplative prayer follows a **three-stage arc** (sometimes with additional subdivisions):
@@ -448,6 +453,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 **[[The Eight Boughs of Ascent|Magdalene Path correspondence]]:** The Zenith—sanctification, "I AM," completion
 
 ---
+
 ## Integration with Daily Rhythm
 
 **Where does contemplative prayer fit in [[Practices and the Lunar Cycle|The Four Stations]]?**
@@ -503,6 +509,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 - Repeat 3 times, then return to activity
 
 ---
+
 ## Obstacles and Difficulties
 
 ### 1. Distractions and the "Waterfall of Thoughts"
@@ -600,6 +607,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 **See:** [[Discernment of Spirits#John of the Cross Dark Night and False Consolations]] for full framework
 
 ---
+
 ## Fruits and Discernment: How to Know It's Working
 
 **Contemplative prayer does not produce immediate "results." The transformation is gradual, subterranean, and often invisible to you (others notice before you do).**
@@ -632,6 +640,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 **If you notice false fruits:** Return to humility. Revisit [[Kenosis - The Path of Self-Emptying|kenosis]]. Consider whether you're using prayer as **spiritual bypassing**.
 
 ---
+
 ## The Magdalene Path Integration
 
 **How contemplative prayer connects to the core practices:**
@@ -685,6 +694,7 @@ Across all Christian mystical traditions, contemplative prayer follows a **three
 - [[Individuation Process]] (Personal Mythos) — Contemplative prayer as path to Self
 
 ---
+
 ## Practitioner Counsel: Start Simple
 
 **If you're new to contemplative prayer:**

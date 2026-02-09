@@ -135,9 +135,9 @@ bash System/Scripts/generate_bodygraph_svg.sh [folder]
 4. **Human Design** - Individual genetic imprinting and mechanical navigation
 5. **The Magdalene Path** - The unifying core; vertical soul ascent
 6. **Tarot** - Qabalistic pathways and archetypal progression (includes Qabalah)
-7. **The Window** - Contemporary (1980s) archetypal resonance (includes I-Ching)
+7. **The Astrolabe** - Contemporary (1980s) archetypal resonance (includes I-Ching)
 
-**Integrated frameworks (not separate pillars):** Qabalah (Tarot/Angelology), I-Ching (Window), Gene Keys (HD ecosystem), Jungian Psychology (Personal Mythos)
+**Integrated frameworks (not separate pillars):** Qabalah (Tarot/Angelology), I-Ching (Astrolabe), Gene Keys (HD ecosystem), Jungian Psychology (Personal Mythos)
 
 ## 8. Directory Structure
 

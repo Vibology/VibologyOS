@@ -17,11 +17,13 @@ planetary: Mercury in Taurus
 decan: First decan of Taurus (0°-10°)
 title: Lord of Material Trouble
 ---
+
 # Five of Pentacles
 
 *Mercury in Taurus - The first decan of Taurus*
 
 ---
+
 ## Traditional Symbolism
 According to Waite's *Pictorial Key to the Tarot*, the Five of Pentacles signifies **the card of material trouble above all others**. [^1] More specifically: **loss of profession, loss of money, monetary anxiety, toil, and suffering**. Waite notes: "Two mendicants in a snowstorm pass a lighted casement." The figures are impoverished, injured, cold—and they walk *past* the sanctuary without entering.
 The Golden Dawn titles this card the **"Lord of Material Trouble"** [^2] and attributes it to **Mercury in Taurus** [^3], the first decan of the fixed earth sign. This is the planet of communication, commerce, and movement (Mercury) afflicted in the sign of stability, security, and physical comfort (Taurus). The result is **disrupted security**—resources lost, stability undermined, the body or livelihood in crisis. Mercury's restless energy destabilizes Taurus' need for groundedness.
@@ -29,6 +31,7 @@ The card represents **material hardship**—poverty (literal or spiritual), illn
 This is a profoundly difficult card. In questions of finances, health, or security, it indicates *real crisis*—job loss, illness, poverty, homelessness. This is not metaphorical suffering; this is material reality at its harshest. However, the card also teaches a spiritual lesson: **sometimes the help you need is closer than you think**. The test is whether you can see it, whether you can humble yourself to ask for it, whether you can believe you deserve it.
 When the Five of Pentacles appears **reversed**, Waite identifies meanings of **disorder, chaos, ruin, discord, profligacy**. [^4] The reversal can indicate two dynamics: either the crisis *deepens* (what was unstable collapses entirely), or help *begins to arrive* (the figures finally see the church, the door opens, the crisis starts to resolve). The Golden Dawn reversal suggests "chaos brought by too much change; inability to stabilize; ruin through neglect or poor planning." [^5]
 The key teaching: **Material loss reveals what is real**. The Five of Pentacles strips away the fortress of the Four, the competence of the Three, the security of the Two, the gift of the Ace. You are left with nothing but yourself—and the question: *What will you do now? Will you walk past the door, or will you knock?*
+
 ---
 
 ## Qabalistic Position
@@ -48,14 +51,17 @@ The key teaching: **Material loss reveals what is real**. The Five of Pentacles 
 | **Dates** | April 21 - April 30 (Sun in early Taurus) |
 
 ---
+
 ## Divination Use
 **Upright:** Material trouble, monetary anxiety, loss of profession or income. Poverty (literal or spiritual), illness, physical hardship. The experience of being excluded from abundance, of being on the outside while others are warm and secure inside. Homelessness (literal or metaphorical), unemployment, disability that prevents work. The dark night of material loss. But also: help is available—you are walking past the door. The sanctuary is there; you do not see it or do not believe you deserve it. The spiritual test of faith in scarcity.
 *Keywords:* Hardship, poverty, loss, illness, exclusion, material crisis, unemployment, anxiety, walking past help, spiritual test, humility needed.
 **Reversed (per Waite):** Disorder, chaos, ruin, discord, profligacy. The crisis deepens—what was unstable collapses entirely. Or, conversely, the reversal can indicate *recovery beginning*—help arrives, the door opens, the figures finally see the sanctuary. Can also indicate reckless spending that *creates* poverty, or the refusal of help due to pride.
 *Keywords:* Deepening crisis, chaos, ruin, help arrives (finally), recovery begins, pride preventing assistance, reckless spending.
+
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Geburah as Severity
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Geburah* in Hebrew). It is the principle of *judgment*, *correction*, *strength*, and *the removal of what is diseased or unsustainable*. Where Chesed (the fourth Sephirah) is mercy and abundance, Geburah is *severity* and *restriction*.
@@ -284,8 +290,10 @@ The Five teaches: **Sometimes your suffering is not about lack but about percept
 The invitation of the Five is to *turn around*, to *knock*, to *ask*. The door may not open immediately. The help may not be what you expected. But the act of asking is itself the beginning of healing. The moment you stop walking past and start walking *toward*—the journey changes.
 
 ---
+
 ## Reading Examples / Case Studies
 *TBD*
+
 ---
 
 ## Cross-References

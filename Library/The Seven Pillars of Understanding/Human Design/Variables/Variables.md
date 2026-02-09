@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Variables
 *The Four Transformations of consciousness*
 
@@ -370,6 +371,7 @@ When lived correctly, Variables offer the **ultimate differentiation**—the ful
 ---
 
 ## Correspondences
+
 ### Jungian Psychology
 
 Variables resonate with Jung's concept of **psychological types** (Introversion/Extroversion, Thinking/Feeling, Sensation/Intuition). The Strategic/Receptive distinction parallels **Extraversion** (outward focus) and **Introversion** (inward depth).

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Penetration (2)
+
 ## Gates: 53/54/51/57 | Quarter of Civilization
 
 ### Ra's Keynote

@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Hero: The Slayer of Dragons and the Ego's Awakening
 
 ## Overview
+
 ### Jung's Definition
 
 The Hero is one of Jung's most central archetypal patterns, representing the emergence of ego-consciousness from the embrace of the unconscious. In *Symbols of Transformation* (CW 5, par. 259), Jung writes:
@@ -335,6 +336,7 @@ The Hero projects onto others and is projected upon:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Hero occupies a **foundational position** in Jung's structural model of the psyche:

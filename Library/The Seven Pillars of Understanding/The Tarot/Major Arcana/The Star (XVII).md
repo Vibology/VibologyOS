@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Star (XVII)
 *The Daughter of the Firmament / The Dweller Between the Waters*
 
@@ -59,6 +60,7 @@ The core teaching: **The Star does not promise that suffering will end. She prom
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Tzaddi (צ) – The Fish Hook
 
 **Tzaddi** means "fish hook"—the tool that draws the hidden to the surface, that catches what swims in the depths. With a gematria value of **90**, Tzaddi resonates with the number of **completion through tens** (9 x 10), the perfection of the manifest world, the fulfillment of cycles.

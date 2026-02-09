@@ -13,15 +13,18 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages CORRECTED to 57%/43%, Identity Center classification, Self-Projected Authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # G Center
 *The Compass for Soul Destiny*
 
 ---
+
 ## Biological Correlation
 
 The **G Center** corresponds to the **liver and blood**[^1], the organs responsible for detoxification, life-sustaining circulation, and maintaining the body's chemical identity. The liver processes and integrates; the blood carries identity throughout the system.
 
 ---
+
 ## Ra's Definition
 The G Center is the **identity center**[^2]—the seat of:
 - **Who you are** (fixed or fluid identity)
@@ -32,6 +35,7 @@ The G Center is the **identity center**[^2]—the seat of:
 - **43% of people** have an undefined G Center (fluid identity and adaptable direction)[^1]
 
 ---
+
 ## Themes & Functions
 
 The G Center governs:
@@ -43,6 +47,7 @@ The G Center governs:
 The G Center is the **home of the Self**—not the ego (which resides in the [[Heart]]), but the deeper, archetypal identity.
 
 ---
+
 ## Defined G Center: Fixed Identity
 
 ### Mechanics
@@ -65,6 +70,7 @@ When the G Center is defined:
 - **Pressure to explain** — The defined G may struggle to articulate *why* they know who they are
 
 ---
+
 ## Undefined G Center: Fluid Identity
 
 ### Mechanics
@@ -87,6 +93,7 @@ When the G Center is undefined:
 - **Not-Self conditioning** — Trying to "find themselves" when they are designed to be fluid
 
 ---
+
 ## Not-Self Theme: Chasing Direction and Love
 
 The **Not-Self** expression of the undefined G Center is:
@@ -112,6 +119,7 @@ The undefined G must learn that **fluidity is not deficiency**—they are design
 > — Bunnell, *Living Your Design Student Manual*, pp. 87–88
 
 ---
+
 ## The Magnetic Monopole
 
 The G Center is the **home of the Magnetic Monopole**, a geometric force that:
@@ -122,6 +130,7 @@ The G Center is the **home of the Magnetic Monopole**, a geometric force that:
 The Magnetic Monopole is the invisible hand guiding your movement through life. You cannot control it; you can only align with it through [[Strategy]] and [[Authority]].
 
 ---
+
 ## Relationship to Type & Authority
 
 The G Center is the source of **[[Self-Projected Authority]]**[^3] (exclusive to [[Projector]]s):
@@ -133,6 +142,7 @@ For all other Types, the G Center:
 - **Provides a sense of self and direction** that informs but does not dictate
 
 ---
+
 ## Cross-System Synthesis: Tarot
 
 ### Judgement (Key 20): The Identity Pivot
@@ -201,7 +211,9 @@ For Projectors with Self-Projected Authority (G-to-Throat), Judgement's trumpet 
 - **Reference:** See `System/Reference/Tarot in Human Design.pdf` for complete pathway context
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined G Center
 
 1. **Own your fixed identity.** You are designed to know who you are—this is not arrogance.

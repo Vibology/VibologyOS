@@ -177,6 +177,7 @@ In trauma recovery, it is the **moment the denial breaks**—the survivor stops 
 ---
 
 ## Jungian Analysis
+
 ### The Critical Distinction: Beast vs. Bluebeard
 
 **This is the most important psychological teaching of the Bluebeard tale**: **Not all shadow is redeemable. Not all darkness is unlived potential. Some forces are predatory, parasitic, and must be destroyed, not integrated.**
@@ -419,6 +420,7 @@ Though traditionally a tale for women, men can encounter Bluebeard as the **inte
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **Recognizing Bluebeard in Relationships:**

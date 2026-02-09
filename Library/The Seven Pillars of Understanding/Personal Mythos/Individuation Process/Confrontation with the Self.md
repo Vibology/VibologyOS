@@ -20,6 +20,7 @@ psychological_task: Shifting center from ego to Self, recognizing ego as servant
 **Individuation Stage 5 | Midlife–Elder 50–70 | Alchemical Operation: Rubedo**
 
 ## Overview
+
 ### Jung's Definition: The Supraordinate Personality
 
 In *Two Essays on Analytical Psychology* (CW 7), *Aion* (CW 9ii), and *Psychology and Alchemy* (CW 12), Jung defines the Self as **the totality of the psyche**—a reality **supraordinate to the conscious ego**:
@@ -120,6 +121,7 @@ A well-integrated Ego-Self relationship demonstrates:
 Self, Wholeness, Totality, Mandala, God-image, Ego-Self Axis, Teleology, Destiny, Meaning, Rubedo, Coniunctio, Inflation, Psychosis, Surrender
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: The Self as God-Image
 
 Jung's most controversial claim: **The Self is empirically indistinguishable from the image of God in the psyche.**

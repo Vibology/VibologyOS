@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of the Now
+
 ## Gates: 20/34/37/40 | Quarter of Civilization
 
 ### Ra's Keynote

@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 12"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 12 (Psychology and Alchemy)"
 ---
+
 # Fermentation
 *Living spirit enters dead matter — the fifth operation, quickening what was inert into life.*
 
 ---
+
 ## The Operation
 
 **Fermentation** (*fermentatio*) is the operation of resurrection. After [[Conjunction]] united the purified opposites, the product remains inert — potential but not yet alive. Fermentation introduces *living spirit* into the dead mass, and decay becomes transformation. In the laboratory, this is the process by which yeast or bacterial cultures convert sugars into alcohol or bread into risen dough: death becomes the precondition for new life (Edinger, *Anatomy*, p. 221)[^1].
@@ -27,6 +29,7 @@ Psychologically, fermentation is **creative breakthrough** — the moment when u
 The operation belongs to both **Air** (the living breath, *pneuma*, spirit) and **Fire** (the warmth that allows fermentation to proceed). Where conjunction brought opposites together, fermentation *animates* the union. The dead matter of the conjunction begins to glow — this is [[Citrinitas]], the yellowing, the first hint of gold. The white stone becomes luminous. The philosopher's child begins to breathe.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Fermentation operates at the transition from [[Albedo]] (whitening) to [[Citrini
 > *Vibology Synthesis: Fermentation appears when the work quickens. For a 4/6 profile (Opportunist/Role Model), fermentation is the transition from the roof (6th line observation) to embodied modeling — the moment when what was understood becomes *lived*. The 6th line spends 30 years observing; fermentation is what happens when observation becomes incarnation, when the lesson descends from the roof into the body and begins to breathe. When this card appears, ask: what understanding is ready to become living practice? What intellectual knowing wants to quicken into embodied truth? Fermentation does not arrive through effort; it arrives through readiness.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

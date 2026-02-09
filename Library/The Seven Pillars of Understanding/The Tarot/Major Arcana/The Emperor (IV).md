@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Emperor (IV)
 *The Sun of the Morning, Chief Among the Mighty*
 
 ---
+
 ## Traditional Symbolism
 
 When The Emperor appears ***upright*** in a reading, it speaks to the realm of established authority and structured power. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *stability, power, protection, realization,* and *aid from a great person*[^1]. He represents authority, will, and the "lordship of thought"—the capacity to impose rational order upon chaotic circumstances.
@@ -37,6 +39,7 @@ The reversed Emperor speaks to authority corrupted or authority abdicated. "Bene
 The key insight is that The Emperor always deals with **the right use of power**—upright or reversed, he governs the relationship between authority and service. The question is: does your power serve life, or does it serve ego?
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

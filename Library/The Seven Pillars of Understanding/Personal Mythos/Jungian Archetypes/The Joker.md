@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Joker: The Trickster, Sacred Fool, and Lord of Crossroads
 
 ## Overview
+
 ### Jung's Definition
 
 The archetype Jung termed the **Trickster** appears throughout his work as one of the most ancient and enduring patterns in the collective unconscious. In *The Archetypes and the Collective Unconscious* (CW 9i, par. 472), Jung provides the definitive statement:
@@ -320,6 +321,7 @@ The Joker is frequently **projected** onto others—especially in romantic, crea
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Trickster occupies a unique position in Jung's structural model—he is **not a fixed content** but a **dynamic function.**

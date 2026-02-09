@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Campbell Hero with a Thousand Faces, von Franz Shadow and Evil"
 grimoire_source: "Jung CW 9i, Campbell Hero with a Thousand Faces, von Franz Shadow and Evil in Fairy Tales"
 ---
+
 # The Nightmare
 *Freddy Krueger — The Gatekeeper of the Unconscious*
 
 ---
+
 ## Archetypal Identity
 
 The Nightmare represents the archetypal **gatekeeper between worlds**—the provocative tester who guards the boundary between conscious and unconscious, waking and dreaming, safety and transformation. This archetype embodies the dissolving waters of Pisces: the capacity to test through obstruction, to challenge readiness through confrontation, to guard the threshold that only the prepared may cross.
@@ -29,6 +31,7 @@ In Jung's framework, The Nightmare corresponds to the **psychic resistance that 
 The Nightmare appears when **readiness must be tested**, when obstruction serves evolution, when the question becomes: "What am I being provoked to face before I can proceed?" This is the archetype of necessary challenge.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Nightmare appears when **readiness must be tested**, when obstruction serves
 | Season | Late Winter (transition toward spring, final test before rebirth) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Pisces Principle
@@ -66,6 +70,7 @@ Jung observed the same pattern in dreams: as consciousness approaches unconsciou
 > *Vibology Synthesis: The Nightmare appears when transformation requires testing. You are approaching threshold you're not yet ready to cross. Do not force through. Turn inward. Ask: "What readiness am I being asked to demonstrate?" The guardian serves by testing.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

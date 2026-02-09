@@ -16,6 +16,7 @@ planetary: Jupiter in Gemini
 decan: First decan of Gemini (0-10 degrees)
 title: Lord of Shortened Force
 ---
+
 # Eight of Swords
 
 *Lord of Shortened Force*
@@ -69,6 +70,7 @@ The key teaching: **The mind that believes itself trapped becomes the trap**. Th
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Hod in Yetzirah
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew). It represents the principle of *intellect*—systematic thought, pattern recognition, communication, the analytical function of the mind.

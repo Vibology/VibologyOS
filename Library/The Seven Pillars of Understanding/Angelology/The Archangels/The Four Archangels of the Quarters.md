@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Golden Dawn materials, Heptameron (Peter de Abano), Hebraic amulet traditions, Enochian Watchtowers, Ezekiel 1"
 ---
+
 # The Four Archangels of the Quarters
 *Guardians of the Elemental Directions — The Sacred Mandala of Protection*
 

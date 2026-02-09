@@ -9,21 +9,23 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Overview of 4 Strategies verified against Grimoire with inline citations. Educational/synthesis content clearly distinguished."
 ---
+
 # Strategy
 
 ---
 
 
-
 *The Geometry of Correct Movement*
 
 ---
+
 ## Ra's Definition
 **Strategy** is the practical tool for living your unique design without resistance. It is not a philosophy or aspiration but a **mechanical law**[^1]—the specific way your Type is designed to move through the world in alignment with its correct geometry.
 
 Strategy aligns your vehicle (the BodyGraph) with its role in the totality. When followed correctly, it rewards you with your Type's **Signature** (peace, satisfaction, success, or surprise). When abandoned, it signals incorrectness through your **Not-Self Theme** (anger, frustration, bitterness, or disappointment).
 
 ---
+
 ## The Four Strategies
 
 Each [[Types]] has a unique Strategy:
@@ -36,6 +38,7 @@ Each [[Types]] has a unique Strategy:
 | [[Reflector]] | To Wait a Full Lunar Cycle | Achieve clarity by sampling all perspectives over 28 days |
 
 ---
+
 ## The Mechanics of Each Strategy
 
 ### To Inform (Manifestor)
@@ -91,6 +94,7 @@ When the Reflector waits 28 days:
 The Reflector's gift is **lunar objectivity**—they are not invested in a fixed outcome, so they can see what is truly correct without bias.
 
 ---
+
 ## Strategy as Alchemy
 
 Strategy is the **outer law** that governs how you engage with the world. It is not about *what* you decide (that is [[Authority]]), but about *how* you enter into decisions and opportunities.
@@ -107,6 +111,7 @@ Together, they form the **dual key** to living in alignment:
 2. **Authority reveals the truth** of what is correct within that positioning
 
 ---
+
 ## Strategy and the Mind
 
 One of Strategy's primary functions is to **liberate the mind** from decision-making. The mind is designed to be an **Outer Authority**—a tool for observing, articulating, and offering perspective to others—not an Inner Authority that decides for the self.[^5]
@@ -122,6 +127,7 @@ When Strategy is abandoned:
 - The Not-Self Theme emerges as somatic feedback
 
 ---
+
 ## The Signature: Proof of Alignment
 
 Each Type's **Signature** is the experiential confirmation that Strategy and Authority are being honored:
@@ -134,6 +140,7 @@ Each Type's **Signature** is the experiential confirmation that Strategy and Aut
 The Signature is not a goal to chase but a **natural byproduct** of living according to your design.
 
 ---
+
 ## The Not-Self Theme: Feedback Loop
 
 Each Type's **Not-Self Theme** is the somatic alarm that Strategy has been abandoned:
@@ -146,6 +153,7 @@ Each Type's **Not-Self Theme** is the somatic alarm that Strategy has been aband
 The Not-Self Theme is not failure—it is **feedback**, a signal to return to Strategy and Authority.
 
 ---
+
 ## Strategy and Conditioning
 
 **Conditioning** is the process by which the mind learns to override the body's intelligence. From birth, the world teaches us to:
@@ -182,6 +190,7 @@ Each Strategy contradicts societal conditioning:
 Strategy is not moral; it is **mechanical**. The world's strategies work for some designs and fail for others. The question is not "Which strategy is better?" but "Which strategy is correct *for this vehicle*?"
 
 ---
+
 ## Strategy as Sacred Discipline
 
 Following Strategy requires:
@@ -202,7 +211,9 @@ Strategy is the spiritual practice of **alignment**—not through transcendence 
 - **Tarot:** [[The Chariot (VII)]] (alignment of vehicle and will) and [[Temperance (XIV)]] (right timing)
 
 ---
+
 ## Strategy Integration
+
 ### For All Types
 
 1. **Learn your Strategy.** It is the first key to living your design.

@@ -14,6 +14,7 @@ central_figures: Olodumare, Eshu, Orunmila, Oshun, Shango, Yemoja, Oya, Anansi
 core_theme: Survival through syncretism, ancestral continuity, threshold consciousness
 cultural_notice: LIVING SPIRITUAL TRADITION - Practice respect and proper attribution
 ---
+
 # African Diaspora Mythology
 
 ## Overview
@@ -590,6 +591,7 @@ Unlike Greek or Norse mythology—which are **historical religions no longer act
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Jung's **collective unconscious** applies perfectly to diaspora traditions—but with a caveat. Jung's work largely ignored African systems, operating within Eurocentric bias. Yet the **structures are profoundly Jungian**:

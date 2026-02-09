@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Assimilation
+
 ## Gates: 23/43/30/29 | Quarter of Civilization
 
 ### Ra's Keynote

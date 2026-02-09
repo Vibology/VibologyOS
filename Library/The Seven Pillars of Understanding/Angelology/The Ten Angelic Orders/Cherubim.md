@@ -18,10 +18,12 @@ function: Wisdom, inter-dimensional movement, whirling forces
 human_faculty: Wisdom and intellectual brilliance
 hd_center: Ajna Center
 ---
+
 # Cherubim
 *Second Order of the Nine Angelic Hierarchies | First Triad: The Counselors*
 
 ---
+
 ## Correspondences
 The **Cherubim** (Hebrew: *Kerubim*, from Akkadian *karibu*; Qabalistic choir name: *Auphanim* - "Wheels" or "Whirling Forces") constitute the **second order** of the celestial hierarchy, dwelling in the **First Triad** alongside the [[Seraphim]] and [[Thrones]]. Where the Seraphim burn with pure love and primal fire, the Cherubim *know*—they are the repositories of **divine wisdom**, the architects of sacred knowledge, and the whirling intelligences who mediate between the formless light of [[Kether]] and the structured understanding of [[Binah]].
 
@@ -75,6 +77,7 @@ In **Human Design**, this is the **Ajna Center**—the center of mental processi
 To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not mere knowledge (data), but the *pattern-seeing* that reveals how all knowledge interconnects.
 
 ---
+
 ## Core Correspondences
 
 | Attribute | Correspondence |
@@ -95,7 +98,9 @@ To cultivate Cherubic consciousness is to develop **wisdom** (*Chokmah*)—not m
 | **Jungian Archetype** | The Wise Old Man, the Sage, the pattern-seeing Self |
 
 ---
+
 ## Invocation
+
 ### Meditation and Contemplation
 
 To meditate on the Cherubim is to cultivate **the mind that sees patterns**—not the discursive, linear mind (ego-consciousness), but the **archetypal mind** that perceives the whirling wheels of causation, synchronicity, and cosmic interconnection.
@@ -180,6 +185,7 @@ To integrate Cherubic consciousness, one must:
 - Guardians of sacred threshold
 
 ---
+
 ## The Celestial Hierarchy Deep Dive
 
 ### Position in the First Triad
@@ -228,6 +234,7 @@ The Cherubim perform an essential **cosmic function**: they are the **first medi
 Without the Cherubim, divine wisdom would remain locked in the inaccessible unity of Kether. The Cherubim are the **key** that unlocks the treasure-house of divine knowledge and makes it available (through descending hierarchies) to human consciousness.
 
 ---
+
 ## Qabalistic Integration
 
 ### Chokmah on the Tree of Life
@@ -291,6 +298,7 @@ When invoking Chokmah in ritual or meditation, one works with:
 The color **blue** is significant—it is the color of *sky* and *water*, both of which represent the **formless potential** from which all forms emerge. Blue is spaciousness, openness, the womb of possibility.
 
 ---
+
 ## Biblical and Scriptural Foundation
 
 ### Ezekiel 1 and 10: The Vision of the Merkabah
@@ -363,6 +371,7 @@ Solomon constructs two massive Cherubim of olive wood overlaid with gold for the
 These colossal figures (ten cubits = approximately 15 feet tall) form a **canopy** over the Ark, a **sacred enclosure** where the divine presence dwells. Their wings touching creates a **circuit**, a flow of divine energy.
 
 ---
+
 ## Iconography and Symbolism
 
 ### Traditional Depictions
@@ -424,6 +433,7 @@ Authentic depictions (Romanesque sculpture, Byzantine mosaics) show:
 - **Positioned around the throne of Christ** (echoing Ezekiel's vision)
 
 ---
+
 ## Function in Divine Economy
 
 ### Cosmic Role as First Triad
@@ -458,6 +468,7 @@ The Cherubim govern this wheel, ensuring that:
 To work with the Cherubim is to work with **cyclical time**—not the illusion of linear progress but the spiral of eternal return, where each cycle is both repetition and renewal.
 
 ---
+
 ## Human Consciousness Parallel
 
 ### Ajna Center: The Mind That Sees Patterns
@@ -514,6 +525,7 @@ True Cherubic wisdom is **humble**—it knows that all knowledge is a *gift*, an
 To cultivate Cherubic consciousness is to become a **clear conduit**—the mind that sees patterns without claiming them, that shares wisdom without attachment to credit.
 
 ---
+
 ## Mythological and Cross-Tradition Parallels
 
 ### Greek: The Tetramorphs
@@ -565,6 +577,7 @@ In Gnostic cosmology, the **Aeons** are divine emanations that mediate between t
 The Gnostic concept of **Sophia** (Wisdom) directly parallels **Chokmah**—both represent the divine intelligence that overflows from the Source.
 
 ---
+
 ## Jungian and Psychological Dimension
 
 ### Archetypes of the Collective Unconscious
@@ -608,6 +621,7 @@ This manifests as:
 True Cherubic wisdom is **grounded**—it sees patterns but does not cling to them. It knows but does not dominate. It shares freely without needing to be recognized as the source.
 
 ---
+
 ## Fallen Aspect
 
 ### Leviathan: The Fallen Cherub
@@ -656,7 +670,9 @@ Another shadow is **mental paralysis**—the Ajna Center so overwhelmed by infor
 The Cherubim's wheels turn, but they turn *in harmony with divine will*. The distortion is wheels that spin endlessly without direction—overthinking, second-guessing, unable to act.
 
 ---
+
 ## Contemplative Practice
+
 ### Cultivation of Cherubic Consciousness
 
 How does one cultivate relationship with the Cherubim and integrate their intelligence?
@@ -776,6 +792,7 @@ How do you know when Cherubic intelligence is active?
 The **flaming sword** of the Cherubim in Genesis 3:24 is not punishment—it is **protection**. If you approach sacred knowledge with inflation or impure motive, you will be "burned." The Cherubim ensure that only those with proper preparation and intention receive the fullness of divine wisdom.
 
 ---
+
 ## The Gift of Integration
 
 ### Capacity That Emerges When Cherubic Wisdom Is Integrated

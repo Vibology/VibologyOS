@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 8), Atom and Archetype: The Pauli/Jung Letters"
 ---
+
 # Synchronicity
 *Meaningful Coincidence — The Acausal Connecting Principle*
 

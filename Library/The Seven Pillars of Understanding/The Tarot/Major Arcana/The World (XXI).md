@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The World (XXI)
 *The Great One of the Night of Time*
 
@@ -58,6 +59,7 @@ The core teaching: **The World is not the destination. It is the pause before th
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Tau (ת) – The Cross / The Seal
 
 **Tau** is the **final letter** of the Hebrew alphabet—the last, the omega, the seal that closes the circle. With a gematria value of **400** (the largest single-letter value in Hebrew), Tau represents **completion through manifestation**, the fullness of form, the end of the cycle.

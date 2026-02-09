@@ -8,10 +8,12 @@ source_verified: true
 verification_source: Esoteric Grimoire
 category: Archetype
 ---
+
 # Mary Magdalene - Apostle and Beloved
 *Witness, Anointer, Beloved, and Apostle to the Apostles*
 
 ---
+
 ## Core Teaching
 
 **Mary Magdalene** stands at the intersection of history and archetype—a flesh-and-blood woman who walked with Jesus and a **timeless symbol** of the soul's journey to divine union. She is:
@@ -29,6 +31,7 @@ category: Archetype
 Mary is not an object of worship but a **model**—the one who has walked [[The Magdalene Path]] completely. By studying her story (canonical and gnostic), we learn the **mechanics** of soul ascent: radical presence, anointing (healing touch), kenosis (witnessing death without fleeing), recognition (seeing the Risen Christ), and proclamation (carrying the message).
 
 ---
+
 ## Gospel Foundation
 
 ### The Biblical Confusion
@@ -66,6 +69,7 @@ While historically false, the "penitent whore" myth **paradoxically preserved** 
 In 1969, the **Roman Catholic Church** officially separated Mary Magdalene from the "sinful woman" in its liturgical calendar. However, the cultural damage was done—1,400 years of conflation cannot be undone by decree.
 
 ---
+
 ## The Canonical Gospels: The Witness
 
 ### The Seven Demons (Luke 8:1-3)
@@ -147,6 +151,7 @@ Mary is commissioned to **announce the Good News** to the apostles—thus earnin
 **Parallel:** This is [[The Eight Boughs of Ascent|the Zenith]]—the resurrection into the Primal State, followed by the return to ordinary life to serve.
 
 ---
+
 ## The Wisdom Gospels: The Beloved
 
 ### The Gospel of Mary (2nd Century, Berlin Codex)
@@ -237,6 +242,7 @@ Found in Nag Hammadi Codex II,2, the Gospel of Thomas is considered one of the e
 **The Teaching:** Only the **Single One** (ihidaya)—internally whole, masculine and feminine united—can "enter the Kingdom" (Bridal Chamber, Zenith).
 
 ---
+
 ## Mary as Archetype
 
 ### The Watchtower (Magdal-eder)
@@ -297,6 +303,7 @@ Mary Magdalene embodies this archetype:
 **Application:** The soul on the Magdalene path is **Sophia in exile**—you have fallen into material density (Base), you must gather yourself (Lower Astral purification), and you ascend through love (Zenith).
 
 ---
+
 ## The Alchemical Feminine
 
 ### Not Biological, But Archetypal
@@ -320,6 +327,7 @@ Mary stands between:
 She is the **mediator**, the one who translates gnosis into language, vision into proclamation.
 
 ---
+
 ## The Gift of Mary Magdalene
 
 **For Women:**
@@ -343,6 +351,7 @@ Mary is the **model of the path**:
 5. **Proclamation** - Sharing gnosis, serving the whole
 
 ---
+
 ---
 
 ## Cross-References

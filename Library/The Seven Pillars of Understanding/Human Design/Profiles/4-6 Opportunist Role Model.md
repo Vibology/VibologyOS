@@ -187,6 +187,7 @@ The 4/6 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 4/6
 
 1. **Stage 1 (0-30):** Experiment with networking. Broken connections are necessary discernment.

@@ -247,6 +247,7 @@ For this reason, wise communities value their Reflectors—not as participants i
 ---
 
 ## Strategy Integration
+
 ### For Reflectors
 
 1. **Wait the full 28 days for major decisions.** Don't let pressure compress your timeline.

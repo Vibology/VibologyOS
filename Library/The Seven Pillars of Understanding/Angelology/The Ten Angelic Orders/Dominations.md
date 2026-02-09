@@ -17,10 +17,12 @@ function: Regulation of angelic duties, divine sovereignty, expansion
 human_faculty: Sovereignty over one's own life
 hd_center: G-Center
 ---
+
 # Dominations
 *The Fourth Order of Angels — Benevolent Sovereigns, Regulators of Divine Governance, Custodians of Mercy*
 
 ---
+
 ## Correspondences
 The **Dominations** (*Chashmalim*) are the fourth order in the angelic hierarchy and the **first order of the Second Triad**. Where the First Triad (Seraphim, Cherubim, Thrones) dwells in direct contemplation of God, the Second Triad **governs the cosmos**—applying divine law, distributing power, and regulating the flow of divine will through creation. The Dominations stand at the threshold of this transition, receiving the cosmic law established by the [[Thrones]] and **translating it into governance**.
 
@@ -37,6 +39,7 @@ In the Qabalistic tradition, the Dominations inhabit **[[Chesed]]** (Mercy), the
 To encounter Domination consciousness is to experience **benevolent authority**—the presence that says, *"I am sovereign, and therefore you, too, may be sovereign. I am free, and therefore I grant you freedom."* They are the majesty of God made manifest as governance, the divine right that is not tyranny but *loving stewardship*.
 
 ---
+
 ## Core Correspondences
 
 | **Category**           | **Attribution**                                      |
@@ -59,6 +62,7 @@ To encounter Domination consciousness is to experience **benevolent authority**�
 | **I-Ching**            | Hexagram 26 (Ta Ch'u/Great Accumulating)             |
 
 ---
+
 ## Biblical and Scriptural Foundation
 
 The Dominations are explicitly named in the New Testament as one of the celestial hierarchies, though their function is described more through theological implication than direct narrative appearance.[^1]
@@ -96,6 +100,7 @@ The biblical tradition emphasizes the Dominations as:
 To invoke the Dominations is to invoke **right relationship with authority**—recognizing when authority serves the divine order and when it becomes tyrannical perversion.
 
 ---
+
 ## Iconography and Symbolism
 
 ### Traditional Depictions
@@ -123,6 +128,7 @@ Some depictions show the Dominations holding both a **sword** (justice, discrimi
 The Dominations are **majesty embodied**—not the majesty of ego or tyranny, but the majesty of divine order made manifest as loving governance.
 
 ---
+
 ## The Celestial Hierarchy: Dominations in Context
 
 ### Position in the Second Triad
@@ -162,6 +168,7 @@ The Dominations **regulate the Virtues and Powers**—assigning them their tasks
 The Dominations are the **divine bureaucracy**—not in the pejorative sense of soulless administration, but in the sacred sense of *right order*, *just distribution*, *benevolent stewardship*.
 
 ---
+
 ## Qabalistic Integration: Chesed on the Tree of Life
 
 The Dominations inhabit **[[Chesed]]**, the fourth Sephira on the Tree of Life. To understand the Dominations is to understand Chesed.
@@ -214,6 +221,7 @@ In the Qabalistic Four Worlds, the Dominations manifest differently:
 To work with the Dominations is to work across all four worlds—invoking the archetype of sovereignty (Atziluth), aligning with Tzadkiel's righteousness (Briah), cooperating with the Chashmalim's regulation (Yetzirah), and embodying just leadership (Assiah).
 
 ---
+
 ## Function in the Divine Economy
 
 ### The Cosmic Role of the Dominations
@@ -244,6 +252,7 @@ The Dominations teach that **true sovereignty is not control but liberation**. T
 This is the Domination gift: the recognition that **you are sovereign over your own life**—not in the egoic sense of "I do what I want," but in the spiritual sense of "I align my will with divine will, and therefore I am free."
 
 ---
+
 ## Human Consciousness Parallel: The G-Center
 
 In **[[Human Design]]**, the Dominations correspond to the **[[G Center|G-Center]]**—the center of identity, love, and direction.
@@ -305,6 +314,7 @@ To work with Domination consciousness through the G-Center:
 The G-Center is the **human microcosm of Domination function**—the seat of sovereignty, the throne from which the self governs its own life.
 
 ---
+
 ## Planetary Correspondence: Jupiter
 
 The Dominations are associated with **[[Jupiter ♃]]**, the planet of expansion, benevolence, sovereignty, and abundance.
@@ -341,6 +351,7 @@ Jupiter transits mark periods of **expansion, opportunity, and blessing**—mome
 To work with Jupiter is to work with the Dominations—to recognize that **authority is meant to bless, not oppress**, that **expansion serves the soul**, and that **sovereignty is the birthright of all beings**.
 
 ---
+
 ## Mythological and Cross-Tradition Parallels
 
 The Domination function—**benevolent sovereignty, regulation of duties, expansion, and rightful authority**—appears across world mythologies and spiritual traditions.
@@ -378,6 +389,7 @@ Across traditions, the Domination archetype appears as:
 The Dominations are not a uniquely Christian or Qabalistic concept—they are the **universal archetype of rightful sovereignty and benevolent governance**.
 
 ---
+
 ## Jungian and Psychological Dimension
 
 ### The Dominations as the Archetypal Sovereign
@@ -427,6 +439,7 @@ To work with the Dominations psychologically is to cultivate:
 - **The inner sovereign** — The part of the psyche that knows its worth and does not require external validation
 
 ---
+
 ## Fallen Aspect
 
 Where there is angelic light, there is also the shadow—the distortion or perversion of the angelic function.
@@ -480,6 +493,7 @@ The true sovereign does not need to control others because he has mastered himse
 Not all "kindness" serves. Learn to withhold blessing when it would enable dysfunction, and to bestow blessing when it empowers growth.
 
 ---
+
 ## Invocation
 
 ### Meditation on Chesed
@@ -546,6 +560,7 @@ Once per lunar cycle (Full Moon), list:
 This is Domination work—learning to regulate the flow of divine abundance with wisdom.
 
 ---
+
 ## The Gift of Integration
 
 When Domination consciousness is integrated into the psyche, the gift is:

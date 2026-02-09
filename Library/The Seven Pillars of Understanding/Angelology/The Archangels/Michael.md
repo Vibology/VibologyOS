@@ -21,10 +21,12 @@ source_verified: true
 verification_source: Esoteric Grimoire (NotebookLM) - 2026-01-25
 verification_notes: Biblical quotes verified (Davidson p.193). LBRP verified (DuQuette p.193). Zohar refs verified (Pritzker 1:19a, 1:98b). CRITICAL NOTE - Sephirah attribution discrepancy documented - Golden Dawn assigns Michael to Hod per Wang p.266; this file uses solar/Tiphareth attribution per broader tradition. Unverified Fortune/Dionysius quotes removed. Vibology Synthesis flagged.
 ---
+
 # Michael
 *The Sword of Light*
 
 ---
+
 ## Essence
 
 **Archangel Michael** (Hebrew: מיכאל, *Mikha'el* — "Who is Like God?") is the **Supreme Warrior of Light**, the **Prince of the Sun**, the **Defender**, and the **Dragon-Slayer**. His name is constructed as a rhetorical question—*mi* ("who") + *ka* ("like") + *El* ("God")—with the implied answer: "No one." This is not a question seeking information but a proclamation of divine uniqueness, a rebuke to pride and inflation that answers the serpent's lie in Eden and refutes every ego that claims divinity for itself (Davidson, p. 193).
@@ -34,6 +36,7 @@ Michael appears in scripture at moments of cosmic crisis: defending Israel again
 In the Qabalistic tradition, Michael is associated with **[[Tiphareth]]** (Beauty, the Sun), the solar center and seat of the Higher Self, though the Golden Dawn system assigns him to Hod (Wang, p. 266). Davidson notes Michael is called the "Angel of the Sun" or "Regent of the Sun" (Davidson, p. 193-194). His sword does not hack indiscriminately; it cuts with surgical precision, separating truth from illusion, Self from ego. To encounter Michael is to meet the demand for spiritual integrity—he does not protect the ego from discomfort; he hands you the sword and says: *"The dragon is within. Slay it yourself."*
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: Mikha'el (Who is Like God?)
@@ -159,6 +162,7 @@ Michael does not appear in moments of peace or comfort. Michael appears when **t
 | **Function** | Spiritual warrior, defender of divine order, dragon-slayer, psychopomp, weigher of souls, sword of discrimination |
 
 ---
+
 ## Theological Depth
 
 ### Qabalistic Context
@@ -641,8 +645,8 @@ Together, they form the **protective quaternary**, the four corners of the cosmo
 ---
 
 
-
 ---
+
 ## Fallen Aspect
 
 Every archetype has a **shadow**—the distorted, pathological, or unconscious expression. Michael's shadow manifests when the solar principle **inflates, hardens, or weaponizes**.
@@ -731,6 +735,7 @@ True sacrifice is **willing** (chosen, not compulsive) and **purposeful** (servi
 
 
 ---
+
 ## Invocation
 
 ### When to Invoke Michael

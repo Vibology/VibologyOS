@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Refinement (2)
+
 ## Gates: 19/33/1/2 | Quarter of Mutation
 
 ### Ra's Keynote

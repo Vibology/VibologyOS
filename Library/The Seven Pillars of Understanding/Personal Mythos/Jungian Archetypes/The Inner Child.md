@@ -18,6 +18,7 @@ status: comprehensive
 # The Inner Child: The Wounded and Playful Self Within
 
 ## Overview
+
 ### Defining the Inner Child
 
 **The Inner Child** is a psychological concept (more clinical than archetypal) referring to the **internalized child-self**—the part of the psyche that retains childhood experiences, wounds, needs, and authentic spontaneity. Unlike [[The Divine Child]] (which is an archetypal pattern in the collective unconscious representing futurity, rebirth, and the Self), the Inner Child is **personal**: your specific childhood self, with its unique joys, traumas, and emotional truths.
@@ -380,6 +381,7 @@ Unhealed childhood wounds **drive unconscious relationship patterns**.
 ---
 
 ## Jungian Analysis
+
 ### 1. Distinction from the Divine Child Archetype
 
 **The Inner Child (Personal/Psychological):**

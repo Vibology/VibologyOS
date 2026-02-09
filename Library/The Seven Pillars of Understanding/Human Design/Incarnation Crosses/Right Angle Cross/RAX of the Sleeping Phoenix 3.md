@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Sleeping Phoenix (3)
+
 ## Gates: 59/55/20/34 | Quarter of Duality
 
 ### Ra's Keynote

@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"
 grimoire_source: "Jung CW 9i, Campbell Hero with a Thousand Faces, von Franz Interpretation of Fairy Tales"
 ---
+
 # The Wise Man
 *Mr. Miyagi — The Solitary Master*
 
 ---
+
 ## Archetypal Identity
 
 The Wise Man represents the archetypal **mentor who emerges from obscurity**—the one who has mastered self through discipline, who guides others through practical wisdom, who provides teaching but requires solitude to restore capacity. This archetype embodies the discerning precision of Virgo: the capacity to work for the student's liberation while maintaining boundaries, to deliver technique without depleting self.
@@ -29,6 +31,7 @@ In Jung's framework, The Wise Man corresponds to the **Senex archetype**—the o
 The Wise Man appears when **wisdom requires boundaries**, when teaching demands rest, when the question becomes: "Can I provide for others and still honor my need for aloneness?" This is the archetype of sustainable wisdom.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Wise Man appears when **wisdom requires boundaries**, when teaching demands 
 | Season | Late Summer/Early Fall (harvest, maturation) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Virgo Principle
@@ -66,6 +70,7 @@ The shadow is the Senex turned rigid—the old man who clings to outdated wisdom
 > *Vibology Synthesis: The Wise Man appears when provision demands rhythm. Work with resolve. Teach with commitment. Then rest alone to restore capacity. Your aloneness is not abandonment—it is restoration that enables continued wisdom.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

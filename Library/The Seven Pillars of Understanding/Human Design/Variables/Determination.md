@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Determination
 *How the brain and body are correctly fueled*
 
@@ -411,6 +412,7 @@ Determination is the **gateway** to the other Variables.[^5] You cannot access [
 ---
 
 ## Correspondences
+
 ### Ayurveda: Doshas and Agni
 
 **Parallel:** Ayurveda's **Agni (digestive fire)** teaching emphasizes that digestion depends on **timing, temperature, and mental state**—remarkably similar to PHS.

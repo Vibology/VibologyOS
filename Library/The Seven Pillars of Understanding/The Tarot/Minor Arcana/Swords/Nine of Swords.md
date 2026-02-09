@@ -16,6 +16,7 @@ planetary: Mars in Gemini
 decan: Second decan of Gemini (10-20 degrees)
 title: Lord of Despair and Cruelty
 ---
+
 # Nine of Swords
 
 *Lord of Despair and Cruelty*
@@ -69,6 +70,7 @@ The key teaching: **Not every thought is true, and not every voice in your head 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Yesod in Yetzirah
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew). It represents the principle of *the unconscious mind*—the realm of dreams, images, instincts, and the lunar light that illuminates only partially.

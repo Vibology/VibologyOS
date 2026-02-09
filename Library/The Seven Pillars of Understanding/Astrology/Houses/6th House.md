@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (servants, sickness, small cattle), cadent classification, Virgo correspondence, and Mars's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 6th House
 *Service and the Sacred in the Mundane*
 
 ---
+
 ## Archetypal Theme
 
 The **6th House** governs **daily work**—not vocation (10th House), but the unglamorous labor of maintenance. This is the house of health, routines, service, and the discipline of showing up when inspiration has fled. It is **Virgo's domain**: refinement through repetition, the sacred found in the smallest details.

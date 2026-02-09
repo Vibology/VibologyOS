@@ -16,6 +16,7 @@ planetary: Sun in Gemini
 decan: Third decan of Gemini (20-30 degrees)
 title: Lord of Ruin
 ---
+
 # Ten of Swords
 
 *Lord of Ruin*
@@ -69,6 +70,7 @@ The key teaching: **Some things must end completely before new things can begin*
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Malkuth in Yetzirah
 
 **Malkuth** is the tenth Sephirah, titled **Kingdom** (*Malkuth* in Hebrew). It represents the final point of the Tree of Life—the material world, the complete manifestation of all that has descended from Kether through the preceding Sephiroth.

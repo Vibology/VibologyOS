@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # Return with the Elixir
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Return with the Elixir represents the **culmination** of the heroic journey, the moment when the hero's transformation ceases to be a personal achievement and becomes **collective medicine**. In Campbell's topology[^1], this is Stage 12—the final movement of the monomyth, where the circle closes and the [[The Self]]'s purpose is revealed: Individuation was never for the individual alone, but for the healing of the world.
@@ -190,6 +191,7 @@ Once you accept this role, your life reorganizes around it:
 **Lineage**: You are now a link in the chain—those who taught you, and those you will teach. Honor your teachers; serve your students. The Elixir flows through you, not from you.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Return as Closure and Spiral
 
 The Return with the Elixir (Stage 12) is the **final movement** of Campbell's monomyth[^1], but it is not an ending—it is a **threshold** into the next spiral.
@@ -592,6 +594,7 @@ If the Elixir is given freely and humbly, it confers gifts upon the **giver** (p
 - Not complacency—**settledness**. You know your place. You are doing what you came to do.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Elixir: The Hero as Provider
 
 In patriarchal myth, the Elixir is often **externalized as conquest's spoils**:

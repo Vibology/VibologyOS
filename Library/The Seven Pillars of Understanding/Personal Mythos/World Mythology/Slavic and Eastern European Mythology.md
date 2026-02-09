@@ -661,6 +661,7 @@ Wait like Ilya when:
 ---
 
 ## Jungian Analysis
+
 ### 10.1 The Slavic Dualism: Integration vs. Splitting
 
 **Slavic wisdom:** The world is created through the cooperation of God and the Devil. Light and dark are both necessary.

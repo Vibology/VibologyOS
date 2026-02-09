@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Conservation
+
 ## Gates: 32/42/56/60 | Quarter of Duality
 
 ### Ra's Keynote

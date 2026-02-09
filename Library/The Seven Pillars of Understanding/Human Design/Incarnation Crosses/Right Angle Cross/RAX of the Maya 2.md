@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Maya (2)
+
 ## Gates: 62/61/42/32 | Quarter of Civilization
 
 ### Ra's Keynote

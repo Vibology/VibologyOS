@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Masks (2)
+
 ## Gates: 7/13/23/43 | Quarter of Duality
 
 ### Ra's Keynote

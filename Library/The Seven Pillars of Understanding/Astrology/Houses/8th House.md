@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (death, legacies, shared resources), succedent classification, Scorpio correspondence, and Saturn cosignificator verified via NotebookLM query against Lilly. No planetary joy for 8th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 8th House
 *Death, Transformation, and the Underworld*
 
 ---
+
 ## Archetypal Theme
 
 The **8th House** governs **death and rebirth**—not physical death alone, but all processes of transformation that require **ego-death**. This is the house of inheritance, shared resources, sexuality as merger, and the psychological infrastructure beneath social performance. It is **Scorpio's domain**: the relentless excavation of truth, no matter the cost.

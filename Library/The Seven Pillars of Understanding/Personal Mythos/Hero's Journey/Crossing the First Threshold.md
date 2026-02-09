@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # Crossing the First Threshold
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 Crossing the First Threshold marks the **point of no return** in the heroic journey—the moment when the Ego commits irrevocably to exploration of the unconscious. In Campbell's topology[^1], this is Stage 5 of the monomyth, positioned at the precise boundary between the **Ordinary World** (safety, the known, daylight consciousness) and the **Special World** (danger, the unknown, the realm where transformation occurs).
@@ -214,6 +215,7 @@ Once the threshold is crossed, immediate tasks:
 **Threshold as Relational**: Sometimes the crossing *is* relational—entering marriage, parenthood, or ending a partnership. The relationship itself becomes the boundary between worlds.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Threshold as Structural Gateway
 
 Crossing the First Threshold (Stage 5) serves as the **gateway between Act 1 and Act 2** of Campbell's monomyth[^1]:
@@ -486,6 +488,7 @@ If the threshold is crossed consciously and irreversibly, it confers essential g
 - Post-crossing, the hero is no longer a civilian but an **initiate**—part of the lineage of those who have dared the journey
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Threshold: Conquest and Assertion
 
 In patriarchal myth, the threshold is often **willfully crossed**—the hero **chooses** to proceed, often despite warnings.

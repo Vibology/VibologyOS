@@ -18,6 +18,7 @@ status: comprehensive
 # The Syzygy: The Divine Pairing
 
 ## Overview
+
 ### Jung's Definition
 
 **Syzygy** (from Greek *syzygia*, "yoked together") is Jung's term for the archetypal pairing of **opposites in union**—most specifically, the **Anima and Animus** as contrasexual aspects of the psyche that must be integrated for wholeness. The Syzygy represents the **internal sacred marriage** (*coniunctio*), the union of masculine and feminine principles within the individual that precedes and enables mature external relationship.
@@ -318,6 +319,7 @@ True transformation occurs when **projections are withdrawn** and both individua
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 **The Syzygy as Central Symbol:**

@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Tobit 12:15, Revelation 8:2, 1 Enoch 20, Pseudo-Dionysius, Zohar, Davidson A Dictionary of Angels"
 ---
+
 # The Seven Angels Who Stand Before the Throne
 *The Presence Angels — The Highest Archangelic Hierarchy*
 

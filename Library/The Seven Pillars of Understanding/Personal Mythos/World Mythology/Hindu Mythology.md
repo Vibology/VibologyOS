@@ -678,6 +678,7 @@ Jung warned: "One cannot simply *force* the unconscious. The Self must be approa
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Hindu mythology, for Jung, represented **the most complete psychological system in religious history**. Where Western religions (Judaism, Christianity, Islam) emphasize the ego's relationship to an external God, Hinduism begins with **Atman = Brahman** ("The Self within is the God beyond"). Jung's psychology is, in many ways, a Western translation of Hindu philosophy.

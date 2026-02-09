@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 12, CW 14"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 12 (Psychology and Alchemy), Jung CW 14 (Mysterium Coniunctionis)"
 ---
+
 # Separation
 *Air discriminates the dissolved contents — the third operation, choosing what to keep and what to release.*
 
 ---
+
 ## The Operation
 
 **Separation** (*separatio*) is the first operation of [[Albedo]], the whitening. After [[Calcination]] burned and [[Dissolution]] flooded, the *massa confusa* — the confused mass — now requires discrimination. In the laboratory, *separatio* uses filtration, distillation, or crystallization to divide the solution into its components: pure from impure, essential from dross, what serves the work from what must be discarded (Edinger, *Anatomy*, p. 175)[^1].
@@ -27,6 +29,7 @@ Psychologically, separation is **conscious discrimination** — the ego's recove
 The operation belongs to the element **Air** — clarity, differentiation, the intellect that cuts cleanly. Where fire burns and water dissolves, air *separates*. This is not the air of spiritual transcendence but the air of analytic precision: the capacity to see boundaries, to name what was tangled, to sort the dissolved chaos into workable components. Separation is the moment consciousness returns and says: "This is mine. That is not. This serves. That must go."
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Air — the blade, the breath, the space between things. In the body, separation
 > *Vibology Synthesis: Separation appears when discernment is required. For an undefined Ajna (mind center), this operation is crucial — the open Ajna creates pressure to be certain, to have answers, to resolve ambiguity through mental certainty. Separation teaches a different clarity: not certainty but *discernment*, the capacity to see what is actually present without forcing premature resolution. When this card appears, ask: what am I projecting that I need to reclaim? What have I tangled together that needs to be distinguished? What am I keeping that no longer serves? Separation is not rejection; it is clarity that serves wholeness.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

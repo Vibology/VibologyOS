@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Laws (4)
+
 ## Gates: 60/56/50/3 | Quarter of Mutation
 
 ### Ra's Keynote

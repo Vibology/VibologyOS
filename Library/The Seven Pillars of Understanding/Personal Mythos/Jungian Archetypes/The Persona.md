@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Persona: The Light Brother and Adaptive Mask
 
 ## Overview
+
 ### Jung's Definition
 
 The Persona is Jung's term for the **social mask**—the adaptive system through which the ego mediates between inner authenticity and outer expectation. In *Two Essays on Analytical Psychology* (CW 7, par. 305), Jung writes[^1]:
@@ -267,6 +268,7 @@ The Persona operates dynamically in relationships:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Persona occupies a **structural position** in Jung's model of the psyche:

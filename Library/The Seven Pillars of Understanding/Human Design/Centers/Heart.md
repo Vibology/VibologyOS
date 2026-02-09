@@ -13,10 +13,12 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Motor Center classification, Ego Authority) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Heart
 *The Furnace of Spiritual Willpower*
 
 ---
+
 ## Biological Correlation
 
 The **Heart Center** (also called the Ego or Will Center) corresponds to[^1]:
@@ -28,6 +30,7 @@ The **Heart Center** (also called the Ego or Will Center) corresponds to[^1]:
 These organs govern **material survival, willpower, and the body's capacity to commit**.
 
 ---
+
 ## Ra's Definition
 The Heart Center is a **motor center**[^2] (one of four) that governs:
 - **Willpower** — The capacity to commit and follow through
@@ -39,6 +42,7 @@ The Heart Center is a **motor center**[^2] (one of four) that governs:
 - **63% of people** have an undefined Heart (inconsistent will and struggles with worthiness)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Heart Center governs:
@@ -50,6 +54,7 @@ The Heart Center governs:
 The Heart is the **engine of commitment**—the motor that drives promises, agreements, and the will to succeed.
 
 ---
+
 ## Defined Heart: Consistent Willpower
 
 ### Mechanics
@@ -73,6 +78,7 @@ When the Heart is defined:
 - **Burnout** — The Heart motor is powerful but not endless (not like the [[Sacral]])
 
 ---
+
 ## Undefined Heart: Inconsistent Will
 
 ### Mechanics
@@ -95,6 +101,7 @@ When the Heart is undefined:
 - **Not-Self conditioning** — "I need to prove I am valuable" or "I need to be better"
 
 ---
+
 ## Not-Self Theme: Proving or Improving
 
 The **Not-Self** expression of the undefined Heart is:
@@ -119,6 +126,7 @@ The undefined Heart must learn that **worth is not earned through proof**—it i
 > — Bunnell, *Living Your Design Student Manual*, p. 88
 
 ---
+
 ## The Heart as a Motor
 
 The Heart is one of four motors in the BodyGraph:
@@ -133,6 +141,7 @@ The Heart motor is **not sustainable** like the Sacral. It requires:
 - **Honoring limits** (the will can exhaust)
 
 ---
+
 ## Relationship to Type & Authority
 
 The Heart Center is the source of **[[Ego Authority]]**[^4] (for [[Manifestor]]s and [[Projector]]s):
@@ -153,7 +162,9 @@ For all Types, the Heart:
 - **Tarot:** [[The Emperor (IV)]] (willful sovereignty), [[Strength (VIII)]] (taming the ego)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Heart
 
 1. **Honor your willpower.** You have consistent access to commitment—use it wisely.

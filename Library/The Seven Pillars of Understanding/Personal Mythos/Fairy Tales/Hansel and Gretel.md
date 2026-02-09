@@ -158,6 +158,7 @@ This is the alchemical **gold**, the Philosopher's Stone: the energy that was bo
 ---
 
 ## Jungian Analysis
+
 ### The Double Abandonment – Loss of Parental Protection
 
 The tale begins with **betrayal**: the parents who should protect instead expose the children to death. This is the **archetypal wound** that forces individuation:
@@ -324,6 +325,7 @@ This is the **goal of individuation**: not to destroy the unconscious but to **r
 ---
 
 ## Shadow Dynamics
+
 ### The Feminine Journey (Gretel's Arc)
 
 For girls and women, **Gretel** is the **primary identification**:
@@ -427,6 +429,7 @@ This is the **child's rehearsal** for the later Coniunctio—the Sacred Marriage
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **For All:**

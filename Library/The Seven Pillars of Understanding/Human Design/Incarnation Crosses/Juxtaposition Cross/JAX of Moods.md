@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Moods
+
 ## Gates: 55/59/9/16 | Quarter of Initiation
 
 ### Ra's Keynote

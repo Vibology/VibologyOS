@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 7 (Anima/Animus), Jung CW 9i (Archetypes), Emma Jung Animus and Anima"
 grimoire_source: "Jung CW 7, Jung CW 9i, Emma Jung Animus and Anima"
 ---
+
 # The Idol
 *Madonna — The Material Girl*
 
 ---
+
 ## Archetypal Identity
 
 The Idol represents the archetypal **masculine spirit channeled through the feminine**—the assertive, driving, uncompromising force used to achieve mastery over the external world, to build empires through pattern recognition and strategic articulation. This archetype embodies the ambitious earth of Capricorn: the capacity to lead through earned authority, to manifest power through relentless reinvention, to climb the mountain by recognizing patterns others miss.
@@ -29,6 +31,7 @@ In Jung's framework, The Idol is the **unconscious masculine in the female psych
 The Idol appears when **leadership demands strategic assertion**, when influence requires pattern recognition, when the question becomes: "What direction am I being called to articulate, and will I claim the authority to lead?" This is the archetype of earned authority.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Idol appears when **leadership demands strategic assertion**, when influence
 | Season | Winter Solstice (peak darkness, strategic planning, building toward light) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Capricorn Principle
@@ -64,6 +68,7 @@ The developmental stages: power → action → word → wisdom.[^3] Madonna demo
 > *Vibology Synthesis: The Idol appears when leadership requires pattern recognition and strategic assertion. You see direction others miss. Articulate it. Your authority is earned through demonstrated mastery. Claim it without apology.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

@@ -16,6 +16,7 @@ planetary: Saturn in Leo
 decan: Leo 0°-10° (1st Decan)
 title: Lord of Strife
 ---
+
 # Five of Wands
 *The Lord of Strife*
 
@@ -67,6 +68,7 @@ The key teaching: **Strife is the crucible. What emerges depends on whether you 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Geburah as the Five
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Gevurah* in Hebrew, also spelled Geburah). It is the left pillar of the Tree of Life—the pillar of form, judgment, and restriction. Where Chesed (the fourth Sephirah, Mercy) is expansive and giving, Geburah is *contracting and cutting*. Geburah is the principle of necessary destruction.

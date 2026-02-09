@@ -20,6 +20,7 @@ psychological_task: Relating to contrasexual soul-image, withdrawing projections
 **Individuation Stage 4 | Midlife–Elder 40–65 | Alchemical Operation: Albedo**
 
 ## Overview
+
 ### Jung's Definition: The Bridge to the Collective Unconscious
 
 In *Aion* (CW 9ii) and *Two Essays* (CW 7), Jung defines the Anima (in men) and Animus (in women) as **the soul-image**, the internal representation of the contrasexual archetype that mediates between the ego and the collective unconscious:
@@ -116,6 +117,7 @@ A well-integrated Anima/Animus demonstrates:
 Soul-image, Anima, Animus, Projection, Eros, Logos, Muse, Bridge to unconscious, Sacred marriage, Syzygy, Albedo, Purification
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: The Anima and Animus as Archetypes
 
 **The Anima (in men):**

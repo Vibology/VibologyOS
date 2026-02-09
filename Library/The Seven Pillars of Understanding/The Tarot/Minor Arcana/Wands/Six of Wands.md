@@ -15,6 +15,7 @@ sephirah: Tiphareth
 planetary: Jupiter in Leo
 title: Lord of Victory
 ---
+
 # Six of Wands
 *Lord of Victory*
 
@@ -74,6 +75,7 @@ The key teaching: **Victory is a moment, not a destination.** The Six of Wands a
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Tiphareth as the Six
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiferet* in Hebrew). It occupies the central position on the Tree of Life—the heart, the solar plexus, the point of balance and integration. Tiphareth is called the **"Mediating Intelligence"** in the *Sepher Yetzirah* because "in it are multiplied the influxes of the emanations"—it receives from all the Sephiroth above and distributes to all the Sephiroth below. It is the meeting place of heaven and earth, the bridge between the divine and the human.

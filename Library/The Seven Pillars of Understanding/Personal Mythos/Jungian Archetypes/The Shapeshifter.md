@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Shapeshifter: The Archetype of Mutability and Ambiguity
 
 ## Overview
+
 ### Jung's Definition
 
 The Shapeshifter is the archetype of **mutability**, **ambiguity**, and **transformation**. Unlike other archetypes that represent relatively stable psychological patterns, the Shapeshifter embodies **instability itself**—the refusal to remain fixed, the capacity to change form, and the deliberate cultivation of uncertainty.
@@ -327,6 +328,7 @@ Politically and culturally, the Shapeshifter appears as:
 - It is both **the obstacle** and **the path**
 
 ## Jungian Analysis
+
 ### 1. Proteus as the Archetype
 
 In Greek mythology, **Proteus** is the Old Man of the Sea—a prophetic deity who knows all things but refuses to share his knowledge unless **captured and held through all his transformations**.

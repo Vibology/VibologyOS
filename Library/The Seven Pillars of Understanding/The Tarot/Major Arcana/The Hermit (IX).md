@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Hermit (IX)
 *The Prophet of the Eternal, Magus of the Voice of Power*
 
 ---
+
 ## Traditional Symbolism
 
 When The Hermit appears ***upright*** in a reading, it speaks to the realm of withdrawal for the sake of illumination. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *prudence, circumspection,* and also (by another account) *divine inspiration*—but Waite includes the paradoxical meanings of *treason* or *roguery*[^1].
@@ -39,6 +41,7 @@ The reversed card can also indicate false humility—the spiritual teacher who c
 The key insight is that The Hermit always deals with **the paradox of solitude as preparation for service**—upright or reversed, he governs whether withdrawal leads to illumination or merely to isolation.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

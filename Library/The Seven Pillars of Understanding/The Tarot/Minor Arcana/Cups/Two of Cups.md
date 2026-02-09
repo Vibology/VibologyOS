@@ -65,6 +65,7 @@ The key teaching: **Love is an art of seeing clearly**. The Two of Cups demands 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chokmah as the Two
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokhmah* in Hebrew). It is the first emanation from Kether (the Crown), the first movement from undifferentiated unity into polarity. Where Kether is "I," Chokmah is "I AM"—the masculine principle, the Supernal Father, the first conscious act of being.

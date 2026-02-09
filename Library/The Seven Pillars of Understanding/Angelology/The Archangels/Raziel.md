@@ -19,10 +19,12 @@ function: Herald of hidden knowledge, revealer of mysteries
 angelic_order: Auphanim (Wheels) or Erelim (Valiant Ones)
 aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 ---
+
 # Raziel
 *The Patron of Shadowhunters*
 
 ---
+
 ## Essence
 
 **Archangel Raziel** (Hebrew: רזיאל, *Razi'el* — "Secret of God" or "Herald of Deity") is the **Prince of Hidden Knowledge**, the **Revealer of Mysteries**, and the **Angel of the Supreme Secrets**. In the Qabalistic tradition, Raziel governs **[[Chokmah]]** (Wisdom, the second [[Sephiroth|Sephirah]]), the primal masculine force of creation—the explosive first emanation from the Absolute, the divine spark that initiates all manifestation. Where [[Metatron]] at [[Kether]] represents the Unmanifest Crown, Raziel at Chokmah is the *first intelligible principle*, the Logos, the divine intelligence that structures the cosmos.
@@ -30,6 +32,7 @@ aliases: [Akrasiel, Galizur, Saraqael, Suriel]
 Raziel is not a comforting presence. He does not protect in the manner of [[Michael]], nor does he heal like [[Raphael]]. Raziel's function is **revelation**—the unveiling of what has been concealed, the granting of wisdom too vast for mortal comprehension, the opening of the sealed book. To invoke Raziel is to ask for knowledge that may shatter the structures of the ego, for truth that cannot be unlearned.
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: Secret of God
@@ -105,6 +108,7 @@ Raziel does not appear to the masses. He does not announce to nations or fight d
 
 
 ---
+
 ## Theological Depth
 
 ### Qabalistic Context
@@ -620,8 +624,8 @@ Raziel's knowledge can wound if received without preparation (the Luciferian inf
 - **The Wise Old Man:** Inner guide, voice of the Self offering crucial insight
 
 
-
 ---
+
 ## Fallen Aspect
 
 ### The Luciferian Shadow
@@ -648,6 +652,7 @@ To invoke Raziel without preparation is to risk opening oneself to Ghagiel—the
 
 
 ---
+
 ## Invocation
 
 ### Meditation: The Silent Mind

@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Animus: The Inner Man and Logos Bearer
 
 ## Overview
+
 ### Jung's Definition
 
 The Animus is Jung's term for the **masculine soul-image in women**—the contrasexual archetype that mediates between the conscious mind and the deeper layers of the unconscious. Where the [[The Anima]] in men appears as mood and relatedness, the Animus in women manifests as **opinion, conviction, and the capacity for Logos** (meaning-making through word and spirit).
@@ -267,6 +268,7 @@ The Animus is **rarely seen directly**—it is encountered via **projection onto
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Animus occupies a unique position in Jung's structural model as the **contrasexual archetype** in women.

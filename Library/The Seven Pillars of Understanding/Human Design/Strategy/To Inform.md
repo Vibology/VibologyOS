@@ -161,6 +161,7 @@ When the Manifestor abandons their strategy:
 ---
 
 ## Strategy Integration
+
 ### For Manifestors
 
 1. **Inform before acting.** Make it a practice: before any significant action, ask "Who will be impacted?" and tell them.

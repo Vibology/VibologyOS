@@ -17,6 +17,7 @@ collective_unconscious: Universal pattern of loving the rejected to reveal the d
 # Transformation and the Animal Bride/Groom: The Sacred Marriage of Beast and Beauty
 
 ## Overview
+
 ### Core Symbolism
 
 The **Transformation and Animal Bride/Groom** motif is among the most psychologically profound patterns in world folklore.[^1] At its heart lies a paradox that defines the human condition: **the loathly, rejected, or monstrous contains the prince or princess**—the divine spirit is hidden within what consciousness finds repugnant, terrifying, or unacceptable.
@@ -714,6 +715,7 @@ She turns, sees him, and speaks: *"I told you never to look. Now I must leave."*
 ---
 
 ## Jungian Analysis
+
 ### 1. The Animal as Double Archetype: Shadow and Anima/Animus
 
 The animal groom/bride is **simultaneously**:

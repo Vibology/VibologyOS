@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Healing (2)
+
 ## Gates: 46/25/52/58 | Quarter of Duality
 
 ### Ra's Keynote

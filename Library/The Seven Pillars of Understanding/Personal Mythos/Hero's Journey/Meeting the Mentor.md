@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # Meeting the Mentor
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 Meeting the Mentor represents the **activation of the Wise Old Man/Woman archetype** within the psyche—the moment when the hero encounters external wisdom that will become internalized guidance. In Campbell's monomyth[^1], this is Stage 4, positioned after the [[Refusal of the Call]] and before [[Crossing the First Threshold]]. It marks the **bridge between doubt and commitment**, between the Ordinary World's paralysis and the Special World's demands.
@@ -210,6 +211,7 @@ The Mentor's teaching must be **tested** in the Special World. Integration deman
 **The Mentor-Student Bond After Departure**: Some Mentor relationships evolve into peer friendships after the teaching phase completes. Others end cleanly. Both are valid. Do not cling to a relationship whose season has passed.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Mentor as Permission-Giver
 
 In Campbell's 12-stage monomyth, Meeting the Mentor (Stage 4) occurs **after the Refusal** (Stage 3) and **before Crossing the Threshold** (Stage 5).
@@ -530,6 +532,7 @@ The final stage of the Mentor dynamic: **the student becomes the teacher**.
 **Integration**: The mature Mentor knows they are a **conduit**, not the source. The wisdom flows through them, not from them.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Mentors: The Wise Old Man
 
 In patriarchal narratives, the Mentor is often **male and elder**:

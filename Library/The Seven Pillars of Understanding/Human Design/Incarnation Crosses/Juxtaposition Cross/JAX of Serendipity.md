@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Serendipity
+
 ## Gates: 46/25/52/58 | Quarter of Duality
 
 ### Ra's Keynote

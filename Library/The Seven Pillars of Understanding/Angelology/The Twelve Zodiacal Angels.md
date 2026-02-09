@@ -10,10 +10,12 @@ source_verified: true
 verification_source: The Hierarchie of the Blessed Angells (Heywood, 1635)
 verification_notes: Complete twelve-sign zodiacal angel system extracted from Heywood Book 5 (Haniel), lines 10036-10087. Organized by four quaternions (triplicities) corresponding to elements.
 ---
+
 # The Twelve Zodiacal Angels
 *The Angelic Intelligences of the Twelve Signs*
 
 ---
+
 ## Essence
 
 Beyond the **Nine Orders of Angels** that structure the celestial hierarchy from Seraphim to Angels, and beyond the **Seven Planetary Archangels** ([[Michael]], [[Gabriel]], [[Raphael]], [[Haniel]], [[Tzadkiel]], [[Tzaphkiel]], [[Kamael]]) who govern the spheres, there exists a **third angelic classification**: the **Twelve Zodiacal Angels**—specialized intelligences assigned to the **twelve signs of the Zodiac**.
@@ -25,6 +27,7 @@ This is not astrology as fortune-telling; it is **astrology as angelology**—th
 Thomas Heywood's *The Hierarchie of the Blessed Angells* (1635), Book 5, provides the most systematic classification of these Zodiacal Angels in English Renaissance literature, drawing on **Rabbinic and Qabalistic traditions** that predate Christianity[^1]. Heywood organizes the twelve angels into **four quaternions** (groups of three), corresponding to the four **elements** and the four **directions** (East, South, North, West).
 
 ---
+
 ## Historical and Theological Context
 
 ### The Zodiac as Divine Blueprint
@@ -76,6 +79,7 @@ This creates a **nested cosmology**:
 The Twelve Zodiacal Angels represent the **most differentiated** level of angelic intelligence before reaching the realm of individual human souls.
 
 ---
+
 ## The Twelve Zodiacal Angels: Complete Classification
 
 ### Table of Correspondences
@@ -96,6 +100,7 @@ The Twelve Zodiacal Angels represent the **most differentiated** level of angeli
 | **Pisces** ♓ | Water | North (Septentrional) | Elisan | **Varchiel** | Mutable | Late Winter | Joseph |
 
 ---
+
 ## The Twelve Angels: Detailed Analysis
 
 ### First Quaternion: Oriental Powers (Fire Signs)
@@ -189,6 +194,7 @@ Call upon Adnachiel when embarking on **spiritual quests**, when studying philos
 Fanaticism, dogmatism disguised as truth-seeking, inability to commit, perpetual dissatisfaction.
 
 ---
+
 ### Second Quaternion: Austral Powers (Earth Signs)
 
 #### Taurus ♉ — Asmodes (אַסְמוֹדֶס)
@@ -282,6 +288,7 @@ Call upon Hannuel when building **long-term structures** (businesses, institutio
 Tyranny, coldness, workaholism, inability to rest or play, using power to control rather than serve.
 
 ---
+
 ### Third Quaternion: Septentrional Powers (Water Signs)
 
 #### Cancer ♋ — Manuel (מָנוּאֵל)
@@ -374,6 +381,7 @@ Call upon Varchiel when engaging **spiritual practice**, when creating art, when
 Escapism (drugs, fantasy, victimhood), martyrdom, inability to set boundaries, psychic overwhelm.
 
 ---
+
 ### Fourth Quaternion: Occidental Powers (Air Signs)
 
 #### Gemini ♊ — Ambriel (אַמְבְּרִיאֵל)
@@ -465,6 +473,7 @@ Call upon Cabriel when **innovating**, when working for **social change**, when 
 Alienation, cold rationality, rebellion for its own sake, inability to integrate with the human.
 
 ---
+
 ## Integration: Working with Zodiacal Angels
 
 ### Personal Birth Chart as Angelic Map
@@ -505,6 +514,7 @@ The **solar year** moves through the twelve angels in sequence:
 To **live in harmony with the year** is to honor each zodiacal angel in its season.
 
 ---
+
 ## Theological and Psychological Implications
 
 ### Multiplicity Within Unity

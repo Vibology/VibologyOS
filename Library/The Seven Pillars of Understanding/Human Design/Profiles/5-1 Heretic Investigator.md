@@ -164,6 +164,7 @@ The 5/1 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 5/1
 
 1. **Build your foundations.** Your Line 1 must be solid before you can meet Line 5 projections.

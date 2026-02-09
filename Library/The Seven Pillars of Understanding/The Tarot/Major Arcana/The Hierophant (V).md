@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Hierophant (V)
 *The Magus of the Eternal*
 
 ---
+
 ## Traditional Symbolism
 
 When The Hierophant appears ***upright*** in a reading, it speaks to the realm of divine wisdom transmitted through earthly institution. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *marriage, alliance, captivity, servitude,* and by another account *mercy, goodness, inspiration,* and *the man to whom the Querent has recourse*[^1].
@@ -39,6 +41,7 @@ But "overkindness" and "weakness" reveal the shadow: the teacher who cannot set 
 The key insight is that The Hierophant always deals with **the transmission of wisdom across time**—upright or reversed, he governs the relationship between tradition and innovation, between the tested path and the uncharted territory.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

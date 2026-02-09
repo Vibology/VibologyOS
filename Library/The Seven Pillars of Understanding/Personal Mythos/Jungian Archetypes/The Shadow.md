@@ -17,6 +17,7 @@ verification_notes: "All direct Jung quotes cited inline (CW 9i par. 284, CW 9ii
 # The Shadow: The Dark Brother and Hidden Gold
 
 ## Overview
+
 ### Jung's Definition
 
 The Shadow is one of Jung's most essential and misunderstood concepts. In *The Archetypes and the Collective Unconscious* (CW 9i, pars. 284 f.), Jung writes:[^1]

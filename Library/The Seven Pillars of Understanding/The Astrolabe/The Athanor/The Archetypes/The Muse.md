@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes), Jung CW 7 (Anima/Animus), Emma Jung Animus and Anima"
 grimoire_source: "Jung CW 9i, Jung CW 7, Emma Jung Animus and Anima"
 ---
+
 # The Muse
 *Robert Smith — The Soul-Image*
 
 ---
+
 ## Archetypal Identity
 
 The Muse (or Anima, in Jungian parlance) represents the archetypal **feminine soul-image**—the sensitive, emotional, intuitive aspect expressed outwardly through vulnerable creative presence. This archetype embodies the aesthetic harmony of Libra: the capacity to love beauty through embodiment, to celebrate physical form through romantic vulnerability, to manifest soul through aesthetic presence.
@@ -29,6 +31,7 @@ In Jung's framework, The Muse is the **unconscious feminine in the male psyche**
 The Muse appears when **beauty requires embodiment**, when the soul-image must be physically expressed, when the question becomes: "Can I love my body enough to let beauty move through it?" This is the archetype of embodied soul.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Muse appears when **beauty requires embodiment**, when the soul-image must b
 | Season | Autumn Equinox (balance, harvest of beauty) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Libra Principle
@@ -64,6 +68,7 @@ The shadow is twofold: projection (seeking the soul-image only in external figur
 > *Vibology Synthesis: The Muse appears when soul seeks physical expression. Love your body. Inhabit aesthetic presence. Let serendipity emerge from embodiment—you will be in the right place at the right time because you love being here, in flesh, fully present.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

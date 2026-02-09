@@ -16,6 +16,7 @@ planetary: Moon in Aquarius
 decan: Third decan of Aquarius (20-30 degrees)
 title: Lord of Unstable Effort
 ---
+
 # Seven of Swords
 
 *Lord of Unstable Effort*
@@ -69,6 +70,7 @@ The key teaching: **Cunning can win battles, but it cannot build trust**. The Se
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Netzach in Yetzirah
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew, also meaning "Eternity" or "Endurance"). It represents the principle of *emotional victory*—the triumph that comes through desire, persistence, and the refusal to give up.

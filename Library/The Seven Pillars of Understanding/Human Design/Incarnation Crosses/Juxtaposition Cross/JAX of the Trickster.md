@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of the Trickster
+
 ## Gates: 26/45/6/36 | Quarter of Mutation
 
 ### Ra's Keynote

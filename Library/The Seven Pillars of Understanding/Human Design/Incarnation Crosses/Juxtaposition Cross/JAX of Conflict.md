@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Conflict
+
 ## Gates: 6/36/15/10 | Quarter of Duality
 
 ### Ra's Keynote

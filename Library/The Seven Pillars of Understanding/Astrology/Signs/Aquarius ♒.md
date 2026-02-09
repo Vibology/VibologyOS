@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos, Classical mythology)"
 verification_notes: "All traditional dignities, decan rulers, mythological sources, medical correlations, and house correspondences cited inline. Synthesis interpretations clearly distinguished from traditional material."
 ---
+
 # Aquarius ♒
 *The Humanitarian and the Future Remembered*
 
 ---
+
 ## Archetypal Essence
 
 Aquarius is **The Humanitarian**—the principle of **collective consciousness**, the recognition that individual sovereignty (Leo) is incomplete without contribution to the whole. Where [[Capricorn ♑]] builds hierarchy, Aquarius **distributes** power—not through leveling, but through the crystallization of law that serves all.
@@ -25,6 +27,7 @@ Aquarius is **The Humanitarian**—the principle of **collective consciousness**
 In the esoteric tradition, Aquarius is **Adventure**—not as personal quest (Sagittarius), but as the *collective leap* into uncharted territory. The Water Bearer pours the elixir of consciousness onto the parched earth: what was hoarded by the few becomes available to the many.
 
 ---
+
 ## Glyph & Symbolism
 
 **♒** — Waves or lightning, the flow of energy across network.
@@ -32,6 +35,7 @@ In the esoteric tradition, Aquarius is **Adventure**—not as personal quest (Sa
 The glyph represents **distribution**: the current that moves through the collective, connecting nodes without hierarchy. The Water Bearer is not the water but the *vessel*—the one who channels the future into the present. In esoteric physiology, Aquarius governs the **sense of Imagination**: the capacity to envision what does not yet exist.
 
 ---
+
 ## Mythology: Ganymede, the Cupbearer of the Gods
 
 Aquarius inherits its symbolism from the myth of **Ganymede**, the most beautiful mortal youth, abducted by **Zeus** (in the form of an eagle) to serve as cupbearer to the gods on Mount Olympus.[^3] Ganymede's role was to pour **ambrosia and nectar**—the elixir of immortality—for the divine assembly, ensuring the gods remained deathless and radiant.

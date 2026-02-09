@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Endeavor (1)
+
 ## Gates: 21/48/54/53 | Quarter of Initiation
 
 ### Ra's Keynote

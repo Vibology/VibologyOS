@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Four Ways (4)
+
 ## Gates: 19/33/44/24 | Quarter of Mutation
 
 ### Ra's Keynote

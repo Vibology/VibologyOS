@@ -16,6 +16,7 @@ planetary: Moon in Libra
 decan: First decan of Libra (0-10 degrees)
 title: Lord of Peace Restored
 ---
+
 # Two of Swords
 
 *Lord of Peace Restored*
@@ -69,6 +70,7 @@ The key teaching: **Peace Restored is not Peace Achieved**. The Two of Swords bu
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chokmah in Yetzirah
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokmah* in Hebrew). It represents the first differentiation from the undivided unity of Kether—the moment when the One becomes Two, when unity gives rise to duality.

@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Denial
+
 ## Gates: 40/37/35/5 | Quarter of Duality
 
 ### Ra's Keynote

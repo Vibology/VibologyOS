@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Golden Dawn materials, Heptameron, Hebraic amulet traditions"
 ---
+
 # The Four Quarters
 *The Elemental Directions — Organizing the Sacred Space*
 

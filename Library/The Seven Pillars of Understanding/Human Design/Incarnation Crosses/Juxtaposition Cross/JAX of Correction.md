@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Correction
+
 ## Gates: 18/17/39/38 | Quarter of Duality
 
 ### Ra's Keynote

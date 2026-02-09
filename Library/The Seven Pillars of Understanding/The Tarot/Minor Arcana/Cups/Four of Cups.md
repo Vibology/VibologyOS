@@ -16,6 +16,7 @@ planetary: Moon in Cancer
 decan: Cancer 20°-30° (3rd Decan)
 title: Lord of Blended Pleasure
 ---
+
 # Four of Cups
 *The Lord of Blended Pleasure*
 
@@ -69,6 +70,7 @@ The key teaching: **Comfort is not the same as fulfillment.** The soul that has 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chesed as the Four
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew). It is the first Sephirah below the Abyss—the first realm that is fully "manifest" in a structural sense. Where the Supernal Triad (Kether, Chokmah, Binah) exists in pure archetypal abstraction, Chesed begins the process of *concretization*.

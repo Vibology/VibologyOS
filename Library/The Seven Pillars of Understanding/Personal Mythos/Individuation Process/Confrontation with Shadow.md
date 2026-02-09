@@ -20,6 +20,7 @@ psychological_task: Integration of repressed, unlived, and rejected aspects of p
 **Individuation Stage 3 | Midlife 35–50 | Alchemical Operation: Nigredo**
 
 ## Overview
+
 ### Jung's Definition: The Moral Problem
 
 In *Aion* (CW 9ii), Jung defines the Shadow as **a moral problem that challenges the whole ego-personality**:
@@ -107,6 +108,7 @@ This stage is observable through:
 Shadow, Projection, Midlife crisis, Nigredo, Dark night, Underworld descent, Moral reckoning, Integration, Unlived life, Enantiodromia
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: Personal Shadow vs. Collective Shadow
 
 **Personal Shadow:**

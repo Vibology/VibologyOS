@@ -20,6 +20,7 @@ psychological_task: Preparation for death, wisdom transmission, becoming ancesto
 **Individuation Stage 6 | Elderhood 60+ | Alchemical Operation: Coagulatio**
 
 ## Overview
+
 ### Jung's Vision: Life as the Rhizome
 
 In *Memories, Dreams, Reflections*, Jung reflects on the totality of his life with the image of a plant:
@@ -114,6 +115,7 @@ A well-integrated elder demonstrates:
 Elderhood, Wisdom, Death preparation, Ancestor, Synthesis, Legacy, Coagulatio, Lapis, Senex, Crone, Unus Mundus, Simplification, Transmission
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: The Synthesis of the Personality
 
 Jung's late work (post-60) focuses on the **synthesis** of all that was integrated in earlier stages:

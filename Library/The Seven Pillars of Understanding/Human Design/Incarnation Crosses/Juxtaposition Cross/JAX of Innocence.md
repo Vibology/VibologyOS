@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Innocence
+
 ## Gates: 25/46/58/52 | Quarter of Initiation
 
 ### Ra's Keynote

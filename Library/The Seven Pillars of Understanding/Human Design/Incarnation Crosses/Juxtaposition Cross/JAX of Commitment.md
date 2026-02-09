@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Commitment
+
 ## Gates: 29/30/20/34 | Quarter of Duality
 
 ### Ra's Keynote

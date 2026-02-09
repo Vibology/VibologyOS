@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 12, CW 14"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 12 (Psychology and Alchemy), Jung CW 14 (Mysterium Coniunctionis)"
 ---
+
 # Dissolution
 *Water dissolves the ash — the second operation, melting rigidity into fluid chaos.*
 
 ---
+
 ## The Operation
 
 **Dissolution** (*solutio*) follows [[Calcination]] in the alchemical sequence. Where fire reduced the *prima materia* to ash, water now dissolves that ash into solution — the *massa confusa*, the confused mass. In the laboratory, the calcined remains are placed in a flask with solvent (water, acid, alkali) and heated gently until solid becomes liquid, structure becomes flow. What was fixed is now fluid; what was contained is now released (Edinger, *Anatomy*, p. 47)[^1].
@@ -27,6 +29,7 @@ Psychologically, dissolution is **flooding by the unconscious** — the moment w
 The operation belongs to the element **Water** — not the gentle rain but the deluge, the flood that dissolves all structure. Dissolution is necessary because calcination alone leaves only brittle ash. Water makes the ash permeable, releasing what was trapped in rigid form. But dissolution is dangerous: if the ego dissolves too completely, the psyche drowns. The alchemist must learn to *solve* (dissolve) without losing all cohesion — to become fluid without becoming formless.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Water — the solvent, the womb, the flood. In the body, dissolution is tears, s
 > *Vibology Synthesis: Dissolution appears when rigidity must melt. For a defined Solar Plexus (emotional authority), dissolution is the wave in its fullness — the tide that rises and falls without permission, the emotional truth that cannot be controlled. The undefined centers want to avoid the flood, to stay dry, to maintain structure. Dissolution says: you cannot. Let the boundaries soften. Let what was solid become liquid. The wave is not your enemy; it is the solvent that makes transformation possible. When this card appears, ask: what rigidity am I holding that needs to dissolve? What am I afraid will be lost if I let go?*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

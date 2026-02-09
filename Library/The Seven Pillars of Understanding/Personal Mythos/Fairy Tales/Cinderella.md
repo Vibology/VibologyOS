@@ -187,6 +187,7 @@ Cinderella's enforced station **at the hearth, covered in ashes**, is not degrad
 ---
 
 ## Jungian Analysis
+
 ### The Death of the Good Mother: Forced Individuation
 
 The tale's initiating catastrophe is the **Good Mother's death**, which psychologically represents:
@@ -479,6 +480,7 @@ Once a woman has been to Baba Yaga and earned the fire, she **cannot return to t
 ---
 
 ## Practical Application
+
 ### Diagnostic Questions
 
 **For Women:**

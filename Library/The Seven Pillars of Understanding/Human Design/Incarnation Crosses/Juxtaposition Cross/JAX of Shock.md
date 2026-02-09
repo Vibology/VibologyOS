@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Shock
+
 ## Gates: 51/57/61/62 | Quarter of Initiation
 
 ### Ra's Keynote

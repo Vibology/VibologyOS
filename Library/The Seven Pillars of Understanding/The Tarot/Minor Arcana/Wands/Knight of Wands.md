@@ -14,6 +14,7 @@ element_primary: Air
 element_secondary: Fire
 title: Prince of the Chariot of Fire, Lord of Flame and Lightning
 ---
+
 # Knight of Wands
 *Prince of the Chariot of Fire, Lord of Flame and Lightning*
 
@@ -88,6 +89,7 @@ Rupture, division, discord, interruption. The Knight's energy becomes fractured 
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Air of Fire
 
 The Court Cards operate by combining the rank's element with the suit's element. The Knight rank is **Air**—movement, intellect, speed, communication, the realm of thought made visible.

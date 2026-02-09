@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Scripture (James 5:14-15, Psalms 6/67/102), Catholic tradition, Golden Dawn angelology, empirical prayer research"
 ---
+
 # Prayer for Healing
 *Petitionary and Intercessory Prayer — Invoking Divine Grace for Restoration*
 

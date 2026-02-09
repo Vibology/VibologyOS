@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Completion
+
 ## Gates: 42/32/60/56 | Quarter of Initiation
 
 ### Ra's Keynote

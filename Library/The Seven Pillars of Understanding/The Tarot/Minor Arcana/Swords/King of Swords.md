@@ -13,6 +13,7 @@ element: Air
 court_rank: King
 elemental_formula: Fire of Air
 ---
+
 # King of Swords
 
 *The Throne of Sovereign Judgment*
@@ -63,6 +64,7 @@ The key teaching: **Authority without compassion is tyranny**. The King of Sword
 ---
 
 ## Esoteric Interpretation
+
 ### The Elemental Formula: Fire of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

@@ -13,10 +13,12 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Awareness Center classification, Splenic Authority, oldest awareness intelligence) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Spleen
 *The Instinctive Whisper for Survival*
 
 ---
+
 ## Biological Correlation
 
 The **Spleen Center** corresponds to[^1]:
@@ -27,6 +29,7 @@ The **Spleen Center** corresponds to[^1]:
 These systems govern **survival, health, immune response, and the body's instinctual knowing of danger and safety**.
 
 ---
+
 ## Ra's Definition
 The Spleen is an **awareness center**[^2]—the oldest and most primal intelligence in the BodyGraph. It governs:
 - **Survival consciousness** — Instinctual knowing of what is safe or dangerous
@@ -38,6 +41,7 @@ The Spleen is an **awareness center**[^2]—the oldest and most primal intellige
 - **45% of people** have an undefined Spleen (amplified sensitivity to health and danger)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Spleen Center governs:
@@ -49,6 +53,7 @@ The Spleen Center governs:
 The Spleen is the **guardian of life**—the quiet, instinctual intelligence that has kept humanity alive for millennia.
 
 ---
+
 ## Defined Spleen: Fixed Instinct
 
 ### Mechanics
@@ -72,6 +77,7 @@ When the Spleen is defined:
 - **Ignoring subtle signals** — The Spleen speaks softly; it can be missed
 
 ---
+
 ## Undefined Spleen: Amplified Sensitivity
 
 ### Mechanics
@@ -94,6 +100,7 @@ When the Spleen is undefined:
 - **Not-Self conditioning** — "Holding on to things that are no longer good for you"
 
 ---
+
 ## Not-Self Theme: Holding On
 
 The **Not-Self** expression of the undefined Spleen is:
@@ -114,6 +121,7 @@ The undefined Spleen must learn to **trust the flow of life** and release what n
 > — Bunnell, *Living Your Design Student Manual*, p. 88
 
 ---
+
 ## Splenic Authority: The Intelligence of the Now
 
 The Spleen is the source of **[[Splenic Authority]]**[^4] (for [[Manifestor]]s and [[Projector]]s without higher authorities):
@@ -124,6 +132,7 @@ The Spleen is the source of **[[Splenic Authority]]**[^4] (for [[Manifestor]]s a
 Splenic Authority requires **presence** and **trust in the body's first impulse**.
 
 ---
+
 ## Relationship to Type & Authority
 
 The Spleen provides **[[Splenic Authority]]** for:
@@ -144,7 +153,9 @@ For all Types, the Spleen:
 - **Tarot:** [[The Fool (0)]] (trust in the leap), [[The Magician (I)]] (acting in the present)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Spleen
 
 1. **Trust your instinct.** Your first knowing is reliable—do not override it with the mind.

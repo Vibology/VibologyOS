@@ -84,7 +84,6 @@ As Mental Projectors understand how others impact them through their undefined c
 ---
 
 
-
 **To Wait for the Invitation** is the Projector's alchemical law. They are not designed to offer their guidance unsolicited, nor to initiate their involvement in the world. They must be **formally invited** into the arenas that matter:
 - Career and work
 - Love and partnership
@@ -196,6 +195,7 @@ The Projector's challenge is learning to value their **insight** over output, th
 ---
 
 ## Strategy Integration
+
 ### For the Projector
 
 1. **Study systems.** You are designed to master energy, people, and processes—become an expert.

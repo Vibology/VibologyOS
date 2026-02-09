@@ -13,15 +13,18 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, Manifestation Center classification, motor-to-Throat connection requirements) verified against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Throat
 *The Bridge to Creative Manifestation*
 
 ---
+
 ## Biological Correlation
 
 The **Throat Center** corresponds to the **thyroid and parathyroid glands**[^1], which regulate metabolism, energy, and communication at the cellular level. The thyroid governs how the body *speaks* its needs through biochemical signaling.
 
 ---
+
 ## Ra's Definition
 The Throat Center is the **manifestation center**[^2]—the place where all energy in the BodyGraph moves to be **expressed, communicated, and brought into form**.
 
@@ -29,6 +32,7 @@ The Throat Center is the **manifestation center**[^2]—the place where all ener
 - **28% of people** have an undefined Throat (inconsistent voice and manifestation)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Throat Center governs:
@@ -40,6 +44,7 @@ The Throat Center governs:
 The Throat is called **"The Town Square"**—all energy from the other eight centers moves through the Throat to be expressed in the world.
 
 ---
+
 ## Defined Throat: Consistent Voice
 
 ### Mechanics
@@ -62,6 +67,7 @@ When the Throat is defined:
 - **Overuse** — Talking or manifesting excessively can lead to burnout (especially without motor connection)
 
 ---
+
 ## Undefined Throat: Borrowed Voices
 
 ### Mechanics
@@ -84,6 +90,7 @@ When the Throat is undefined:
 - **Inconsistent manifestation** — Difficulty bringing energy into form without external influence
 
 ---
+
 ## Not-Self Theme: Attracting Attention
 
 The **Not-Self** expression of the undefined Throat is:
@@ -105,6 +112,7 @@ The undefined Throat must learn to **speak only when there is something to say**
 > — Bunnell, *Living Your Design Student Manual*, p. 87
 
 ---
+
 ## The Throat and Manifestation
 
 Manifestation requires **motor energy** connected to the Throat[^4]. The four motors are:
@@ -128,6 +136,7 @@ When the Throat has no motor connection:
 - They must wait for external energy (invitation, lunar cycle) to manifest
 
 ---
+
 ## Relationship to Type & Authority
 
 The Throat Center determines **how** energy is expressed, but not **what** is correct to express. That is the role of [[Authority]].
@@ -138,6 +147,7 @@ The Throat Center determines **how** energy is expressed, but not **what** is co
 - **Reflectors:** No definition; sample environment through lunar cycle (Strategy: Wait 28 Days)
 
 ---
+
 ## The Eleven Gates of the Throat
 
 The Throat has **eleven gates**, more than any other center. Each gate represents a unique way of communicating or manifesting.
@@ -152,7 +162,9 @@ The Throat has **eleven gates**, more than any other center. Each gate represent
 - **Tarot:** [[The Magician (I)]] (manifestation), [[The Hierophant (V)]] (speaking truth)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Throat
 
 1. **Honor your consistent voice.** You do not need to adapt to every context.

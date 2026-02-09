@@ -16,6 +16,7 @@ planetary: Venus in Aquarius
 decan: First decan of Aquarius (0-10 degrees)
 title: Lord of Defeat
 ---
+
 # Five of Swords
 
 *Lord of Defeat*
@@ -69,6 +70,7 @@ The key teaching: **Some victories are worse than defeat**. The Five of Swords i
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Geburah in Yetzirah
 
 **Geburah** is the fifth Sephirah, titled **Severity** (*Geburah* in Hebrew, also called *Din*, "Judgment," or *Pachad*, "Fear"). It represents the principle of *necessary destruction*—the surgeon's knife, the warrior's sword, the pruning shear that cuts away what is diseased so that life can continue.

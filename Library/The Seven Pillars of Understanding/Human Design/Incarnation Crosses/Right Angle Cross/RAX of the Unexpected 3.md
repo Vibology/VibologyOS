@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Unexpected (3)
+
 ## Gates: 28/27/31/41 | Quarter of Duality
 
 ### Ra's Keynote

@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Alertness
+
 ## Gates: 44/24/7/13 | Quarter of Duality
 
 ### Ra's Keynote

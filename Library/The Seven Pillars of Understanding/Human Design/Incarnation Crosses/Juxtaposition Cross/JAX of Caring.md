@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Caring
+
 ## Gates: 27/28/19/33 | Quarter of Initiation
 
 ### Ra's Keynote

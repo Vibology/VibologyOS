@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Individualism (1)
+
 ## Gates: 39/38/51/57 | Quarter of Civilization
 
 ### Ra's Keynote

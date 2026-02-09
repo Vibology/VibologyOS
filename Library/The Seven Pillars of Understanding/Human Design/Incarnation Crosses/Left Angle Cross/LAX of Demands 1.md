@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Demands (1)
+
 ## Gates: 52/58/21/48 | Quarter of Civilization
 
 ### Ra's Keynote

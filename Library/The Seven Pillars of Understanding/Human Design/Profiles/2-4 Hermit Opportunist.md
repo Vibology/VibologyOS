@@ -157,6 +157,7 @@ The 2/4 brings:
 ---
 
 ## Strategy Integration
+
 ### For the 2/4
 
 1. **Honor your need for solitude.** You develop your gifts in hermitage, not in constant engagement.

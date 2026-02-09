@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Possession
+
 ## Gates: 45/26/36/6 | Quarter of Civilization
 
 ### Ra's Keynote

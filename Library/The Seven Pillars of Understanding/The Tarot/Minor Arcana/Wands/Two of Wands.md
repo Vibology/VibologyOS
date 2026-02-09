@@ -16,6 +16,7 @@ planetary: Mars in Aries
 decan: Aries 0°-10° (1st Decan)
 title: Lord of Dominion
 ---
+
 # Two of Wands
 *The Lord of Dominion*
 
@@ -67,6 +68,7 @@ The key teaching: **Dominion is not a destination but a responsibility**. To hav
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chokmah as the Two
 
 **Chokmah** is the second Sephirah, titled **Wisdom** (*Chokhmah* in Hebrew, also spelled Hochmah or Hokmah). It is the first movement from the absolute unity of Kether—the first differentiation, the first "Yes" that creates polarity by implying a "No." Where Kether is the point, Chokmah is the *line*—extension, direction, trajectory.

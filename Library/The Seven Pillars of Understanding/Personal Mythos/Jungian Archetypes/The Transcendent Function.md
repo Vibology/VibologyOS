@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 8), The Transcendent Function (1916/1958)"
 ---
+
 # The Transcendent Function
 *The Union of Opposites — Psychic Synthesis Through Creative Tension*
 

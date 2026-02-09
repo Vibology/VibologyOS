@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Healing (1)
+
 ## Gates: 25/46/58/52 | Quarter of Initiation
 
 ### Ra's Keynote

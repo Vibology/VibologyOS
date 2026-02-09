@@ -15,6 +15,7 @@ element_primary: Water
 element_secondary: Water
 title: Queen of the Thrones of the Waters
 ---
+
 # Queen of Cups
 *Queen of the Thrones of the Waters*
 
@@ -88,6 +89,7 @@ Vice, dishonor, depravity—or a distinguished woman not to be trusted. The reve
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Water of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

@@ -9,10 +9,12 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. System overview verified against Grimoire with inline citations. Educational/synthesis content clearly distinguished."
 ---
+
 # Human Design
 *The Science of Human Differentiation*
 
 ---
+
 ## The System
 
 Human Design is a **synthesis system** that maps the precise genetic imprinting received at birth through the neutrino stream. It reveals the mechanical blueprint of individual differentiation—the specific configuration that distinguishes *you* from the collective pattern, the unique expression of consciousness embodied in your particular vehicle.
@@ -22,6 +24,7 @@ Where other esoteric systems describe universal patterns or archetypal forces, H
 The system operates on a singular premise: **the mind is not your decision-maker**. Beneath the conditioned layers of mental chatter, societal programming, and inherited belief lies an older intelligence—somatic, instinctual, cellular. Human Design provides the tools to access this intelligence through **Strategy** (how to engage with the world) and **Authority** (how to discern truth within that engagement).
 
 ---
+
 ## Origins: The Revelation
 
 Human Design emerged in 1987 through **Ra Uru Hu** (born Robert Alan Krakower), who reported a sustained mystical experience on the island of Ibiza.[^1] Over eight days and nights, he received what he described as "The Voice"—a transmission that dictated the mechanical structure of human consciousness.
@@ -37,6 +40,7 @@ From this synthesis emerged a **BodyGraph**—a visual map of the nine Centers, 
 **Ra Uru Hu's role:** He did not *create* Human Design; he received and systematized it. His work was to translate the mechanics into language, to build a framework that could be tested empirically through lived experience. The system does not ask for belief—it asks for experiment.
 
 ---
+
 ## The Architecture: Core Components
 
 Human Design operates through seven interrelated mechanical layers:
@@ -113,6 +117,7 @@ The **Incarnation Cross** is formed by the four gates of the Personality and Des
 *Crosses are referenced in Profile entries but not yet comprehensively documented.*
 
 ---
+
 ## The Mechanics: How It Works
 
 Human Design posits that consciousness is **imprinted** by the neutrino stream at two critical moments:
@@ -127,6 +132,7 @@ At these moments, the positions of the Sun, Moon, and planets activate specific 
 This is not astrology (though it uses planetary positions). Astrology describes the *sky's influence*; Human Design describes the *neutrino imprinting* that occurs when planetary bodies mediate the cosmic information stream. The planets are not causal—they are *conditioning agents* through which information flows.
 
 ---
+
 ## Role in Vibology
 
 Human Design is the **individual coordinate** in the Seven Pillars of VibologyOS. It answers the question: *How does the universal pattern (I-Ching, Tarot, Astrology) express through this specific vehicle?*
@@ -141,6 +147,7 @@ When synthesized with **[[The Astrolabe]]** (Qabalah/I-Ching), Human Design reve
 Human Design does not replace other systems—it **grounds** them. Astrology shows the sky; Human Design shows how your body receives that information. Tarot reveals archetypal forces; Human Design shows which forces are consistent in your design and which you sample from the environment.
 
 ---
+
 ## Living the Experiment
 
 Human Design is not a belief system—it is an **experiment**. Ra Uru Hu's foundational instruction was: *"Don't believe me. Test it."*
@@ -180,6 +187,7 @@ This is not transcendence. It is **alignment**—the recognition that you are a 
 - **[[Seven-Coordinate Navigation]]** — HD as one coordinate in multi-system synthesis
 
 ---
+
 ## Practical Foundation
 
 **To begin working with Human Design:**

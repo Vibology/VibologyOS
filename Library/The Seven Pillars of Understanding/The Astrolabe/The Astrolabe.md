@@ -6,10 +6,12 @@ verified: true
 source_verified: true
 status: Draft
 ---
+
 # The Astrolabe
 *An 88-Card Oracle Instrument — A Universe in Your Hand*
 
 ---
+
 ## Core Domain
 
 The Astrolabe is an **88-card oracle deck** built in two parts: **The Athanor** (24 cards), which provides the interpretive and archetypal lens, and **The Codex** (64 cards), which maps the 64-fold architecture — I-Ching hexagrams, Human Design gates, Gene Keys — as it actually is.
@@ -19,6 +21,7 @@ The name derives from the Greek *astrolabon*, "star-taker"[^1] — the ancient i
 88 mirrors the 88 constellations mapping the complete observable sky.
 
 ---
+
 ## Structure
 
 ### The Athanor (24 Cards) — The Interpretive Lens
@@ -90,6 +93,7 @@ The 64 cards are organized into **8 families by lower trigram**[^5] — the inne
 | ☱ Lake | ——═ | Pool | Joy, expression, openness |
 
 ---
+
 ## Cross-System Integration
 
 The Astrolabe integrates multiple esoteric systems while keeping each in its proper register:
@@ -110,6 +114,7 @@ The Athanor's Materia and Furnace cards provide the transformative framework —
 The 12 Archetypes synthesize zodiacal identity with Jungian archetypal patterns and 1980s cultural encoding. They provide the WHO — the figure present in the work.
 
 ---
+
 ## Oracle Reading
 
 **The Athanor asks:** What substance is in play? What operation is active? Who is present?
@@ -119,6 +124,7 @@ The 12 Archetypes synthesize zodiacal identity with Jungian archetypal patterns 
 Together, The Athanor provides the interpretive context and The Codex provides the precise architectural location. A reading with both parts says: *this archetypal figure is present, undergoing this alchemical process, and the field reads as this hexagram.*
 
 ---
+
 ## Role in Vibology
 
 The Astrolabe is the seventh pillar — the Observatory's own oracle instrument. Where [[The Tarot]] provides the Western esoteric divination tradition and [[Human Design]] provides the mechanical map, The Astrolabe bridges the 64-fold architecture into a working oracle system grounded in the I-Ching's own identity.

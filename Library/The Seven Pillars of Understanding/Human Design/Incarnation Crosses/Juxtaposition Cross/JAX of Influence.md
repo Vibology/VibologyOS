@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Influence
+
 ## Gates: 31/41/24/44 | Quarter of Civilization
 
 ### Ra's Keynote

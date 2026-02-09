@@ -17,10 +17,12 @@ function: Direct human interaction, guardianship, intimacy
 human_faculty: Grounded presence and intimacy with the immediate
 hd_center: Root Center
 ---
+
 # Angels
 *The Ninth Order of Angels — Intimate Companions of the Soul*
 
 ---
+
 ## Correspondences
 The **Angels** (Hebrew: *Kerubim*, כְּרֻבִים — "The Strong") are the ninth and lowest order of the celestial hierarchy—the **most intimate** with humanity, the **closest to the earth**, the **companions of the threshold**. They are the guardians of individual souls, the presences we feel in moments of crisis or grace, the gentle nudge that turns us left instead of right, the whisper that says *"Wait"* or *"Go."*
 
@@ -66,6 +68,7 @@ The Angels are the **ones who draw near**. They are not distant, exalted, terrif
 The gematria (numerical value) of *Kerubim* (כְּרֻבִים) is **272**, which reduces to **11** (2+7+2 = 11), and further to **2** (1+1 = 2). The number **2** represents **duality, partnership, relationship**—the Angel and the human soul in companionship. It also represents the **Moon**, which has two phases (waxing and waning), and the **two pillars** (Jachin and Boaz) that flank the entrance to the Temple. The Angels are the **threshold guardians**, the companions at the gate between worlds.
 
 ---
+
 ## Core Correspondences
 
 | **Attribute** | **Correspondence** |
@@ -95,7 +98,9 @@ The gematria (numerical value) of *Kerubim* (כְּרֻבִים) is **272**, whi
 | **Invocation** | *"Guardian angel, guide me. Walk beside me. Whisper when I need to hear."* |
 
 ---
+
 ## Invocation
+
 ### 1. Meditation and Contemplation
 
 To meditate on the Angels is to meditate on **intimacy, presence, and the gentle guidance of the soul**. This is not the overwhelming fire of the Seraphim or the cosmic governance of the Dominations. This is **personal**. This is the angel who knows your name.
@@ -231,6 +236,7 @@ To work with Angelic consciousness is to cultivate:
 - **You Are Not Alone**
 
 ---
+
 ## The Celestial Hierarchy Deep Dive
 
 ### The Angels in Pseudo-Dionysius's System
@@ -273,6 +279,7 @@ And within the Third Triad:
 - **Angels:** Communicate to *every* individual (the guardian angel assigned to every soul)
 
 ---
+
 ## Qabalistic Integration
 
 ### Yesod: The Foundation
@@ -311,6 +318,7 @@ This is why we do not "see" our guardian angels (usually), but we *feel* them—
 - **Geometric Form:** The enneagram (nine-pointed figure), the spiral (cyclic, rhythmic)
 
 ---
+
 ## Biblical and Scriptural Foundation
 
 ### Exodus 23:20-21: The Angel Sent Ahead
@@ -353,6 +361,7 @@ In the **Book of Tobit** (Jewish and Catholic canon), the Archangel Raphael disg
 In **1 Enoch**, the fallen angels (the Watchers) are said to have descended to earth and taken human wives, producing the Nephilim (Genesis 6:1-4). This is the **shadow** of the Angels—the temptation to descend *too far*, to become overly involved in material reality, to lose the vertical connection to the Source.
 
 ---
+
 ## Iconography and Symbolism
 
 ### Traditional Depictions
@@ -386,6 +395,7 @@ The Angels, dwelling in Yesod (the Moon), are **mirrors**. The Moon does not gen
 Your guardian angel is the **mirror of your soul's purpose**. It shows you, gently and patiently, who you are meant to become.
 
 ---
+
 ## Function in the Divine Economy
 
 ### Cosmic Role: The Final Mediation
@@ -430,6 +440,7 @@ The Ishim are not angels in the traditional sense—they are **humans who have b
 The Angels, dwelling in Yesod, are the **bridge** between the angelic realm and the sanctified human. They guide each soul on the journey from **unconsciousness to consciousness**, from **ego to Self**, from **Malkuth to Kether** (the return journey).
 
 ---
+
 ## Human Consciousness Parallel
 
 ### The Angels as Grounded Presence
@@ -491,6 +502,7 @@ The Self speaks not in shoulds (that is the superego, the internalized parent), 
 The Self does not coerce. It **invites**. And if you do not listen, it waits. It is patient. It has eternity.
 
 ---
+
 ## Mythological and Cross-Tradition Parallels
 
 ### Greek: The Daimon
@@ -530,6 +542,7 @@ The **bodhisattvas** (especially Avalokiteshvara, the embodiment of compassion) 
 Many Indigenous traditions speak of **spirit guides**—ancestors, animal spirits, or nature intelligences that accompany and protect the individual. These are not angels in the Abrahamic sense, but they serve the same function: **guidance, protection, and companionship**.
 
 ---
+
 ## Jungian and Psychological Dimension
 
 ### Angels as Archetypes
@@ -563,6 +576,7 @@ The Jungian (and mystical) goal is **integration, not identification**.
 To integrate Angelic consciousness is to **become a vessel** for subtle guidance without claiming to be the source of that guidance.
 
 ---
+
 ## Fallen Aspect
 
 ### The Fall of the Watchers
@@ -605,7 +619,9 @@ The guardian angel is not here to make you feel special. It is here to **guide y
 If your "guardian angel" only tells you what you want to hear, it is not your guardian angel—it is your **ego wearing angel wings**.
 
 ---
+
 ## Contemplative Practice
+
 ### How to Cultivate Relationship with Your Guardian Angel
 
 The guardian angel is **always present**. You do not need to invoke it in the sense of summoning it from afar. You need only to **listen**.
@@ -678,6 +694,7 @@ Do NOT call the guardian angel to:
 - Make decisions for you
 
 ---
+
 ## The Gift of Integration
 
 ### What Emerges When Angelic Consciousness is Integrated

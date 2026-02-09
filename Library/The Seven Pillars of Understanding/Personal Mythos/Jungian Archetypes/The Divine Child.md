@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Divine Child: The Promise of What Is Yet to Be
 
 ## Overview
+
 ### Jung's Definition
 
 The Divine Child is an archetype of **futurity**, **rebirth**, and **the Self in potentia**â€”the promise of wholeness not yet realized. Unlike [[The Self]], which represents the goal of Individuation, the Divine Child embodies the **journey toward** that goal, the perpetual renewal that makes individuation possible.
@@ -279,6 +280,7 @@ Teachers, therapists, and mentors often project the Divine Child onto studentsâ€
 - The Child is **innocent yet contains all opposites**
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 **The Divine Child as Archetype of the Self:**

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Demands (2)
+
 ## Gates: 58/52/48/21 | Quarter of Mutation
 
 ### Ra's Keynote

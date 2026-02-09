@@ -17,6 +17,7 @@ planetary: Mercury in Cancer
 decan: Cancer 10°-20° (2nd Decan)
 title: Lord of Abundance
 ---
+
 # Three of Cups
 *The Lord of Abundance*
 
@@ -66,6 +67,7 @@ The key teaching: **Joy shared is joy multiplied—but joy without discernment b
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Binah as the Three
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It is the Great Mother of the Supernal Triad—the receptive feminine that receives the dynamic masculine force of Chokmah and gives it *form*. Where Chokmah is the seed, Binah is the womb. Where Chokmah is the lightning flash, Binah is the vessel that contains it.

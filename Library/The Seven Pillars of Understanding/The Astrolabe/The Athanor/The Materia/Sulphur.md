@@ -13,10 +13,12 @@ verification_date: 2026-02-03
 verification_source: "Paracelsus Opus Paramirum; Jung CW 12, CW 14; Edinger Anatomy of the Psyche"
 grimoire_source: "Paracelsus Hermetic and Alchemical Writings, Jung CW 12, Jung CW 14, Edinger Anatomy of the Psyche"
 ---
+
 # Sulphur
 *The combustible principle — soul-fire, the force of desire, the active agent that drives transformation.*
 
 ---
+
 ## Alchemical Principle
 
 Sulphur is one of the *Tria Prima* — the three philosophical principles (Sulphur, Mercury, Salt) that alchemists believed constituted all matter. Where [[Prima Materia]] is undifferentiated potential, Sulphur is the first differentiation: the **active, fiery, masculine principle** that burns, desires, and transforms. It is the soul in its original sense — *anima* not as feeling but as *animating force*, the spark that makes matter move (Paracelsus, *Opus Paramirum*)[^1].
@@ -26,6 +28,7 @@ In psychological alchemy, Sulphur represents **consciousness and desire** — th
 The alchemical texts are explicit: Sulphur must be *purified*. Raw Sulphur is corrosive — it poisons, blackens, destroys. Philosophical Sulphur, refined through the work, becomes the animating fire that does not consume but *transmutes*. The question is not whether to suppress desire but how to purify it — to separate genuine soul-fire from ego inflation, authentic passion from compulsive craving.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -45,6 +48,7 @@ Sulphur is **Fire** — not the purifying fire of [[Calcination]] but *combustio
 > *Vibology Synthesis: Sulphur appears when the soul's fire is active — when you feel urgency, desire, the drive to act. The question is not whether to suppress the fire but whether it serves transformation or ego. Does this passion refine you, or does it burn you? The alchemist's task is not to extinguish Sulphur but to purify it — to separate genuine soul-calling from compulsive craving. Sulphur asks: what do you genuinely desire, beneath the noise of the Not-Self?*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

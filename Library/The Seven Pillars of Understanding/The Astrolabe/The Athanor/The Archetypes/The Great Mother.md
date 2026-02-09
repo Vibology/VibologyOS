@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9i (Archetypes and Collective Unconscious), Neumann The Great Mother"
 grimoire_source: "Jung CW 9i, Neumann The Great Mother, von Franz Shadow and Evil in Fairy Tales"
 ---
+
 # The Great Mother
 *Sarah Connor — The Fierce Protector*
 
 ---
+
 ## Archetypal Identity
 
 The Great Mother represents the archetypal **nurturer-warrior**—the one who feeds the tribe while simultaneously defending it from annihilation. This archetype embodies the earthy determination of Taurus: the capacity to sustain life through both provision and protection.
@@ -29,6 +31,7 @@ In Jung's framework, The Great Mother represents one of the primary archetypal i
 The Great Mother appears when **caring demands strength**, when nourishment requires discernment, when the question is not "will you provide?" but "for whom will you spend your life force?" This is the archetype of selective, fierce, sustainable caring.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Great Mother appears when **caring demands strength**, when nourishment requ
 | Season | Mid-Spring (growth, fertility, abundance) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Taurus Principle
@@ -72,6 +76,7 @@ Sarah Connor's relationship with John inverts the usual dependency: she prepares
 > *Vibology Synthesis: The Great Mother appears when caring requires strength, when nourishment is not soft but fierce. The question is not "will you care?" but "can you care without depleting? Can you discern who truly needs your life-force?" Fill your cup first. Then defend what you nourish with everything you have.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

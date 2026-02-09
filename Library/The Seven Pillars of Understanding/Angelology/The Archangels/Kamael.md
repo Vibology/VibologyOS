@@ -21,10 +21,12 @@ function: Strength, courage, avenging evil, discrimination, necessary destructio
 angelic_order: Seraphim (Burning Ones) or Powers (Elohim)
 aliases: [Camael, Khamael, Chamuel, Samael]
 ---
+
 # Kamael
 *The Ghostblade*
 
 ---
+
 ## Essence
 
 **Archangel Kamael** (Hebrew: כמאל, *Kama'el* — "He Who Sees God" or "Severity of God") is the **Prince of Strength and Courage**, the **Fighting Angel**, and the **Wielder of the Sword of Justice**. In the Qabalistic tradition, Kamael governs **[[Geburah]]** (Severity, the fifth [[Sephiroth|Sephirah]]), the sphere of divine strength, necessary destruction, and discriminating power. Where [[Michael]] at [[Tiphareth]] represents the solar hero who defends the Self, Kamael at Geburah is the *ruthless force* that cuts away all that does not serve the divine plan—the surgeon, the executioner, the warrior who does not flinch.
@@ -32,6 +34,7 @@ aliases: [Camael, Khamael, Chamuel, Samael]
 Kamael is not a comforting presence. He does not soothe, heal, or console. Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. To invoke Kamael is to call upon the force that will burn away everything false, even if the ego believes it cannot survive the fire.
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: He Who Sees God
@@ -52,6 +55,7 @@ Some Qabalistic sources identify Kamael as the angel who wrestled with Jacob at 
 Kamael's function is **purgation**—the removal of the diseased, the elimination of the weak, the destruction of what has outlived its purpose. The cancer must be removed. The rotted foundation must be torn down. The false self must die that the true Self might emerge. This is not cruelty but *clarity*.
 
 ---
+
 ## Core Correspondences
 
 | Attribute | Correspondence |
@@ -74,6 +78,7 @@ Kamael's function is **purgation**—the removal of the diseased, the eliminatio
 | **Function** | Avenging evil, severing attachments, protecting through strength |
 
 ---
+
 ## Theological Depth
 
 ### Qabalistic Context
@@ -570,8 +575,8 @@ Kamael *is* the archangelic intelligence of **[[Geburah]]**. To study the Qabali
 In **[[Jungian Archetypes|Jungian Psychology]]**, Kamael is the **Warrior archetype** and the **integrated Shadow**—the capacity to own one's darkness without being consumed by it.
 
 
-
 ---
+
 ## Fallen Aspect
 
 ### The Qlippothic Shell: Golachab (The Burners)
@@ -600,6 +605,7 @@ The integrated warrior *serves*. The inflated tyrant *dominates*.
 
 
 ---
+
 ## Invocation
 
 ### When to Invoke Kamael

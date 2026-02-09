@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Distraction (1)
+
 ## Gates: 56/60/27/28 | Quarter of Civilization
 
 ### Ra's Keynote

@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Experimentation
+
 ## Gates: 16/9/63/64 | Quarter of Civilization
 
 ### Ra's Keynote

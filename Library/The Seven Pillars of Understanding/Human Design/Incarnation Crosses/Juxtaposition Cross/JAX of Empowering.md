@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Empowering
+
 ## Gates: 14/8/59/55 | Quarter of Mutation
 
 ### Ra's Keynote

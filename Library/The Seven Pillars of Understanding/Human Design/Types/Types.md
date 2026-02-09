@@ -6,6 +6,7 @@ verified: true
 source_verified: true
 category: Index
 ---
+
 # The Four Types
 *Energy Configurations of Human Design*
 

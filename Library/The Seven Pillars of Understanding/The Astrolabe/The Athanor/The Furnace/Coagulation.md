@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 14"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 14 (Mysterium Coniunctionis)"
 ---
+
 # Coagulation
 *Spirit fixed permanently into matter — the seventh operation, the completion of the Great Work.*
 
 ---
+
 ## The Operation
 
 **Coagulation** (*coagulatio*) is the final operation, the completion of *solve et coagula* — dissolve and coagulate. Where [[Dissolution]] liquefied and [[Distillation]] vaporized, coagulation *solidifies* the purified essence into permanent form. In the laboratory, this is the moment when the volatile spirit — refined through six prior operations — is fixed into matter that will not evaporate. The philosopher's stone crystallizes. The gold is made (Edinger, *Anatomy*, p. 71)[^1].
@@ -27,6 +29,7 @@ Psychologically, coagulation is **embodiment** — the descent of spirit into li
 The operation belongs to the element **Earth** — not the undifferentiated earth of [[Prima Materia]] but *crystallized earth*, the ground that has been worked seven times and now holds spirit without losing it. Coagulation completes [[Rubedo]] (reddening), the final stage of the work. The red stone is not just pure or alive but *fixed* — spirit and matter united so completely that they will never separate again. This is the *lapis philosophorum*, [[The Philosopher's Stone]], in its completed form: the marriage made permanent, the gold that endures.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Coagulation produces the **Red Stone** (*lapis ruber*), the final form of the ph
 > *Vibology Synthesis: Coagulation appears when embodiment is the final step. For a 4/6 profile (Opportunist/Role Model), coagulation is the transition from the roof (observation) to the ground (modeling) made permanent — not a temporary descent but the recognition that wisdom *is* its embodiment. The 6th line Role Model is the coagulated Self: transformation visible in the way you move through the world, not as performance but as what you are. When this card appears, ask: what understanding is ready to become permanent practice? What have I learned that must now land in the body and stay there? Coagulation does not ask for more insight; it asks for incarnation.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

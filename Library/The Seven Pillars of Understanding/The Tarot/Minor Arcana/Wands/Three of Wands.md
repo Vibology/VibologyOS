@@ -16,6 +16,7 @@ planetary: Sun in Aries
 decan: Aries 10°-20° (2nd Decan)
 title: Lord of Established Strength
 ---
+
 # Three of Wands
 *The Lord of Established Strength*
 
@@ -67,6 +68,7 @@ The key teaching: **True strength is not proven in the act of doing, but in the 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Binah as the Three
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It is the Great Mother, the Supernal Mother, the principle of *form* that receives the undifferentiated creative force of Chokmah (the Father) and gives it structure, boundary, limitation. Where Chokmah is the seed, Binah is the womb. Where Chokmah is expansion, Binah is contraction. Where Chokmah is "Yes," Binah is "No"—but it is the "No" that makes manifestation possible.

@@ -17,10 +17,12 @@ function: Messengers bearing divine decrees, revelation, prophecy
 human_faculty: Individuated spiritual will
 hd_center: Sacral Center
 ---
+
 # Archangels
 *The Eighth Order of Angels — Bearers of Divine Decrees, Heralds of Revelation, Announcers of Destiny*
 
 ---
+
 ## Correspondences
 The **Archangels** (singular: *Archangel*; Hebrew: *Beni Elohim*, "Sons of Gods") are the eighth order of angels in the celestial hierarchy, positioned at the heart of the **Third Triad** (Principalities, Archangels, Angels). They occupy a paradoxical station in the angelic economy—nominally the second-lowest rank by hierarchical number, yet functionally among the **most powerful and exalted** beings in the entire celestial structure. The term "Archangel" means "chief angel" or "great angel," and while the order as a whole ranks eighth, the individual Archangels who bear this title—**[[Michael]], [[Gabriel]], [[Raphael]], [[Uriel]]**—wield authority and influence far beyond their nominal position.
 
@@ -41,6 +43,7 @@ When Gabriel appears to Mary (Luke 1:26-38) with the Annunciation—*"Hail, favo
 The Archangels are the angels of **vocation and calling**. They appear when a soul is being summoned to step into their destiny, when the ordinary trajectory of life is interrupted by divine purpose. They are the burning bush that says, *"Take off your sandals, for the place where you stand is holy ground"* (Exodus 3:5). They are the voice that calls Saul on the road to Damascus, overturning his entire identity in a blinding flash of light (Acts 9:3-6).
 
 ---
+
 ### Biblical Foundation: The Great Archangels in Scripture
 
 While the order of Archangels encompasses many beings, the tradition identifies **four primary Archangels** (sometimes seven, in apocryphal and esoteric sources) who appear most frequently in scripture and mystical literature:
@@ -71,6 +74,7 @@ While the order of Archangels encompasses many beings, the tradition identifies 
 These four Archangels represent the **four cardinal directions** in many esoteric traditions (East, West, South, North) and the **four elements** (Air, Water, Fire, Earth). They are invoked in the Lesser Banishing Ritual of the Pentagram (LBRP) as the guardians of the four quarters, demonstrating their role as **threshold guardians** who stand between the human and the divine.
 
 ---
+
 ### The Qabalistic Context: Hod and the Sphere of Splendor
 
 In the **Qabalistic Tree of Life**, the Archangels as an order are the angelic choir associated with **Hod** (Splendor or Glory), the eighth Sephira, positioned on the **left pillar** (the Pillar of Severity) below Geburah and opposite Netzach.
@@ -82,6 +86,7 @@ The divine name associated with Hod is **Elohim Tzabaoth** (אלהים צבאו�
 The planetary attribution of Hod is **Mercury** (☿)—the messenger, the psychopomp, the god of communication, commerce, thresholds, and trickery. Mercury is **Hermes** in Greek, **Thoth** in Egyptian, **Nabu** in Babylonian—the divine scribe, the revealer of hidden knowledge, the guide of souls between worlds. The Archangels, inhabiting Hod, embody this Mercurial function: they are the **messengers between realms**, the translators of divine speech into human language, the guides who lead souls across thresholds.
 
 ---
+
 ### The Hebrew Name: Beni Elohim
 
 The Qabalistic name for the Archangels is **Beni Elohim** (בני אלהים), meaning *"Sons of Gods"* or *"Sons of the Divine Ones."* This is a provocative and mysterious title, laden with theological complexity.
@@ -95,6 +100,7 @@ The title *Beni Elohim* suggests **divine sonship**—beings who are not merely 
 This title also evokes the **paradox of divine multiplicity**—the name *Elohim* is grammatically plural (the singular is *Eloah*), yet it is used with singular verbs to describe the one God. *Beni Elohim* is the "sons of the plural-singular God," suggesting that the Archangels participate in the mystery of **divine unity expressed through multiplicity**.
 
 ---
+
 ## Core Correspondences
 
 | **Attribute** | **Correspondence** |
@@ -125,7 +131,9 @@ This title also evokes the **paradox of divine multiplicity**—the name *Elohim
 | **Invocation** | Prayer for clarity of vocation, revelation of purpose, courage to answer the summons |
 
 ---
+
 ## Invocation
+
 ### 1. Meditation and Contemplation
 
 To meditate on the Archangels is to meditate on **the threshold between divine will and human response**. This is not passive contemplation—it is **active listening** for the summons that calls you by name.
@@ -226,6 +234,7 @@ The Archangels do not force. They **announce**, and then they wait. The response
 - Herald, messenger, translator of divine will
 
 ---
+
 ## Synthesis Notes
 
 ### 1. The Celestial Hierarchy Deep Dive

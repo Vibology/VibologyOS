@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Justice (XI)
 *The Daughter of the Lords of Truth, The Ruler of Balance*
 
 ---
+
 ## Traditional Symbolism
 
 When Justice appears ***upright*** in a reading, it speaks to the realm of equilibrium and righteous adjustment. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *equity, rightness, probity,* and *executive force*—and can represent a person whose action is in question[^1].
@@ -37,6 +39,7 @@ galism, the letter that kills while the spirit gives life. "Bigotry" and "bias" 
 The key insight is that Justice always deals with **the relationship between action and consequence**—upright or reversed, she governs whether we accept the teaching of cause and effect or resist it to our detriment.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

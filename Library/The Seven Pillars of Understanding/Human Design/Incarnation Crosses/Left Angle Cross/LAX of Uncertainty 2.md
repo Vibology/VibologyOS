@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Uncertainty (2)
+
 ## Gates: 14/8/59/55 | Quarter of Mutation
 
 ### Ra's Keynote

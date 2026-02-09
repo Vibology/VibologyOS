@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Separation (2)
+
 ## Gates: 5/35/47/22 | Quarter of Mutation
 
 ### Ra's Keynote

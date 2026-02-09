@@ -9,15 +9,18 @@ verification_date: 2026-02-07
 grimoire_source: "Brennan's Hellenistic Astrology, Lilly's Christian Astrology, Ptolemy's Tetrabiblos"
 verification_notes: "Complete content verified against Brennan's Hellenistic Astrology (primary source for Hellenistic orbs, sign-based vs. degree-based aspects, bonification/maltreatment), Lilly's Christian Astrology (traditional names, moiety calculations), and Ptolemy. All five major aspects fully described with traditional interpretations, orbs, and examples. Psychological synthesis clearly marked as interpretive layer."
 ---
+
 # Aspects
 *The Geometry of Relationship*
 
 ---
+
 ## What Are Aspects?
 
 **Aspects** are angular relationships between planets in the natal chart or by transit. They reveal how planetary archetypes *interact*—whether they reinforce, challenge, or integrate one another. Aspects are not "good" or "bad" but **dynamic**: some create flow, others create friction, and friction is often the catalyst for growth.
 
 ---
+
 ## The Five Major Aspects
 
 Lilly describes five primary configurations used in judgment: conjunction, sextile, square, trine, and opposition.[^1]

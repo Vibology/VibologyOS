@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of the Clarion (1)
+
 ## Gates: 51/57/61/62 | Quarter of Initiation
 
 ### Ra's Keynote

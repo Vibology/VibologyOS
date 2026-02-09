@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (honour, magistrates, profession, mother), angular classification (Medium Coeli), Capricorn correspondence, and Mars cosignificator verified via NotebookLM query against Lilly. No planetary joy for 10th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 10th House
 *Vocation and the Peak of Worldly Estimation*
 
 ---
+
 ## Archetypal Theme
 
 The **10th House** is the **Midheaven** (MC)—the highest point in the chart, visible to all. This is the house of **vocation**: not career (that's 6th House), but *calling*—the work the world recognizes as yours. It governs reputation, public authority, achievement, and the legacy you leave when the Sun sets on your life.

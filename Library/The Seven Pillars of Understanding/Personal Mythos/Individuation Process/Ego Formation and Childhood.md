@@ -20,6 +20,7 @@ psychological_task: Differentiation of subject from object
 **Individuation Stage 1 | Birth–12 Years | Alchemical Operation: Separatio**
 
 ## Overview
+
 ### Jung's Theory of Childhood Consciousness
 
 In *The Structure and Dynamics of the Psyche* (CW 8), Jung establishes that **consciousness is not innate but arises from the unconscious** as a secondary phenomenon.[^1] He writes:
@@ -99,6 +100,7 @@ A well-formed childhood ego demonstrates:
 Separation, Differentiation, Emergence, Innocence, Potential, Mother-bond, Object permanence, Language acquisition, Ego-birth, The Uroboros
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive: The Ego as Secondary Phenomenon
 
 For Jung, the ego is **not primary but derivative**. It arises from the Self (the totality of the psyche) like a bud from a branch. The Self contains the ego, not the reverse. This is contrary to Freud, for whom the ego was the mediator between id and superego.

@@ -582,6 +582,7 @@ The answer is never a new *system* but a new *relationship*—conscious, humble,
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Celtic mythology, for Jung, represents the **collective unconscious as living reality**—not "past" but *eternally present*, accessible through ritual, vision, and dream. The Otherworld (Sidhe, Tir na nOg, Annwn) is Jung's **Collective Unconscious**—timeless, containing archetypal forms and ancestral memory.

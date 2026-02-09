@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Behavior
+
 ## Gates: 10/15/18/17 | Quarter of Mutation
 
 ### Ra's Keynote

@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # The Call to Adventure
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Call to Adventure represents the **activation moment** when the psyche announces that transformation is necessary. In Campbell's topology[^1], this is Stage 2 of the monomyth, following immediately after the establishment of the Ordinary World. It marks the transition from **unconscious stasis** to **conscious engagement** with the individuation process.
@@ -181,6 +182,7 @@ Once the Call is accepted (Stage 4: [[Crossing the First Threshold]]), integrati
 **The Call as Relational**: Sometimes the Call *is* the relationship—meeting a person who catalyzes your transformation. Beware projection: they may be the Threshold Guardian, not the destination.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Call as Ignition
 
 The Call (Stage 2) is the **ignition** of Campbell's 12-stage monomyth:
@@ -469,6 +471,7 @@ If the Call is heeded, it confers irreplaceable gifts:
 - The Call initiates the journey; [[The Ordeal]] (Stage 8) is the journey's nadir. By heeding the Call, you begin the training that will allow you to survive the death ahead. Refusal means arriving at the Ordeal unprepared—trauma instead of transformation.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Call: Heroic Choice
 
 In patriarchal myth, the Call is often **externalized as quest**:

@@ -527,6 +527,7 @@ The **Medicine Wheel** is a **mandala of wholeness**—the Self as sacred circle
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Indigenous mythology, for Jung, represented **participation mystique**—the original unity of psyche and world that Western consciousness has sacrificed for ego development. Yet Jung was careful not to romanticize or regress: the task for modern Western psyche is not to "return to indigenous consciousness" (impossible, unethical) but to **reintegrate the relational dimension** after differentiation.

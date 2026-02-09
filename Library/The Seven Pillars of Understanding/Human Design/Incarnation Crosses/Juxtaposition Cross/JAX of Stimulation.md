@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Stimulation
+
 ## Gates: 56/60/27/28 | Quarter of Civilization
 
 ### Ra's Keynote

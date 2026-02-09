@@ -15,6 +15,7 @@ element_primary: Earth
 element_secondary: Water
 title: Princess of the Waters, Lotus of the Palace of the Floods
 ---
+
 # Page of Cups
 *Princess of the Waters, Lotus of the Palace of the Floods*
 
@@ -89,6 +90,7 @@ Taste, inclination, attachment—but also seduction, deception, artifice. The re
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Earth of Water
 
 The Court Cards operate according to a formula: each rank (King, Queen, Knight, Page) embodies a primary element, and each suit embodies a secondary element. The interaction between these creates the Court card's unique character.

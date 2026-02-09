@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Upheaval (2)
+
 ## Gates: 18/17/39/38 | Quarter of Duality
 
 ### Ra's Keynote

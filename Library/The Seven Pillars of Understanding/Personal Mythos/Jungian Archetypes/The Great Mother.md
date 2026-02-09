@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Great Mother: The Nourishing Womb and the Devouring Abyss
 
 ## Overview
+
 ### Jung's Definition
 
 The Great Mother is the primordial archetype of the feminine, embodying the dual forces of life-giving nourishment and death-dealing destruction. In *Symbols of Transformation* (CW 5, par. 612), Jung writes[^1]:
@@ -281,6 +282,7 @@ The Mother is **the primary archetype projected in romantic relationships**.
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Mother archetype occupies a foundational position in Jung's model of the psyche:

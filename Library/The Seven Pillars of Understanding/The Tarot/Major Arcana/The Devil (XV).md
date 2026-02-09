@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Devil (XV)
 *The Lord of the Gates of Matter / The Child of the Forces of Time*
 
@@ -59,6 +60,7 @@ The core teaching: **What you resist, persists. What you integrate, liberates.**
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Ayin (ע) – The Eye That Sees (and Does Not See)
 
 **Ayin** carries a dual meaning: it means "eye" and also "nothingness" (*ayin* as in *ein sof*, the infinite void). This paradox is the essence of The Devil: the eye that sees only surface, that perceives form as substance, that mistakes appearance for reality.

@@ -14,6 +14,7 @@ qabalistic_world: Atziluth (Pure Spirit)
 sephirah: Kether
 title: Root of the Powers of Fire
 ---
+
 # Ace of Wands
 *The Root of the Powers of Fire*
 
@@ -64,6 +65,7 @@ The key teaching: **The Ace of Wands is an offer, not a guarantee**. The creativ
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Kether as the Ace
 
 **Kether** is the first Sephirah, titled **Crown** (*Kether* in Hebrew). It is the initial point of manifestation, the first stirring of the Unmanifest into form. Kether is not "God" (which would be the Ain Soph, the Limitless beyond the Tree), but the *first emanation* of divinity—the point at which "nothing" becomes "something."

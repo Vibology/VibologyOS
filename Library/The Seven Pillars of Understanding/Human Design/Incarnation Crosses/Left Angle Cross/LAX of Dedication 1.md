@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Dedication (1)
+
 ## Gates: 23/43/30/29 | Quarter of Civilization
 
 ### Ra's Keynote

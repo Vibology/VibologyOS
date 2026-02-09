@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Edinger Anatomy of the Psyche; Jung CW 12"
 grimoire_source: "Edinger Anatomy of the Psyche, Jung CW 12 (Psychology and Alchemy)"
 ---
+
 # Distillation
 *Repeated purification through boiling and condensation — the sixth operation, refining the essence.*
 
 ---
+
 ## The Operation
 
 **Distillation** (*distillatio*) is the operation of refinement through repetition. In the laboratory, distillation heats a liquid until it vaporizes, then cools the vapor until it condenses back into liquid — and repeats the process again and again, each cycle removing more impurities until only the purest essence remains. What evaporates is more volatile (lighter, more spiritual); what remains is more fixed (heavier, more material). The alchemist collects the distillate — the purified spirit — and discards the residue (Edinger, *Anatomy*, p. 149)[^1].
@@ -27,6 +29,7 @@ Psychologically, distillation is **spiritual purification** — the soul's ascen
 The operation belongs to the element **Water** in its ascending form — not the dissolving flood of [[Dissolution]] but water as vapor, the spirit rising upward. Distillation completes the purification begun in [[Albedo]] (whitening) and prepares the work for [[Rubedo]] (reddening). This is *sublimatio* — the transformation of base matter into spirit through repeated heating and cooling, earth becoming air, dense becoming light.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -50,6 +53,7 @@ True distillation includes both: ascent *and* descent, repeated. The soul learns
 > *Vibology Synthesis: Distillation appears when refinement is the work. For a defined Spleen (intuitive awareness in the now), distillation teaches that not all knowing arrives instantly — some truth requires *repeated return*, cycling back to the same material with more consciousness each time. The Spleen knows what is correct *now*; distillation builds wisdom that endures beyond the moment. When this card appears, ask: what understanding needs another cycle? What have I learned that is not yet refined into essence? Where am I being called to ascend for perspective, knowing I must descend again to embody? Distillation is patient work.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

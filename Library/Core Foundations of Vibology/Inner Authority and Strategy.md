@@ -8,10 +8,12 @@ source_verified: true
 verification_source: Esoteric Grimoire
 category: Foundational Practice
 ---
+
 # Inner Authority and Strategy
 *The Body's Wisdom: Decision-making Beyond the Mind*
 
 ---
+
 ## Introduction: The Sovereignty of Inner Knowing
 
 **Inner Authority and Strategy** constitute the practical methodology by which the [[Anima et Algorithm|Anima]] validates what the Algorithm presents. They are the **somatic decision-making mechanisms** that ensure you live your own design rather than the conditioned expectations of family, culture, or the strategic mind.
@@ -29,6 +31,7 @@ Ra teaches that the Mind (Personality) is designed for Outer Authority—collect
 Together, they form the **operational navigation system** for living as yourself.
 
 ---
+
 ## The Nine Types of Inner Authority
 
 Human Design recognizes **seven primary Authorities** (plus two rare variants), each corresponding to the defined centers in your BodyGraph. Your Authority is determined by which motor centers or awareness centers are defined and in what configuration.
@@ -302,6 +305,7 @@ Reflectors who honor their lunar cycle become **profound judges of correctness**
 - **[[Astrology]]:** The Moon itself—honoring the full cycle
 
 ---
+
 ## The Four Strategies: How to Engage with Life
 
 While **Authority** tells you **what** to decide, **Strategy** tells you **how** to engage with opportunities based on your **Type** (energy configuration).
@@ -404,6 +408,7 @@ When Projectors are invited, their insights land. People listen. Success follows
 **Bitterness**—the result of offering guidance that isn't wanted or recognized, leading to rejection and exhaustion.
 
 ---
+
 ## The Role in Vibology: Testing the Algorithm
 
 In the [[Anima et Algorithm]] paradigm, **Inner Authority and Strategy** are the **Anima's operational tools**—the mechanisms by which you test every insight, chart reading, transit prediction, or synthesis against your **lived, somatic truth**.
@@ -423,6 +428,7 @@ The **Anima** responds via Authority and Strategy:
 Over time, the **lived experiment** either validates the chart or reveals its limitations. This is **Syn-Gnosis**—knowledge tested through embodied experience.
 
 ---
+
 ## Practical Integration: Living Your Authority
 
 ### Daily Authority Check-In
@@ -455,6 +461,7 @@ The only way to know if Authority and Strategy are correct is to **test them**:
 4. Notice the difference
 
 ---
+
 ## Shadow of Authority: When It Fails
 
 ### Mental Override

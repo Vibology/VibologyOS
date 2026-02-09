@@ -15,6 +15,7 @@ sephirah: Malkuth
 planetary: Saturn in Sagittarius
 title: Lord of Oppression
 ---
+
 # Ten of Wands
 *Lord of Oppression*
 
@@ -72,6 +73,7 @@ The key teaching: **Completion is not worth your destruction.** The Ten of Wands
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Malkuth as the Ten
 
 **Malkuth** is the tenth and final Sephirah, titled **The Kingdom** (*Malkuth* in Hebrew, meaning "Kingdom" or "Sovereignty"). Malkuth occupies the lowest position on the Tree of Life—it is the *material world*, the *physical plane*, the realm where all the emanations from the higher Sephiroth finally *manifest* in dense, tangible form.

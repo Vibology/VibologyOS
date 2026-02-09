@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (siblings, communication, short journeys), cadent classification, Gemini correspondence, and Moon's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 3rd House
 *Communication and the Local Network*
 
 ---
+
 ## Archetypal Theme
 
 The **3rd House** governs **communication**—not just speech, but the entire network of local exchange. This is the house of siblings, neighbors, short journeys, and the immediate environment that shapes the early mind. It is the **web of connections** that forms the substrate of consciousness before philosophy (9th House) emerges.

@@ -501,6 +501,7 @@ The feathered garments (wings) suggest that the dead are *neither fully embodied
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Mesopotamian mythology dramatizes the **Ego's violent emergence from the Uroboros**. Unlike Greek myth (where consciousness gradually differentiates), Mesopotamia insists that separation is *bloody*. Marduk does not gently guide Tiamat toward transformation—he *kills* her. This is not pathology but **archetypal truth**: the Ego's birth feels like murder to the unconscious.

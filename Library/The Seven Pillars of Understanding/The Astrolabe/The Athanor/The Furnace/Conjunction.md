@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 14; Edinger Anatomy of the Psyche"
 grimoire_source: "Jung CW 14 (Mysterium Coniunctionis), Edinger Anatomy of the Psyche"
 ---
+
 # Conjunction
 *Purified opposites reunite — the fourth operation, the sacred marriage of what was separated.*
 
 ---
+
 ## The Operation
 
 **Conjunction** (*coniunctio*) is the centerpiece of the alchemical work. Where [[Separation]] distinguished the confused mass into its components, conjunction **reunites the purified opposites** into a new synthesis. In the laboratory, this is the moment when separated elements — sulfur and mercury, spirit and body, volatile and fixed — are recombined and heated together, fusing into a compound that transcends both (Edinger, *Anatomy*, p. 197)[^1].
@@ -27,6 +29,7 @@ Psychologically, conjunction is the ***hieros gamos*** — the sacred marriage o
 The operation belongs to the element **Earth** in its fertile aspect — the ground where separated seeds reunite and generate new life. Conjunction is not air's discrimination or fire's purification but *embodied union*, the moment when spirit and matter meet and produce something neither could create alone. The alchemical imagery is explicitly sexual: King and Queen, Sun and Moon, Sulfur and Mercury join in the royal bed, and their union produces the divine child — the philosopher's stone in embryonic form.
 
 ---
+
 ## Synthesis Notes
 
 ### Jungian Correspondence
@@ -46,6 +49,7 @@ Conjunction appears at the threshold between [[Albedo]] (whitening) and [[Citrin
 > *Vibology Synthesis: Conjunction appears when integration is possible. For a defined Solar Plexus and defined Sacral (emotional authority + generative life-force), conjunction teaches that wholeness is not achieved by transcending the body or bypassing emotion but by *uniting* them consciously. The emotional wave (Solar Plexus) and the sacral response (life-force) must marry — not collapse into fusion but operate as conscious partners. When this card appears, ask: what opposites in me are ready to unite? What have I held in tension long enough that synthesis is now possible? Conjunction does not erase difference; it honors difference while creating a third thing.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

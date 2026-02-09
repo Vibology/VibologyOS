@@ -10,10 +10,12 @@ source_verified: true
 verification_source: Multiple traditional sources (Agrippa, Golden Dawn, Davidson, Heywood)
 verification_notes: Seven classical planets and their archangelic rulers per Western esoteric tradition. Correspondences compiled from Hermetic Qabalah, Three Books of Occult Philosophy (Agrippa, 1533), Golden Dawn system, and validated against Heywood (1635).
 ---
+
 # The Seven Planetary Archangels
 *The Angelic Intelligences of the Seven Classical Planets*
 
 ---
+
 ## Essence
 
 The **Seven Planetary Archangels** are the angelic princes who govern the **seven classical planets** (Sun, Moon, Mercury, Venus, Mars, Jupiter, Saturn)—the luminaries and wandering stars visible to the naked eye that have shaped human consciousness since antiquity.

@@ -9,6 +9,7 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "Jung Collected Works (CW 9i, CW 12), Freud Civilization and Its Discontents"
 ---
+
 # Ego-Death
 *The Dissolution of Identity — Mystical Annihilation and Rebirth*
 

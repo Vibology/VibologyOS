@@ -16,6 +16,7 @@ planetary: Saturn in Libra
 decan: Second decan of Libra (10-20 degrees)
 title: Lord of Sorrow
 ---
+
 # Three of Swords
 
 *Lord of Sorrow*
@@ -69,6 +70,7 @@ The key teaching: **Sorrow is not the enemy of wisdom—it is the doorway**. The
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Binah in Yetzirah
 
 **Binah** is the third Sephirah, titled **Understanding** (*Binah* in Hebrew). It represents the Great Mother, the Sea from which all form arises, the principle of *limitation* that gives shape to the unlimited.

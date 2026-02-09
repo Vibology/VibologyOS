@@ -17,11 +17,13 @@ planetary: Sun in Capricorn
 decan: Third decan of Capricorn (20°-30°)
 title: Lord of Earthly Power
 ---
+
 # Four of Pentacles
 
 *Sun in Capricorn - The third decan of Capricorn*
 
 ---
+
 ## Traditional Symbolism
 According to Waite's *Pictorial Key to the Tarot*, the Four of Pentacles signifies **the surety of possessions, cleaving to that which he has, gift, legacy, inheritance**. [^1] The upright card speaks to **gain, hoard, and possession**—material security achieved and defended. Waite notes the image depicts "a crowned figure on a throne, who holds a pentacle on his crown, binds another upon his breast, and has one under each foot." The figure is immobilized by his wealth, unable to move without losing what he guards.
 The Golden Dawn titles this card the **"Lord of Earthly Power"** [^2] and attributes it to **Sun in Capricorn** [^3], the third decan of the cardinal earth sign. This is the planet of vitality, self-expression, and sovereignty (Sun) manifesting through the sign of structure, authority, and material achievement (Capricorn). The result is **established power**—authority consolidated, resources secured, position fortified. But power that is merely *held* rather than *used* becomes static, defensive, rigid.
@@ -30,6 +32,7 @@ This is a profoundly ambivalent card. In questions of financial security, it can
 When the Four of Pentacles appears **reversed**, Waite identifies meanings of **suspense, delay, opposition**. [^4] The reversal can indicate two opposite dynamics: either the security is *threatened* (the grip loosens involuntarily, the fortress is breached), or the grip is *released* (willingly or through exhaustion, the figure finally lets go).
 The Golden Dawn reversal suggests "loss through avarice; miserliness leading to isolation; the fortress becomes a prison." [^5] The energy of established power becomes *paranoia*, *stinginess*, or *collapse*. The reversed Four can also indicate *reckless spending*—the opposite extreme, where all security is abandoned and resources are squandered. Either way, the balance between security and flow is lost.
 The key teaching: **What you cling to, you cannot use**. The Four of Pentacles offers the opportunity to secure your foundation—but if you grasp too tightly, the resources become frozen, the wealth becomes burden, and the fortress becomes your cage. Security is meant to *support* life, not *replace* it.
+
 ---
 
 ## Qabalistic Position
@@ -49,14 +52,17 @@ The key teaching: **What you cling to, you cannot use**. The Four of Pentacles o
 | **Dates** | January 11 - January 19 (Sun in late Capricorn) |
 
 ---
+
 ## Divination Use
 **Upright:** Gain of money and influence, surety of possessions, material power secured. Savings, property, inheritance, legacy. The capacity to hold what you have earned, to defend your boundaries, to protect your resources. Financial responsibility, stewardship, prudence. But also: the beginning of hoarding, the fear of loss, the inability to give or receive freely. Security that becomes rigidity. The fortress that protects but also confines. Clinging to what is known because change feels threatening. Control prioritized over flow.
 *Keywords:* Security, possession, control, hoarding, boundaries, savings, inheritance, material power, established authority, rigidity, defensiveness, fear of loss.
 **Reversed (per Waite):** Suspense, delay, opposition. Security threatened—the fortress breached, resources lost, position undermined. Or, conversely, the grip loosened—generosity emerging, flow restored, the fortress voluntarily opened. Can also indicate reckless spending, squandered resources, or the collapse of defenses. Miserliness leading to isolation. Avarice. The king becomes the dragon, the wealth becomes the curse.
 *Keywords:* Loss of security, threat to resources, reckless spending, grip loosened, generosity (finally), isolation through hoarding, avarice, defenses collapsed.
+
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chesed as Abundance Solidified
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew). It is the principle of *abundance*, *generosity*, *benevolent order*—the overflowing grace of the divine, the bounty that flows without conditions.
@@ -288,8 +294,10 @@ The Four asks: **Are you using your resources to support your becoming, or have 
 The invitation is to *loosen the grip*—not to abandon security, but to hold it lightly. The open hand can both give and receive. The closed fist can do neither.
 
 ---
+
 ## Reading Examples / Case Studies
 *TBD*
+
 ---
 
 ## Cross-References

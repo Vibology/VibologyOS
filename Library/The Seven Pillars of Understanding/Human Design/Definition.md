@@ -7,10 +7,12 @@ source_verified: true
 verification_date: 2026-02-06
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011), Section Five & Six"
 ---
+
 # Definition
 *The Architecture of Internal Communication*
 
 ---
+
 ## What Definition Is
 
 **Definition** describes the flow of life force energy within the [[The BodyGraph]]. It reveals how the defined parts of you communicate with one another—whether your internal circuitry operates as a single, continuous system or as separate islands seeking connection across gaps.
@@ -26,6 +28,7 @@ This architecture determines:
 Definition is mechanical, not aspirational. It describes the fixed nature of your energetic architecture—the way your vehicle is built, not how well you drive it.
 
 ---
+
 ## The Mechanics: How Channels Create Definition
 
 A **Channel** is formed when both Gates at opposite ends are activated (colored in). This creates a continuous flow of energy between two [[Centers]], defining both Centers in the process.[^1]
@@ -43,6 +46,7 @@ A **Channel** is formed when both Gates at opposite ends are activated (colored 
 **The Quantum:** When a Gate at one end (e.g., Gate 34) and a Gate at the other end (e.g., Gate 20) are both activated, they form a Defined Channel. This definition creates a reliable, consistent flow of life force energy that operates 24/7. It is the fixed "Nature" of the person.[^1]
 
 ---
+
 ## The Five Definition Types
 
 ### 1. Single Definition (41% of the population)
@@ -135,6 +139,7 @@ Reflectors do not seek energetic completion through others—they *become* other
 For more detail, see [[Reflector]].
 
 ---
+
 ## Bridging Gates: The Conditioning Trap
 
 For anyone with a Split (Simple, Triple, or Quad), the open Gates that would "bridge" the split become the **primary source of conditioning**. The mind obsesses over these themes, convinced that *becoming* them will resolve the internal tension.[^10]
@@ -151,6 +156,7 @@ For anyone with a Split (Simple, Triple, or Quad), the open Gates that would "br
 **Jungian Parallel:** The [[The Shadow]]—the disowned parts of the psyche that we project onto others, convinced that if we could only integrate them, we would be complete. Jung taught that the Shadow cannot be "conquered," only acknowledged and related to. Similarly, bridging Gates cannot be forced into definition—they can only be witnessed and allowed.
 
 ---
+
 ## Definition and Type
 
 While any Type (except Reflector) can have various Definitions, there are structural tendencies:[^9]
@@ -165,6 +171,7 @@ While any Type (except Reflector) can have various Definitions, there are struct
 **Quadruple Splits** are almost always Generators or Manifesting Generators, as it is statistically difficult to have 8-9 Centers defined without activating the Sacral or a motor-to-Throat connection.[^9]
 
 ---
+
 ## The Observatory Lens: Definition as Architectural Truth
 
 From the Observatory, Definition is not a wound to heal or a limitation to overcome. It is the **blueprint of your internal communication**—the way your vehicle is structurally designed to process life.

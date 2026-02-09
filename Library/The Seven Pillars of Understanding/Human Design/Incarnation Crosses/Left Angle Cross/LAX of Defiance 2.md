@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Defiance (2)
+
 ## Gates: 1/2/4/49 | Quarter of Mutation
 
 ### Ra's Keynote

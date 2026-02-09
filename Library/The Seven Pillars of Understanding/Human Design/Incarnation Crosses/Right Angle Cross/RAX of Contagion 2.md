@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Contagion (2)
+
 ## Gates: 8/14/30/29 | Quarter of Civilization
 
 ### Ra's Keynote

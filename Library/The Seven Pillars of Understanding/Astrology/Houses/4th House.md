@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (fathers, lands, inheritance), angular classification (Imum Coeli), Cancer correspondence, and Sun cosignificator verified via NotebookLM query against Lilly. No planetary joy for 4th House. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 4th House
 *Roots and the Foundation of Being*
 
 ---
+
 ## Archetypal Theme
 
 The **4th House** is the **Imum Coeli** (IC)—the lowest point in the chart, the hidden foundation. This is the house of **ancestry**, home, and the private self that exists before the world imposes its demands. It represents the father (traditionally), the land, and the emotional bedrock from which all growth emerges.

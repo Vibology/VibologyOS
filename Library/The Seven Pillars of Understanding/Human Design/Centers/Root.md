@@ -13,10 +13,12 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, dual pressure/motor classification, nine gates verified) against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Root
 *The Anchor for Evolving Pressure*
 
 ---
+
 ## Biological Correlation
 
 The **Root Center** corresponds to the **adrenal system** and **stress hormones** (cortisol, adrenaline)[^1]. This is the biological source of:
@@ -27,6 +29,7 @@ The **Root Center** corresponds to the **adrenal system** and **stress hormones*
 The Root is the body's **pressure valve**, creating urgency and propulsion.
 
 ---
+
 ## Ra's Definition
 The Root is both a **pressure center** and a **motor center**[^2]. It governs:
 - **Physical pressure** — Adrenaline-driven urgency
@@ -37,6 +40,7 @@ The Root is both a **pressure center** and a **motor center**[^2]. It governs:
 - **40% of people** have an undefined Root (amplified stress and urgency)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Root Center governs:
@@ -48,6 +52,7 @@ The Root Center governs:
 The Root is the **engine of urgency**—the pressure that propels humanity forward.
 
 ---
+
 ## Defined Root: Fixed Pressure
 
 ### Mechanics
@@ -70,6 +75,7 @@ When the Root is defined:
 - **Burnout** — Adrenaline is not sustainable long-term
 
 ---
+
 ## Undefined Root: Amplified Urgency
 
 ### Mechanics
@@ -92,6 +98,7 @@ When the Root is undefined:
 - **Not-Self conditioning** — "Always in a hurry to be free of pressure"
 
 ---
+
 ## Not-Self Theme: Always in a Hurry
 
 The **Not-Self** expression of the undefined Root is:
@@ -121,6 +128,7 @@ The undefined Root must learn that **pressure is not theirs** and that rushing d
 > — Bunnell, *Living Your Design Student Manual*, p. 89
 
 ---
+
 ## The Root as Motor
 
 The Root is one of four motors:
@@ -132,6 +140,7 @@ The Root is one of four motors:
 The Root motor is **not sustainable**—it is adrenaline-based, designed for bursts, not marathons.
 
 ---
+
 ## The Nine Gates of the Root
 
 The Root has **nine gates**, each representing a unique evolutionary pressure[^4]:
@@ -149,6 +158,7 @@ The Root has **nine gates**, each representing a unique evolutionary pressure[^4
 Each gate creates a distinct flavor of urgency and momentum.
 
 ---
+
 ## Relationship to Type & Authority
 
 The Root:
@@ -166,7 +176,9 @@ The Root:
 - **Tarot:** [[The Devil (XV)]] (bondage to urgency), [[The Tower (XVI)]] (pressure that breaks structures)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Root
 
 1. **Honor your consistent pressure.** You are designed to feel urgency; do not resist it.

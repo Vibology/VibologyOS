@@ -16,6 +16,7 @@ planetary: Sun in Scorpio
 decan: Scorpio 10°-20° (2nd Decan)
 title: Lord of Pleasure
 ---
+
 # Six of Cups
 *The Lord of Pleasure*
 
@@ -67,6 +68,7 @@ The key teaching: **The past is not a prison unless you try to live there. Remem
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Tiphareth as the Six
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiferet* in Hebrew). It occupies the center of the Tree of Life—the heart position where all paths converge. Tiphareth is the point of balance between above and below, severity and mercy, expansion and contraction.

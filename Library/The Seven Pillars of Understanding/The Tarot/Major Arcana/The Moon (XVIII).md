@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Moon (XVIII)
 *The Ruler of Flux and Reflux / The Child of the Sons of the Mighty*
 
@@ -59,6 +60,7 @@ The core teaching: **The Moon does not create illusion. She reveals the illusion
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Qoph (ק) – The Back of the Head
 
 **Qoph** means "back of the head"—the **occipital region**, the part of the skull where the brain processes vision and where the unconscious mind operates. With a gematria value of **100** (10 x 10), Qoph resonates with the number of **completion through manifestation**, the full cycle brought down into material form.

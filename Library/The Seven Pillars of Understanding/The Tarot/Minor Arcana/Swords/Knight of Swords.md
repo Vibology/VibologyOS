@@ -13,6 +13,7 @@ element: Air
 court_rank: Knight
 elemental_formula: Air of Air
 ---
+
 # Knight of Swords
 
 *The Fiery Part of Air*
@@ -63,6 +64,7 @@ The key teaching: **Clarity without compassion becomes cruelty**. The Knight of 
 ---
 
 ## Esoteric Interpretation
+
 ### The Elemental Formula: Air of Air
 
 Understanding the court cards requires understanding their **elemental formula**—the combination of the suit's element with the rank's quality.

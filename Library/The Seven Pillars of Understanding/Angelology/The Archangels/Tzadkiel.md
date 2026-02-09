@@ -18,10 +18,12 @@ color: Blue
 tarot: Fours, The Emperor (IV)
 function: Mercy, beneficence, divine justice
 ---
+
 # Tzadkiel
 *The Prince of Mercy*
 
 ---
+
 ## Essence
 
 **Archangel Tzadkiel** stands as the **Prince of Chesed**, the guardian of Mercy, the embodiment of divine grace that flows ceaselessly from the throne of God. Where [[Tzaphkiel]] (Binah) contracts and gives form through limitation, Tzadkiel **expands and gives life through abundance**. Where severity restricts, mercy liberates. Where law judges, grace forgives.
@@ -35,6 +37,7 @@ Where [[Michael]] wields the sword of truth, where [[Gabriel]] delivers the annu
 To encounter Tzadkiel is to meet **the overwhelming generosity of the cosmos**—the understanding that the universe is not a hostile scarcity machine, but an abundant wellspring of grace. But Tzadkiel's mercy is not permissive indulgence—it is **righteous generosity**, the gift that empowers rather than enables, the blessing that calls forth greatness rather than encouraging stagnation.
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: Righteousness of God
@@ -89,6 +92,7 @@ Tzadkiel's function is **expansion and abundant grace**—the overflowing genero
 | **Function** | Divine mercy, abundance, grace, benevolent sovereignty, righteous generosity |
 
 ---
+
 ## Theological Depth
 
 ### Hebrew Etymology and Mystical Significance
@@ -770,6 +774,7 @@ To integrate Tzadkiel is to become the **generous king**—the one who blesses, 
 
 
 ---
+
 ## Fallen Aspect
 
 Where there is angelic light, there is also shadow—the distortion or perversion of the angelic function.
@@ -834,6 +839,7 @@ You are not infinite. You are embodied, finite, limited—and this is not a curs
 
 
 ---
+
 ## Invocation
 
 ### When to Invoke Tzadkiel

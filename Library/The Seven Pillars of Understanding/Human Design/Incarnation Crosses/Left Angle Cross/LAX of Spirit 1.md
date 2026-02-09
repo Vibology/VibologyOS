@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Spirit (1)
+
 ## Gates: 55/59/9/16 | Quarter of Initiation
 
 ### Ra's Keynote

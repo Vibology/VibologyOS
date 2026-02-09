@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # The Reward (Seizing the Sword)
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Reward represents the **first fruits of transformation**, the boon seized in the immediate aftermath of the [[The Ordeal]]. In Campbell's topology[^1], this is Stage 9 of the monomyth, positioned at the precise moment when descent pivots toward ascent. The hero, having survived death—literal, symbolic, or psychological—now claims the treasure that was the quest's objective.
@@ -167,6 +168,7 @@ If the Reward is genuine, integration demands:
 **The Reward as Relational**: Sometimes the boon *is* relational—reunion with the beloved, reconciliation with the estranged, sacred marriage (inner or outer). The Reward is love restored, trust rebuilt, intimacy deepened.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Reward as Turning Point
 
 The Reward (Stage 9) is the **pivot** from descent to ascent:
@@ -440,6 +442,7 @@ If the Reward is genuine and honored (not inflated, hoarded, or bypassed), it co
 **Jung's Insight**: The Reward is the moment when the ego realizes the [[The Self]] is not only annihilating (as in the Ordeal) but also **generative**. The Self destroys what is false to birth what is true. The Reward is the birth.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Reward: The Boon as Conquest
 
 In patriarchal myth, the Reward is often **seized through action**:

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Industry (1)
+
 ## Gates: 30/29/34/20 | Quarter of Initiation
 
 ### Ra's Keynote

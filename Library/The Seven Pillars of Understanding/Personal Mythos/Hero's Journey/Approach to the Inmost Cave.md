@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # Approach to the Inmost Cave
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Approach to the Inmost Cave represents the **final threshold before the supreme test**, the moment when the hero stands at the precipice of maximum danger and must choose—consciously, deliberately—to enter. In Campbell's topology[^1], this is Stage 7 of the monomyth, positioned immediately before the [[The Ordeal|Ordeal]] at the narrative's nadir.
@@ -193,6 +194,7 @@ If you faced a guardian before entering (literal or symbolic), reflect: What did
 **The Approach as Relational**: Sometimes the Cave itself is relational—the conversation you've been avoiding, the boundary you must set, the goodbye you must say. The Approach is rehearsing your words, steeling your resolve to speak them.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Approach as Structural Hinge
 
 The Approach to the Inmost Cave (Stage 7) serves as the **hinge** between the journey's exploratory phase and its existential crisis:
@@ -543,6 +545,7 @@ Ritual preparation is not control—it is **reverence**. The knight's vigil, the
 The talisman provided during the Approach creates a bond that transcends physical presence. When the [[The Ordeal|Ordeal]] isolates the hero, the Mentor's gift whispers: *"You carry my faith. I believe you can do this."*
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Approach: The Warrior Prepares
 
 In patriarchal myth, the Approach emphasizes **strategic preparation and arming**:

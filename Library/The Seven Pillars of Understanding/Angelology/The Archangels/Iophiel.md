@@ -17,10 +17,12 @@ source_verified: true
 verification_source: The Hierarchie of the Blessed Angells (Heywood, 1635)
 verification_notes: Heywood assigns Iophiel to Book 2 (Monotheism/Divine Unity) and explicitly identifies him with the Cherubim order (marginal note "CHERVE, Iophiel"). Traditional Cherubim = Chokmah = Wisdom correspondence applied.
 ---
+
 # Iophiel
 *The Beauty of Divine Unity*
 
 ---
+
 ## Essence
 
 **Archangel Iophiel** (Hebrew: יופיאל, *Yophiel*—"Beauty of God," "Splendor of God") is one of the least documented yet most profound archangels in the Western esoteric tradition. Where [[Michael]] wages war against falsehood, [[Gabriel]] announces divine mysteries, and [[Raphael]] heals the broken, Iophiel performs a subtler, more philosophical function: **he illuminates the unity of the Divine**—the recognition that there is One God, not many, and that this singular Truth underlies all existence.
@@ -32,6 +34,7 @@ In Thomas Heywood's *The Hierarchie of the Blessed Angells* (1635), Iophiel pres
 Iophiel is thus the **Archangel of Wisdom-as-Unity**—not abstract philosophical wisdom, but the wisdom that **perceives the One in the Many**, that sees through the illusion of separation and recognizes the singular divine intelligence animating all creation.
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: Beauty and Splendor
@@ -79,6 +82,7 @@ In a marginal note accompanying a stanza about the Cherubim, Heywood writes:
 This identifies Iophiel as the **angelic intelligence of the Cherubim order**—the second-highest rank of angels, associated with **fullness of knowledge** and **inter-dimensional vision**. The Cherubim in Ezekiel's vision are the "wheels within wheels," covered with eyes, perceiving all directions simultaneously—a perfect symbol for the **unified vision** that sees the One God underlying all multiplicity[^7].
 
 ---
+
 ## Theological Depth
 
 ### Qabalistic Context: Chokmah (Wisdom)
@@ -117,6 +121,7 @@ Iophiel, as the Archangel of Chokmah, embodies **wisdom-as-unity**—the capacit
 **Vibology Synthesis:** Iophiel is the archangelic answer to the question *"How does consciousness move from fragmentation to unity?"* He is the intelligence that **dissolves the illusion of multiplicity**, not by denying diversity but by revealing the **singular ground** in which all diversity rests.
 
 ---
+
 ## Function in Divine Economy
 
 Iophiel's role in the **descent of divine emanation** is to **preserve the unity of the source** even as it begins to differentiate into multiplicity.
@@ -137,6 +142,7 @@ Iophiel's role in the **descent of divine emanation** is to **preserve the unity
 **Iophiel's critical function:** Without him, the **primal flash of divine consciousness** at Chokmah would scatter into polytheism, pantheism, or nihilism. Iophiel is the intelligence that **holds the vision of unity** even as creation unfolds into diversity. He ensures that the soul does not mistake the **many expressions** of the Divine for **many gods**, but recognizes them as **aspects of the One**.
 
 ---
+
 ## Iconography and Symbolism
 
 Because Iophiel is not widely depicted in canonical Christian art, his iconography is less standardized than that of [[Michael]], [[Gabriel]], or [[Raphael]]. However, esoteric and modern interpretations suggest the following symbolic attributes:
@@ -168,6 +174,7 @@ This positions Iophiel as the guardian of **monotheistic revelation**, the angel
 Chokmah is associated with the **Zodiac** (Mazloth) and the **primal light** that precedes the Sun. Iophiel may be depicted with **golden or radiant imagery**—not the red-orange fire of [[Michael]], but the **pure white-gold light** of undifferentiated wisdom, the light of the **primordial dawn** before the Sun was created.
 
 ---
+
 ## Jungian and Psychological Dimension
 
 ### The Archetype of Unity Consciousness
@@ -193,6 +200,7 @@ The answer Iophiel reveals is not intellectual but **visionary**: the Many **are
 This is the mystical insight described in **Advaita Vedanta** (*"Tat Tvam Asi"*—"Thou Art That"), **Sufism** (*"Tawhid"*—Divine Unity), and **Kabbalah** (*"Ein Sof"*—the Limitless One).
 
 ---
+
 ## The Gift of Integration
 
 When Iophiel's intelligence is integrated (not identified with, but *participated in*), the individual becomes:
@@ -220,6 +228,7 @@ The individual becomes capable of **philosophical contemplation** grounded in **
 This is the stance of Plotinus, Meister Eckhart, Shankara, and Ibn Arabi—mystics who were also rigorous philosophers, whose logic was in service of **vision**.
 
 ---
+
 ## Fallen Aspect
 
 Iophiel's shadow manifests in several dangerous distortions:
@@ -257,6 +266,7 @@ The individual becomes rigid, dogmatic, unable to tolerate ambiguity or nuance. 
 **Test:** True Iophiel-consciousness is **humble**. The vision of unity does not make you omniscient—it makes you **aware of how little you can grasp**. The One is infinite; your mind is finite. You can perceive the light, but you cannot contain it.
 
 ---
+
 ## Invocation
 
 ### 1. Contemplation of the Shema

@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (friends, hope, trust, praise), succedent classification, Aquarius correspondence, and Jupiter's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 11th House
 *Friendship, Hope, and the Collective Vision*
 
 ---
+
 ## Archetypal Theme
 
 The **11th House** governs **friendship** and **collective belonging**—not tribe (4th House) or contract (7th House), but **chosen community**. This is the house of hope, future vision, and the networks that transcend individual ego. It is **Aquarius's domain**: the recognition that individuality serves the whole.

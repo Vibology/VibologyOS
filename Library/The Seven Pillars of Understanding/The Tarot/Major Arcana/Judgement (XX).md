@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # Judgement (XX)
 *The Spirit of the Primal Fire*
 
@@ -58,6 +59,7 @@ The core teaching: **Judgement does not condemn. She calls—and those who answe
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Shin (ש) – The Tooth / The Primal Fire
 
 **Shin** means "tooth"—the organ that grinds, that breaks down food, that makes digestion possible. With a gematria value of **300**, Shin resonates with the number of **completion through transformation**, the fire that refines base matter into gold.

@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # The Ordeal
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Ordeal represents the **nadir of the heroic journey**, the supreme test where the hero confronts death—literal, symbolic, or psychological. In Campbell's topology[^1], this is Stage 8 of the monomyth, positioned at the exact center of the narrative arc. It marks the transition from **descent** (Acts 1-2A) to **ascent** (Acts 2B-3).
@@ -181,6 +182,7 @@ If you survive the Ordeal (and survival is never guaranteed), integration demand
 **The Ordeal as Relational**: Sometimes the crisis *is* relational—betrayal, abandonment, enmeshment. The death is the bond itself, and resurrection requires releasing the person who was the projected [[The Self]].
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Ordeal as Structural Axis
 
 The Ordeal (Stage 8) is the **fulcrum** of Campbell's 12-stage monomyth:
@@ -425,6 +427,7 @@ If the Ordeal is survived and integrated, it confers irreplaceable gifts:
 - The ego that survives the Ordeal knows its smallness. You are not the hero—you are the **site** where heroism occurred. Forces beyond you (the [[The Self]], the divine, the archetypal realm) moved through you. This is not nihilism; it is right-sizing.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Ordeal: Combat and Confrontation
 
 In patriarchal myth, the Ordeal is often **externalized as battle**:

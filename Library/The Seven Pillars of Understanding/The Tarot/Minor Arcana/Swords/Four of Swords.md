@@ -16,6 +16,7 @@ planetary: Jupiter in Libra
 decan: Third decan of Libra (20-30 degrees)
 title: Lord of Rest from Strife
 ---
+
 # Four of Swords
 
 *Lord of Rest from Strife*
@@ -69,6 +70,7 @@ The key teaching: **Rest is not retreat—it is the gathering of strength**. The
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Chesed in Yetzirah
 
 **Chesed** is the fourth Sephirah, titled **Mercy** (*Chesed* in Hebrew, sometimes called *Gedulah*, "Greatness"). It represents the first Sephirah below the Abyss, the beginning of manifest creation, the principle of *benevolent ordering* that establishes stability and peace.

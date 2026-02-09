@@ -26,7 +26,6 @@ Generators are defined by a **defined [[Sacral]]**—the motor of sustainable li
 ---
 
 
-
 **Pure Generator:**
 Defined Sacral Center without a direct motor connection to the [[Throat]].
 
@@ -164,6 +163,7 @@ The Generator-majority world is designed to *respond to life*, not force it into
 ---
 
 ## Strategy Integration
+
 ### For the Generator
 
 1. **Trust your Sacral.** It knows before your mind rationalizes.

@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Self: The Center and the Circumference
 
 ## Overview
+
 ### Jung's Definition
 
 The Self is Jung's most profound and paradoxical concept—the archetype of **wholeness**, **totality**, and the **regulating center** of the entire psyche. Unlike the ego, which is merely the center of consciousness, the Self transcends the ego-personality and encompasses both the conscious and unconscious realms.
@@ -262,6 +263,7 @@ Jung warned of the danger of **mass identification with the Self** (e.g., Hitler
 - The Self is **present from birth** yet **realized only through a lifetime**
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 **The Self as Empirical Phenomenon:**

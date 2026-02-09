@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of Education (1)
+
 ## Gates: 12/11/25/46 | Quarter of Civilization
 
 ### Ra's Keynote

@@ -18,6 +18,7 @@ status: comprehensive
 # The Senex: The Wise Elder
 
 ## Overview
+
 ### Jung's Definition
 
 **The Senex** (Latin: "old man") is the Jungian archetype of the **Wise Elder**—the figure of earned authority, discipline, structure, and the wisdom that comes through limitation and time. The Senex is intimately connected to **Saturn** (Chronos) in astrological symbolism[^1] and represents the **mature masculine principle** that has integrated experience, suffering, and mortality into wisdom.
@@ -360,6 +361,7 @@ Before integration, the Senex is **projected outward**—onto fathers, bosses, t
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Senex: The Guardian of the Threshold
 
 Jung did not write extensively on the Senex as a specific archetype, but he addressed the **archetype of the Wise Old Man** (which overlaps with the Senex) and the **Saturn principle** (limitation, time, authority).

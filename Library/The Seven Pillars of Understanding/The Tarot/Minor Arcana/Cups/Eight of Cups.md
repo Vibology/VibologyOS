@@ -16,6 +16,7 @@ planetary: Saturn in Pisces
 decan: Pisces 0°-10° (1st Decan)
 title: Lord of Abandoned Success
 ---
+
 # Eight of Cups
 *The Lord of Abandoned Success*
 
@@ -67,6 +68,7 @@ The key teaching: **The cup that is full but does not nourish must be set down, 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Hod as the Eight
 
 **Hod** is the eighth Sephirah, titled **Splendor** (*Hod* in Hebrew). It is the sphere of intellect, communication, and the mind's capacity to perceive patterns. Where Netzach (the seventh Sephirah) is emotion and desire, Hod is *thought* and *form*—the mental framework that gives shape to experience.

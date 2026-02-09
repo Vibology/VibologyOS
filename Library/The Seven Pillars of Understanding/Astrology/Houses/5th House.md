@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations (children, pleasure, banquets), succedent classification, Leo correspondence, and Venus's joy verified via NotebookLM query against Lilly. Inline citations added. Synthesis sections clearly distinguished."
 ---
+
 # 5th House
 *Creativity and the Joy of Expression*
 
 ---
+
 ## Archetypal Theme
 
 The **5th House** governs **creativity**—not as labor, but as **play**. This is the house of children (biological and creative), pleasure, romance, and the spontaneous overflow of the individuated self. It is Leo's domain: the joy of *being* expressed without apology, without justification, without need for approval.

@@ -8,10 +8,12 @@ source_verified: true
 verification_source: Esoteric Grimoire
 category: Practice
 ---
+
 # Anointing and Substituted Love
 *The Central Sacrament - Touch, Presence, and Holding the Post*
 
 ---
+
 ## Core Teaching
 
 **Anointing** is the central sacrament of [[The Magdalene Path]]—the act of consecrating through touch, preparing for transformation, and sealing with love[^1] (Bourgeault, Ch. 15). It is:
@@ -26,6 +28,7 @@ category: Practice
 **[[Mary Magdalene - Apostle and Beloved|Mary Magdalene]]** embodies both practices—she anoints Jesus' body for burial (Mark 16:1, John 19:39-42) and stands vigil at the cross when others flee (John 19:25). She demonstrates **radical presence** and **substituted love**. Bourgeault suggests that during the three days of death, Magdalene held Jesus's anguish and unresolved human emotions in her own heart so he could travel freely through the underworld to accomplish his cosmic work[^3] (Bourgeault, Ch. 12).
 
 ---
+
 ## Gospel Foundation
 
 ### Jewish Burial Customs
@@ -86,6 +89,7 @@ In both **Catholic** and **Orthodox** traditions, **Extreme Unction** (anointing
 **The Teaching:** Anointing creates **safe passage** through the bardo realms (the intermediate states between death and rebirth).
 
 ---
+
 ## Mystical Depth
 
 ### Touch as Transmission
@@ -133,6 +137,7 @@ Traditional anointing touches **seven points**—corresponding to the senses and
 **The Practice:** Slowly, reverently anoint each point—pausing to **feel** the contact, the presence, the love.
 
 ---
+
 ## Substituted Love: Holding the Post
 
 ### The Teaching (Cynthia Bourgeault via Charles Williams)
@@ -207,6 +212,7 @@ When someone is in the bardo:
 - A friend anointing someone as they die
 
 ---
+
 ## Anointing in Partnership
 
 ### Eucharistic Anointing
@@ -241,6 +247,7 @@ If you **need** them to succeed (to validate your worth), you are not practicing
 **The Antidote:** Achieve **singleness** first. Be whole. Then, you can stand in their place without needing them to stay.
 
 ---
+
 ## Anointing at Each Stage
 
 > *Vibology Synthesis: The following stage mappings integrate anointing practice with the Eight Boughs of Ascent framework from the Gospel of the Beloved Companion.*
@@ -270,6 +277,7 @@ At [[The Eight Boughs of Ascent|the Zenith]], anointing is **consecration**—se
 **The Practice:** Anoint the crown (fontanelle)—the place where spirit enters and exits the body.
 
 ---
+
 ## Practical Anointing
 
 ### Creating Sacred Oil
@@ -314,6 +322,7 @@ Hold the oil and pray (your own words or traditional):
 > "May you serve and walk in beauty."
 
 ---
+
 ## Pillar Integration
 > *Vibology Synthesis: The following cross-pillar mappings are original integrations correlating anointing practices with other systems in the Seven Pillars framework.*
 
@@ -334,6 +343,7 @@ Those with **[[Splenic Authority]]** (Spleen defined) have **instinctual knowing
 Jung's **Transcendent Function** describes how two opposing forces (conscious/unconscious) unite to create a **third term**—parallel to the Abler Soul created through substituted love.
 
 ---
+
 ---
 
 ## Cross-References

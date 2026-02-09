@@ -13,6 +13,7 @@ verification_notes: "Campbell's monomyth[^1] framework (12-stage Hero's Journey)
 # The Road Back
 
 ## Overview
+
 ### Jung's Archetypal Context
 
 The Road Back represents the **hero's commitment to return** with the boon seized in the Ordeal, marking Stage 10 of Campbell's monomyth[^1]. This is not passive departure but active **reintegration**—the hero must defend the prize against forces attempting to reclaim it. The journey home tests whether the transformation achieved in the Special World can survive contact with the Ordinary World.
@@ -200,6 +201,7 @@ When the Road Back is navigated successfully:
 **The Road Back as Relational Test**: Sometimes the return **is** relational—bringing new boundaries into old dynamics, embodying new self in the presence of those who knew only the old. This is excruciating and necessary.
 
 ## Jungian Analysis
+
 ### 4.1 Campbell's Hero's Journey: The Road Back as Penultimate Stage
 
 The Road Back (Stage 10) is the **transition from the Special World back toward the Ordinary World**:
@@ -462,6 +464,7 @@ If The Road Back is navigated successfully, it confers irreplaceable gifts:
 - The Road Back teaches: *"The journey is not yet complete, but I am on the path."* You are neither in the Special World nor fully integrated, but you trust the process. [[The Resurrection]] awaits, and you will be ready.
 
 ## Shadow Dynamics
+
 ### Masculine-Coded Road Back: The Heroic Flight
 
 In patriarchal narrative, The Road Back emphasizes **active defense**—the hero flees, fights, and guards the boon through strength and strategy.

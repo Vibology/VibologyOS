@@ -14,10 +14,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Traditional house significations, angular classification, Aries correspondence, and Mercury's joy verified via NotebookLM query against Lilly's Christian Astrology. Inline citations added for all verifiable claims. Synthesis sections (Jungian, esoteric, cross-system) clearly distinguished from traditional content."
 ---
+
 # 1st House
 *Identity and the Mask of Incarnation*
 
 ---
+
 ## Archetypal Theme
 
 The **1st House** is the **Ascendant**—the eastern horizon at the moment of birth, the point where spirit descends into matter. This is the house of **core identity**: not the inner self ([[Sun ☉]]), but the **presentation** of self, the costume worn in this incarnation. It is the "I am" before any qualification.

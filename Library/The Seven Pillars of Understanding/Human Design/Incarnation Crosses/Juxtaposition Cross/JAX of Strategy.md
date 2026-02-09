@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Strategy
+
 ## Gates: 59/55/16/9 | Quarter of Duality
 
 ### Ra's Keynote

@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Sphinx (2)
+
 ## Gates: 2/1/13/7 | Quarter of Civilization
 
 ### Ra's Keynote

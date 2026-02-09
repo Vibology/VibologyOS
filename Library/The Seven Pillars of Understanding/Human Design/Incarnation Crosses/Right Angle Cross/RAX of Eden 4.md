@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Eden (4)
+
 ## Gates: 11/12/6/36 | Quarter of Mutation
 
 ### Ra's Keynote

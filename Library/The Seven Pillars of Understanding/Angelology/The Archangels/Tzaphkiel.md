@@ -18,10 +18,12 @@ color: Black
 tarot: Threes, Queens, The Empress
 function: Spiritual strife against evil, form-giver, contemplation
 ---
+
 # Tzaphkiel
 *The Silent Contemplator*
 
 ---
+
 ## Essence
 
 **Archangel Tzaphkiel** stands as the **Prince of Binah**, the guardian of Understanding, the watcher who gazes ceaselessly into the face of God. Where other archangels descend to deliver messages or wage battles, Tzaphkiel remains in the **Great Sea** of Binah, the cosmic womb, presiding over the [[Thrones]] and holding vigil over the threshold between formlessness and form.
@@ -35,6 +37,7 @@ Where [[Michael]] wields the sword of discrimination, where [[Gabriel]] delivers
 To encounter Tzaphkiel is to meet the **cosmic pressure of form-giving**—the sacred responsibility of bringing potential into manifestation, the unwavering demand that what is born into form must align with divine law.
 
 ---
+
 ## Fundamental Knowledge
 
 ### The Name: Contemplation of God
@@ -89,6 +92,7 @@ Tzaphkiel is the archetype of **contemplative stillness**, the intelligence that
 | **Function** | Contemplation, form-giving, upholding cosmic law, presiding over the Thrones |
 
 ---
+
 ## Theological Depth
 
 ### Hebrew Etymology and Mystical Significance
@@ -715,6 +719,7 @@ To integrate Tzaphkiel is to become the **sacred womb**—the one who holds, wit
 
 
 ---
+
 ## Fallen Aspect
 
 Where there is angelic light, there is also shadow—the distortion or perversion of the angelic function.
@@ -779,6 +784,7 @@ The unconscious is not chaos—it is the **Great Sea** of infinite potential. Tr
 
 
 ---
+
 ## Invocation
 
 ### When to Invoke Tzaphkiel

@@ -15,6 +15,7 @@ sephirah: Netzach
 planetary: Mars in Leo
 title: Lord of Valour
 ---
+
 # Seven of Wands
 *Lord of Valour*
 
@@ -72,6 +73,7 @@ The key teaching: **Valor requires discernment.** The Seven of Wands asks: *What
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Netzach as the Seven
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew, also translated as "Firmness," "Eternity," or "Endurance"). Netzach occupies a crucial position on the Tree of Life—it is the first of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, the sphere where divine forces begin to take on more individuated, less universal form.

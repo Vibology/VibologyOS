@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Articulation
+
 ## Gates: 12/11/25/46 | Quarter of Civilization
 
 ### Ra's Keynote

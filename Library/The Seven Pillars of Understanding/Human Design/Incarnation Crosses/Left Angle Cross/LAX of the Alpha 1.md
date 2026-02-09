@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Left Angle Cross of the Alpha (1)
+
 ## Gates: 31/41/24/44 | Quarter of Civilization
 
 ### Ra's Keynote

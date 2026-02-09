@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Planning (2)
+
 ## Gates: 16/9/37/40 | Quarter of Civilization
 
 ### Ra's Keynote

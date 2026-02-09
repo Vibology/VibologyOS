@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of the Sleeping Phoenix (2)
+
 ## Gates: 20/34/55/59 | Quarter of Civilization
 
 ### Ra's Keynote

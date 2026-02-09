@@ -13,15 +13,18 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Individual verification complete. Core mechanics (biological correlation, definition percentages, center type, three gates verified) against Grimoire with inline citations. Synthesis content clearly distinguished."
 ---
+
 # Head
 *The Antenna for Cosmic Inspiration*
 
 ---
+
 ## Biological Correlation
 
 The **Head Center** corresponds to the **pineal gland**[^1], the ancient "third eye" of esoteric tradition. This gland regulates circadian rhythms and melatonin production, linking the Head to cycles of inspiration and mental pressure.
 
 ---
+
 ## Ra's Definition
 The Head Center is a **pressure center**[^2]—it does not process or decide, but generates **mental pressure** that drives the search for understanding.
 
@@ -29,6 +32,7 @@ The Head Center is a **pressure center**[^2]—it does not process or decide, bu
 - **70% of people** have an undefined Head (receptive to external mental pressure)[^3]
 
 ---
+
 ## Themes & Functions
 
 The Head Center governs:
@@ -41,6 +45,7 @@ The Head asks: *Why? What does this mean? What is the answer?*
 It does not *answer* these questions—it generates the **pressure to seek answers**, which flows to the [[Ajna]] for conceptualization.
 
 ---
+
 ## Defined Head: Fixed Mental Pressure
 
 ### Mechanics
@@ -63,6 +68,7 @@ When the Head is defined:
 - **Isolation** — Others may not share their consistent mental preoccupations
 
 ---
+
 ## Undefined Head: Receptive to Mental Pressure
 
 ### Mechanics
@@ -85,6 +91,7 @@ When the Head is undefined:
 - **Not-Self conditioning** — "I need to answer this question" (when it is not their question to answer)
 
 ---
+
 ## Not-Self Theme: Thinking About Things That Don't Matter
 
 The **Not-Self** expression of the undefined Head is:
@@ -104,6 +111,7 @@ The undefined Head must learn to **discern which questions are theirs** and rele
 > — Bunnell, *Living Your Design Student Manual*, p. 87
 
 ---
+
 ## Relationship to Type & Authority
 
 The Head Center is a **pressure source**, not a motor. It:
@@ -114,6 +122,7 @@ The Head Center is a **pressure source**, not a motor. It:
 The Head is the **beginning of the mental process**, but not the end. It inspires thought, which the Ajna conceptualizes, and the [[Throat]] articulates.
 
 ---
+
 ## The Three Gates of the Head
 
 The Head has three gates, each with a distinct flavor of mental pressure[^4]:
@@ -132,7 +141,9 @@ The Head has three gates, each with a distinct flavor of mental pressure[^4]:
 - **Tarot:** [[The Hermit (IX)]] (seeking understanding in solitude), [[The Star (XVII)]] (inspiration from above)
 
 ---
+
 ## Strategy Integration
+
 ### For Those with a Defined Head
 
 1. **Honor your mental pressure.** It is reliable and consistent; use it to inspire others.

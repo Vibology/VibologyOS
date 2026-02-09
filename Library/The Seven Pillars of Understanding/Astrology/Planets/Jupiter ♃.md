@@ -10,10 +10,12 @@ verification_date: 2026-01-23
 grimoire_source: "Astrology (Lilly's Christian Astrology, Ptolemy's Tetrabiblos)"
 verification_notes: "Core dignities and traditional meanings verified against Grimoire. Synthesis includes Jungian archetypal depth, mythology (Greek/Roman), cross-system correspondences, and esoteric interpretation."
 ---
+
 # Jupiter ♃
 *Law, Protection, and the Magnanimous King*
 
 ---
+
 ## Archetypal Essence
 
 Jupiter is **The Magnanimous King**—the principle of expansion, benevolence, and the [[Logos]] that orders the cosmos. Where [[Mars ♂]] is raw force, Jupiter is *directed* force under the rule of law. He is the philosopher-king, the teacher, the protector who establishes boundaries not to restrict but to create safety for growth.
@@ -21,6 +23,7 @@ Jupiter is **The Magnanimous King**—the principle of expansion, benevolence, a
 The Greek [[Zeus]] and the Roman [[Jupiter ♃]] converge in this archetype: the sky father who wields the thunderbolt, who enforces cosmic justice, who expands territory but never tyrannizes (in principle, if not always in myth).
 
 ---
+
 ## Glyph & Symbolism
 
 **♃** — A crescent above a cross.
@@ -30,6 +33,7 @@ The **crescent** (soul/mind) rises above the **cross** (matter), signifying that
 In alchemical tradition, Jupiter is **Tin**—the metal of resonance and amplification. Tin bells ring clear and far; Jovian influence *expands* whatever it touches, for good or ill.
 
 ---
+
 ## Dignities & Rulership
 
 | Dignity | Sign | Degree | House | Sect |
@@ -53,6 +57,7 @@ Jupiter is the **diurnal (day) sect planet** and the **greater benefic** (the le
 **Nocturnal charts (Jupiter out of sect):** Jovian gifts are more internalized, private, or spiritual. Wisdom is cultivated through inner reflection rather than external study. Jupiter here still protects and expands, but the native must actively claim their faith rather than receiving it effortlessly.
 
 ---
+
 ## Psychological Depth
 Jupiter represents **expansion of consciousness**—not merely accumulation of knowledge, but the synthesis of experience into wisdom. In Jungian terms, Jupiter is **[[The Wise Old Man]]**, the archetypal guide who offers perspective from a higher vantage.
 
@@ -69,6 +74,7 @@ A weak or afflicted Jupiter manifests as:
 Jupiter is the **protector of the soul's journey**—the force that says, "Go forth, and the universe will support you."
 
 ---
+
 ## Esoteric & Alchemical Significance
 
 In alchemy, Jupiter is the **amplifying agent**—the catalyst that expands the work beyond its initial scale. He is the philosopher's stone in its social dimension: not just personal transformation, but the dissemination of that transformation into the collective.
@@ -78,6 +84,7 @@ Jupiter's exaltation degree (**Cancer 15°**) corresponds to Gate 29 in the [[Hu
 In esoteric anatomy, Jupiter governs the **liver** (detoxification, metabolic expansion) and the **pituitary gland** (the "master gland" that regulates growth).
 
 ---
+
 ## Cross-System Resonances
 
 - **[[The Tarot]]:** [[Wheel of Fortune (X)|The Wheel of Fortune]] (Key X) — Expansion, cycles, the turning of fate
@@ -86,6 +93,7 @@ In esoteric anatomy, Jupiter governs the **liver** (detoxification, metabolic ex
 - **[[Angelology]]:** Dominions (governance of cosmic law)
 
 ---
+
 ## Mythology: Zeus, Jupiter, and the Sky Father
 
 Jupiter inherits his archetypal power from **Zeus** (Greek) and **Jupiter** (Roman), but his roots extend deeper—to the Indo-European **Dyeus Pater** (Sky Father), the original patriarch of the heavens who presides over justice, thunder, and the cosmic order.
@@ -103,6 +111,7 @@ Jupiter inherits his archetypal power from **Zeus** (Greek) and **Jupiter** (Rom
 **The Jovian archetype is thus: the principle of benevolent expansion, the law that protects the vulnerable, the wisdom that synthesizes experience into meaning, and the faith that the universe, if engaged with integrity, will provide.**
 
 ---
+
 ## Jupiter Through the Twelve Houses
 
 The **house placement** of natal Jupiter reveals where the native experiences expansion, fortune, and the capacity to synthesize meaning from experience.
@@ -121,6 +130,7 @@ The **house placement** of natal Jupiter reveals where the native experiences ex
 - **12th House:** Jupiter's natural rulership (via Pisces, traditional). Expansion into the transpersonal, the hidden, the mystical. The native finds wisdom through solitude, retreat, or spiritual practice. Faith operates invisibly. Shadow: escapism, spiritual inflation, the guru who hides from accountability.
 
 ---
+
 ## Jupiter as Chart Ruler (Sagittarius Rising and Pisces Rising)
 
 When Jupiter rules the Ascendant, the entire chart is oriented around **expansion, meaning-making, and the quest for wisdom and integrity**.
@@ -144,6 +154,7 @@ When Jupiter rules the Ascendant, the entire chart is oriented around **expansio
 **Note:** In modern astrology, [[Neptune ♆]] co-rules Pisces, but traditional rulership assigns Jupiter sole dominion. The Jupiterian Pisces emphasizes **faith, protection, and benevolent dissolution**, whereas Neptunian Pisces emphasizes **illusion, mysticism, and the dissolution of form**.
 
 ---
+
 ## Medical and Physical Correlations
 
 In traditional medical astrology, Jupiter governs:
@@ -162,6 +173,7 @@ In traditional medical astrology, Jupiter governs:
 **Remediation (traditional):** Tin (Jupiter's metal—wearing tin jewelry, though rare in modern practice), Jovian herbs (sage, dandelion, borage, agrimony, hyssop), practices that cultivate faith and perspective (meditation, pilgrimage, philosophical study, gratitude rituals), liver support (detox protocols, bitters, milk thistle), and disciplined expansion (setting ethical boundaries on growth).
 
 ---
+
 ## Aspect Dynamics
 
 Jupiter's aspects to other planets reveal how the principle of expansion, faith, and wisdom interfaces with other archetypal forces.
@@ -177,6 +189,7 @@ Jupiter's aspects to other planets reveal how the principle of expansion, faith,
 - **Jupiter-Pluto:** Expansion (Jupiter) transformed through power (Pluto). Harmonious = regenerative growth, the capacity to rise from crisis stronger, wealth through transformation; tense = obsessive accumulation, the tyrant king, corruption disguised as benevolence, power justified by ideology.
 
 ---
+
 ## The 12-Year Jupiter Cycle and Jupiter Return
 
 Jupiter completes one orbit of the zodiac approximately every **11.86 years**, meaning the **Jupiter Return** occurs near ages **12, 24, 36, 48, 60, 72**, and so on.
@@ -196,6 +209,7 @@ Jupiter completes one orbit of the zodiac approximately every **11.86 years**, m
 **Jupiter transits:** Each time transiting Jupiter aspects natal planets or angles, the native experiences a **temporary expansion** in the domain governed by that planet or point. Jupiter transits are generally protective and fortunate, though they can also bring excess, inflation, or the temptation to overextend.
 
 ---
+
 ## Shadow Expression
 The shadow of Jupiter is **excess and false faith**—the expansion beyond what can be sustained, the belief that refuses to be tested by reality.
 
@@ -214,6 +228,7 @@ The shadow of Jupiter is **excess and false faith**—the expansion beyond what 
 True Jovian wisdom is not the accumulation of knowledge but the **humility to know what one does not know**, and the generosity to share what one has learned without attachment to being right.
 
 ---
+
 ## Interpretation Guide
 What do you *believe*—not in the sense of religious creed, but in the sense of the unspoken assumptions that structure your reality? Jupiter governs the **Inner Law**: the ethical framework that emerges when external authority is stripped away.
 

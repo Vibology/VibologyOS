@@ -27,6 +27,7 @@ psychological_function: Death and resurrection, inspiration, transcendent functi
 ---
 
 ## Overview
+
 ### Jungian Definition
 
 Carl Jung understood **Fermentation** as the paradoxical operation in which death becomes the womb of new life—where the hard-won integration achieved in [[Conjunction]] must "die" to be spiritually resurrected.[^1] In *Psychology and Alchemy* (CW 12), Jung describes this stage as the point where the ego realizes it is not the master:
@@ -237,6 +238,7 @@ Fermentation feels like rotting from within, followed by unexpected rising:
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 For Jung, **Fermentation** represents the most mysterious and numinous stage of the alchemical process—the point where the **Transcendent Function** emerges.

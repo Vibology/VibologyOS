@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Anima: The Soul-Guide and Eternal Feminine
 
 ## Overview
+
 ### Jung's Definition
 
 The Anima is Jung's term for the **feminine soul-image in men**—the unconscious feminine aspect of the masculine psyche. She is both a personal complex and an archetypal image, functioning as the bridge between individual consciousness and the collective unconscious.
@@ -371,6 +372,7 @@ The Anima is **rarely seen directly**—she is encountered via **projection**.
 ---
 
 ## Jungian Analysis
+
 ### 1. Jung's Theory Deep Dive
 
 The Anima occupies a unique structural position in Jung's model of the psyche:

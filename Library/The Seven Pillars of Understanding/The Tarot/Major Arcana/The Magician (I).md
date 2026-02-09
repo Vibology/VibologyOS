@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Magician (I)
 *The Magus of Power*
 
 ---
+
 ## Traditional Symbolism
 
 When The Magician appears ***upright*** in a reading, it speaks to the realm of directed will and skillful manifestation. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *skill, diplomacy, address,* and *subtlety*—though it can also indicate the Querent themselves if male. In certain contexts, particularly when afflicted by surrounding cards, it may signify *sickness, pain, loss,* or *snares from enemies*[^1].
@@ -37,6 +39,7 @@ The reversed Magician speaks to a corrupted or blocked channel. Where the uprigh
 The key insight is that The Magician always deals with **transmission**—upright or reversed, spiritual or material, he is the conduit. The question is: what is being transmitted, and to what end?
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

@@ -12,10 +12,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Chariot (VII)
 *The Lord of the Triumph of Light*
 
 ---
+
 ## Traditional Symbolism
 
 When The Chariot appears ***upright*** in a reading, it speaks to the realm of conquest through disciplined will. According to A.E. Waite's Pictorial Key to the Tarot, the upright meanings center on *succour, providence, triumph, victory,* particularly *victory in the mind*—but also *war, presumption,* and *trouble*[^1].
@@ -39,6 +41,7 @@ The reversed Chariot speaks to control lost, the opposing forces no longer harne
 The key insight is that The Chariot always deals with **the paradox of victory through containment**—upright or reversed, it governs the capacity to hold opposing forces in productive tension rather than allowing them to tear the self apart.
 
 ---
+
 ## Qabalistic Position
 | System | Correspondence |
 |--------|----------------|

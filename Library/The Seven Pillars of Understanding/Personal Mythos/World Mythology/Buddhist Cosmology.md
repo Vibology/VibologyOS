@@ -778,6 +778,7 @@ The difference: Meditation-induced crises are **temporary and purposeful**—the
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Buddhism, for Jung, represented the **East's systematic psychology of liberation**—a 2,500-year empirical study of consciousness without the Western concept of "the unconscious." Yet Jung noted that what Buddhism calls **ignorance (avidya)**, the West calls **the unconscious**—the same phenomenon from different angles.

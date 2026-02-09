@@ -13,6 +13,7 @@ myth_origin: Ancient Greece
 central_figures: Zeus, Hera, Apollo, Dionysus, Hermes, Persephone, Psyche
 core_theme: Architecture of the Ego, differentiation from unconscious
 ---
+
 # Greek Mythology
 
 ## Overview
@@ -368,6 +369,7 @@ Von Franz notes: "Psyche's journey is the story of every woman who must differen
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Greek mythology, for Jung, was the **Western projection of the psyche's structure onto the heavens**. The gods are not external beings but **autonomous complexes**—clusters of psychic energy with their own intention, emotion, and archetypal pattern.

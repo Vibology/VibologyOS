@@ -14,6 +14,7 @@ element_primary: Water
 element_secondary: Fire
 title: Queen of the Thrones of Flame
 ---
+
 # Queen of Wands
 *Queen of the Thrones of Flame*
 
@@ -94,6 +95,7 @@ The reversed Queen presents a paradox—Waite assigns both positive qualities ("
 ---
 
 ## Esoteric Interpretation
+
 ### Elemental Dignity Analysis: Water of Fire
 
 The Queen rank is **Water**—the element of emotion, intuition, receptivity, depth, and the unconscious. Water is the realm of feeling, of the relational, of the numinous depths that cannot be grasped by intellect alone.

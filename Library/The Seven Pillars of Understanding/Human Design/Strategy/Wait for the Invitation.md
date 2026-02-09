@@ -204,6 +204,7 @@ Being seen is prerequisite to invitation. Projectors can position themselves whe
 ---
 
 ## Strategy Integration
+
 ### For Projectors
 
 1. **Wait for the formal invitation.** In big arenas (work, love, major decisions), don't offer guidance until asked.

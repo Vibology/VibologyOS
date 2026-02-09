@@ -16,6 +16,7 @@ planetary: Mercury in Aquarius
 decan: Second decan of Aquarius (10-20 degrees)
 title: Lord of Earned Success
 ---
+
 # Six of Swords
 
 *Lord of Earned Success*
@@ -69,6 +70,7 @@ The key teaching: **Sometimes the only way forward is away**. The Six of Swords 
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Tiphareth in Yetzirah
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiphareth* in Hebrew). It represents the harmonizing center of the Tree of Life, the heart, the place where the forces of severity and mercy, expansion and limitation, are balanced and reconciled.

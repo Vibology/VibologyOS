@@ -607,6 +607,7 @@ The gods' intermarriage with giants shows that **consciousness cannot exist with
 ---
 
 ## Jungian Analysis
+
 ### 9.1 Jungian Theory Deep Dive
 
 Norse mythology, for Jung, represents **the psyche's confrontation with its own mortality and the necessity of transformation through dissolution**. Where Greek myth dramatizes the **emergence of consciousness from the unconscious**, Norse myth confronts the **return of consciousness to the unconscious** (Ragnarök) and the **renewal that follows**.

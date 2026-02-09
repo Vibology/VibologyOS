@@ -16,6 +16,7 @@ planetary: Venus in Scorpio
 decan: Scorpio 20°-30° (3rd Decan)
 title: Lord of Illusory Success
 ---
+
 # Seven of Cups
 *The Lord of Illusory Success*
 
@@ -67,6 +68,7 @@ The key teaching: **The dreamer who never wakes builds castles in the air. The v
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Netzach as the Seven
 
 **Netzach** is the seventh Sephirah, titled **Victory** (*Netzach* in Hebrew). It is the sphere of emotion, desire, passion, and the creative imagination. Where Hod (the eighth Sephirah) is intellect and form, Netzach is *feeling* and *force*.

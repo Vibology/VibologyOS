@@ -12,6 +12,7 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983)"
 ---
+
 # The Sun (XIX)
 *The Lord of the Fire of the World*
 
@@ -58,6 +59,7 @@ The core teaching: **The Sun does not earn its light. It is light—and in being
 ---
 
 ## Esoteric Interpretation
+
 ### Hebrew Letter: Resh (ר) – The Head
 
 **Resh** means "head"—the crown, the seat of consciousness, the place where the individual "I" meets the universal "I Am." With a gematria value of **200** (2 x 100), Resh resonates with the number of **duality perfected**, the completion of the cycle of manifestation (100) doubled and returned to unity.

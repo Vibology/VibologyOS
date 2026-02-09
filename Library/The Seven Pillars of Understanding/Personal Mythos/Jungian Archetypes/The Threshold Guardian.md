@@ -17,6 +17,7 @@ verification_notes: "Core Jung archetype definitions verified via NotebookLM. Ke
 # The Threshold Guardian: Custodian of Boundaries
 
 ## Overview
+
 ### Jung's Definition
 
 The Threshold Guardian is the archetype that **guards the passage** between the known world and the unknown—the boundary between consciousness and the unconscious, between the ego and the deeper Self. Unlike the [[The Shadow|Shadow]], which represents the repressed contents of the personal unconscious, the Threshold Guardian is the **gatekeeper**, the obstacle that must be faced, respected, or overcome before transformation can occur.
@@ -321,6 +322,7 @@ Mentors and teachers serve as Threshold Guardians in **positive form**:
 - The Guardian is both **external (gatekeeper, authority) and internal (fear, doubt)**
 
 ## Jungian Analysis
+
 ### 1. Campbell's Theory Deep Dive
 
 Joseph Campbell's **Hero's Journey** positions the Threshold Guardian as the **first obstacle** after the Call to Adventure has been accepted.

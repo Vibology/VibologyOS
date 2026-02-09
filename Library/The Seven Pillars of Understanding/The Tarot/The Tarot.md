@@ -10,10 +10,12 @@ source_verified: true
 verification_date: 2026-01-25
 verification_source: "Esoteric Grimoire (Waite 1910, Wang 1983, De Angeles 2006, DuQuette 2008)"
 ---
+
 # The Tarot
 *The Legend of the Soul* 
 
 ---
+
 ## Qabalistic Position
 The **Tarot** is a symbolic language encoded in 78 archetypal images, operating simultaneously as:
 
@@ -36,6 +38,7 @@ Unlike systems revealed through scrying (like Enochian magic) or transmitted thr
 - **Golden Dawn System** (1888-1900s) — The esoteric framework underlying modern Tarot interpretation (Wang 1983, DuQuette 2008)
 
 ---
+
 ## The Structure of the Tarot
 
 ### The 22 Major Arcana
@@ -122,6 +125,7 @@ Each suit contains ten numbered cards (Ace through Ten) corresponding to the **t
 **Example:** [[Six of Swords]] = Air (intellect) in Tiphareth (harmony) = Mental clarity, balanced thought, recovery from conflict
 
 ---
+
 ## The Qabalistic Framework
 
 ### The Tree of Life
@@ -182,6 +186,7 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 - **Qoph (ק)** — Pisces — [[The Moon (XVIII)]]
 
 ---
+
 ## Historical Development
 
 ### Origins: Playing Cards to Mystical Keys
@@ -248,6 +253,7 @@ Each card exists simultaneously in all four worlds, though its primary expressio
 - **Limitations:** Minor Arcana lack scenic detail (harder for intuitive reading) (De Angeles 2006)
 
 ---
+
 ## The Major Arcana: The Legend of the Soul
 
 ### The Fool's Journey
@@ -293,6 +299,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 > *Vibology Synthesis: The Jungian individuation framework is anchored to De Angeles's archetypal analysis and synthesized with the [[Individuation Process]] structure from Personal Mythos pillar.*
 
 ---
+
 ## The Minor Arcana: Elemental Manifestation
 
 ### The Four Suits in Depth
@@ -386,6 +393,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 **Shadow:** Materialism, rigidity, greed, stagnation
 
 ---
+
 ## Divination: Reading the Cards
 
 ### The Divinatory Function
@@ -444,6 +452,7 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 - The querent always has agency to change outcomes
 
 ---
+
 ## Pathworking: The Initiatory Use of Tarot
 
 ### What is Pathworking?
@@ -468,7 +477,9 @@ The 22 Major Arcana tell a **sequential narrative**—the soul's journey from in
 - Shadow work by pathworking difficult cards ([[The Devil (XV)]], [[The Tower (XVI)]], [[Death (XIII)]])
 
 ---
+
 ## Correspondences
+
 ### Tarot and Astrology
 
 **Planetary Cards (7):**
@@ -544,6 +555,7 @@ Each numbered card (Ace-Ten) connects to the Sephirah's governing archangel (e.g
 The Major Arcana sequence mirrors Jung's individuation process (see [[Individuation Process]]).
 
 ---
+
 ## The Shadow of Tarot
 
 ### Spiritual Bypassing
@@ -579,6 +591,7 @@ The Major Arcana sequence mirrors Jung's individuation process (see [[Individuat
 **Remedy:** Humility. You are a facilitator, not an oracle. The querent's wisdom is accessed through the cards, not imposed by the reader.
 
 ---
+
 ## Practical Application
 
 ### Learning the Tarot
@@ -620,6 +633,7 @@ The Major Arcana sequence mirrors Jung's individuation process (see [[Individuat
 - Continuous learning and humility are essential
 
 ---
+
 ## The Gift of Tarot
 
 At its highest expression, Tarot offers:

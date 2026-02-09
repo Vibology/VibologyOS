@@ -15,6 +15,7 @@ sephirah: Yesod
 planetary: Moon in Sagittarius
 title: Lord of Great Strength
 ---
+
 # Nine of Wands
 *Lord of Great Strength*
 
@@ -72,6 +73,7 @@ The key teaching: **Resilience is not the same as invulnerability.** The Nine of
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Yesod as the Nine
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew, meaning "Foundation" or "Base"). Yesod occupies a crucial position on the Tree of Life—it is the third and final of the **Astral Triangle** (Netzach, Hod, Yesod), the realm of the Personality, and it sits directly above **Malkuth** (the Kingdom, the material world), serving as the *foundation upon which manifestation rests*.

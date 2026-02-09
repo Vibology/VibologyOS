@@ -17,11 +17,13 @@ planetary: Moon in Taurus
 decan: Second decan of Taurus (10°-20°)
 title: Lord of Material Success
 ---
+
 # Six of Pentacles
 
 *Moon in Taurus - The second decan of Taurus*
 
 ---
+
 ## Traditional Symbolism
 According to Waite's *Pictorial Key to the Tarot*, the Six of Pentacles signifies **presents, gifts, gratification**. [^1] More specifically: **a person in the guise of a merchant weighs money in a pair of scales and distributes it to the needy and distressed**. The upright card speaks to **success in material undertakings, prosperity, philanthropy, generosity**—but also the implicit power dynamics of charity.
 The Golden Dawn titles this card the **"Lord of Material Success"** [^2] and attributes it to **Moon in Taurus** [^3], the second decan of the fixed earth sign. This is the planet of cycles, intuition, and emotional tides (Moon) manifesting through the sign of material stability, sensory pleasure, and accumulated wealth (Taurus). The result is **generous flow**—resources circulating from those who have to those who need, but with *emotional discernment*, not blind giving.
@@ -29,6 +31,7 @@ The card represents **the restoration of balance after crisis**. The Five showed
 This is a profoundly important card in questions of giving and receiving, wealth and poverty, charity and justice. It indicates that resources are flowing again—the crisis of the Five is resolving. Someone who has abundance is sharing with someone who does not. But the card asks you to examine *how* the exchange is happening: Is it offered freely, or does it create obligation? Does it empower the receiver, or does it bind them to continued dependence? Is the giver generous, or controlling?
 When the Six of Pentacles appears **reversed**, Waite identifies meanings of **desire, cupidity, envy, jealousy, illusion**. [^4] The reversal can indicate several dynamics: the generosity becomes *manipulation* (gifts with strings attached), the receiver feels *resentment* (envy of the giver's power), or the giver becomes *stingy* (withholding what was previously shared). The Golden Dawn reversal suggests "unfairness in giving; charity used as control; resentment of those who have more." [^5]
 The key teaching: **How you give matters as much as what you give**. The Six of Pentacles offers the opportunity to restore balance, to share abundance, to lift others from poverty—but if the giving comes from ego (to be seen as generous), or creates dependency (the receiver can never rise to equality), or reinforces hierarchy (reminding the poor of their place), then the gift becomes a chain.
+
 ---
 
 ## Qabalistic Position
@@ -48,14 +51,17 @@ The key teaching: **How you give matters as much as what you give**. The Six of 
 | **Dates** | May 1 - May 10 (Sun in mid-Taurus) |
 
 ---
+
 ## Divination Use
 **Upright:** Material success, prosperity, the capacity to give from abundance. Gifts, philanthropy, charity, generosity. Resources flowing from those who have to those who need. Fair distribution (or at least, distribution according to some principle of justice). The restoration of balance after the crisis of the Five. Help arrives, the door opens, the sanctuary shares its pentacles. But also: the power dynamics of charity—the giver stands above, the receiver kneels below. The one who gives holds the scale and decides who receives what.
 *Keywords:* Generosity, charity, gifts, success, prosperity, balance restored, fair distribution, giving and receiving, philanthropy, power dynamics.
 **Reversed (per Waite):** Desire, cupidity, envy, jealousy, illusion. The generosity becomes manipulation—gifts with strings attached, charity used to control or obligate. Or the receiver resents the giver's power, envies their wealth, feels humiliated by needing help. Or the giver becomes stingy, withholding what was previously shared. Unfairness in giving—some receive more than they need, others receive less. The scale is unbalanced, justice is absent.
 *Keywords:* Manipulation through giving, strings attached, envy, resentment, stinginess, unfair distribution, charity as control, humiliation.
+
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Tiphareth as Harmonious Beauty
 
 **Tiphareth** is the sixth Sephirah, titled **Beauty** (*Tiphareth* in Hebrew). It is the **heart** of the Tree of Life, the center where all paths meet, the harmonizing force that balances mercy (Chesed) and severity (Geburah).
@@ -286,8 +292,10 @@ The Six asks: **Which merchant are you? And if you are the kneeling figure—do 
 The invitation is to give freely and receive gratefully, to recognize interdependence, and to work toward a world where no one needs to kneel—because we all stand together, giving and receiving as equals.
 
 ---
+
 ## Reading Examples / Case Studies
 *TBD*
+
 ---
 
 ## Cross-References

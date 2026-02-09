@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Explanation (4)
+
 ## Gates: 43/23/4/49 | Quarter of Mutation
 
 ### Ra's Keynote

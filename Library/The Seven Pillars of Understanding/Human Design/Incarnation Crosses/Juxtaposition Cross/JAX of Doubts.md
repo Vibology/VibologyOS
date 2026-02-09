@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Doubts
+
 ## Gates: 63/64/26/45 | Quarter of Initiation
 
 ### Ra's Keynote

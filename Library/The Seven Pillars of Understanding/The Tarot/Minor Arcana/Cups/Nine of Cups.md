@@ -17,6 +17,7 @@ planetary: Jupiter in Pisces
 decan: Pisces 10°-20° (2nd Decan)
 title: Lord of Material Happiness
 ---
+
 # Nine of Cups
 *The Lord of Material Happiness*
 
@@ -86,6 +87,7 @@ The reversed Nine can also signify:
 ---
 
 ## Esoteric Interpretation
+
 ### The Sephirotic Lens: Yesod as the Nine
 
 **Yesod** is the ninth Sephirah, titled **Foundation** (*Yesod* in Hebrew). It is the sphere of the Moon, of the astral plane, of images and dreams—the *foundation* upon which material reality (Malkuth) is built. Yesod is where thoughts and emotions crystallize into the forms that will eventually manifest in the physical world.

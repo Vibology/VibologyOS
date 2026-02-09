@@ -14,10 +14,12 @@ verification_date: 2026-02-03
 verification_source: "Jung CW 9ii (Aion), Jung CW 10 (Civilization in Transition), Neumann Depth Psychology"
 grimoire_source: "Jung CW 9ii, Jung CW 10, Neumann Depth Psychology and a New Ethic"
 ---
+
 # The Shape
 *Michael Myers — The Unkillable Shadow*
 
 ---
+
 ## Archetypal Identity
 
 The Shape represents the archetypal **collective shadow**—the silent, indestructible embodiment of metaphysical facts that consciousness cannot domesticate, the pattern that keeps returning because it is not personal material but ontological reality. This archetype embodies the deadly intensity of Scorpio: pure predation without motive, death incarnate, the boundary marker showing what cannot be integrated.
@@ -29,6 +31,7 @@ In Jung's framework, The Shape corresponds to what Jung called **the objective p
 The Shape appears when **the unassimilable manifests**, when you encounter what cannot be psychologized away, when the question becomes: "What am I trying to integrate that should instead be recognized, bounded, and met with ethical clarity?" This is the archetype of the irreducible.
 
 ---
+
 ## Correspondences
 
 | System | Correspondence |
@@ -41,6 +44,7 @@ The Shape appears when **the unassimilable manifests**, when you encounter what 
 | Season | Mid-Autumn (descent into darkness, death's season) |
 
 ---
+
 ## Synthesis Notes
 
 ### The Scorpio Principle
@@ -66,6 +70,7 @@ The Shape teaches: **some darkness is not yours**. You are not reducible to deat
 > *Vibology Synthesis: The Shape appears when you encounter the unassimilable. This is not personal shadow calling for integration but metaphysical fact demanding recognition. Do not try to integrate death. Acknowledge it. Maintain boundaries. Respond with ethical clarity.*
 
 ---
+
 ## Oracle Reading
 
 ### When This Card Appears

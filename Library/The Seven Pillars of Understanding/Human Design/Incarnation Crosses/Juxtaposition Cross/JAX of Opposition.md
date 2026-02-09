@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Opposition
+
 ## Gates: 38/39/57/51 | Quarter of Mutation
 
 ### Ra's Keynote

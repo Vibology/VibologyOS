@@ -19,6 +19,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Juxtaposition Cross of Contribution
+
 ## Gates: 8/14/55/59 | Quarter of Civilization
 
 ### Ra's Keynote

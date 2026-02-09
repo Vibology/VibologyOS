@@ -18,6 +18,7 @@ grimoire_source: "Human Design/Incarnation Crosses"
 ---
 
 # Right Angle Cross of Explanation (1)
+
 ## Gates: 49/4/43/23 | Quarter of Initiation
 
 ### Ra's Keynote

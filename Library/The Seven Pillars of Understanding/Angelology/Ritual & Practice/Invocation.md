@@ -10,6 +10,7 @@ related_practices:
   - "[[The Four Quarters]]"
   - "[[Guardian Angel]]"
 ---
+
 # Invocation: A Practitioner's Guide
 *The Art of Calling Upon Angelic Presence for Synthesis Work*
 

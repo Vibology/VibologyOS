@@ -8,10 +8,12 @@ source_verified: true
 verification_source: Esoteric Grimoire
 category: Context
 ---
+
 # Sources, Shadows, and Contemporary Practice
 *The Texts, Distortions, and Modern Recovery of the Path*
 
 ---
+
 ## Core Teaching
 
 [[The Magdalene Path]] is both **ancient** and **newly recovered**. For nearly 2,000 years, the tradition was **obscured**—first by the conflation of [[Mary Magdalene - Apostle and Beloved|Mary Magdalene]] with other women in the gospels, then by the church's reduction of her to a "penitent prostitute," and finally by the complete suppression of the **Wisdom gospels** (Gnostic texts) that preserved her teachings.
@@ -30,6 +32,7 @@ category: Context
 This entry maps the **sources**, identifies the **shadows**, and charts the **contemporary recovery** of the path.
 
 ---
+
 ## Part I: Historical Sources
 
 ### Canonical Gospels (1st Century CE)
@@ -177,6 +180,7 @@ Even after the Wisdom gospels were suppressed, the **Magdalene current** persist
 - These are Magdalene teachings, even when Mary is not explicitly named
 
 ---
+
 ## Part II: The Penitent Whore Myth
 
 ### How the Distortion Arose
@@ -200,6 +204,7 @@ Pope Gregory I delivers a homily conflating **three separate women** into one[^3
 - Her role as **Apostle, teacher, and mystic** is erased
 
 ---
+
 ### What the Myth Obscured
 
 **The Erased Mary:**
@@ -229,6 +234,7 @@ Paradoxically, the "penitent whore" myth **preserved** something essential:
 When the Wisdom gospels were recovered (1945), the **shadow image** could be inverted—revealing the **sacred prostitute** archetype (Sophia, Inanna, the one who offers embodied love as path to the Divine).
 
 ---
+
 ### The 1969 Reversal
 
 **Vatican II (1969):**
@@ -242,6 +248,7 @@ When the Wisdom gospels were recovered (1945), the **shadow image** could be inv
 - Most Christians still conflate the stories
 
 ---
+
 ## Kenotic Descent
 > *Vibology Synthesis: The following shadow analysis applies Magdalene Path teachings to identify potential distortions.*
 
@@ -337,6 +344,7 @@ Even the **authentic** Magdalene Path carries shadows—ways the teaching can be
 - If you're attached to suffering, examine what you're avoiding in **abundance**
 
 ---
+
 ## Part IV: Contemporary Recovery and Practice
 
 ### Cynthia Bourgeault: The Primary Modern Teacher
@@ -452,7 +460,9 @@ Bourgeault **synthesizes**:
    - Engage in healing work, teaching, parenting, art, activism as **living practice**
 
 ---
+
 ## Pillar Integration
+
 ### Tarot: The High Priestess (II)
 
 **[[The High Priestess (II)]]** embodies the **Wisdom** tradition—hidden knowledge, the veil between worlds, the path that must be **sought** rather than given. She is the Magdalene, holding the scrolls of gnosis.
@@ -470,6 +480,7 @@ Those with **[[Emotional Authority]]** (Solar Plexus defined) must **wait throug
 **Sophia** (Σοφία) is the divine feminine in Gnostic Christianity—the **Holy Wisdom** who descends into matter to redeem it. Mary Magdalene is the **human embodiment** of Sophia.
 
 ---
+
 ---
 
 ## Cross-References

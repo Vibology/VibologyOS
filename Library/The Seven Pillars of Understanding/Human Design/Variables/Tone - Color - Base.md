@@ -10,6 +10,7 @@ verification_date: 2026-01-25
 grimoire_source: "The Definitive Book of Human Design (Ra Uru Hu, 2011)"
 verification_notes: "Variables mechanics verified against Grimoire. Advanced layer (Color/Tone/Base calculations) marked as educational synthesis."
 ---
+
 # Tone - Color - Base
 *The deeper architecture of consciousness*
 
@@ -387,6 +388,7 @@ The Not-Self mind resists this. It wants to be "flexible," "adaptive," "open to 
 ---
 
 ## Correspondences
+
 ### Qabalah: The Tree of Life and Emanation
 
 **Parallel:** The **Tree of Life** describes consciousness as **emanating** from formless Source (Ain Soph) through ten Sephiroth. Human Design's Tone/Color/Base describes consciousness as **entering** through neutrino streams and **structuring** through Crystals.
