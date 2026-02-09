@@ -1,6 +1,6 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-07
+**Last Updated:** 2026-02-08
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -84,7 +84,7 @@ VibologyOS/
 
 ### MacOS Application — Unified Interface
 
-**Next Priority:** Build native MacOS app integrating VibologyOS library with Cartographer API
+**Status:** Observatory v1 foundation complete — chart viewing + synthesis viewing operational
 
 **Foundation complete:**
 - VibologyOS reference library: 800 files, 100% verified, 100% source-verified
@@ -92,12 +92,17 @@ VibologyOS/
 - Chart generation: Natal charts (Kerykeion), Bodygraphs (IHDS with full dignity symbols)
 - All local calculation tools operational
 
-**MacOS app requirements:**
-- Native Swift/SwiftUI interface
-- Integrated chart calculation (birth data → visualization)
+**Observatory v1 (complete):**
+- ✅ Native Swift/SwiftUI interface
+- ✅ Chart viewing: Bodygraph + Natal Chart SVG rendering
+- ✅ Client data display: Overview tab with birth data, Type, Authority, Profile, Cross
+- ✅ Synthesis viewer: Scans ~/Business/Consultations/[Client]/Synthesis/ for .md files, displays in split view (file list + markdown viewer)
+- ✅ Clean separation: synthesis generation via Claude Code CLI, viewing via GUI
+
+**Next phase (not started):**
+- New Client form with integrated chart calculation (birth data → automatic HD/Astro calculation + chart generation)
 - Library browser/search (800 files of archetypal reference)
-- Client synthesis workflow
-- Local-first architecture (Cartographer runs locally)
+- Advanced synthesis workflow integration
 
 **Design philosophy:** The Observatory — instruments for seeing clearly, not pronouncements requiring faith. Transparent reasoning, calibrated tools, practitioner authority.
 
@@ -107,6 +112,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Observatory synthesis viewer | 2026-02-08 | Removed AI generation features, implemented viewer-only synthesis tab. Scans client Synthesis/ folder for multiple .md documents, displays in split view (file list + markdown viewer). Clean separation: generation via CLI, viewing via GUI. |
 | First exemplar synthesis complete | 2026-02-08 | "The 4/6 Profile: Opportunist Role Model Through Seven Lenses" — Multi-system integration (HD, Tarot, Astrology, Mythology, Magdalene Path, Angelology, I-Ching) demonstrating Observatory methodology. 8,200+ words of mythopoetic synthesis with inline citations. |
 | Cross-references 100% coverage | 2026-02-07 | Replaced placeholder text in 21 files across 4 pillars with comprehensive, organized cross-references. Batches: Qabalah 1, Jungian Archetypes 7, Angelology 10, HD+Magdalene 3. Result: 802/802 files (100%), 0 placeholders |
 | Inline footnotes 100% coverage | 2026-02-07 | Fixed 14 files with orphaned definitions (7 Tarot Major Arcana, 6 HD overviews, 1 Astrology). Added inline [^N] citations connecting body content to sources. Result: 802/802 files (100%), 0 orphaned definitions |
@@ -148,6 +154,22 @@ VibologyOS/
 ---
 
 ## Session History
+
+**2026-02-08 (Observatory session):** Synthesis viewer — removed AI generation, implemented Synthesis/ folder scanning
+- **Objective:** Implement synthesis viewing capability without API costs or external dependencies
+- **Initial approach attempted:** Claude Haiku API integration ($0.14/synthesis) with LibraryContextBuilder pre-loading gate content
+- **Gate loading bug fixed:** LibraryContextBuilder was listing gate numbers but not loading files; added `loadGateFile()` with zero-padding support (Gate 04 vs Gate 4)
+- **UI improvement:** Created MarkdownWebView with WKWebView + custom CSS (proper typography: line-height 1.7, max-width 900px, hierarchical spacing)
+- **Claude Code CLI integration attempted:** Tried calling `claude` CLI from Observatory to avoid API costs and get better quality; failed due to macOS security restrictions (requested network/iCloud/Music/Photos permissions, hung on execution)
+- **Final solution:** Remove all AI generation, implement viewer-only approach
+  - Deleted: ClaudeAPIClient.swift, SynthesisService.swift, LibraryContextBuilder.swift, LibrarySearchService.swift
+  - Changed: Single synthesis.md → Synthesis/ folder with multiple .md files
+  - UI: HSplitView with file list (left, 200-300px) and markdown viewer (right)
+  - ClientViewModel logic: Check for Synthesis/ folder + .md files to show synthesis tab
+- **Synthesis workflow:** Generate via Claude Code CLI in Terminal → save to ~/Business/Consultations/[Client]/Synthesis/*.md → Observatory displays with proper formatting
+- **Files changed:** 3 modified (ClientSynthesisTab.swift complete rewrite, ClientViewModel.swift, ClientWindowView.swift), 5 deleted
+- **Commit:** `58e0050` — "Remove AI synthesis generation, add synthesis viewer"
+- **Result:** Observatory is now a clean viewer-only app with four tabs: Overview, Bodygraph, Natal Chart, Synthesis. Clear separation of concerns: CLI for generation (high quality, grounded in Library), GUI for viewing (clean, fast, no API costs).
 
 **2026-02-07 (Cartographer session):** Complete IHDS dignity calculation with gate-level fixing
 - **Objective:** Fix bodygraph rendering to display full dignity symbols (▲ exalted, ▽ detriment, ✦ juxtaposed)
