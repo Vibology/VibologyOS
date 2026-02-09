@@ -1,6 +1,6 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-08
+**Last Updated:** 2026-02-09
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -29,6 +29,7 @@
 | Client overview | Birth data, Type, Authority, Profile, Cross, Centers, Channels |
 | Contextual lookup | All chart data values link to library entries |
 | Synthesis viewer | Scans Synthesis/ folder, displays markdown with proper typography |
+| Library editor | Edit/reader mode toggle (Cmd+E), save with validation (Cmd+S), unsaved changes protection |
 | Print system | Dynamic pagination, orientation support (portrait/landscape), aspect-fit scaling |
 | New client creation | Location autocomplete, pre-resolved coordinates to Cartographer |
 | Build warnings | 0 |
@@ -67,7 +68,33 @@ VibologyOS/
 
 ## Open Questions
 
-- **Observatory ceiling:** The app is a capable viewer (charts, library, synthesis) but lacks in-app synthesis capability. Whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or remain a clean viewer is an open design question. No rush — emotional wave decision.
+- **Observatory ceiling:** The app now has viewing + editing capability for library entries. The question remains whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or in-app synthesis generation. External git workflow still handles commits. No rush — emotional wave decision.
+
+---
+
+## Immediate Next Actions
+
+**Today (2026-02-09):**
+- Uninstall ollama
+- Remove qwen model and local LLM infrastructure
+- Reason: Local models insufficient for synthesis demands; Anthropic API remains primary tool
+
+**Future consideration (not imminent):**
+- Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
+
+---
+
+## Recent Session Summary (2026-02-09)
+
+### Observatory library editor implementation
+- Added edit/reader mode toggle to Observatory library viewer
+- Features: Cmd+E toggle, Cmd+S save, unsaved changes warning, YAML validation
+- Architecture: LibraryWriter service with atomic writes and path validation
+- Modified 8 files, added LibraryWriter.swift (+418 lines total)
+- Dual-mode MarkdownTextView: rendered attributed string (read) vs plain monospaced editing (edit)
+- Entry reload after save syncs changes into LibraryIndex and search index
+- External git workflow unchanged (commits still handled outside app)
+- Commit: Observatory `38fec3b`
 
 ---
 
@@ -90,12 +117,20 @@ VibologyOS/
 - `get_hd_data.py` fully migrated from old `humandesign_api` to Cartographer (port 8000, module paths, auth header)
 - Old `humandesign_api` submodule archived
 
+### Evening: Scale realization and infrastructure assessment
+- Full recognition of project scope: API, app, website, + 800-file Library requiring human curation
+- Emotional wave processing through 4/6 observation phase — seeing the actual terrain
+- Decision made: Local LLM infrastructure (ollama/qwen) insufficient for synthesis work
+- Current dependency: Anthropic API for all synthesis tasks
+- Generator response to actual scale: the depth will come through doing the work, not through credentials
+
 ---
 
 ## Completed Milestones
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Observatory library editor | 2026-02-09 | Edit/reader mode toggle, atomic writes, YAML validation, Cmd+E/S shortcuts |
 | Print system overhaul | 2026-02-08 | Dynamic pagination, orientation support, zero warnings |
 | Geocoding fix for accented names | 2026-02-08 | NFC normalization + coordinate pass-through |
 | Cartographer migration complete | 2026-02-08 | get_hd_data.py ported to Cartographer API |
