@@ -1,15 +1,14 @@
 #!/usr/bin/env python3
 """
 Human Design Chart Data Acquisition Script
-Calls the local humandesign_api (FastAPI) for precise HD calculations.
+Calls the local Cartographer API (FastAPI) for precise HD calculations.
 
 Usage:
     python get_hd_data.py --name "Name" --year 1990 --month 6 --day 15 \
                           --hour 12 --minute 0 --place "New York, USA"
 
 Prerequisites:
-    - HD_API_TOKEN set in environment or .env file (optional)
-    - Script will automatically start the API if not running
+    - Script will automatically start the Cartographer API if not running
 
 Output: JSON to stdout with full HD chart data including exaltation/detriment dignities
 """
@@ -30,27 +29,8 @@ except ImportError:
     print("Error: httpx not installed. Run: pip install httpx", file=sys.stderr)
     sys.exit(1)
 
-# Configuration
-DEFAULT_API_URL = "http://127.0.0.1:9021"
-DEFAULT_TOKEN = "vibologyos-local-dev-token"
-
-
-def get_api_token() -> str:
-    """Get API token from environment or .env file."""
-    token = os.environ.get('HD_API_TOKEN')
-    if not token:
-        # Try to read from .env file in humandesign_api directory
-        env_path = os.path.join(
-            os.path.dirname(__file__),
-            '..', 'humandesign_api', '.env'
-        )
-        if os.path.exists(env_path):
-            with open(env_path) as f:
-                for line in f:
-                    if line.startswith('HD_API_TOKEN='):
-                        token = line.split('=', 1)[1].strip()
-                        break
-    return token or DEFAULT_TOKEN
+# Configuration — Cartographer API
+DEFAULT_API_URL = "http://127.0.0.1:8000"
 
 
 def check_api_health(base_url: str) -> bool:
@@ -62,29 +42,29 @@ def check_api_health(base_url: str) -> bool:
         return False
 
 
-def start_api_server(port: int = 9021) -> bool:
+def start_api_server(port: int = 8000) -> bool:
     """
-    Start the HD API server if not already running.
+    Start the Cartographer API server if not already running.
 
     Returns:
         True if server started successfully or is already running
         False if startup failed
     """
     script_dir = Path(__file__).parent
-    api_dir = script_dir / '..' / 'humandesign_api'
+    api_dir = script_dir / '..' / 'Cartographer' / 'src'
     api_dir = api_dir.resolve()
 
     if not api_dir.exists():
-        print(f"Error: humandesign_api directory not found at {api_dir}", file=sys.stderr)
+        print(f"Error: Cartographer src directory not found at {api_dir}", file=sys.stderr)
         return False
 
     # Start the API in the background
     try:
-        print(f"Starting HD API on port {port}...", file=sys.stderr)
+        print(f"Starting Cartographer API on port {port}...", file=sys.stderr)
 
         # Start uvicorn in the background
         process = subprocess.Popen(
-            ['uvicorn', 'humandesign.api:app', '--host', '127.0.0.1', '--port', str(port)],
+            ['uvicorn', 'cartographer.api:app', '--host', '127.0.0.1', '--port', str(port)],
             cwd=str(api_dir),
             stdout=subprocess.DEVNULL,
             stderr=subprocess.DEVNULL,
@@ -95,7 +75,7 @@ def start_api_server(port: int = 9021) -> bool:
         for i in range(20):
             time.sleep(0.5)
             if check_api_health(f"http://127.0.0.1:{port}"):
-                print(f"HD API started successfully (PID: {process.pid})", file=sys.stderr)
+                print(f"Cartographer API started successfully (PID: {process.pid})", file=sys.stderr)
                 return True
 
         print("Error: API started but health check failed", file=sys.stderr)
@@ -110,9 +90,9 @@ def start_api_server(port: int = 9021) -> bool:
 
 
 def load_dignity_module():
-    """Import the dignity calculation module from humandesign_api."""
+    """Import the dignity calculation module from Cartographer."""
     script_dir = Path(__file__).parent
-    api_src_path = script_dir / '..' / 'humandesign_api' / 'src'
+    api_src_path = script_dir / '..' / 'Cartographer' / 'src'
 
     # Add to path if not already there
     api_src_str = str(api_src_path.resolve())
@@ -120,7 +100,7 @@ def load_dignity_module():
         sys.path.insert(0, api_src_str)
 
     try:
-        from humandesign.features.dignity import calculate_dignity, load_dignity_data
+        from cartographer.features.dignity import calculate_dignity, load_dignity_data
         return calculate_dignity, load_dignity_data
     except ImportError as e:
         print(f"Warning: Could not import dignity module: {e}", file=sys.stderr)
@@ -404,6 +384,8 @@ def get_hd_chart(
     year: int, month: int, day: int,
     hour: int, minute: int,
     place: str,
+    latitude: float = None,
+    longitude: float = None,
     base_url: str = DEFAULT_API_URL
 ) -> dict:
     """
@@ -414,13 +396,13 @@ def get_hd_chart(
         year, month, day: Birth date
         hour, minute: Birth time (local time)
         place: Place name (e.g., "New York, USA" or "Kaposvar, Hungary")
+        latitude: Pre-resolved latitude (skips API geocoding if provided)
+        longitude: Pre-resolved longitude (skips API geocoding if provided)
         base_url: API base URL
 
     Returns:
         Dictionary with full HD chart data
     """
-    token = get_api_token()
-
     # Build query parameters
     params = {
         'year': year,
@@ -431,15 +413,22 @@ def get_hd_chart(
         'place': place
     }
 
-    # Make API request
+    # Pass pre-resolved coordinates to skip API-side geocoding
+    if latitude is not None and longitude is not None:
+        params['latitude'] = latitude
+        params['longitude'] = longitude
+
+    # Make API request (Cartographer uses X-Api-Token header, disabled by default)
     headers = {
-        'Authorization': f'Bearer {token}',
         'Accept': 'application/json'
     }
+    token = os.environ.get('HD_API_TOKEN')
+    if token:
+        headers['X-Api-Token'] = token
 
     try:
         response = httpx.get(
-            f"{base_url}/calculate",
+            f"{base_url}/humandesign/calculate",
             params=params,
             headers=headers,
             timeout=30.0
@@ -479,7 +468,7 @@ def get_hd_chart(
             'birth_time': f"{hour:02d}:{minute:02d}",
             'place': place or f"{lat}, {lng}",
             'calculation_timestamp': datetime.utcnow().isoformat() + 'Z',
-            'engine': 'humandesign_api/pyswisseph'
+            'engine': 'cartographer/pyswisseph'
         },
         'type': {
             'energy_type': general.get('energy_type'),
@@ -528,6 +517,8 @@ def main():
     parser.add_argument('--hour', type=int, required=True, help='Birth hour (0-23)')
     parser.add_argument('--minute', type=int, default=0, help='Birth minute (0-59)')
     parser.add_argument('--place', required=True, help='Birth place (e.g., "New York, USA" or "Kaposvar, Hungary")')
+    parser.add_argument('--lat', type=float, default=None, help='Pre-resolved latitude (skips API geocoding)')
+    parser.add_argument('--lng', type=float, default=None, help='Pre-resolved longitude (skips API geocoding)')
     parser.add_argument('--api-url', default=DEFAULT_API_URL, help='API base URL')
     parser.add_argument('--pretty', action='store_true', help='Pretty-print JSON output')
     parser.add_argument('--check', action='store_true', help='Only check API health')
@@ -550,12 +541,12 @@ def main():
 
     # Ensure API is running (start if needed)
     if not check_api_health(args.api_url):
-        print("HD API not running, attempting to start...", file=sys.stderr)
+        print("Cartographer API not running, attempting to start...", file=sys.stderr)
         if not start_api_server():
             print(json.dumps({
-                'error': 'Failed to start HD API',
+                'error': 'Failed to start Cartographer API',
                 'url': args.api_url,
-                'hint': 'Try manually: cd System/humandesign_api && uvicorn humandesign.api:app --port 9021'
+                'hint': 'Try manually: cd System/Cartographer/src && uvicorn cartographer.api:app --port 8000'
             }), file=sys.stderr)
             sys.exit(1)
 
@@ -568,6 +559,8 @@ def main():
             hour=args.hour,
             minute=args.minute,
             place=args.place,
+            latitude=args.lat,
+            longitude=args.lng,
             base_url=args.api_url
         )
 
