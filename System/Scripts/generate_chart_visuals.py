@@ -45,7 +45,7 @@ except ImportError:
 
 
 def generate_bodygraph(output_dir: Path) -> bool:
-    """Generate bodygraph.svg from humandesign.json."""
+    """Generate bodygraph.svg (light) and bodygraph-dark.svg (dark) from humandesign.json."""
     hd_file = output_dir / 'humandesign.json'
 
     if not hd_file.exists():
@@ -76,25 +76,43 @@ def generate_bodygraph(output_dir: Path) -> bool:
         'channels': {'Channels': hd_data.get('channels', [])}
     }
 
-    # Generate bodygraph as SVG
-    svg_bytes = generate_bodygraph_image(
+    # Generate light mode bodygraph
+    svg_bytes_light = generate_bodygraph_image(
         chart_data,
         fmt='svg',
         include_panels=True,
-        include_summary=False
+        include_summary=False,
+        dark_mode=False
     )
 
-    # Write to file
-    output_file = output_dir / 'bodygraph.svg'
-    with open(output_file, 'wb') as f:
-        f.write(svg_bytes)
+    # Write light mode to file
+    output_file_light = output_dir / 'bodygraph.svg'
+    with open(output_file_light, 'wb') as f:
+        f.write(svg_bytes_light)
 
-    print(f"✓ Bodygraph: {output_file.relative_to(Path.cwd()) if output_file.is_relative_to(Path.cwd()) else output_file}")
+    print(f"✓ Bodygraph (light): {output_file_light.relative_to(Path.cwd()) if output_file_light.is_relative_to(Path.cwd()) else output_file_light}")
+
+    # Generate dark mode bodygraph
+    svg_bytes_dark = generate_bodygraph_image(
+        chart_data,
+        fmt='svg',
+        include_panels=True,
+        include_summary=False,
+        dark_mode=True
+    )
+
+    # Write dark mode to file
+    output_file_dark = output_dir / 'bodygraph-dark.svg'
+    with open(output_file_dark, 'wb') as f:
+        f.write(svg_bytes_dark)
+
+    print(f"✓ Bodygraph (dark): {output_file_dark.relative_to(Path.cwd()) if output_file_dark.is_relative_to(Path.cwd()) else output_file_dark}")
+
     return True
 
 
 def generate_natal_chart(output_dir: Path) -> bool:
-    """Generate natal_chart.svg from astrology.json using Cartographer."""
+    """Generate landscape + portrait natal charts from astrology.json."""
     astro_file = output_dir / 'astrology.json'
 
     if not astro_file.exists():
@@ -107,7 +125,7 @@ def generate_natal_chart(output_dir: Path) -> bool:
 
     meta = astro_data['meta']
 
-    # Use Cartographer's astro_renderer (includes SF Pro font injection)
+    # Step 1: Generate landscape chart using Cartographer
     svg_bytes, _ = render_natal_chart(
         name=meta['name'],
         year=int(meta['birth_date'].split('-')[0]),
@@ -122,11 +140,41 @@ def generate_natal_chart(output_dir: Path) -> bool:
         city=meta.get('city')
     )
 
-    output_file = output_dir / 'natal_chart.svg'
-    with open(output_file, 'wb') as f:
+    # Save landscape chart
+    landscape_file = output_dir / 'landscape.svg'
+    with open(landscape_file, 'wb') as f:
         f.write(svg_bytes)
+    print(f"✓ Landscape chart: {landscape_file.relative_to(Path.cwd()) if landscape_file.is_relative_to(Path.cwd()) else landscape_file}")
 
-    print(f"✓ Natal chart: {output_file.relative_to(Path.cwd()) if output_file.is_relative_to(Path.cwd()) else output_file}")
+    # Step 2: Generate portrait charts (dark + light) using portrait_builder.py
+    import subprocess
+    portrait_builder = SCRIPT_DIR.parent / 'Cartographer' / 'portrait_builder.py'
+
+    if not portrait_builder.exists():
+        print(f"Warning: portrait_builder.py not found at {portrait_builder}", file=sys.stderr)
+        return True  # Landscape still generated successfully
+
+    try:
+        # Get python from Cartographer venv
+        venv_python = SCRIPT_DIR.parent / 'Cartographer' / '.venv' / 'bin' / 'python3'
+
+        # Run: python3 portrait_builder.py landscape.svg portrait
+        # This creates portrait-light.svg and portrait-dark.svg
+        result = subprocess.run(
+            [str(venv_python), str(portrait_builder), str(landscape_file), str(output_dir / 'portrait')],
+            capture_output=True,
+            text=True,
+            cwd=output_dir
+        )
+
+        if result.returncode == 0:
+            print(f"✓ Portrait charts: portrait-light.svg, portrait-dark.svg")
+        else:
+            print(f"Warning: Portrait generation failed: {result.stderr}", file=sys.stderr)
+
+    except Exception as e:
+        print(f"Warning: Portrait generation error: {e}", file=sys.stderr)
+
     return True
 
 

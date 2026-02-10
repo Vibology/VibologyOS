@@ -80,6 +80,54 @@ VibologyOS/
 
 ---
 
+## Recent Session Summary (2026-02-09 late evening)
+
+### Bodygraph dark mode — Comprehensive luminous redesign
+- Complete ground-up rethink of dark mode aesthetic: "stained glass in a dark cathedral" — elements glow from within against darkness
+- **Critical fixes from screenshot review:**
+  - V1 attempt: Incremental adjustments failed — illegible gate numbers, invisible Personality panel text, unclear structure
+  - V2 solution: Abandoned light-mode adaptation, embraced dark mode as its own aesthetic with inverted luminosity hierarchy
+  - V3 refinement: Gate numbers corrected (black text on white circles), activation colors unified with panels
+- **Core principle:** High contrast, vibrant accents, clear hierarchy. Bright elements on dark background, not dimmed light theme.
+- **Color unification:** Channels and gate activations match panel text colors for coherent visual system
+- **V4 refinement:** Activation colors changed from coral/cyan to magenta/electric blue to eliminate visual confusion with Sacral (coral) and Spleen (teal) center colors
+- **V5 polish:** Panel colors updated to match activation colors (magenta panels for Design, electric blue for Personality) for complete visual coherence
+- **V6 revision:** Center colors redesigned as rich jewel tones (deep amethyst, jade, coral, gold, etc.) — muted enough to not compete with activations, saturated enough to be beautiful. Aged stained glass aesthetic creates proper visual hierarchy: Activations (magenta/blue) dominate, centers support.
+
+**Color Palette (Luminous Dark Mode):**
+- **Body structure:** #404040 fill, #808080 stroke (medium gray, bright outline — clearly defined silhouette)
+- **Body glow:** #555555 outer, #4A4A4A inner (stronger emanation reveals anatomical structure)
+- **Undefined channels:** #888888 inactive, #666666 glow (quite visible — full channel anatomy now readable)
+- **Undefined centers:** #2A2A2A fill, #606060 stroke (darker than body creates depth, visible borders)
+- **Gate numbers:** #FFFFFF active (pure white, maximum contrast), #CCCCCC inactive (very light gray)
+- **Defined centers (Rich Jewel Tones - Muted but Beautiful):** Deep, sophisticated colors that support rather than compete with activations
+  - Head: #AA77DD (deep amethyst), Ajna: #8899CC (deep indigo), Throat: #6699DD (deep cerulean)
+  - G: #EEBB66 (deep gold), Heart: #77CC99 (deep emerald), Solar Plexus: #EEBB77 (deep amber)
+  - Spleen: #66BBAA (deep jade), Sacral: #EE9988 (deep coral), Root: #BB8866 (deep sienna)
+  - Philosophy: Aged stained glass aesthetic — rich, restrained, luxurious
+
+**Panel Text & Activations (Fully Unified Magenta/Electric Blue System):**
+- **Design:** Pure magenta (#FF40BF) for text, channels, and gate borders. Bright magenta header (#FF66CC), deep magenta tint background (#2A182A), vibrant magenta panel border (#DD44BB), magenta cell dividers (#442244)
+- **Personality:** Electric blue (#4488FF) for text, channels, and gate borders. Bright electric blue header (#66AAFF), deep blue tint background (#1A2035), electric blue panel border (#5588DD), blue cell dividers (#2A3550)
+- **Why it works:** Single color per aspect creates fully coherent visual system from top to bottom. Magenta and electric blue are distinct from ALL center colors (avoiding coral/Sacral and cyan/Spleen confusion). Panels, channels, borders, and text all speak the same color language. Maximum visual clarity and professional polish.
+
+**Visual hierarchy (bright → dark):**
+1. Active gates (white) — most important
+2. Defined centers (vibrant colors) — second focus
+3. Panel text (bright accents) — readable data
+4. Active channels (red/black) — clear activations
+5. Body structure (medium gray) — visible framework
+6. Undefined channels (light gray) — anatomical context
+7. Undefined centers (darker gray) — depth
+8. Background (darkest) — recedes
+
+- **Script updates:** `generate_chart_visuals.py` exports both `bodygraph.svg` (light) and `bodygraph-dark.svg` (dark)
+- **Observatory integration:** ClientLoader prefers `bodygraph-dark.svg` (matching `portrait-dark.svg`)
+- Modified 3 files: `chart_renderer.py` (+130 lines comprehensive redesign), `generate_chart_visuals.py` (+25 lines), `ClientLoader.swift`
+- Ready for commit
+
+---
+
 ## Recent Session Summary (2026-02-09 evening)
 
 ### Portrait natal chart refinement
