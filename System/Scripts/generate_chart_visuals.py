@@ -169,6 +169,37 @@ def generate_natal_chart(output_dir: Path) -> bool:
 
         if result.returncode == 0:
             print(f"✓ Portrait charts: portrait-light.svg, portrait-dark.svg")
+
+            # Step 3: Extract wheel-dark.svg and aspects-dark.svg from portrait-dark.svg
+            portrait_dark = output_dir / 'portrait-dark.svg'
+            if portrait_dark.exists():
+                try:
+                    # Read portrait-dark.svg
+                    with open(portrait_dark, 'r', encoding='utf-8') as f:
+                        portrait_content = f.read()
+
+                    # Extract wheel (top 800px)
+                    wheel_content = portrait_content.replace(
+                        "width='800' height='2210' viewBox='0 0 800 2210'",
+                        "width='800' height='800' viewBox='0 0 800 800'"
+                    )
+                    wheel_file = output_dir / 'wheel-dark.svg'
+                    with open(wheel_file, 'w', encoding='utf-8') as f:
+                        f.write(wheel_content)
+                    print(f"✓ Wheel chart: wheel-dark.svg")
+
+                    # Extract aspects grid (y=1370, height=830)
+                    aspects_content = portrait_content.replace(
+                        "width='800' height='2210' viewBox='0 0 800 2210'",
+                        "width='800' height='830' viewBox='0 1370 800 830'"
+                    )
+                    aspects_file = output_dir / 'aspects-dark.svg'
+                    with open(aspects_file, 'w', encoding='utf-8') as f:
+                        f.write(aspects_content)
+                    print(f"✓ Aspects grid: aspects-dark.svg")
+
+                except Exception as e:
+                    print(f"Warning: Failed to extract wheel/aspects: {e}", file=sys.stderr)
         else:
             print(f"Warning: Portrait generation failed: {result.stderr}", file=sys.stderr)
 

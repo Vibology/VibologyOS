@@ -65,7 +65,9 @@ def get_chart_data(name: str, year: int, month: int, day: int,
     planet_attrs = [
         'sun', 'moon', 'mercury', 'venus', 'mars',
         'jupiter', 'saturn', 'uranus', 'neptune', 'pluto',
-        'mean_north_lunar_node', 'true_north_lunar_node', 'chiron'
+        'mean_north_lunar_node', 'true_north_lunar_node',
+        'true_south_lunar_node',
+        'chiron', 'mean_lilith'
     ]
 
     for planet_name in planet_attrs:
