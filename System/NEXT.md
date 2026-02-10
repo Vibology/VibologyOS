@@ -34,6 +34,9 @@
 | Print system | Dynamic pagination, orientation support (portrait/landscape), aspect-fit scaling |
 | New client creation | Location autocomplete, pre-resolved coordinates to Cartographer |
 | Build warnings | 0 |
+| Code audit | Complete — all 33 items resolved across 4 phases (2026-02-10) |
+| Test coverage | 64 tests across 6 test suites (up from 21) |
+| Swift 6 readiness | Sendable on all model structs, @MainActor isolation, StrictConcurrency enabled |
 | Dev tooling | Apple Docs MCP server (live SwiftUI/AppKit/Foundation lookup + WWDC transcripts) |
 
 ### Cartographer (API)
@@ -79,6 +82,34 @@ VibologyOS/
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
+
+---
+
+## Recent Session Summary (2026-02-10 night)
+
+### Observatory code audit — Phase 1-4 comprehensive sweep
+Second audit session resolving all 33 remaining items from the 5-agent parallel audit.
+
+- **Phase 1 — Concurrency Isolation (7 items):** Added `@MainActor` to LibraryViewModel, ClientStore, ClientViewModel, LibraryIndex, SearchEngine, TreeNode. Fixed LibraryEntry Hashable to use only `id`. Removed 5+ `MainActor.run {}` blocks, made `exitEditMode`/`toggleEditMode`/`saveCurrentEntry` synchronous.
+- **Phase 2 — Correctness Fixes (12 items):** ProfileViewModel fire-and-forget fix, Cmd+E/Cmd+N shortcut conflicts resolved, WebViewPrinter coordinator type filtering, Package.swift resource declarations, duplicate Ascendant row removed, MarkdownWebView change detection, WikilinkParser NSRange fix, YAML escaping, `</script>` injection fix, ClientNotesTab task leak fix, FrontmatterParser POSIX locale.
+- **Phase 3 — Test Coverage (6 items):** 3 new test files (LibraryLoaderTests 8 tests, MarkdownRendererTests 17 tests, LibraryWriterTests 5 tests). Expanded FrontmatterParserTests (+3), SearchEngineTests (+4), WikilinkParserTests (+6). Total: 21 → 64 tests.
+- **Phase 4 — Polish & Cleanup (14 items):** Sync I/O moved off main thread (LibraryLoader, startEditing), cache eviction for ClientStore, deterministic resolveByPrefix, LibraryLink → Button for accessibility, accessibility labels on 4 view components, static countries array, color deduplication (NSColor source of truth), dead needsBlockSeparator removal, private API drawsBackground replaced, Pillar.accentColor moved to view layer, unused directoryPath removed, StrictConcurrency enabled.
+- Net result: +107/-116 lines (Phase 4), +614/-106 lines (Phases 1-3), 0 errors, 0 warnings, 64/64 tests passing
+- 42 files changed across 2 commits
+- Commits: Observatory `8ea4e55`, `629ef36`, `e00f345` (audit doc)
+
+---
+
+## Recent Session Summary (2026-02-10 evening)
+
+### Observatory code audit — initial sweep
+- Comprehensive audit of all 50 source files (~7,300 lines) against current Swift/SwiftUI standards
+- **HIGH (5 fixes):** Deleted duplicate root LibraryWriter.swift, moved markdown rendering out of body getter into `.task(id:)`/`.onChange`, cached DateFormatters and NSRegularExpressions as static lets, consolidated sign/center formatting into LibraryLookup (DRY)
+- **MEDIUM (7 fixes):** Async client loading via `Task.detached` (file I/O off main thread), replaced blocking `waitUntilExit()` with `process.terminationHandler` in ChartCalculationService, replaced `NSMutableArray` with Sendable `DataBox`, removed dead CDN fallback + cached bundled marked.js, tracked SVG URL in Coordinator instead of unreliable `webView.url`, added `@MainActor` to WebViewPrinter (removed `nonisolated(unsafe)`), removed Cmd+E shortcut conflict in Notes tab
+- **LOW (4 fixes):** Cached DateFormatters in FrontmatterParser/ClientNotesTab, added `Sendable` to all 22 model structs (Swift 6 readiness), harmonized regex initialization pattern (`try!` for constant patterns)
+- Net result: -600 lines, 0 errors, 0 warnings, 21/21 tests passing
+- 30 files changed across Models, Services, ViewModels, Views
+- Commit: Observatory `1015961`
 
 ---
 
@@ -216,6 +247,8 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Observatory audit Phase 1-4 | 2026-02-10 | 33 items: concurrency isolation, correctness, 43 new tests, polish, Swift 6 prep |
+| Observatory audit initial sweep | 2026-02-10 | 16 items: HIGH/MEDIUM/LOW fixes, async loading, Sendable, -600 lines |
 | Client profile tab | 2026-02-10 | Contact info, photo, address, auto-save, edit/read toggle |
 | Chart extraction automation | 2026-02-10 | wheel-dark.svg + aspects-dark.svg from portrait-dark.svg |
 | Portrait chart refinement | 2026-02-09 | Compact 18px typography, aligned grids, dark mode colors |
