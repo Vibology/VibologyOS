@@ -42,6 +42,7 @@
 | Human Design | Full IHDS calculation, dignity system (exalted/detriment/juxtaposed) |
 | Geocoding | Nominatim with NFC Unicode normalization |
 | Bodygraph | SVG generation with dignity symbols in planetary panels |
+| Portrait chart | Refined layout with compact 18px typography, aligned grids, dark mode optimized |
 
 ### Repository Structure
 
@@ -74,17 +75,31 @@ VibologyOS/
 
 ## Immediate Next Actions
 
-**Today (2026-02-09):**
-- Uninstall ollama
-- Remove qwen model and local LLM infrastructure
-- Reason: Local models insufficient for synthesis demands; Anthropic API remains primary tool
-
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
 
 ---
 
-## Recent Session Summary (2026-02-09)
+## Recent Session Summary (2026-02-09 evening)
+
+### Portrait natal chart refinement
+- Comprehensive layout and typography improvements to portrait chart generator
+- **Typography:** Reduced all text to 18px (header, grids) for more compact presentation
+- **Grid positioning:** Aligned all grids (planetary, house, elements, qualities) at same top position (y=921)
+- **Symbol scaling:** Proportional symbol reduction (planets: 0.77, zodiac: 0.50, retrograde: 0.85)
+- **Dark mode colors:** Updated element/quality percentage colors for readability:
+  - Fire/Cardinal: #ffaa66 (bright orange)
+  - Earth/Fixed: #e6c49a (bright tan)
+  - Air: #a0a8ff (bright periwinkle)
+  - Water/Mutable: #dd99ff (bright lavender)
+- **Bug fixes:** XML validation error (missing wheel filter closing tag), leading space removal from house degrees
+- **Spacing:** Increased viewBox height 40px (1750→1790), moved aspect grids down 40px for breathing room
+- Modified 1 file: `portrait_builder.py` (+988 lines comprehensive rewrite)
+- Commit: Cartographer `5966161`
+
+---
+
+## Recent Session Summary (2026-02-09 morning)
 
 ### Observatory library editor implementation
 - Added edit/reader mode toggle to Observatory library viewer
@@ -130,6 +145,7 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Portrait chart refinement | 2026-02-09 | Compact 18px typography, aligned grids, dark mode colors |
 | Observatory library editor | 2026-02-09 | Edit/reader mode toggle, atomic writes, YAML validation, Cmd+E/S shortcuts |
 | Print system overhaul | 2026-02-08 | Dynamic pagination, orientation support, zero warnings |
 | Geocoding fix for accented names | 2026-02-08 | NFC normalization + coordinate pass-through |
