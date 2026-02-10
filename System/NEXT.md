@@ -93,7 +93,9 @@ VibologyOS/
 - **Date input field redesign:** Replaced single MM/DD/YYYY text field with three separate tabbable fields (MM / DD / YYYY). Manual tab navigation between fields, digits-only input filtering, proper date composition.
 - **Bodygraph magenta color harmonization:** Updated dark mode design colors to match Synthwave heading palette warm magenta (#FF38B3). Changed `DARK_DESIGN_TEXT` (#FF40BF → #FF38B3), `DARK_DESIGN_HEADER` (#FF66CC → #FF5CC6), panel borders (#DD44BB → #DD309F).
 - **Report generation planning:** Explored Pages integration (viable via ScriptingBridge but fragile for production use). Decided on HTML/CSS → PDF pipeline with modular page sections and JS-based intelligent pagination. Pending: service tier definition before template design.
-- Commits: Observatory (date field + xcodegen), Cartographer (magenta harmonization)
+- **Library editor save fix:** `toggleEditMode()` was calling `exitEditMode(saveFirst: false)`, silently discarding edits. Changed to `saveFirst: true` — exiting edit mode now auto-saves.
+- **Scroll wheel fix:** WKWebView in SVGView was capturing scroll events, blocking parent ScrollView in Bodygraph and Natal Chart tabs. Added `NonScrollingWebView` subclass that forwards `scrollWheel` to the responder chain.
+- Commits: Observatory (`cd345f6` date field, `ca37f23` save fix, `04717e7` scroll fix), Cartographer (`38f33a4` magenta)
 
 ---
 
