@@ -34,6 +34,7 @@
 | Print system | Dynamic pagination, orientation support (portrait/landscape), aspect-fit scaling |
 | New client creation | Location autocomplete, pre-resolved coordinates to Cartographer |
 | Build warnings | 0 |
+| Dev tooling | Apple Docs MCP server (live SwiftUI/AppKit/Foundation lookup + WWDC transcripts) |
 
 ### Cartographer (API)
 
@@ -96,6 +97,7 @@ VibologyOS/
 - **Astrology data expansion:** Added Chiron, South Node, and Lilith to get_astro_data.py extraction
 - **Contextual data fixes:** Lowercase JSON key mappings for planets/houses, expandSignName helper
 - **Cosmetic:** White section titles in bodygraph/natal chart tabs, label alignment (.leading), form field layout
+- **Dev tooling:** Installed Apple Docs MCP server (`@kimsungwhee/apple-docs-mcp`) for live SwiftUI/AppKit/Foundation documentation lookup + WWDC transcripts (2014-2025). Installed Node.js via Homebrew as prerequisite.
 - Modified ~15 files across Observatory and Cartographer
 - Commits: Observatory `5749945` through `6a194de`
 
