@@ -1,6 +1,6 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-09
+**Last Updated:** 2026-02-10
 **Current Phase:** Foundation-building — still on the roof, still in observation
 
 ---
@@ -27,6 +27,7 @@
 |-----------|--------|
 | Chart viewing | Bodygraph + Natal Chart SVG rendering |
 | Client overview | Birth data, Type, Authority, Profile, Cross, Centers, Channels |
+| Client profile tab | Contact info, emergency contact, address, photo, auto-save, edit/read toggle |
 | Contextual lookup | All chart data values link to library entries |
 | Synthesis viewer | Scans Synthesis/ folder, displays markdown with proper typography |
 | Library editor | Edit/reader mode toggle (Cmd+E), save with validation (Cmd+S), unsaved changes protection |
@@ -77,6 +78,26 @@ VibologyOS/
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
+
+---
+
+## Recent Session Summary (2026-02-10)
+
+### Client Profile tab and chart extraction automation
+- **Profile tab (new):** Full client profile management as first tab in client panel
+  - Contact info (email, phone), mailing address with country dropdown, emergency contact, practice info
+  - Profile photo with file picker (copies image to client folder)
+  - Edit/read mode toggle with debounced auto-save (1.5s delay, saves to profile.json)
+  - Proper binding helpers for nested optional structs (address, emergency contact)
+  - `.allowsHitTesting` instead of `.disabled` to prevent photo darkening in read mode
+- **Natal chart extraction:** Automated wheel-dark.svg and aspects-dark.svg extraction from portrait-dark.svg
+  - ViewBox cropping: wheel (0 0 800 800), aspects (0 1370 800 830)
+  - Runs automatically during `generate_chart_visuals.py`
+- **Astrology data expansion:** Added Chiron, South Node, and Lilith to get_astro_data.py extraction
+- **Contextual data fixes:** Lowercase JSON key mappings for planets/houses, expandSignName helper
+- **Cosmetic:** White section titles in bodygraph/natal chart tabs, label alignment (.leading), form field layout
+- Modified ~15 files across Observatory and Cartographer
+- Commits: Observatory `5749945` through `6a194de`
 
 ---
 
@@ -193,6 +214,8 @@ VibologyOS/
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Client profile tab | 2026-02-10 | Contact info, photo, address, auto-save, edit/read toggle |
+| Chart extraction automation | 2026-02-10 | wheel-dark.svg + aspects-dark.svg from portrait-dark.svg |
 | Portrait chart refinement | 2026-02-09 | Compact 18px typography, aligned grids, dark mode colors |
 | Observatory library editor | 2026-02-09 | Edit/reader mode toggle, atomic writes, YAML validation, Cmd+E/S shortcuts |
 | Print system overhaul | 2026-02-08 | Dynamic pagination, orientation support, zero warnings |
