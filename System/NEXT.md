@@ -74,6 +74,7 @@ VibologyOS/
 
 ## Open Questions
 
+- **Client report system (pending service design):** Infrastructure is ready — modular HTML sections → PDF pipeline, light-mode chart assets already generated, WKWebView PDF capture + Core Graphics pagination proven. Architecture: atomic page sections (cover, bodygraph, natal chart, aspects, tarot/oracle, synthesis) that compose into report bundles per service offering. JS-based pre-pagination for intelligent page breaks on flowing text sections. Blocked on: defining core service tiers and which systems each offering includes. Tarot & Oracle content comes from live session — need to determine how that gets captured/structured. Sitting with this.
 - **Observatory ceiling:** The app now has viewing + editing capability for library entries. The question remains whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or in-app synthesis generation. External git workflow still handles commits. No rush — emotional wave decision.
 
 ---
@@ -82,6 +83,17 @@ VibologyOS/
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
+
+---
+
+## Recent Session Summary (2026-02-10 late night)
+
+### Observatory build, install, and refinements
+- **Built and installed Observatory** to `/Applications/Observatory.app` (Release configuration via xcodebuild)
+- **Date input field redesign:** Replaced single MM/DD/YYYY text field with three separate tabbable fields (MM / DD / YYYY). Manual tab navigation between fields, digits-only input filtering, proper date composition.
+- **Bodygraph magenta color harmonization:** Updated dark mode design colors to match Synthwave heading palette warm magenta (#FF38B3). Changed `DARK_DESIGN_TEXT` (#FF40BF → #FF38B3), `DARK_DESIGN_HEADER` (#FF66CC → #FF5CC6), panel borders (#DD44BB → #DD309F).
+- **Report generation planning:** Explored Pages integration (viable via ScriptingBridge but fragile for production use). Decided on HTML/CSS → PDF pipeline with modular page sections and JS-based intelligent pagination. Pending: service tier definition before template design.
+- Commits: Observatory (date field + xcodegen), Cartographer (magenta harmonization)
 
 ---
 
@@ -161,7 +173,7 @@ Second audit session resolving all 33 remaining items from the 5-agent parallel 
   - Philosophy: Aged stained glass aesthetic — rich, restrained, luxurious
 
 **Panel Text & Activations (Fully Unified Magenta/Electric Blue System):**
-- **Design:** Pure magenta (#FF40BF) for text, channels, and gate borders. Bright magenta header (#FF66CC), deep magenta tint background (#2A182A), vibrant magenta panel border (#DD44BB), magenta cell dividers (#442244)
+- **Design:** Warm magenta (#FF38B3, matches Synthwave heading palette) for text, channels, and gate borders. Lighter warm magenta header (#FF5CC6), deep magenta tint background (#2A182A), warm magenta panel border (#DD309F), magenta cell dividers (#442240)
 - **Personality:** Electric blue (#4488FF) for text, channels, and gate borders. Bright electric blue header (#66AAFF), deep blue tint background (#1A2035), electric blue panel border (#5588DD), blue cell dividers (#2A3550)
 - **Why it works:** Single color per aspect creates fully coherent visual system from top to bottom. Magenta and electric blue are distinct from ALL center colors (avoiding coral/Sacral and cyan/Spleen confusion). Panels, channels, borders, and text all speak the same color language. Maximum visual clarity and professional polish.
 
