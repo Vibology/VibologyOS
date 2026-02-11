@@ -60,10 +60,11 @@ VibologyOS/
 │   ├── NEXT.md (this file)
 │   ├── Protocols (6 active)
 │   ├── Templates (manifests + semantic system)
-│   ├── Scripts (11 tools: chart calculation + link maintenance + endmatter)
+│   ├── Scripts (11 tools: chart calculation, visualization, audit scanners)
 │   ├── Cartographer/ (unified archetypal mapping engine — astrology + HD)
+│   ├── Reference/ (HD Synthesis Index + Tarot in HD PDFs)
 │   └── Audit Logs/
-└── .archive/ (three NEXT.md archives)
+└── .archive/ (NEXT.md archives + superseded docs + batch scripts)
 
 ~/Observatory/           — macOS SwiftUI application (separate git repo)
 ~/Business/Consultations/ — Client work (outside synthesis engine)

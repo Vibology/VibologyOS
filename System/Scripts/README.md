@@ -1,72 +1,12 @@
-# Chart Calculation Scripts
+# Chart Calculation & Maintenance Scripts
 
-This directory contains Python scripts for calculating astrology and Human Design charts with Swiss Ephemeris precision.
-
-## Quick Start
-
-Use the **wrapper script** for automatic virtual environment activation:
-
-```bash
-# From anywhere in VibologyOS
-"◈ System/Scripts/calculate_chart.sh" astrology --name "Jane Doe" --year 1990 --month 5 --day 15 --hour 14 --minute 30 --lat 40.7128 --lng -74.0060 --timezone "America/New_York" --pretty
-
-"◈ System/Scripts/calculate_chart.sh" humandesign --name "Jane Doe" --year 1990 --month 5 --day 15 --hour 14 --minute 30 --lat 40.7128 --lng -74.0060 --pretty
-```
-
-## Setup
-
-### First-Time Installation
-
-```bash
-# Navigate to VibologyOS root
-cd ~/VibologyOS
-
-# Create virtual environment
-python3 -m venv .venv
-
-# Activate virtual environment
-source .venv/bin/activate
-
-# Install dependencies
-pip install -r "◈ System/Scripts/requirements.txt"
-
-# Test installation
-"◈ System/Scripts/calculate_chart.sh"
-```
-
-### Reinstalling Dependencies
-
-If system updates break the environment:
-
-```bash
-cd ~/VibologyOS
-source .venv/bin/activate
-pip install -r "◈ System/Scripts/requirements.txt"
-```
-
-Or rebuild from scratch:
-
-```bash
-cd ~/VibologyOS
-rm -rf .venv
-python3 -m venv .venv
-source .venv/bin/activate
-pip install -r "◈ System/Scripts/requirements.txt"
-```
+This directory contains Python scripts for calculating astrology and Human Design charts, generating visualizations, and maintaining Library quality.
 
 ## Scripts
 
-### `calculate_chart.sh` (Wrapper - Recommended)
+### Chart Calculation
 
-Automatically activates virtual environment and routes to appropriate script.
-
-**Usage:**
-```bash
-calculate_chart.sh astrology [OPTIONS]
-calculate_chart.sh humandesign [OPTIONS]
-```
-
-### `get_astro_data.py`
+#### `get_astro_data.py`
 
 Calculate natal astrology charts using Kerykeion/Swiss Ephemeris.
 
@@ -80,85 +20,111 @@ Calculate natal astrology charts using Kerykeion/Swiss Ephemeris.
 **Optional:**
 - `--pretty` - Pretty-print JSON output
 
-**Output:** Complete natal chart with planets, houses, angles
+**Output:** Complete natal chart with planets (including Chiron, South Node, Lilith), houses, angles
 
-### `get_hd_data.py`
+#### `get_hd_data.py`
 
-Calculate Human Design bodygraphs via local API.
+Calculate Human Design bodygraphs via Cartographer API.
 
 **Required arguments:**
 - `--name` - Subject name
 - `--year`, `--month`, `--day` - Birth date
 - `--hour`, `--minute` - Birth time
-- `--lat`, `--lng` - Coordinates
+- `--place` - Location as "City, Country" (API geocodes automatically)
 
 **Optional:**
 - `--pretty` - Pretty-print JSON output
 - `--check` - Check API health
+- `--lat`, `--lng` - Pre-resolved coordinates (bypasses geocoding)
 
-**Output:** Type, Authority, Profile, Centers, Channels, Gates
+**Output:** Type, Authority, Profile, Centers, Channels, Gates with dignity
 
-**Note:** Requires HD API running on port 9021
+**Note:** Requires Cartographer API running on port 8000. Script auto-starts if not running.
 
-### `get_transit_data.py`
+#### `get_transit_data.py`
 
 Calculate planetary transits, ingresses, and returns.
 
 **Usage:**
 ```bash
-# Calculate all transits in date range
 python3 get_transit_data.py --start-date 2026-01-01 --end-date 2028-12-31 --natal-file astrology.json --pretty
-
-# Find specific ingress
 python3 get_transit_data.py --ingress-planet saturn --start-date 2025-01-01 --end-date 2030-01-01 --pretty
-
-# Find planetary return
 python3 get_transit_data.py --return-planet chiron --natal-position 29.40 --start-date 2025-01-01 --end-date 2028-01-01 --pretty
 ```
 
-### `verify_geolocation.py`
+#### `calculate_chart.sh` (Wrapper)
 
-Verify coordinates and timezone for a location (requires system geopy).
+Automatically activates virtual environment and routes to `get_astro_data.py` or `get_hd_data.py`.
 
-**Note:** This script uses system-installed `python3-geopy`, not the venv.
-
-## Dependencies
-
-Managed via `requirements.txt`:
-
-**Core:**
-- `kerykeion>=4.0.0` - Astrology calculations
-- `httpx>=0.24.0` - Human Design API client
-
-**Optional (geolocation):**
-- `geopy` - Install system-wide: `sudo apt install python3-geopy`
-- `timezonefinder` - Install via pip if needed
-
-## Virtual Environment
-
-**Location:** `~/VibologyOS/.venv/`
-
-**Why:** Protects against system updates removing dependencies (PEP 668 compliance on Fedora/modern distros)
-
-**Activation:**
 ```bash
-cd ~/VibologyOS
+System/Scripts/calculate_chart.sh astrology [OPTIONS]
+System/Scripts/calculate_chart.sh humandesign [OPTIONS]
+```
+
+### Chart Visualization
+
+#### `generate_chart_visuals.py`
+
+Generate bodygraph and natal chart SVGs from calculated data. Exports both light and dark mode variants.
+
+**Usage:**
+```bash
+python3 System/Scripts/generate_chart_visuals.py --output-dir [folder]
+```
+
+**Reads:** `humandesign.json` from target directory
+**Writes:** `bodygraph.svg`, `bodygraph-dark.svg`, `wheel-dark.svg`, `aspects-dark.svg`
+
+#### `generate_bodygraph_svg.sh`
+
+Shell wrapper for bodygraph SVG generation.
+
+```bash
+bash System/Scripts/generate_bodygraph_svg.sh [folder]
+```
+
+### Geolocation
+
+#### `verify_geolocation.py`
+
+Verify coordinates and timezone for a location.
+
+### Library Maintenance
+
+#### `scan_dead_links.py`
+
+Scan Library for broken wikilinks. Useful during quarterly audits.
+
+#### `scan_footnotes.py`
+
+Scan Library files for footnote coverage. Useful during quarterly audits.
+
+## Setup
+
+### Virtual Environment
+
+**Location:** `System/Cartographer/.venv/`
+
+```bash
+cd ~/VibologyOS/System/Cartographer
 source .venv/bin/activate
 ```
 
-**Deactivation:**
-```bash
-deactivate
-```
+### Dependencies
 
-## Human Design API
+Managed via `requirements.txt`:
+
+- `kerykeion>=4.0.0` - Astrology calculations (Swiss Ephemeris)
+- `httpx>=0.24.0` - Cartographer API client
+
+### Cartographer API
 
 The Cartographer API must be running for Human Design calculations:
 
 ```bash
 # Start API (port 8000)
-cd System/Cartographer/src
-source "../../Cartographer/.venv/bin/activate"
+cd System/Cartographer
+source .venv/bin/activate
 uvicorn cartographer.api:app --host 127.0.0.1 --port 8000 &
 
 # Check status
@@ -172,20 +138,20 @@ pkill -f "uvicorn cartographer"
 
 ### "kerykeion not found"
 
-Virtual environment not activated. Use the wrapper script or activate manually:
+Virtual environment not activated:
 ```bash
-source ~/VibologyOS/.venv/bin/activate
+source ~/VibologyOS/System/Cartographer/.venv/bin/activate
 ```
 
 ### "HD API unreachable"
 
-Start the API server (see above).
-
-### System updates broke dependencies
-
-Reinstall (see "Reinstalling Dependencies" above).
+Start the Cartographer API (see above). `get_hd_data.py` will attempt auto-start.
 
 ## See Also
 
-- `◈ System/PROTOCOL - Chart Data Acquisition.md` - Complete workflow
-- `◈ System/Templates/_TEMPLATE - Synthesis Verification Checklist.md` - Data integrity checklist
+- `System/PROTOCOL - Chart Data Acquisition.md` - Complete workflow
+- `System/CHECKLIST - Verification Quality Control.md` - Data integrity checks
+
+## Archived Scripts
+
+One-time batch scripts from the Library verification campaign (2026-01-24 through 2026-02-07) have been moved to `.archive/System/Scripts/`. These include footnote addition, dead link fixing, endmatter standardization, and verified flag scripts. All completed their purpose — Library is 100% verified and source-verified.
