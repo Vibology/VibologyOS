@@ -69,7 +69,31 @@ VibologyOS/
 ~/Observatory/           — macOS SwiftUI application (separate git repo)
 ~/Business/Consultations/ — Client work (outside synthesis engine)
 ~/Personal/Practice/      — Practitioner-specific protocols
+~/Human Design/           — IHDS source corpus (75 PDFs, ~10,000+ pages)
 ```
+
+### HD Source Corpus (~/Human Design/)
+
+**75 PDFs | 13 categories | 631 MB | est. 10,000+ pages**
+Complete IHDS professional curriculum — Ra Uru Hu / Jovian Archive transcripts.
+
+| Category | PDFs | Est. Pages | Scope |
+|----------|------|-----------|-------|
+| Foundations | 10 | ~1,650 | LYD, ABC L1, Channels by Type 1-4, Incarnation Crosses (2 refs), Quarters & Angles, Life Force |
+| Primary Health System | 13 | ~1,865 | Year 1-2 (6 semesters), Practitioner Cert (3 parts, 474pp), Advanced Base Theory, Cognition (Left/Right), Color-Consciousness |
+| Rave Psychology | 13 | ~2,350 | Year 1-3 (9 semesters), Post-Graduate (225p), External Color Book (154p), HD Library book, Reference Booklet |
+| Variable & Transformation | 7 | ~535 | Four Transformations, Variable (16 configs), Radical Transformations, Variables: That Which Binds Us (216p), Story Lines, Left/Right eBooks |
+| Lunar & Planetary Color | 3 | ~595 | LPC (213p), LPC Analysis Y1S1 (182p), History of Geometry (200p) |
+| Holistic Analysis | 4 | ~900 | HA 1 Fundamentals (244p), HA 2 Diagnostics (223p), HA 3 Cert (incomplete), Master Program (217p) |
+| Resonance Mapping | 2 | ~232 | Design (Way of the Flesh, 119p), Personality (Way of the Mind, 113p) |
+| Rave Anatomy | 3 | ~420 | I: Mechanics of the Maia (197p), II: Awareness Lectures (170p), Webinar Illustrations |
+| Rave Cosmology | 8 | ~700 | All 8 volumes (Bhan Tugh through Mystic Monologues) |
+| Rave Cartography | 2 | ~300 | Both volumes |
+| DreamRave | 5 | ~500 | Intro + all 4 levels through Persona/Reincarnation |
+| Reference | 3 | ~1,100 | Definitive Book, Complete Rave I-Ching, Line Companion |
+| Specialized Analysis | 2 | ~240 | Partnership, Life Cycles |
+
+**Known gaps:** Holistic Analysis 3 (incomplete), BG5/OC16 (business tracks — not relevant)
 
 ---
 
@@ -77,6 +101,7 @@ VibologyOS/
 
 - **Client report system (pending service design):** Infrastructure is ready — modular HTML sections → PDF pipeline, light-mode chart assets already generated, WKWebView PDF capture + Core Graphics pagination proven. Architecture: atomic page sections (cover, bodygraph, natal chart, aspects, tarot/oracle, synthesis) that compose into report bundles per service offering. JS-based pre-pagination for intelligent page breaks on flowing text sections. Blocked on: defining core service tiers and which systems each offering includes. Tarot & Oracle content comes from live session — need to determine how that gets captured/structured. Sitting with this.
 - **Observatory ceiling:** The app now has viewing + editing capability for library entries. The question remains whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or in-app synthesis generation. External git workflow still handles commits. No rush — emotional wave decision.
+- **NotebookLM → Local Reference Library transition (decided, timing pending):** Replace NotebookLM dependency with locally stored, chapter-level markdown files converted from source PDFs. YAML frontmatter for tagging (author, work, chapter, key concepts), searchable via grep. Motivation: PDF 20-page read limit hampers lecture production and library audits; NotebookLM's translation layer introduces lossy intermediary between source texts and synthesis work; curriculum study revealed the value of working directly from primary sources. Architecture: reference corpus on file server (when provisioned), Cartographer in Docker, iCloud backup. Conversion incremental — one text at a time as curriculum needs it. The existing 800-file Library remains as the synthesis layer above the reference corpus; it is not replaced. NotebookLM served as scaffolding that revealed the real architecture (29-46 discovery pattern). Sitting with timing — likely waits for file server setup.
 
 ---
 
@@ -84,6 +109,7 @@ VibologyOS/
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
+- File server provisioning — enables local reference library, Dockerized Cartographer, iCloud backup redundancy
 
 ---
 
@@ -102,6 +128,8 @@ VibologyOS/
 - **Ethical boundary established:** Tier 3 never enters the client space. The five client-facing pillars are shared structural languages with external verifiability. Angelology and The Magdalene Path are the practitioner's personal relationship with the sacred — placing them before clients collapses the therapeutic container into projection.
 - **Channel 57-34 (Power) recognized** as the operative mechanic: intuitive knowing (57) that the institutional path wasn't correct, fused with sustained Sacral energy (34) to build an alternative from scratch. Self-sufficiency of response.
 - **New synthesis committed:** "The Three Dimensions — Portrait, Encounter, and Discipline" (`52697ce`)
+- **NotebookLM transition decision:** Recognized that NotebookLM's translation layer (source → transcription/ingestion → retrieval) introduces lossy intermediary that hampers library audits and lecture production. Decision: transition to locally stored chapter-level markdown files converted from source PDFs, tagged with YAML frontmatter, directly searchable and readable. Existing Library remains as synthesis layer; reference corpus sits underneath it. Timing: after file server is provisioned (Cartographer in Docker, iCloud backup). Conversion incremental — text by text as curriculum reaches each source.
+- **Curriculum reorganization:** Syllabi moved into dedicated curriculum folders (`~/Personal/Human Design Curriculum/`, `~/Personal/Archetypal Studies Curriculum/`). NotebookLM prompts stripped from both syllabi (36 prompt blocks total). Lecture Production Protocol updated to v1.1. Jungian source texts confirmed as PDFs in `~/Archetypal Studies/` (all 9 von Franz, 5 Hillman, MDR, 20 CW volumes present).
 - Context: Module 1.1 practicum (HD course self-study) — structured learning generating original structural insights
 
 ---
