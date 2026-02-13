@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-12
-**Current Phase:** Foundation-building — still on the roof, still in observation
+**Last Updated:** 2026-02-13
+**Current Phase:** Library architecture redesign — five-pillar clarity, source texts + correspondences
 
 ---
 
@@ -53,11 +53,12 @@
 
 ```
 VibologyOS/
-├── CLAUDE.md (V4.8)
-├── Library/ (800 files)
+├── CLAUDE.md (V4.8 — pending §7 update for five-pillar architecture)
+├── Library/ (800 files — pending restructure to source texts + correspondences)
 ├── Synthesis/General/ (2 syntheses + template)
 ├── System/
 │   ├── NEXT.md (this file)
+│   ├── PLAN - Library Restructure to Source Texts.md  ← New planning doc
 │   ├── Protocols (6 active)
 │   ├── Templates (manifests + semantic system)
 │   ├── Scripts (11 tools: chart calculation, visualization, audit scanners)
@@ -71,6 +72,15 @@ VibologyOS/
 ~/Personal/Practice/      — Practitioner-specific protocols
 ~/Human Design/           — IHDS source corpus (75 PDFs, ~10,000+ pages)
 ```
+
+**Five Pillars (Client Work):**
+1. Astrology — planetary timing and cosmic positioning
+2. Human Design — individual genetic imprinting and mechanical navigation
+3. Personal Mythos — cultural archetypal encoding (Jung, folklore, collective symbols)
+4. Tarot — Qabalistic pathways and archetypal progression (includes Qabalah)
+5. The Astrolabe — contemporary archetypal resonance (includes I-Ching)
+
+**Excluded from client work (personal practice):** Angelology, The Magdalene Path
 
 ### HD Source Corpus (~/Human Design/)
 
@@ -99,17 +109,35 @@ Complete IHDS professional curriculum — Ra Uru Hu / Jovian Archive transcripts
 
 ## Open Questions
 
-- **Client report system (pending service design):** Infrastructure is ready — modular HTML sections → PDF pipeline, light-mode chart assets already generated, WKWebView PDF capture + Core Graphics pagination proven. Architecture: atomic page sections (cover, bodygraph, natal chart, aspects, tarot/oracle, synthesis) that compose into report bundles per service offering. JS-based pre-pagination for intelligent page breaks on flowing text sections. Blocked on: defining core service tiers and which systems each offering includes. Tarot & Oracle content comes from live session — need to determine how that gets captured/structured. Sitting with this.
+- **Client report system (pending service design):** Infrastructure is ready — modular HTML sections → PDF pipeline, light-mode chart assets already generated, WKWebView PDF capture + Core Graphics pagination proven. Architecture: atomic page sections (cover, bodygraph, natal chart, aspects, tarot/oracle, synthesis) that compose into report bundles per service offering. JS-based pre-pagination for intelligent page breaks on flowing text sections. Blocked on: defining core service tiers and which systems each offering includes (now simplified to five pillars). Tarot & Oracle content comes from live session — need to determine how that gets captured/structured. Sitting with this.
 - **Observatory ceiling:** The app now has viewing + editing capability for library entries. The question remains whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or in-app synthesis generation. External git workflow still handles commits. No rush — emotional wave decision.
-- **NotebookLM → Local Reference Library transition (decided, timing pending):** Replace NotebookLM dependency with locally stored, chapter-level markdown files converted from source PDFs. YAML frontmatter for tagging (author, work, chapter, key concepts), searchable via grep. Motivation: PDF 20-page read limit hampers lecture production and library audits; NotebookLM's translation layer introduces lossy intermediary between source texts and synthesis work; curriculum study revealed the value of working directly from primary sources. Architecture: reference corpus on file server (when provisioned), Cartographer in Docker, iCloud backup. Conversion incremental — one text at a time as curriculum needs it. The existing 800-file Library remains as the synthesis layer above the reference corpus; it is not replaced. NotebookLM served as scaffolding that revealed the real architecture (29-46 discovery pattern). Sitting with timing — likely waits for file server setup.
+- **Library restructure scope (in planning):** Current 800-file library will be replaced with The Athenaeum (source texts) + correspondence tables. Big questions: How to handle the existing synthesis work that's valuable? Does it all move to Synthesis/ folder? What's the migration path? How to preserve the cross-referencing work without losing the scholarship? **Observatory contextual links problem:** Currently links client data (Type, Authority, Gates, etc.) to synthesized Library entries. If we replace those with source texts, contextual lookup breaks — sources aren't organized granularly (one file per gate/profile). Need to determine what contextual lookup *should be* in new architecture (thin synthesis layer? correspondence tables? multi-reference? just-in-time synthesis?). See `PLAN - Library Restructure to Source Texts.md` for architecture and open questions. Sitting with approach — need to localize source materials first before answering these questions.
 
 ---
 
 ## Immediate Next Actions
 
+**Current priority:**
+- **Library restructure planning** — Transitioning from 800 interpreted entries to source texts + correspondence tables. Five-pillar architecture (Astrology, HD, Personal Mythos, Tarot, Astrolabe). Angelology and Magdalene Path excluded (personal practice, not client tools). See `PLAN - Library Restructure to Source Texts.md`.
+- **Prerequisite:** Localize all source materials from NotebookLM, Google Drive, existing PDFs. Complete source inventory before Phase 1 conversion begins.
+
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
 - File server provisioning — enables local reference library, Dockerized Cartographer, iCloud backup redundancy
+
+---
+
+## Recent Session Summary (2026-02-13)
+
+### Five-pillar architecture and library restructure planning
+- **Clarity on pillar scope:** Recognized that Vibology client work operates with five universal symbolic languages, not seven equal systems. The five pillars (Astrology, Human Design, Personal Mythos, Tarot, The Astrolabe) are structured tools with collective shared meaning that can map anyone's archetypal landscape. Angelology and The Magdalene Path are the practitioner's personal devotional practice — beautiful and profound, but not universal client-facing tools.
+- **Philosophical reframe:** Vibology (NOT "Vibrology" — persistent AI autocorrection to "-ology" suffix now flagged in memory) empowers people to understand and live **their own** Personal Mythos. The five pillars are the instruments for that mapping work. The practitioner's personal spiritual path (Angelology, Magdalene) does not belong in the client space.
+- **Library architecture shift:** Current 800-file library consists of interpreted entries written in synthesis voice — creates translation layer that distances users from original sources. New architecture: **The Athenaeum (source texts in markdown + YAML) + Correspondence Tables (Rosetta Stones) + Synthesis (interpretive essays, clearly separated)**. Preserves original voices (Crowley, Ra, Greene), follows Observatory principle (look through original instruments, not my lens), and makes correspondence mappings the unique value. The Athenaeum = the collection of primary source knowledge.
+- **The Astrolabe exception:** No source text conversion needed — our synthesis work IS the source text (fully original pillar, already complete).
+- **Created planning document:** `System/PLAN - Library Restructure to Source Texts.md` — comprehensive plan with vision statement, prerequisites (localize materials from NotebookLM/Drive), proposed structure (Library/Core Foundations for correspondences, Library/Source Texts by pillar), conversion workflow (three phases), key correspondence tables needed, source inventory checklist, open questions.
+- **Current status:** Planning phase. Awaiting source material localization before Phase 1 (text conversion) can begin. Four pillars require conversion (Astrology, HD, Personal Mythos, Tarot + Qabalah). The Astrolabe remains as-is.
+- **Future CLAUDE.md update:** After restructure complete, revise §7 ("The Seven Pillars") to reflect five-pillar framework and philosophical reframe.
+- Context: Emotional wave processing of library philosophy — what is the library *for*? Recognition that correspondences + original sources are what's actually needed, not 800 files of my interpretations.
 
 ---
 
@@ -321,6 +349,7 @@ Second audit session resolving all 33 remaining items from the 5-agent parallel 
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Library restructure plan + five-pillar architecture | 2026-02-13 | Decided: Astrology, HD, Personal Mythos, Tarot, Astrolabe (client work). Excluded: Angelology, Magdalene (personal practice). New library: source texts + correspondences, not interpreted entries. |
 | Three-tier Pillar architecture synthesis | 2026-02-12 | Foundational meta-architecture: Portrait / Living Encounter / Practitioner's Discipline |
 | Observatory audit Phase 1-4 | 2026-02-10 | 33 items: concurrency isolation, correctness, 43 new tests, polish, Swift 6 prep |
 | Observatory audit initial sweep | 2026-02-10 | 16 items: HIGH/MEDIUM/LOW fixes, async loading, Sendable, -600 lines |
@@ -348,7 +377,8 @@ Second audit session resolving all 33 remaining items from the 5-agent parallel 
 
 | Document | Purpose |
 |----------|---------|
-| `CLAUDE.md` | Core governance (V4.8) |
+| `CLAUDE.md` | Core governance (V4.8 — pending §7 update) |
+| `PLAN - Library Restructure to Source Texts.md` | Five-pillar architecture, source texts + correspondences transition |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Chart Data Acquisition.md` | Chart calculation |
 | `RUBRIC - Library Content Standard.md` | Quality tiers |
