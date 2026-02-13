@@ -41,6 +41,32 @@ The five pillars are **universal symbolic languages** with collective shared mea
 **Special case:**
 - **The Astrolabe** requires no source text conversion — our synthesis work IS the source text (fully original pillar).
 
+### Visual Identity: The Five Platonic Solids
+
+The five pillars are represented by the **Five Platonic Solids** — the complete set of regular convex polyhedra (tetrahedron, cube, octahedron, dodecahedron, icosahedron).
+
+**Why these symbols:**
+- **Mathematical completeness** — Exactly five regular solids exist; no sixth is possible (proven mathematically)
+- **Foundational structures** — The basic geometric vocabulary of three-dimensional space
+- **Symbolic resonance** — Ancient association with elements (Plato's *Timaeus*), appear throughout nature and sacred geometry
+- **Visual distinction** — Each solid has unique, recognizable silhouette
+
+**Visual style:**
+- Wireframe with dashed hidden lines (technical/architectural drawing aesthetic)
+- Clean line art showing complete geometric structure
+- Isometric/orthographic projection revealing multiple faces
+- "Blueprint" rather than "icon" — shows the full instrument, not just facade
+
+**Brand application:**
+```
+        VIBOLOGY
+    ─────────────
+    △  ◇  ◈  ▢  ⬟
+   (Five Platonic solids as geometric icons)
+```
+
+Suitable for website headers, business cards, report section markers, Observatory app icon, client-facing materials.
+
 ---
 
 ## Prerequisites
@@ -60,11 +86,58 @@ Gather all source texts into a local staging directory before conversion can beg
 ```
 ~/VibologyOS/.staging/athenaeum/
   Astrology/
+    Liz Greene/
+    Ptolemy/
+    Vettius Valens/
   Human Design/
+    Ra Uru Hu/
+    Chaitanyo/
   Personal Mythos/
-  Tarot/           # Includes Qabalah sources
+    Carl Jung/
+    Joseph Campbell/
+    Marie-Louise von Franz/
+  Tarot/
+    Aleister Crowley/
+    Arthur Edward Waite/
+    Israel Regardie/    # Qabalah sources
   # The Astrolabe — no source texts needed (original synthesis)
 ```
+
+**Folder structure:** Pillar → Author (natural name order) → Source files (PDFs initially, markdown eventually)
+
+---
+
+## File Organization Standards
+
+### Athenaeum Naming Conventions
+
+**Structure:** Folder per author, title-only filenames (natural name order)
+
+**Rationale:**
+- **Scales for prolific authors** — Ra Uru Hu has 75+ lectures; flat `{Author - Title}` structure would clutter
+- **Natural browsing** — "I want Ra's work" → one folder contains everything
+- **Clean filenames** — No redundant author name on every file
+- **Clear hierarchy** — Pillar → Author → Work
+- **YAML handles search** — Each markdown has author metadata, grep finds anything regardless of folder structure
+- **Human-readable** — Use names as you naturally say them ("Liz Greene" not "Greene, Liz")
+
+**Examples:**
+```
+✓ Liz Greene/Saturn - A New Look at an Old Devil.md
+✓ Ra Uru Hu/The Human Design System.md
+✓ Carl Jung/Man and His Symbols.md
+
+✗ Greene, Liz/Saturn.md              (formal cataloging, unnecessary)
+✗ Liz Greene - Saturn.md             (flat structure, doesn't scale)
+✗ Saturn - Liz Greene.md             (title-first, scatters authors)
+```
+
+**Special cases:**
+- **Multi-author works** — Place in primary author's folder, note collaborators in YAML frontmatter
+- **Single-name authors** — Use as-is (Ra Uru Hu/, Ptolemy/)
+- **Disambiguation** — If multiple authors share a name, add context in folder name if needed (rare)
+
+**Apply same structure to source PDFs now** — conversion to markdown will be straightforward when ready.
 
 ---
 
@@ -81,27 +154,41 @@ Library/
 
   The Athenaeum/  # Source texts converted to searchable markdown
     Astrology/
-      Greene, Liz - Saturn - A New Look at an Old Devil.md
-      Greene, Liz - The Astrological Neptune.md
-      Ptolemy - Tetrabiblos.md
-      ... etc
+      Liz Greene/
+        Saturn - A New Look at an Old Devil.md
+        The Astrological Neptune.md
+        The Astrology of Fate.md
+      Ptolemy/
+        Tetrabiblos.md
+      Vettius Valens/
+        Anthologies.md
 
     Human Design/
-      Ra Uru Hu - The Human Design System.md
-      Ra Uru Hu - Rave I'Ching.md
-      Ra Uru Hu - [Lecture series].md
-      ... etc
+      Ra Uru Hu/
+        The Human Design System.md
+        Rave I'Ching.md
+        The Four Transformations.md
+        [... 72 more lectures]
+      Chaitanyo/
+        Color Transference.md
 
     Personal Mythos/
-      Jung, Carl - [Works].md
-      Campbell, Joseph - [Works].md
-      ... etc
+      Carl Jung/
+        Man and His Symbols.md
+        Memories Dreams Reflections.md
+        [CW volumes]
+      Joseph Campbell/
+        The Hero with a Thousand Faces.md
+      Marie-Louise von Franz/
+        [Works].md
 
     Tarot/
-      Crowley, Aleister - The Book of Thoth.md
-      Waite, Arthur Edward - The Pictorial Key to the Tarot.md
-      Regardie, Israel - The Tree of Life.md  # Qabalah integrated
-      ... etc
+      Aleister Crowley/
+        The Book of Thoth.md
+      Arthur Edward Waite/
+        The Pictorial Key to the Tarot.md
+      Israel Regardie/
+        The Tree of Life.md  # Qabalah integrated
 
   The Astrolabe/
     # No source texts — original synthesis work lives here
@@ -118,8 +205,11 @@ collection: "The Athenaeum"
 tags: [athenaeum, source-text, tarot, crowley, thoth]
 date_created: YYYY-MM-DD
 source_format: "PDF" # or "Epub", "Scanned", etc.
+file_location: "Library/The Athenaeum/Tarot/Aleister Crowley/The Book of Thoth.md"
 ---
 ```
+
+**Note:** With folder-per-author structure, YAML provides searchable metadata. Grep can find all works by an author, all works in a system, or specific titles regardless of directory hierarchy.
 
 **YAML Frontmatter (Correspondences):**
 ```yaml
