@@ -16,7 +16,7 @@ category: Foundational Paradigm
 
 ## Introduction: The Essential Paradox
 
-**Anima et Algorithm** is the foundational paradigm of Vibology—the recognition that authentic spiritual development requires **both** the systematic organization of knowledge (Algorithm) **and** the embodied validation of experience (Anima). Neither alone is sufficient; together, they create the conditions for **Syn-Gnosis**: synthesized, verified, personal knowing.
+**Anima et Algorithm** is the foundational paradigm of Vibology—the recognition that authentic spiritual development requires **both** the systematic organization of knowledge (Algorithm) **and** the embodied validation of experience (Anima). Neither alone is sufficient; together, they create the conditions for **Techgnosis**: synthesized, verified, personal knowing.
 
 This is not a new idea. It is the perennial tension at the heart of all mystical traditions. Aldous Huxley argues in *The Perennial Philosophy* that "knowledge is a function of being"—one's state of existence limits or expands what one can know.[^1] He distinguishes between theology (words about facts) and mysticism (immediate apprehension of facts), suggesting the "best way" is to approach the Ultimate from both within (experiential) and without (structural):
 
@@ -164,7 +164,7 @@ The Anima without Algorithm is **aimless wandering**, a compass spinning without
 
 ---
 
-## Syn-Gnosis: The Marriage of Anima and Algorithm
+## Techgnosis: The Marriage of Anima and Algorithm
 
 ### The Hieros Gamos: Sacred Marriage
 
@@ -274,10 +274,10 @@ Each of the [[Seven-Coordinate Navigation|Seven Pillars]] contains both Algorith
 - **Algorithm:** Qabalistic attributions, astrological correspondences, numerological patterns, Tree of Life pathways
 - **Anima:** Divination practice, pathworking, visionary journey, archetypal embodiment
 
-### 7. The Window
+### 7. The Astrolabe
 
-- **Algorithm:** 64 hexagrams, I-Ching structure, Gate correspondences, archetypal maps
-- **Anima:** Casting readings, sitting with hexagrams, allowing oracular wisdom to emerge through synchronicity
+- **Algorithm:** An **88-card oracle deck** built in two parts: **The Athanor** (24 cards), which provides the interpretive and archetypal lens, and **The Codex** (64 cards), which maps the 64-fold architecture — I-Ching hexagrams, Human Design gates, Gene Keys — as it actually is.
+- **Anima:** Casting readings, sitting with archetypes and hexagrams, allowing oracular wisdom to emerge through synchronicity
 
 ---
 
@@ -329,7 +329,7 @@ Anima et Algorithm rests on a specific theory of knowledge:
 
 **Gnosis (Anima)** = Direct experiential knowing; realization that transforms the knower
 
-**Syn-Gnosis (Marriage)** = Knowledge that has been verified through gnosis; wisdom that is both systematically coherent AND experientially validated
+**Techgnosis (Marriage)** = Knowledge that has been verified through gnosis; wisdom that is both systematically coherent AND experientially validated
 
 This is an **epistemology of the body**—a recognition that truth is not purely conceptual but **somatic, relational, and lived**.
 

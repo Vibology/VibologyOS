@@ -185,6 +185,7 @@ Works at the logbook — recording raw observations with clinical precision befo
 | `PROTOCOL - Chart Data Acquisition.md` | Pre-synthesis data verification |
 | `PROTOCOL - Client Work.md` | Full client workflow |
 | `PROTOCOL - Prima Materia Verification.md` | Source verification methodology |
+| `PROTOCOL - Lecture Production.md` | Audio lecture pipeline (syllabi → text → TTS) |
 
 ### Standards & Guides
 

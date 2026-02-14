@@ -13,7 +13,7 @@ source_verified: true
 # To Respond: The Generator's Strategy
 
 ## Ra's Definition
-**To Respond** (also called "To Wait to Respond") is the [[Generator]]'s strategy for engaging with life correctly. Rather than initiating action from the mind, the Generator waits for external stimuli—questions, opportunities, encounters—and allows the [[Sacral]] to respond with its immediate, non-verbal knowing.
+**To Respond** (also called "To Wait to Respond") is the [[Generator|Generator’s]] strategy for engaging with life correctly. Rather than initiating action from the mind, the Generator waits for external stimuli—questions, opportunities, encounters—and allows the [[Sacral]] to respond with its immediate, non-verbal knowing.
 
 The Generator's open and enveloping aura is designed to **magnetize** life toward them.[^1] They do not need to chase, hunt, or force. The world comes to them, and their work is to recognize what is correct when it arrives through the Sacral's response.
 
@@ -21,7 +21,7 @@ The Generator's open and enveloping aura is designed to **magnetize** life towar
 
 ## The Mechanics: Magnetism and Response
 
-The Generator's aura is **open and enveloping**—it draws people, opportunities, and experiences into their energetic field like a magnet. This is the opposite of the [[Manifestor]]'s closed and repelling aura.
+The Generator's aura is **open and enveloping**—it draws people, opportunities, and experiences into their energetic field like a magnet. This is the opposite of the [[Manifestor|Manifestor’s]] closed and repelling aura.
 
 ### Why Response Works
 
