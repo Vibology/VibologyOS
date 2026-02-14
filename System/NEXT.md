@@ -111,15 +111,15 @@ Complete IHDS professional curriculum — Ra Uru Hu / Jovian Archive transcripts
 
 - **Client report system (pending service design):** Infrastructure is ready — modular HTML sections → PDF pipeline, light-mode chart assets already generated, WKWebView PDF capture + Core Graphics pagination proven. Architecture: atomic page sections (cover, bodygraph, natal chart, aspects, tarot/oracle, synthesis) that compose into report bundles per service offering. JS-based pre-pagination for intelligent page breaks on flowing text sections. Blocked on: defining core service tiers and which systems each offering includes (now simplified to five pillars). Tarot & Oracle content comes from live session — need to determine how that gets captured/structured. Sitting with this.
 - **Observatory ceiling:** The app now has viewing + editing capability for library entries. The question remains whether it should grow to include structured cross-referencing, composite chart comparison, transit overlays, or in-app synthesis generation. External git workflow still handles commits. No rush — emotional wave decision.
-- **Library restructure scope (in planning):** Current 800-file library will be replaced with The Athenaeum (source texts) + correspondence tables. Big questions: How to handle the existing synthesis work that's valuable? Does it all move to Synthesis/ folder? What's the migration path? How to preserve the cross-referencing work without losing the scholarship? **Observatory contextual links problem:** Currently links client data (Type, Authority, Gates, etc.) to synthesized Library entries. If we replace those with source texts, contextual lookup breaks — sources aren't organized granularly (one file per gate/profile). Need to determine what contextual lookup *should be* in new architecture (thin synthesis layer? correspondence tables? multi-reference? just-in-time synthesis?). See `PLAN - Library Restructure to Source Texts.md` for architecture and open questions. Sitting with approach — need to localize source materials first before answering these questions.
+- **Library restructure scope (ready to begin):** ✓ The Athenaeum now holds 200 source files (Tier 1 & 2 complete, 2026-02-13). Source materials localized and organized by pillar in ~/Athenaeum. Ready to begin Phase 1 conversion assessment. Big questions remain: How to handle the existing synthesis work that's valuable? Does it all move to Synthesis/ folder? What's the migration path? How to preserve the cross-referencing work without losing the scholarship? **Observatory contextual links problem:** Currently links client data (Type, Authority, Gates, etc.) to synthesized Library entries. If we replace those with source texts, contextual lookup breaks — sources aren't organized granularly (one file per gate/profile). Need to determine what contextual lookup *should be* in new architecture (thin synthesis layer? correspondence tables? multi-reference? just-in-time synthesis?). See `PLAN - Library Restructure to Source Texts.md` for architecture and open questions.
 
 ---
 
 ## Immediate Next Actions
 
 **Current priority:**
-- **Library restructure planning** — Transitioning from 800 interpreted entries to source texts + correspondence tables. Five-pillar architecture (Astrology, HD, Personal Mythos, Tarot, Astrolabe). Angelology and Magdalene Path excluded (personal practice, not client tools). See `PLAN - Library Restructure to Source Texts.md`.
-- **Prerequisite:** Localize all source materials from NotebookLM, Google Drive, existing PDFs. Complete source inventory before Phase 1 conversion begins.
+- **The Athenaeum - Phase 1 conversion** — 200 source files acquired and organized (Tier 1 & 2 complete). Ready to begin conversion assessment: determine OCR needs, formatting complexity, and pilot pillar. Five-pillar architecture (Astrology, HD, Personal Mythos, Tarot, Astrolabe). See `PLAN - Library Restructure to Source Texts.md` and `~/Athenaeum/ACQUISITION PLAN - Source Text Gaps.md`.
+- ~~**Prerequisite:** Localize all source materials~~ ✓ COMPLETE (2026-02-13)
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
@@ -127,7 +127,43 @@ Complete IHDS professional curriculum — Ra Uru Hu / Jovian Archive transcripts
 
 ---
 
-## Recent Session Summary (2026-02-13)
+## Recent Session Summary (2026-02-13 evening)
+
+### The Athenaeum: Tier 1 & 2 acquisition complete — 200 source files
+- **Source material acquisition blitz:** In a single focused session, acquired 69 new PDFs (from 131 to 200 files), transforming The Athenaeum from critically incomplete to foundationally robust professional research library.
+- **Tier 1 (Critical) - 100% complete (6/6 texts):**
+  - ✓ Aleister Crowley - *The Book of Thoth*
+  - ✓ Joseph Campbell - *The Hero with a Thousand Faces* (11+ Library citations)
+  - ✓ Liz Greene - *Saturn: A New Look at an Old Devil*
+  - ✓ Liz Greene - *The Astrological Neptune and the Quest for Redemption*
+  - ✓ Liz Greene - *The Astrology of Fate*
+  - ✓ Israel Regardie - *The Tree of Life*
+- **Tier 2 (High-Priority) - 100% complete (5/5 texts):**
+  - ✓ Ptolemy - *Tetrabiblos* (33+ Library citations - most cited classical source)
+  - ✓ Vettius Valens - *Anthologies* (Annotated)
+  - ✓ Bruno Bettelheim - *The Uses of Enchantment*
+  - ✓ The Complete Zohar (54 PDFs - Soncino Press translation by parasha, includes Safra de Tsniuta, Idra Raba, Idra Zuta)
+  - ✓ Sefer Yetzirah (Book of Formation)
+- **Bonus acquisitions beyond plan:**
+  - Israel Regardie - *The Complete Golden Dawn System of Magic* (Tier 3 item)
+  - Liz Greene - *Jung's Studies in Astrology*
+  - William Lilly - *Christian Astrology*
+  - Sefer ha-Bahir (Book of Brilliance)
+- **The Athenaeum final inventory (by pillar):**
+  - Human Design: 75 PDFs (complete IHDS curriculum) - no change
+  - Personal Mythos: 47 PDFs (+2: Campbell, Bettelheim) - Jung CW (14 vols), von Franz (9), Hillman (5), Edinger (2), Huxley, folklore
+  - The Tarot: 67 PDFs (+59: Complete Zohar 54, Regardie 2, Sefer Yetzirah, Sefer ha-Bahir) - comprehensive Tarot + Qabalah + primary Kabbalistic sources
+  - Astrology: 8 PDFs (+7: Greene 4, Ptolemy, Valens, Lilly) - transformed from critical gap to strong foundation
+  - Interdisciplinary: 2 PDFs (herbalism) - no change
+- **Visual identity update:** Moved from five Platonic solids concept to dodecahedron as singular brand symbol. Updated PLAN - Library Restructure with dodecahedron rationale (Platonic cosmic association, sacred geometry). Logo work complete with wireframe aesthetic (thick visible edges, thin dotted hidden edges). Iridescent gradient (cyan → lavender → pearl) applied across all brand assets.
+- **Website style guide updated:** Documented dodecahedron symbol and iridescent color scheme in ~/Business/Website/STYLE-GUIDE.md. New brand identity section with gradient specs, logo file locations, and image inventory status.
+- **Documentation complete:** Created `~/Athenaeum/ACQUISITION PLAN - Source Text Gaps.md` with comprehensive gap analysis, acquisition roadmap, and progress tracking. Updated `PLAN - Library Restructure to Source Texts.md` with complete inventory checklists showing all holdings.
+- **Status:** The Athenaeum is foundationally complete. All critical and high-priority source texts acquired. Ready to begin Phase 1 conversion assessment. Tier 3 (optional depth texts) can be pursued opportunistically over next 6-12 months but won't block Library restructure work.
+- Context: Massive acquisition effort driven by clarity on five-pillar architecture and commitment to source-first scholarship. The Athenaeum = 200 professional-grade source files supporting serious cross-system synthesis.
+
+---
+
+## Recent Session Summary (2026-02-13 morning)
 
 ### Five-pillar architecture and library restructure planning
 - **Clarity on pillar scope:** Recognized that Vibology client work operates with five universal symbolic languages, not seven equal systems. The five pillars (Astrology, Human Design, Personal Mythos, Tarot, The Astrolabe) are structured tools with collective shared meaning that can map anyone's archetypal landscape. Angelology and The Magdalene Path are the practitioner's personal devotional practice — beautiful and profound, but not universal client-facing tools.

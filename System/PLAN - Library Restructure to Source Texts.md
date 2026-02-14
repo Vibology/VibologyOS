@@ -270,47 +270,139 @@ Based on five-pillar architecture and existing work:
 
 ---
 
-## Source Material Inventory (To Be Completed)
+## Source Material Inventory
 
-**Astrology:**
-- [ ] Liz Greene - Saturn: A New Look at an Old Devil
-- [ ] Liz Greene - The Astrological Neptune and the Quest for Redemption
-- [ ] Ptolemy - Tetrabiblos
-- [ ] Vettius Valens - Anthologies
-- [ ] ... [add as gathered]
+**Status:** ✓ Tier 1 & 2 acquisitions complete (2026-02-13). The Athenaeum now holds 200 source files.
 
-**Human Design:**
-- [ ] Ra Uru Hu - The Human Design System
-- [ ] Ra Uru Hu - Rave I'Ching
-- [ ] Ra Uru Hu - [Lecture series]
-- [ ] ... [add as gathered]
+### Astrology (8 PDFs)
 
-**Personal Mythos:**
-- [ ] Carl Jung - [Selected works]
-- [ ] Joseph Campbell - [Selected works]
-- [ ] [Folklore/mythological sources]
-- [ ] ... [add as gathered]
+**Tier 1 & 2 (Complete):**
+- [x] Liz Greene - Saturn: A New Look at an Old Devil
+- [x] Liz Greene - The Astrological Neptune and the Quest for Redemption
+- [x] Liz Greene - The Astrology of Fate
+- [x] Ptolemy - Tetrabiblos
+- [x] Vettius Valens - Anthologies (Annotated)
+- [x] Chris Brennan - Hellenistic Astrology
 
-**Tarot (including Qabalah):**
-- [ ] Aleister Crowley - The Book of Thoth
-- [ ] Arthur Edward Waite - The Pictorial Key to the Tarot
-- [ ] Israel Regardie - The Tree of Life
-- [ ] ... [add as gathered]
+**Bonus Acquisitions:**
+- [x] Liz Greene - Jung's Studies in Astrology
+- [x] William Lilly - Christian Astrology
 
-**The Astrolabe:**
-- No source texts needed — original synthesis work (already complete)
+**Tier 3 (Optional):**
+- [ ] Dorotheus of Aspalathos - Carmen Astrologicum
+- [ ] Liz Greene - The Outer Planets and Their Cycles
+- [ ] Guido Bonatti - Liber Astronomicus
+
+---
+
+### Human Design (75 PDFs)
+
+**Status:** ✓ Complete IHDS professional curriculum
+
+- [x] Ra Uru Hu - The Definitive Book of Human Design
+- [x] Ra Uru Hu - Complete Rave I'Ching
+- [x] IHDS - Foundations (10 PDFs: LYD, ABC, Channels, Crosses, Quarters, Life Force)
+- [x] IHDS - Primary Health System (13 PDFs: Years 1-2, Practitioner Cert, Advanced Theory)
+- [x] IHDS - Rave Psychology (13 PDFs: Years 1-3, Post-Grad, External Color, Reference)
+- [x] IHDS - Variable & Transformation (7 PDFs)
+- [x] IHDS - Lunar & Planetary Color (3 PDFs)
+- [x] IHDS - Holistic Analysis (4 PDFs)
+- [x] IHDS - Resonance Mapping (2 PDFs)
+- [x] IHDS - Rave Anatomy (3 PDFs)
+- [x] IHDS - Rave Cosmology (8 PDFs: all volumes)
+- [x] IHDS - Rave Cartography (2 PDFs)
+- [x] IHDS - DreamRave (5 PDFs)
+- [x] IHDS - Specialized Analysis (2 PDFs: Partnership, Life Cycles)
+
+**Tier 3 (Optional):**
+- [ ] Richard Rudd - Gene Keys (complementary framework, not foundational)
+
+---
+
+### Personal Mythos (47 PDFs)
+
+**Tier 1 & 2 (Complete):**
+- [x] Joseph Campbell - The Hero with a Thousand Faces
+- [x] Bruno Bettelheim - The Uses of Enchantment
+- [x] Carl Jung - Collected Works (14 volumes: CW 1, 2, 4, 7, 8, 9.1, 10, 12, 13, 14, 15, 16, 17, 18)
+- [x] Marie-Louise von Franz (9 works: Divination, Dreams & Death, Alchemy, Shadow in Fairy Tales, Feminine in Fairy Tales, Interpretation of Fairy Tales, Way of the Dream, Projection & Re-Collection, Puer Aeternus, Number and Time)
+- [x] James Hillman (5 works: Healing Fiction, Re-Visioning Psychology, Soul's Code, Dream and Underworld, Blue Fire)
+- [x] Edward F. Edinger (2 works: Anatomy of the Psyche, Ego and Archetype)
+- [x] Aldous Huxley - The Perennial Philosophy
+- [x] Folkloric Aspects of the Romanian Imaginary and Myth
+- [x] Washington Matthews - Navaho Legends
+
+**Tier 3 (Optional):**
+- [ ] Clarissa Pinkola Estés - Women Who Run with the Wolves
+- [ ] Marion Woodman - Leaving My Father's House or Conscious Femininity
+- [ ] James George Frazer - The Golden Bough
+
+---
+
+### The Tarot (67 PDFs: 13 standalone + 54 in Complete Zohar folder)
+
+**Tier 1 & 2 (Complete):**
+
+*Tarot Texts:*
+- [x] Aleister Crowley - The Book of Thoth
+- [x] Arthur Edward Waite - Pictorial Key to the Tarot
+- [x] Paul Foster Case - Tarot Fundamentals
+- [x] Rachel Pollack - Seventy-Eight Degrees of Wisdom
+- [x] Robert Wang - Qabalistic Tarot
+
+*Qabalah Texts:*
+- [x] Dion Fortune - The Mystical Qabalah
+- [x] Gareth Knight - A Practical Guide to Qabalistic Symbolism (Volumes 1 & 2)
+- [x] Israel Regardie - The Tree of Life
+
+*Primary Kabbalistic Sources:*
+- [x] The Complete Zohar (54 PDFs: Soncino Press translation by parasha, includes Safra de Tsniuta, Idra Raba, Idra Zuta)
+- [x] Sefer Yetzirah (Book of Formation)
+- [x] Sefer ha-Bahir (Book of Brilliance)
+
+*Supplementary:*
+- [x] Ariel Bension - The Zohar in Moslem and Christian Spain (historical context)
+- [x] Table of Hebrew Letters & Tarot Correspondences
+
+**Bonus Acquisitions:**
+- [x] Israel Regardie - The Complete Golden Dawn System of Magic
+
+**Tier 3 (Optional):**
+- [ ] Lon Milo DuQuette - Chicken Qabalah of Rabbi Lamed Ben Clifford
+- [ ] Lon Milo DuQuette - Understanding Aleister Crowley's Thoth Tarot
+
+---
+
+### The Astrolabe
+
+**Status:** ✓ Original synthesis work (no source text conversion needed)
+
+---
+
+### Interdisciplinary (2 PDFs)
+
+- [x] Nicholas Culpepper - The Complete Herbal
+- [x] Richard Alan Miller - Magical and Ritual Use of Herbs
+
+---
+
+**TOTAL:** 200 files (199 PDFs + 1 .webp correspondence chart) | 1.9 GB
+**Acquisition Status:** Tier 1 (6/6) & Tier 2 (5/5) = 100% complete
+**Last Updated:** 2026-02-13
 
 ---
 
 ## Next Steps
 
-1. **Localize source materials** from NotebookLM, Google Drive, etc.
-2. **Complete source inventory** (update checklist above)
-3. **Assess conversion effort** (OCR needs, formatting complexity)
+1. ~~**Localize source materials** from NotebookLM, Google Drive, etc.~~ ✓ COMPLETE (2026-02-13)
+2. ~~**Complete source inventory** (update checklist above)~~ ✓ COMPLETE (2026-02-13)
+3. **Assess conversion effort** (OCR needs, formatting complexity) — READY TO BEGIN
 4. **Extract correspondence work** from current Obsidian vault
 5. **Build pilot** — convert one pillar as proof-of-concept
 6. **Refine workflow** based on pilot learnings
 7. **Execute full conversion**
+
+**Current Phase:** Source materials localized and inventoried. Ready to begin Phase 1 (conversion assessment and pilot build).
 
 ---
 
@@ -342,4 +434,4 @@ Once library restructure is complete, update `CLAUDE.md` section §7 ("The Seven
 
 ---
 
-**Status:** Awaiting source material localization before Phase 1 can begin.
+**Status:** ✓ Source materials acquired and organized in ~/Athenaeum (200 files, 1.9 GB). Tier 1 & 2 complete. Ready to begin Phase 1 conversion work.
