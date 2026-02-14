@@ -1,7 +1,7 @@
 # PROTOCOL: Source Metadata Creation
 
 **Purpose:** Efficient creation of comprehensive Source Metadata YAML files for books in The Athenaeum
-**Version:** 1.0
+**Version:** 1.1
 **Date:** 2026-02-14
 **Context:** The Ephemeris synthesis system
 
@@ -135,6 +135,15 @@ chapters:
 - Your available attention for reviewing results
 
 ### Step 2: Launch Agent Batch
+
+**IMPORTANT: Check Chapter Size First**
+
+Before launching agents, verify chapter page counts:
+- **<60 pages:** Single agent (standard workflow)
+- **60-80 pages:** Single agent likely works; split if it fails
+- **>80 pages:** Proactively split into 2+ parts (see Troubleshooting for split workflow)
+
+Splitting large chapters prevents "Prompt is too long" errors and ensures successful indexing.
 
 **Template for each agent:**
 
@@ -407,6 +416,64 @@ Example of specificity desired:
 NOT: "Mithras discussed"
 ```
 
+### Issue: "Prompt is too long" error for large chapters
+
+**Symptoms:**
+- Agent fails immediately with "Prompt is too long" error
+- Occurs even with minimal, concise prompt text
+- Typically happens with chapters **>80 pages**
+
+**Cause:** Agent system context overhead combined with large PDF reading requirements exceeds token limits before agent even starts reading.
+
+**Solution: Split Chapter into Multiple Parts**
+
+**Step 1: Determine split points**
+- For ~90-100 page chapter: Split into 2 parts (~45-50 pages each)
+- For 100-150 page chapter: Split into 3 parts (~35-50 pages each)
+- Prefer splitting at natural section breaks if visible in PDF
+
+**Step 2: Launch separate agents for each part**
+
+Example for Chapter 11 (pages 409-504, 95 pages):
+```
+# Agent 1: First half
+Read pages 409-456 of [PDF_PATH]. Extract comprehensive topics list
+(30-40+ items) and key_sections with page ranges and summaries.
+This is part 1 of Chapter 11 "Neptune in the Houses".
+Return as YAML list items under topics: and key_sections:.
+
+# Agent 2: Second half
+Read pages 457-504 of [PDF_PATH]. Extract comprehensive topics list
+(30-40+ items) and key_sections with page ranges and summaries.
+This is part 2 of Chapter 11 "Neptune in the Houses".
+Return as YAML list items under topics: and key_sections:.
+```
+
+**Step 3: Merge results manually**
+
+Combine the topics and key_sections from both agents:
+```yaml
+- number: 11
+  title: "Chapter Title"
+  pages: "409-504"
+  topics:
+    - "[Topics from Agent 1]"
+    - "[Topics from Agent 2]"
+  key_sections:
+    - section: "[Sections from Agent 1]"
+    - section: "[Sections from Agent 2]"
+```
+
+**Best Practice:**
+- Request YAML fragments (just topics/sections lists) rather than full chapter structure
+- Easier to merge multiple fragments into single chapter entry
+- Use Python script or Edit tool for final merge
+
+**When to proactively split:**
+- Any chapter >80 pages: Plan to split from the start
+- Chapters 60-80 pages: Try single agent first, split if it fails
+- Chapters <60 pages: Single agent should work
+
 ---
 
 ## Template Agent Prompt
@@ -477,4 +544,5 @@ Return ONLY the YAML chapter entry, nothing else.
 ---
 
 **Version History:**
+- 1.1 (2026-02-14): Added guidance for handling oversized chapters (>80 pages) requiring multi-part splits
 - 1.0 (2026-02-14): Initial protocol based on Greene-Neptune parallel agentic workflow validation
