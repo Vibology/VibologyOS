@@ -1,7 +1,7 @@
 # Current Work Context
 
-**Last Updated:** 2026-02-13
-**Current Phase:** Library architecture redesign — five-pillar clarity, source texts + correspondences
+**Last Updated:** 2026-02-14
+**Current Phase:** The Ephemeris synthesis system — source metadata indexing and quality baseline
 
 ---
 
@@ -118,12 +118,43 @@ Complete IHDS professional curriculum — Ra Uru Hu / Jovian Archive transcripts
 ## Immediate Next Actions
 
 **Current priority:**
-- **Library Hybrid Architecture - Phase 1 (Foundation)** — Build infrastructure and pilots. Create `source-pdf-map.yml` (map all 199 PDFs), synthesis document template, correspondence table template. Choose and write pilot synthesis document (Saturn / Generator / 4-6 Profile). Create pilot correspondence table (`Saturn-Cross-System.yml`). Test workflow: write → cite → verify PDF opens with highlighted text. See `PLAN - Library Hybrid Architecture.md` for complete implementation plan.
+- **The Ephemeris - Source Metadata Quality Baseline** — Upgrade 7 Tier 2 astrology source metadata files to Tier 1 quality standard using parallel agentic workflow. Priority order: (1) Greene-Saturn, Brennan-Hellenistic, Ptolemy-Tetrabiblos; (2) Greene-Jung-Astrology, Greene-Fate; (3) Valens-Anthologies, Lilly-Christian. Effort: ~3 hours per source, ~21-24 hours total. ROI: Each indexing hour saves 5-10 synthesis hours. See `ASSESSMENT - Source Metadata Quality (2026-02-14).md` for complete analysis and upgrade workflow.
+- ~~**Greene-Neptune source metadata**~~ ✓ COMPLETE (Tier 1: 1000+ topics, comprehensive indexing via parallel workflow)
 - ~~**The Athenaeum acquisition**~~ ✓ COMPLETE (200 source files, Tier 1 & 2 100%)
 
 **Future consideration (not imminent):**
 - Self-hosted AI server (waiting on GPU/RAM price shifts or undeniable necessity)
 - File server provisioning — enables local reference library, Dockerized Cartographer, iCloud backup redundancy
+
+---
+
+## Recent Session Summary (2026-02-14)
+
+### The Ephemeris: Source metadata completion and quality baseline establishment
+- **Greene-Neptune source metadata complete** — Comprehensive Tier 1 indexing via parallel agentic workflow (PROTOCOL v1.1). 448-page source fully indexed: Introduction + 13 chapters, 1000+ topics with high specificity (names, examples, technical terms embedded), 3-5 sentence key_section summaries, cross-chapter topic index, 400+ word synthesis notes. File size: 184K. Total effort: ~3-4 hours across multiple sessions using 3-agent batching strategy.
+- **Protocol enhancement (v1.1)** — Added comprehensive guidance for handling oversized chapters (>80 pages) requiring multi-part agent splits. Documented symptoms ("Prompt is too long" error), causes (agent context overhead + large PDF requirements), and step-by-step split workflow with manual merge instructions. Based on Chapter 11 experience (95 pages → 2 parts → 280+ topics successfully merged).
+- **Quality assessment complete** — Systematic comparison of all 8 Astrology source metadata files against Greene-Neptune baseline. Identified categorical quality gap between Tier 1 (comprehensive synthesis capability) and Tier 2 (orientation tool). Key finding: 90-95% topic density gap — Greene-Neptune averages 60-220+ topics per chapter vs 4-15 in Tier 2 files. Topic specificity transforms from generic ("Saturn in Cancer") to synthesis-ready ("Case study: Meher Baba (Sun square Neptune, Pisces mysticism)").
+- **Quality tiers defined:**
+  - **Tier 1 (Comprehensive):** 60-100+ topics/chapter, high specificity, 3-5 sentence summaries, enables synthesis without re-reading. Example: Greene-Neptune (184K, 1000+ topics).
+  - **Tier 2 (Foundational):** 4-15 topics/chapter, moderate specificity, 1-2 sentence summaries, provides orientation but requires source consultation. Examples: Greene-Saturn, Brennan-Hellenistic, Ptolemy (12-18K files).
+  - **Tier 2- (Basic):** 5-10 topics/chapter, minimal key_sections, requires significant source consultation.
+- **Upgrade roadmap established** — Prioritized systematic upgrade of 7 Tier 2 files to Tier 1 standard:
+  - Priority 1: Greene-Saturn (202p), Brennan-Hellenistic (698p), Ptolemy-Tetrabiblos (116p)
+  - Priority 2: Greene-Jung-Astrology (274p), Greene-Fate (~300p)
+  - Priority 3: Valens-Anthologies (~300p), Lilly-Christian (~800p)
+  - Effort estimate: ~3 hours each, ~21-24 hours total
+  - ROI: Each indexing hour saves 5-10 future synthesis hours
+- **Documentation:**
+  - Created `ASSESSMENT - Source Metadata Quality (2026-02-14).md` — Comprehensive 384-line analysis with quality matrices, detailed comparison across 6 dimensions (topic density, specificity, key sections, metadata completeness, synthesis notes, topic index), tier definitions, and upgrade workflow guidance.
+  - Updated `PROTOCOL - Source Metadata Creation.md` to v1.1 — Added proactive size checking (60-80-80+ page thresholds) and oversized chapter troubleshooting workflow.
+- **Commits:**
+  - `bd923d4` — Complete Greene-Neptune source metadata (all 13 chapters indexed)
+  - `9fd24d3` — Update source metadata protocol v1.1 (oversized chapter guidance)
+  - `3ffb53b` — Add source metadata quality assessment report
+  - `a22d6c0` — Greene-Neptune session progress checkpoint (Chapters 1-10 complete)
+  - `7c0d4d0` — Update Greene-Neptune: Chapters 8-10 complete (Part Three)
+- **The Ephemeris system** — Source metadata infrastructure now established with proven parallel agentic workflow, quality baseline defined, and systematic upgrade path identified. Next phase: Execute Priority 1 upgrades to bring foundational sources (Saturn, Hellenistic, Ptolemy) to Tier 1 standard.
+- Context: Completed work validates PROTOCOL v1.1 as production-ready for comprehensive source indexing. The parallel agentic workflow produces step-function improvement in metadata utility — transforming from finding aid to synthesis engine.
 
 ---
 
@@ -385,6 +416,9 @@ Second audit session resolving all 33 remaining items from the 5-agent parallel 
 
 | Milestone | Date | Scope |
 |-----------|------|-------|
+| Source metadata quality assessment | 2026-02-14 | Compared all 8 Astrology files to Greene-Neptune baseline; defined 4 quality tiers; identified 90-95% topic density gap; prioritized upgrade roadmap |
+| Source Metadata Creation Protocol v1.1 | 2026-02-14 | Added oversized chapter guidance (>80 pages split workflow) based on Chapter 11 experience |
+| Greene-Neptune source metadata complete | 2026-02-14 | Tier 1 comprehensive indexing: 1000+ topics, 13 chapters, parallel agentic workflow validated |
 | Library restructure plan + five-pillar architecture | 2026-02-13 | Decided: Astrology, HD, Personal Mythos, Tarot, Astrolabe (client work). Excluded: Angelology, Magdalene (personal practice). New library: source texts + correspondences, not interpreted entries. |
 | Three-tier Pillar architecture synthesis | 2026-02-12 | Foundational meta-architecture: Portrait / Living Encounter / Practitioner's Discipline |
 | Observatory audit Phase 1-4 | 2026-02-10 | 33 items: concurrency isolation, correctness, 43 new tests, polish, Swift 6 prep |
