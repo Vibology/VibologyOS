@@ -11,10 +11,11 @@
 Transform the Library from interpreted entries to a three-layer hybrid system:
 
 1. **The Athenaeum** — Source PDFs remain as authoritative references (200 files, 1.9 GB)
-2. **Correspondence Tables** — Cross-system Rosetta Stones mapping concepts between pillars
-3. **Synthesis Documents** — Purpose-built contextual content for Observatory with clickable citations to sources
+2. **The Ephemeris** — Working knowledge created from observations, containing:
+   - **Correspondence Tables** — Cross-system Rosetta Stones mapping concepts between pillars
+   - **Synthesis Documents** — Purpose-built contextual content for Observatory with clickable citations
 
-**The Observatory Principle Preserved:** Users look through original instruments (PDFs) while synthesis provides navigation and cross-referencing.
+**The Observatory Principle Preserved:** Users look through original instruments (The Athenaeum) while working documents (The Ephemeris) provide navigation, calculations, and cross-referencing — just as astronomers use ephemerides to navigate the heavens observed through their telescopes.
 
 ---
 
@@ -29,42 +30,43 @@ Transform the Library from interpreted entries to a three-layer hybrid system:
   Interdisciplinary/ (2 PDFs)
 
 ~/VibologyOS/Library/
-  Correspondence Tables/               # Cross-system mappings (YAML)
-    Master-Rosetta-Stone.yml
-    Saturn-Cross-System.yml
-    Planets-to-Gates.yml
-    Tarot-to-Qabalah.yml
-    [50-100 total tables]
+  The Ephemeris/                       # Working knowledge from observations
+    Correspondence Tables/             # Cross-system mappings (YAML)
+      Master-Rosetta-Stone.yml
+      Saturn-Cross-System.yml
+      Planets-to-Gates.yml
+      Tarot-to-Qabalah.yml
+      [50-100 total tables]
 
-  Synthesis/                           # Observatory contextual content (Markdown)
-    Astrology/
-      Planets/
-        Saturn.md
-        Jupiter.md
-      Signs/
-        Aries.md
-      Houses/
-        Fourth-House.md
-    Human Design/
-      Types/
-        Generator.md
-      Profiles/
-        4-6-Opportunist-Role-Model.md
-      Gates/
-        Gate-60-Limitation.md
-      Centers/
-        Solar-Plexus.md
-    Personal Mythos/
-      Archetypes/
-        Shadow.md
-        Hero.md
-    The Tarot/
-      Major-Arcana/
-        The-Devil.md
-        The-World.md
-      Sephiroth/
-        Binah.md
-    [100-200 total synthesis documents]
+    Synthesis/                         # Observatory contextual content (Markdown)
+      Astrology/
+        Planets/
+          Saturn.md
+          Jupiter.md
+        Signs/
+          Aries.md
+        Houses/
+          Fourth-House.md
+      Human Design/
+        Types/
+          Generator.md
+        Profiles/
+          4-6-Opportunist-Role-Model.md
+        Gates/
+          Gate-60-Limitation.md
+        Centers/
+          Solar-Plexus.md
+      Personal Mythos/
+        Archetypes/
+          Shadow.md
+          Hero.md
+      The Tarot/
+        Major-Arcana/
+          The-Devil.md
+          The-World.md
+        Sephiroth/
+          Binah.md
+      [100-200 total synthesis documents]
 ```
 
 ---
@@ -112,9 +114,17 @@ Crowley-Thoth: "~/Athenaeum/The Tarot/Aleister Crowley - Book of Thoth.pdf"
 
 ---
 
-## Layer 2: Correspondence Tables (Rosetta Stones)
+## Layer 2: The Ephemeris
 
-**Location:** `Library/Correspondence Tables/`
+**Location:** `Library/The Ephemeris/`
+
+The Ephemeris contains the working knowledge created from observations — both tabular calculations (Correspondence Tables) and interpretive text (Synthesis Documents). Like astronomical ephemerides that contain both numerical tables and explanatory notes, The Ephemeris holds both structured mappings and narrative understanding.
+
+---
+
+### Correspondence Tables (Rosetta Stones)
+
+**Location:** `Library/The Ephemeris/Correspondence Tables/`
 **Format:** YAML (machine-readable, structured)
 **Purpose:** Map concepts across the five pillars
 
@@ -183,9 +193,9 @@ saturn:
 
 ---
 
-## Layer 3: Synthesis Documents (Observatory Content)
+### Synthesis Documents (Observatory Content)
 
-**Location:** `Library/Synthesis/`
+**Location:** `Library/The Ephemeris/Synthesis/`
 **Format:** Markdown with clickable source citations
 **Purpose:** Contextual content displayed when user clicks concepts in Observatory
 
