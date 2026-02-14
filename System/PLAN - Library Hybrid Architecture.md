@@ -22,14 +22,14 @@ Transform the Library from interpreted entries to a three-layer hybrid system:
 ## Architecture Overview
 
 ```
-~/Athenaeum/                           # Source PDFs (authoritative)
-  Astrology/ (8 PDFs)
-  Human Design/ (75 PDFs)
-  Personal Mythos/ (47 PDFs)
-  The Tarot/ (67 PDFs)
-  Interdisciplinary/ (2 PDFs)
+~/VibologyOS/
+  The Athenaeum/                       # Source PDFs (authoritative, gitignored)
+    Astrology/ (8 PDFs)
+    Human Design/ (75 PDFs)
+    Personal Mythos/ (47 PDFs)
+    The Tarot/ (67 PDFs)
+    Interdisciplinary/ (2 PDFs)
 
-~/VibologyOS/Library/
   The Ephemeris/                       # Working knowledge from observations
     Correspondence Tables/             # Cross-system mappings (YAML)
       Master-Rosetta-Stone.yml
@@ -73,8 +73,9 @@ Transform the Library from interpreted entries to a three-layer hybrid system:
 
 ## Layer 1: The Athenaeum (Source PDFs)
 
-**Location:** `~/Athenaeum/`
-**Status:** ✓ Complete (200 files, Tier 1 & 2 acquisitions 100%)
+**Location:** `~/VibologyOS/The Athenaeum/`
+**Git Status:** Excluded via `.gitignore` (1.9 GB, user-managed backups to iCloud)
+**Acquisition Status:** ✓ Complete (200 files, Tier 1 & 2 100%)
 
 ### Current Holdings
 
@@ -104,11 +105,11 @@ Transform the Library from interpreted entries to a three-layer hybrid system:
 
 ```yaml
 # Maps short names to full paths for Observatory
-Greene-Saturn: "~/Athenaeum/Astrology/Liz Greene - Saturn - A New Look at an Old Devil.pdf"
-Greene-Neptune: "~/Athenaeum/Astrology/Liz Greene - The Astrological Neptune and the Quest for Redemption.pdf"
-IHDS-Rave-ABC: "~/Athenaeum/Human Design/Foundations/IHDS - Rave ABC - Level 1.pdf"
-IHDS-LYD: "~/Athenaeum/Human Design/Foundations/IHDS - Living Your Design Student Manual.pdf"
-Crowley-Thoth: "~/Athenaeum/The Tarot/Aleister Crowley - Book of Thoth.pdf"
+Greene-Saturn: "~/VibologyOS/The Athenaeum/Astrology/Liz Greene - Saturn - A New Look at an Old Devil.pdf"
+Greene-Neptune: "~/VibologyOS/The Athenaeum/Astrology/Liz Greene - The Astrological Neptune and the Quest for Redemption.pdf"
+IHDS-Rave-ABC: "~/VibologyOS/The Athenaeum/Human Design/Foundations/IHDS - Rave ABC - Level 1.pdf"
+IHDS-LYD: "~/VibologyOS/The Athenaeum/Human Design/Foundations/IHDS - Living Your Design Student Manual.pdf"
+Crowley-Thoth: "~/VibologyOS/The Athenaeum/The Tarot/Aleister Crowley - Book of Thoth.pdf"
 # [Add all 199 PDFs]
 ```
 
@@ -116,7 +117,7 @@ Crowley-Thoth: "~/Athenaeum/The Tarot/Aleister Crowley - Book of Thoth.pdf"
 
 ## Layer 2: The Ephemeris
 
-**Location:** `Library/The Ephemeris/`
+**Location:** `~/VibologyOS/The Ephemeris/`
 
 The Ephemeris contains the working knowledge created from observations — both tabular calculations (Correspondence Tables) and interpretive text (Synthesis Documents). Like astronomical ephemerides that contain both numerical tables and explanatory notes, The Ephemeris holds both structured mappings and narrative understanding.
 
@@ -124,7 +125,7 @@ The Ephemeris contains the working knowledge created from observations — both 
 
 ### Correspondence Tables (Rosetta Stones)
 
-**Location:** `Library/The Ephemeris/Correspondence Tables/`
+**Location:** `~/VibologyOS/The Ephemeris/Correspondence Tables/`
 **Format:** YAML (machine-readable, structured)
 **Purpose:** Map concepts across the five pillars
 
@@ -195,7 +196,7 @@ saturn:
 
 ### Synthesis Documents (Observatory Content)
 
-**Location:** `Library/The Ephemeris/Synthesis/`
+**Location:** `~/VibologyOS/The Ephemeris/Synthesis/`
 **Format:** Markdown with clickable source citations
 **Purpose:** Contextual content displayed when user clicks concepts in Observatory
 
