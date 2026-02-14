@@ -41,31 +41,39 @@ The five pillars are **universal symbolic languages** with collective shared mea
 **Special case:**
 - **The Astrolabe** requires no source text conversion — our synthesis work IS the source text (fully original pillar).
 
-### Visual Identity: The Five Platonic Solids
+### Visual Identity: The Dodecahedron
 
-The five pillars are represented by the **Five Platonic Solids** — the complete set of regular convex polyhedra (tetrahedron, cube, octahedron, dodecahedron, icosahedron).
+**Symbol:** The **dodecahedron** — the most complex of the five Platonic solids, with twelve pentagonal faces.
 
-**Why these symbols:**
-- **Mathematical completeness** — Exactly five regular solids exist; no sixth is possible (proven mathematically)
-- **Foundational structures** — The basic geometric vocabulary of three-dimensional space
-- **Symbolic resonance** — Ancient association with elements (Plato's *Timaeus*), appear throughout nature and sacred geometry
-- **Visual distinction** — Each solid has unique, recognizable silhouette
+**Why the dodecahedron:**
+- **Platonic resonance** — Plato associated the dodecahedron with the cosmos itself in *Timaeus* ("the god used it for the whole universe")
+- **Completeness through complexity** — The most intricate regular polyhedron; embodies wholeness through multiplicity
+- **Sacred geometry** — Pentagon/phi relationships throughout structure; appears in natural forms (pyrite crystals, radiolarians)
+- **Visual distinction** — Unmistakable silhouette; reads clearly at any scale
+- **Five-fold symmetry** — Pentagon-based structure subtly echoes the five-pillar framework
 
 **Visual style:**
-- Wireframe with dashed hidden lines (technical/architectural drawing aesthetic)
-- Clean line art showing complete geometric structure
-- Isometric/orthographic projection revealing multiple faces
-- "Blueprint" rather than "icon" — shows the full instrument, not just facade
+- Wireframe with visible and hidden edges distinguished
+- Thick strokes on front-facing edges (visible structure)
+- Thinner dotted lines on hidden edges (dimensional depth)
+- Isometric projection revealing geometric complexity
+- "Blueprint" aesthetic — shows the complete instrument, not simplified icon
+
+**Iridescent gradient (brand colors):**
+- Vertical linear gradient: Cyan `#9DD8F7` (0%) → Lavender `#B8A5E5` (35%) → Pearl `#E8F5FF` (100%)
+- Applied to both fill and stroke for unified appearance
+- Safari-compatible hue-shift animation on interactive elements
 
 **Brand application:**
-```
-        VIBOLOGY
-    ─────────────
-    △  ◇  ◈  ▢  ⬟
-   (Five Platonic solids as geometric icons)
-```
+- Combined logo (dodecahedron + "Vibology" wordmark)
+- Website favicon and social media avatar
+- Observatory app icon
+- Client report headers
+- Business cards and stationery
 
-Suitable for website headers, business cards, report section markers, Observatory app icon, client-facing materials.
+**Files:**
+- `/Users/joe/Business/Branding/Logo/icon-iridescent.svg` — Standalone dodecahedron (1600×1600)
+- `/Users/joe/Business/Branding/Logo/logo-combined.svg` — Combined with wordmark
 
 ---
 
